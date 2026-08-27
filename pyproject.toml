@@ -45,6 +45,4 @@ testpaths = ["tests"]
 addopts = "--cov=zenodo_bibtex --cov=tests --cov-report=term-missing"
 
 [dependency-groups]
-# tox and tox-uv are here so `uv run tox` works as the README documents;
-# tox.ini's `requires = tox-uv` only declares the plugin, it does not install it.
-dev = ["pytest", "pytest-cov", "tox", "tox-uv"]
+dev = ["pytest", "pytest-cov"]
