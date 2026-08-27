@@ -148,11 +148,15 @@ Regenerating requires a token and hits the network.
 - [Content negotiation / representations](https://developers.zenodo.org/#representation)
 - [Rate limiting](https://developers.zenodo.org/#rate-limiting)
 
-## LLM Disclosure
+## License
 
-This package was developed using an LLM to solve a one-off problem.
-The structured data and open source reference implementation provide reasonable
-confidence in the correctness, as does the [diff][] produced.
-Nevertheless, the code has not been audited by a human.
+This code is released as MIT-0 (no attribution required).
+The MIT-licensed https://github.com/inveniosoftware/invenio-rdm-records
+was consulted extensively to generate this utility.
 
-[diff]: https://github.com/effigies/curriculum_vitae/commit/33ae8b1b05704ff24153716d0ec36a4fa0b33d62#diff-710c6c4de9ceedf4f48cf224a90debfdc9fd9343938ec0e11b3d8fa412958268
+### LLM Disclosure
+
+This package was developed with the use of a large language model (LLM),
+and may not be copyrightable in all jurisdictions.
+
+The code has not been audited by a human, only its outputs.
