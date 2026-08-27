@@ -1,0 +1,2274 @@
+{
+  "id": "18333008",
+  "created": "2026-01-28T18:44:40.247655+00:00",
+  "updated": "2026-02-11T13:55:18.658307+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/18333008",
+    "self_html": "https://zenodo.org/records/18333008",
+    "preview_html": "https://zenodo.org/records/18333008?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.18333008",
+    "self_doi": "https://doi.org/10.5281/zenodo.18333008",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18333008",
+    "reserve_doi": "https://zenodo.org/api/records/18333008/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/18333007",
+    "parent_html": "https://zenodo.org/records/18333007",
+    "parent_doi": "https://doi.org/10.5281/zenodo.18333007",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18333007",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18333008/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18333008/sequence/default",
+    "files": "https://zenodo.org/api/records/18333008/files",
+    "media_files": "https://zenodo.org/api/records/18333008/media-files",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:18333008:SfN-2025_Poster-DataStandards.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:18333008:SfN-2025_Poster-DataStandards.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:18333008:SfN-2025_Poster-DataStandards.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:18333008:SfN-2025_Poster-DataStandards.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:18333008:SfN-2025_Poster-DataStandards.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:18333008:SfN-2025_Poster-DataStandards.pdf/full/%5E1200,/0/default.jpg"
+    },
+    "archive": "https://zenodo.org/api/records/18333008/files-archive",
+    "archive_media": "https://zenodo.org/api/records/18333008/media-files-archive",
+    "latest": "https://zenodo.org/api/records/18333008/versions/latest",
+    "latest_html": "https://zenodo.org/records/18333008/latest",
+    "versions": "https://zenodo.org/api/records/18333008/versions",
+    "draft": "https://zenodo.org/api/records/18333008/draft",
+    "access_links": "https://zenodo.org/api/records/18333008/access/links",
+    "access_grants": "https://zenodo.org/api/records/18333008/access/grants",
+    "access_users": "https://zenodo.org/api/records/18333008/access/users",
+    "access_request": "https://zenodo.org/api/records/18333008/access/request",
+    "access": "https://zenodo.org/api/records/18333008/access",
+    "communities": "https://zenodo.org/api/records/18333008/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/18333008/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/18333008/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/18333008/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/18333008/quota-increase",
+    "requests": "https://zenodo.org/api/records/18333008/requests"
+  },
+  "revision_id": 10,
+  "parent": {
+    "id": "18333007",
+    "access": {
+      "owned_by": {
+        "user": "3931"
+      },
+      "settings": {
+        "allow_user_requests": false,
+        "allow_guest_requests": false,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {
+      "ids": [
+        "15427ee2-36d5-42c0-88fc-de8adb5e217d",
+        "f0a8b890-f97a-4eb2-9eac-8b8a712d3a6c"
+      ],
+      "default": "15427ee2-36d5-42c0-88fc-de8adb5e217d",
+      "entries": [
+        {
+          "id": "15427ee2-36d5-42c0-88fc-de8adb5e217d",
+          "created": "2018-03-19T13:03:38.384220+00:00",
+          "updated": "2018-03-20T13:24:48.196247+00:00",
+          "links": {},
+          "revision_id": 0,
+          "slug": "con",
+          "metadata": {
+            "title": "Center for Open Neuroscience"
+          },
+          "access": {
+            "visibility": "public",
+            "members_visibility": "public",
+            "member_policy": "closed",
+            "record_submission_policy": "open",
+            "review_policy": "closed"
+          },
+          "deletion_status": {
+            "is_deleted": false,
+            "status": "P"
+          },
+          "children": {
+            "allow": false
+          }
+        },
+        {
+          "id": "f0a8b890-f97a-4eb2-9eac-8b8a712d3a6c",
+          "created": "2022-11-23T15:53:29.436323+00:00",
+          "updated": "2026-08-17T14:29:01.587911+00:00",
+          "links": {},
+          "revision_id": 28,
+          "slug": "eu",
+          "metadata": {
+            "title": "EU Open Research Repository",
+            "type": {
+              "id": "organization",
+              "title": {
+                "de": "Organisation",
+                "en": "Organization"
+              }
+            },
+            "website": "https://research-and-innovation.ec.europa.eu",
+            "organizations": [
+              {
+                "id": "00k4n6c32",
+                "name": "European Commission",
+                "identifiers": [
+                  {
+                    "identifier": "00k4n6c32",
+                    "scheme": "ror"
+                  },
+                  {
+                    "identifier": "grid.270680.b",
+                    "scheme": "grid"
+                  },
+                  {
+                    "identifier": "0000 0001 2290 4914",
+                    "scheme": "isni"
+                  }
+                ]
+              }
+            ]
+          },
+          "access": {
+            "visibility": "public",
+            "members_visibility": "public",
+            "member_policy": "closed",
+            "record_submission_policy": "open",
+            "review_policy": "closed"
+          },
+          "theme": {
+            "style": {
+              "font": {
+                "size": "16px",
+                "family": "Arial, sans-serif",
+                "weight": 600
+              },
+              "primaryColor": "#004494",
+              "secondaryColor": "#FFD617",
+              "tertiaryColor": "#e3eefd",
+              "primaryTextColor": "#FFFFFF",
+              "secondaryTextColor": "#000000",
+              "tertiaryTextColor": "#1c5694",
+              "mainHeaderBackgroundColor": "#FFFFFF"
+            },
+            "brand": "horizon",
+            "enabled": true
+          },
+          "deletion_status": {
+            "is_deleted": false,
+            "status": "P"
+          },
+          "children": {
+            "allow": true
+          }
+        }
+      ]
+    },
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.18333007",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 1
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.18333008",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:18333008",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "poster",
+      "title": {
+        "de": "Poster",
+        "en": "Poster"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Rübel, Oliver",
+          "given_name": "Oliver",
+          "family_name": "Rübel",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-9902-1984",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "contactperson",
+          "title": {
+            "de": "Kontaktperson",
+            "en": "Contact person"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Lawrence Berkeley National Laboratory"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Baker, Cody C.",
+          "given_name": "Cody C.",
+          "family_name": "Baker",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-0829-4790",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Dartmouth College"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Boline, Jyl",
+          "given_name": "Jyl",
+          "family_name": "Boline",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-5232-8364",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Informed Minds Inc."
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Bouchard, Kristofer",
+          "given_name": "Kristofer",
+          "family_name": "Bouchard",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-1974-4603",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Informed Minds Inc."
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Davison, Andrew P.",
+          "given_name": "Andrew P.",
+          "family_name": "Davison"
+        },
+        "affiliations": [
+          {
+            "name": "Université Paris-Saclay"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "de Vries, Saskia",
+          "given_name": "Saskia",
+          "family_name": "de Vries"
+        },
+        "affiliations": [
+          {
+            "name": "Allen Institute for Neural Dynamics"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Dichter, Ben",
+          "given_name": "Ben",
+          "family_name": "Dichter",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-5725-6910",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "CatalystNeuro"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Fedorov, Andrey",
+          "given_name": "Andrey",
+          "family_name": "Fedorov",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-4806-9413",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Brigham and Women's Hospital"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Ghosh, Satrajit S.",
+          "given_name": "Satrajit S.",
+          "family_name": "Ghosh",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-5312-6729",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Massachusetts Institute of Technology"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gillespie, Tom",
+          "given_name": "Tom",
+          "family_name": "Gillespie"
+        },
+        "affiliations": [
+          {
+            "name": "University of California San Diego"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Grethe, Jeffrey S.",
+          "given_name": "Jeffrey S.",
+          "family_name": "Grethe",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-5212-7052",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University of California San Diego"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Guittari, Nicole",
+          "given_name": "Nicole",
+          "family_name": "Guittari",
+          "identifiers": [
+            {
+              "identifier": "0009-0007-9279-8855",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Johns Hopkins University Applied Physics Laboratory"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Hatton, Sean N.",
+          "given_name": "Sean N.",
+          "family_name": "Hatton"
+        },
+        "affiliations": [
+          {
+            "name": "University of California San Diego"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Johnson, Erik",
+          "given_name": "Erik",
+          "family_name": "Johnson"
+        },
+        "affiliations": [
+          {
+            "name": "Johns Hopkins University Applied Physics Laboratory"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Keator, David",
+          "given_name": "David",
+          "family_name": "Keator",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-5281-5576",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University of California Irvine"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Kennedy, David N.",
+          "given_name": "David N.",
+          "family_name": "Kennedy",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-9377-0797",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University of Massachusetts Chan Medical School"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Ly, Ryan",
+          "given_name": "Ryan",
+          "family_name": "Ly",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-9238-0642",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Informed Minds Inc."
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Markiewicz, Christopher J.",
+          "given_name": "Christopher J.",
+          "family_name": "Markiewicz",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6533-164X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Stanford University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Najafi, Peyman",
+          "given_name": "Peyman",
+          "family_name": "Najafi",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-1746-3995",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Université Paris-Saclay"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Nichols, Stephen",
+          "given_name": "Stephen",
+          "family_name": "Nichols"
+        },
+        "affiliations": [
+          {
+            "name": "GE HealthCare"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Pestilli, Franco",
+          "given_name": "Franco",
+          "family_name": "Pestilli",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-2469-0494",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "The University of Texas at Austin"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Poline, Jean-Baptiste",
+          "given_name": "Jean-Baptiste",
+          "family_name": "Poline",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-9794-749X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "McGill University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Prince, Samuel",
+          "given_name": "Samuel",
+          "family_name": "Prince"
+        },
+        "affiliations": [
+          {
+            "name": "Lawrence Berkeley National Laboratory"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Robbins, Kay A.",
+          "given_name": "Kay A.",
+          "family_name": "Robbins"
+        },
+        "affiliations": [
+          {
+            "name": "University of Texas at San Antonio"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Rorden, Chris",
+          "given_name": "Chris",
+          "family_name": "Rorden",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-7554-6142",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University of South Carolina"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Kline Struhl, Melissa",
+          "given_name": "Melissa",
+          "family_name": "Kline Struhl",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-2217-9331",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Massachusetts Institute of Technology"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Tregoning, Nile E.S.",
+          "given_name": "Nile E.S.",
+          "family_name": "Tregoning"
+        },
+        "affiliations": [
+          {
+            "name": "Johns Hopkins University Applied Physics Laboratory"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Tyson, Adam L.",
+          "given_name": "Adam L.",
+          "family_name": "Tyson",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3225-1130",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University College London"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Wachtler, Thomas",
+          "given_name": "Thomas",
+          "family_name": "Wachtler"
+        },
+        "affiliations": [
+          {
+            "name": "Ludwig-Maximilians-Universität München"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Wester, Brock",
+          "given_name": "Brock",
+          "family_name": "Wester",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-1500-2143",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Johns Hopkins University Applied Physics Laboratory"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Yi, Helen",
+          "given_name": "Helen",
+          "family_name": "Yi"
+        },
+        "affiliations": [
+          {
+            "name": "Johns Hopkins University Applied Physics Laboratory"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Zehl, Lyuba",
+          "given_name": "Lyuba",
+          "family_name": "Zehl",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-5947-9939",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "EBRAINS AISBL"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Zhuang, Kaiwen",
+          "given_name": "Kaiwen",
+          "family_name": "Zhuang",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-1376-6385",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Lawrence Berkeley National Laboratory"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Halchenko, Yaroslav",
+          "given_name": "Yaroslav",
+          "family_name": "Halchenko",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3456-2493",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "contactperson",
+          "title": {
+            "de": "Kontaktperson",
+            "en": "Contact person"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Dartmouth College"
+          }
+        ]
+      }
+    ],
+    "title": "The Ecosystem of Standards in Neuroscience: Which Ones Are For You?",
+    "publisher": "Zenodo",
+    "publication_date": "2025-11-11",
+    "subjects": [
+      {
+        "subject": "neuroscience"
+      },
+      {
+        "subject": "data standards"
+      },
+      {
+        "subject": "FAIR data"
+      },
+      {
+        "subject": "neurophysiology"
+      },
+      {
+        "subject": "neuroimaging"
+      },
+      {
+        "subject": "BIDS"
+      },
+      {
+        "subject": "NWB"
+      },
+      {
+        "subject": "data sharing"
+      },
+      {
+        "subject": "research data management"
+      },
+      {
+        "subject": "BBQS"
+      },
+      {
+        "subject": "BRAIN Initiative"
+      }
+    ],
+    "languages": [
+      {
+        "id": "eng",
+        "title": {
+          "en": "English"
+        }
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "10.1016/j.neuron.2021.11.017",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "references",
+          "title": {
+            "de": "Referenziert",
+            "en": "References"
+          }
+        },
+        "resource_type": {
+          "id": "publication-article",
+          "title": {
+            "de": "Zeitschriftenartikel",
+            "en": "Journal article"
+          }
+        }
+      },
+      {
+        "identifier": "10.3389/fninf.2023.1276407",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "references",
+          "title": {
+            "de": "Referenziert",
+            "en": "References"
+          }
+        },
+        "resource_type": {
+          "id": "publication-article",
+          "title": {
+            "de": "Zeitschriftenartikel",
+            "en": "Journal article"
+          }
+        }
+      },
+      {
+        "identifier": "10.1038/s41597-023-02614-0",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "references",
+          "title": {
+            "de": "Referenziert",
+            "en": "References"
+          }
+        },
+        "resource_type": {
+          "id": "publication-article",
+          "title": {
+            "de": "Zeitschriftenartikel",
+            "en": "Journal article"
+          }
+        }
+      },
+      {
+        "identifier": "10.1162/imag_a_00103",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "references",
+          "title": {
+            "de": "Referenziert",
+            "en": "References"
+          }
+        },
+        "resource_type": {
+          "id": "publication-article",
+          "title": {
+            "de": "Zeitschriftenartikel",
+            "en": "Journal article"
+          }
+        }
+      },
+      {
+        "identifier": "10.7554/eLife.78362",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "references",
+          "title": {
+            "de": "Referenziert",
+            "en": "References"
+          }
+        },
+        "resource_type": {
+          "id": "publication-article",
+          "title": {
+            "de": "Zeitschriftenartikel",
+            "en": "Journal article"
+          }
+        }
+      }
+    ],
+    "version": "0.20251111.1",
+    "rights": [
+      {
+        "id": "cc-by-4.0",
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        },
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "The neuroscience community has witnessed a proliferation of data standards aimed at enhancing reproducibility, data sharing, and collaboration. However, this abundance creates challenges for researchers navigating which standards to adopt. This presentation provides an overview of the current ecosystem of neuroscience data standards, their interrelationships, and practical implementation guidance.\nWe will survey established data standards for (i) storing and transmitting data, such as DICOM for neuroimaging, NWB for neurophysiological recordings, and OME-NGFF/-Zarr for microscopy images, (ii) for managing entire study datasets, such as BIDS, (iii) modality specific additional annotation of data, such as HED, and (iv) metadata model for integration and searchability in database systems, such as openMINDS and NIDM. We will also overview related tooling interface standards, such as BIDS-Apps and Boutiques. For each standard, we will outline scope, primary data domains, implementation requirements, community adoption, extension mechanisms, and integration with other standards, analysis pipelines, and platforms.This presentation aims to demystify the neuroscience standards landscape, empowering researchers to make informed choices about data management practices that enhance scientific reproducibility and collaboration. The presentation will map relationships between these standards and major data repositories, including DANDI, EMBER, NEMAR, OpenNeuro, SPARC, EBRAINS, BRAINLIFE, GIN, and others. We will highlight how these repositories and organizations like INCF promote, extend and enforce use of standards, while discussing their critical importance to ongoing initiatives such as the Brain Behavioral Quantification and Synchronization (BBQS) and BRAIN Connectivity Across Scales (BRAIN CONNECTS). We will conclude with practical decision-making guidance for researchers to help identify which standards best suit specific research needs. Case studies will demonstrate how laboratories have successfully implemented combinations of standards to enhance their research workflows and facilitate data sharing.",
+    "additional_descriptions": [
+      {
+        "description": "Grants:\nNational Institutes of Health (NIH) NIH 1U24MH136628: NIH #1U24MH136628 BBQS AI Resource and Data Coordinating Center (BARD.CC)\nNational Institutes of Health (NIH) NIH 1R24MH117295: NIH #1R24MH117295 DANDI: Distributed Archives for Neurophysiology Data Integration\nNational Institutes of Health (NIH) NIH 2R24DA064430: NIH #2R24DA064430 EMBER: Ecosystem for Multimodal Brain-behavior Experimentation and Research\nNational Institutes of Health (NIH) NIH 2R24MH117179-06: NIH #2R24MH117179-06 OpenNeuro: An open archive for analysis and sharing of BRAIN Initiative data\nNational Institutes of Health (NIH) NIH 1RF1MH132747-01: NIH #1RF1MH132747-01 Psych-DS: A FAIR data standard for behavioral datasets\nNational Institutes of Health (NIH) NIH 3OT2OD030541: NIH #3OT2OD030541 K-CORE: Curation and Knowledge Management for SPARC\nNational Institutes of Health (NIH) NIH U24NS120057: NIH #U24NS120057 Advancing Standardization of Neurophysiology Data Through Dissemination of NWB\nNational Institutes of Health (NIH) NIH U24NS140384: NIH #U24NS140384 BRAIN CONNECTS: The Axonal Projectome EXchange (APEX)\nNational Institutes of Health (NIH) NIH R01MH126699: NIH #R01MH126699 A community-driven development of the brain imaging data standard (BIDS) to describe macroscopic brain connections\nNational Institutes of Health (NIH) NIH UM1NS132207: NIH #UM1NS132207 BRAIN CONNECTS: Center for Mesoscale Connectomics\nEuropean Commission 101147319: European Union's Research and Innovation Program Horizon Europe under Grant Agreement No. 101147319 (EBRAINS 2.0, openMINDS)\nNational Institutes of Health (NIH) NIH RF1MH133701: NIH #RF1MH133701 Extending ezBIDS, NiiVue and dcm2niix for user-friendly cloud-based integration and visualization\nNational Institutes of Health (NIH) NIH R24MH114785: NIH #R24MH114785 BossDB: Brain Observatory Storage Service and Database",
+        "type": {
+          "id": "notes",
+          "title": {
+            "de": "Anmerkungen",
+            "en": "Notes"
+          }
+        }
+      }
+    ],
+    "funding": [
+      {
+        "funder": {
+          "id": "01cwqze88",
+          "name": "National Institutes of Health"
+        },
+        "award": {
+          "id": "01cwqze88::1U24MH136628-01",
+          "number": "1U24MH136628-01",
+          "title": {
+            "en": "BBQS AI Resource and Data Coordinating Center (BARD.CC)"
+          }
+        }
+      },
+      {
+        "funder": {
+          "id": "01cwqze88",
+          "name": "National Institutes of Health"
+        },
+        "award": {
+          "id": "01cwqze88::2R24MH117295-06",
+          "number": "2R24MH117295-06",
+          "title": {
+            "en": "DANDI: Distributed Archives for Neurophysiology Data Integration"
+          }
+        }
+      },
+      {
+        "funder": {
+          "id": "01cwqze88",
+          "name": "National Institutes of Health"
+        },
+        "award": {
+          "id": "01cwqze88::1R24MH136632-01",
+          "number": "1R24MH136632-01",
+          "title": {
+            "en": "Ecosystem for Multi-modal Brain-behavior Experimentation and Research (EMBER)"
+          }
+        }
+      },
+      {
+        "funder": {
+          "id": "01cwqze88",
+          "name": "National Institutes of Health"
+        },
+        "award": {
+          "id": "01cwqze88::2R24MH117179-06",
+          "number": "2R24MH117179-06",
+          "title": {
+            "en": "OpenNeuro: An open archive for analysis and sharing of BRAIN Initiative data"
+          },
+          "program": "NATIONAL_INSTITUTE_OF_MENTAL_HEALTH"
+        }
+      },
+      {
+        "funder": {
+          "id": "01cwqze88",
+          "name": "National Institutes of Health"
+        },
+        "award": {
+          "id": "01cwqze88::1RF1MH132747-01",
+          "number": "1RF1MH132747-01",
+          "title": {
+            "en": "Psych-DS: A FAIR data standard for behavioral datasets"
+          },
+          "program": "NATIONAL_INSTITUTE_OF_MENTAL_HEALTH"
+        }
+      },
+      {
+        "funder": {
+          "id": "00k4n6c32",
+          "name": "European Commission"
+        },
+        "award": {
+          "id": "00k4n6c32::101147319",
+          "number": "101147319",
+          "title": {
+            "en": "EBRAINS 2.0: A Research Infrastructure to Advance Neuroscience and Brain Health"
+          },
+          "identifiers": [
+            {
+              "identifier": "https://cordis.europa.eu/projects/101147319",
+              "scheme": "url"
+            },
+            {
+              "identifier": "10.3030/101147319",
+              "scheme": "doi"
+            }
+          ],
+          "acronym": "EBRAINS 2.0",
+          "program": "HORIZON.1.3"
+        }
+      },
+      {
+        "funder": {
+          "id": "01cwqze88",
+          "name": "National Institutes of Health"
+        },
+        "award": {
+          "id": "01cwqze88::3OT2OD030541-01S5",
+          "number": "3OT2OD030541-01S5",
+          "title": {
+            "en": "K-CORE: Curation and Knowledge Management for SPARC"
+          }
+        }
+      },
+      {
+        "funder": {
+          "id": "01cwqze88",
+          "name": "National Institutes of Health"
+        },
+        "award": {
+          "id": "01cwqze88::5U24NS120057-04",
+          "number": "5U24NS120057-04",
+          "title": {
+            "en": "Advancing Standardization of Neurophysiology Data Through Dissemination of NWB"
+          }
+        }
+      },
+      {
+        "funder": {
+          "id": "01cwqze88",
+          "name": "National Institutes of Health"
+        },
+        "award": {
+          "id": "01cwqze88::1RF1MH133701-01",
+          "number": "1RF1MH133701-01",
+          "title": {
+            "en": "Extending ezBIDS, NiiVue and dcm2niix for user-friendly cloud-based integration and visualization"
+          },
+          "program": "NATIONAL_INSTITUTE_OF_MENTAL_HEALTH"
+        }
+      },
+      {
+        "funder": {
+          "id": "01cwqze88",
+          "name": "National Institutes of Health"
+        },
+        "award": {
+          "id": "01cwqze88::1R01MH126699-01",
+          "number": "1R01MH126699-01",
+          "title": {
+            "en": "A community-driven development of the brain imaging data standard (BIDS) to describe macroscopic brain connections"
+          },
+          "program": "NATIONAL_INSTITUTE_OF_MENTAL_HEALTH"
+        }
+      },
+      {
+        "funder": {
+          "id": "01cwqze88",
+          "name": "National Institutes of Health"
+        },
+        "award": {
+          "id": "01cwqze88::5UM1NS132207-02",
+          "number": "5UM1NS132207-02",
+          "title": {
+            "en": "BRAIN CONNECTS: Center for Mesoscale Connectomics"
+          }
+        }
+      },
+      {
+        "funder": {
+          "id": "01cwqze88",
+          "name": "National Institutes of Health"
+        },
+        "award": {
+          "id": "01cwqze88::2R24MH114785-06",
+          "number": "2R24MH114785-06",
+          "title": {
+            "en": "Boss: A cloud-based data archive for electron microscopy and x-ray microtomography"
+          },
+          "program": "NATIONAL_INSTITUTE_OF_MENTAL_HEALTH"
+        }
+      }
+    ]
+  },
+  "custom_fields": {
+    "meeting:meeting": {
+      "acronym": "SfN",
+      "dates": "15-19 November, 2025",
+      "place": "San Diego",
+      "session_part": "PSTR477.19/VV15",
+      "session": "J.07. Data Analysis and Statistics",
+      "title": "Society for Neuroscience (SfN) annual meeting, Neuroscience 2025",
+      "url": "https://www.sfn.org/meetings/neuroscience-2025"
+    },
+    "legacy:communities": [
+      "con"
+    ],
+    "legacy:subjects": [
+      {
+        "term": "Neuroscience",
+        "scheme": "keyword"
+      },
+      {
+        "term": "Data Science",
+        "scheme": "keyword"
+      },
+      {
+        "term": "Research Data Management",
+        "scheme": "keyword"
+      }
+    ]
+  },
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 2,
+    "total_bytes": 19424258,
+    "entries": {
+      "SfN-2025_Poster-DataStandards.pdf": {
+        "id": "78a8fec9-b243-4d42-b1d6-4057cda0b68a",
+        "checksum": "md5:0899170119f80f795038e00b4b99938e",
+        "ext": "pdf",
+        "size": 13199379,
+        "mimetype": "application/pdf",
+        "key": "SfN-2025_Poster-DataStandards.pdf",
+        "metadata": {
+          "width": 5184,
+          "height": 3456
+        },
+        "access": {
+          "hidden": false
+        }
+      },
+      "SfN-2025_Poster-DataStandards.jpg": {
+        "id": "29f16a59-e8a9-43c1-a775-7b0f0f4fc70d",
+        "checksum": "md5:434e88d8e7b3aeeeec398f5421b51a13",
+        "ext": "jpg",
+        "size": 6224879,
+        "mimetype": "image/jpeg",
+        "key": "SfN-2025_Poster-DataStandards.jpg",
+        "metadata": {
+          "width": 5400,
+          "height": 3600
+        },
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": true,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 317,
+      "unique_views": 300,
+      "downloads": 126,
+      "unique_downloads": 121,
+      "data_volume": 1384141754.0
+    },
+    "all_versions": {
+      "views": 317,
+      "unique_views": 300,
+      "downloads": 126,
+      "unique_downloads": 121,
+      "data_volume": 1384141754.0
+    }
+  },
+  "swh": null,
+  "ui": {
+    "publication_date_l10n_medium": "Nov 11, 2025",
+    "publication_date_l10n_long": "November 11, 2025",
+    "created_date_l10n_long": "January 28, 2026",
+    "updated_date_l10n_long": "February 11, 2026",
+    "resource_type": {
+      "id": "poster",
+      "title_l10n": "Poster"
+    },
+    "custom_fields": {
+      "meeting:meeting": {
+        "acronym": "SfN",
+        "dates": "15-19 November, 2025",
+        "place": "San Diego",
+        "session_part": "PSTR477.19/VV15",
+        "session": "J.07. Data Analysis and Statistics",
+        "title": "Society for Neuroscience (SfN) annual meeting, Neuroscience 2025",
+        "url": "https://www.sfn.org/meetings/neuroscience-2025"
+      },
+      "legacy:communities": [
+        "con"
+      ],
+      "legacy:subjects": [
+        {
+          "term": "Neuroscience",
+          "scheme": "keyword"
+        },
+        {
+          "term": "Data Science",
+          "scheme": "keyword"
+        },
+        {
+          "term": "Research Data Management",
+          "scheme": "keyword"
+        }
+      ]
+    },
+    "conference": {
+      "acronym": "SfN",
+      "dates": "15-19 November, 2025",
+      "place": "San Diego",
+      "session_part": "PSTR477.19/VV15",
+      "session": "J.07. Data Analysis and Statistics",
+      "title": "Society for Neuroscience (SfN) annual meeting, Neuroscience 2025",
+      "url": "https://www.sfn.org/meetings/neuroscience-2025"
+    },
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Rübel, Oliver",
+            "given_name": "Oliver",
+            "family_name": "Rübel",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-9902-1984",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "contactperson",
+            "title": "Contact person"
+          },
+          "affiliations": [
+            [
+              1,
+              "Lawrence Berkeley National Laboratory"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Baker, Cody C.",
+            "given_name": "Cody C.",
+            "family_name": "Baker",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-0829-4790",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              2,
+              "Dartmouth College"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Boline, Jyl",
+            "given_name": "Jyl",
+            "family_name": "Boline",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-5232-8364",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              3,
+              "Informed Minds Inc."
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Bouchard, Kristofer",
+            "given_name": "Kristofer",
+            "family_name": "Bouchard",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-1974-4603",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              3,
+              "Informed Minds Inc."
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Davison, Andrew P.",
+            "given_name": "Andrew P.",
+            "family_name": "Davison"
+          },
+          "affiliations": [
+            [
+              4,
+              "Université Paris-Saclay"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "de Vries, Saskia",
+            "given_name": "Saskia",
+            "family_name": "de Vries"
+          },
+          "affiliations": [
+            [
+              5,
+              "Allen Institute for Neural Dynamics"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Dichter, Ben",
+            "given_name": "Ben",
+            "family_name": "Dichter",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-5725-6910",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              6,
+              "CatalystNeuro"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Fedorov, Andrey",
+            "given_name": "Andrey",
+            "family_name": "Fedorov",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-4806-9413",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              7,
+              "Brigham and Women's Hospital"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Ghosh, Satrajit S.",
+            "given_name": "Satrajit S.",
+            "family_name": "Ghosh",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-5312-6729",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              8,
+              "Massachusetts Institute of Technology"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gillespie, Tom",
+            "given_name": "Tom",
+            "family_name": "Gillespie"
+          },
+          "affiliations": [
+            [
+              9,
+              "University of California San Diego"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Grethe, Jeffrey S.",
+            "given_name": "Jeffrey S.",
+            "family_name": "Grethe",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-5212-7052",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              9,
+              "University of California San Diego"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Guittari, Nicole",
+            "given_name": "Nicole",
+            "family_name": "Guittari",
+            "identifiers": [
+              {
+                "identifier": "0009-0007-9279-8855",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              10,
+              "Johns Hopkins University Applied Physics Laboratory"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Hatton, Sean N.",
+            "given_name": "Sean N.",
+            "family_name": "Hatton"
+          },
+          "affiliations": [
+            [
+              9,
+              "University of California San Diego"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Johnson, Erik",
+            "given_name": "Erik",
+            "family_name": "Johnson"
+          },
+          "affiliations": [
+            [
+              10,
+              "Johns Hopkins University Applied Physics Laboratory"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Keator, David",
+            "given_name": "David",
+            "family_name": "Keator",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-5281-5576",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              11,
+              "University of California Irvine"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Kennedy, David N.",
+            "given_name": "David N.",
+            "family_name": "Kennedy",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-9377-0797",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              12,
+              "University of Massachusetts Chan Medical School"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Ly, Ryan",
+            "given_name": "Ryan",
+            "family_name": "Ly",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-9238-0642",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              3,
+              "Informed Minds Inc."
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Markiewicz, Christopher J.",
+            "given_name": "Christopher J.",
+            "family_name": "Markiewicz",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6533-164X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              13,
+              "Stanford University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Najafi, Peyman",
+            "given_name": "Peyman",
+            "family_name": "Najafi",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-1746-3995",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              4,
+              "Université Paris-Saclay"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Nichols, Stephen",
+            "given_name": "Stephen",
+            "family_name": "Nichols"
+          },
+          "affiliations": [
+            [
+              14,
+              "GE HealthCare"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Pestilli, Franco",
+            "given_name": "Franco",
+            "family_name": "Pestilli",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-2469-0494",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              15,
+              "The University of Texas at Austin"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Poline, Jean-Baptiste",
+            "given_name": "Jean-Baptiste",
+            "family_name": "Poline",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-9794-749X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              16,
+              "McGill University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Prince, Samuel",
+            "given_name": "Samuel",
+            "family_name": "Prince"
+          },
+          "affiliations": [
+            [
+              1,
+              "Lawrence Berkeley National Laboratory"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Robbins, Kay A.",
+            "given_name": "Kay A.",
+            "family_name": "Robbins"
+          },
+          "affiliations": [
+            [
+              17,
+              "University of Texas at San Antonio"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Rorden, Chris",
+            "given_name": "Chris",
+            "family_name": "Rorden",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-7554-6142",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              18,
+              "University of South Carolina"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Kline Struhl, Melissa",
+            "given_name": "Melissa",
+            "family_name": "Kline Struhl",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-2217-9331",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              8,
+              "Massachusetts Institute of Technology"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Tregoning, Nile E.S.",
+            "given_name": "Nile E.S.",
+            "family_name": "Tregoning"
+          },
+          "affiliations": [
+            [
+              10,
+              "Johns Hopkins University Applied Physics Laboratory"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Tyson, Adam L.",
+            "given_name": "Adam L.",
+            "family_name": "Tyson",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3225-1130",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              19,
+              "University College London"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Wachtler, Thomas",
+            "given_name": "Thomas",
+            "family_name": "Wachtler"
+          },
+          "affiliations": [
+            [
+              20,
+              "Ludwig-Maximilians-Universität München"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Wester, Brock",
+            "given_name": "Brock",
+            "family_name": "Wester",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-1500-2143",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              10,
+              "Johns Hopkins University Applied Physics Laboratory"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Yi, Helen",
+            "given_name": "Helen",
+            "family_name": "Yi"
+          },
+          "affiliations": [
+            [
+              10,
+              "Johns Hopkins University Applied Physics Laboratory"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Zehl, Lyuba",
+            "given_name": "Lyuba",
+            "family_name": "Zehl",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-5947-9939",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              21,
+              "EBRAINS AISBL"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Zhuang, Kaiwen",
+            "given_name": "Kaiwen",
+            "family_name": "Zhuang",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-1376-6385",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Lawrence Berkeley National Laboratory"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Halchenko, Yaroslav",
+            "given_name": "Yaroslav",
+            "family_name": "Halchenko",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3456-2493",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "contactperson",
+            "title": "Contact person"
+          },
+          "affiliations": [
+            [
+              2,
+              "Dartmouth College"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "Lawrence Berkeley National Laboratory",
+          null
+        ],
+        [
+          2,
+          "Dartmouth College",
+          null
+        ],
+        [
+          3,
+          "Informed Minds Inc.",
+          null
+        ],
+        [
+          4,
+          "Université Paris-Saclay",
+          null
+        ],
+        [
+          5,
+          "Allen Institute for Neural Dynamics",
+          null
+        ],
+        [
+          6,
+          "CatalystNeuro",
+          null
+        ],
+        [
+          7,
+          "Brigham and Women's Hospital",
+          null
+        ],
+        [
+          8,
+          "Massachusetts Institute of Technology",
+          null
+        ],
+        [
+          9,
+          "University of California San Diego",
+          null
+        ],
+        [
+          10,
+          "Johns Hopkins University Applied Physics Laboratory",
+          null
+        ],
+        [
+          11,
+          "University of California Irvine",
+          null
+        ],
+        [
+          12,
+          "University of Massachusetts Chan Medical School",
+          null
+        ],
+        [
+          13,
+          "Stanford University",
+          null
+        ],
+        [
+          14,
+          "GE HealthCare",
+          null
+        ],
+        [
+          15,
+          "The University of Texas at Austin",
+          null
+        ],
+        [
+          16,
+          "McGill University",
+          null
+        ],
+        [
+          17,
+          "University of Texas at San Antonio",
+          null
+        ],
+        [
+          18,
+          "University of South Carolina",
+          null
+        ],
+        [
+          19,
+          "University College London",
+          null
+        ],
+        [
+          20,
+          "Ludwig-Maximilians-Universität München",
+          null
+        ],
+        [
+          21,
+          "EBRAINS AISBL",
+          null
+        ]
+      ]
+    },
+    "languages": [
+      {
+        "id": "eng",
+        "title_l10n": "English"
+      }
+    ],
+    "description_stripped": "The neuroscience community has witnessed a proliferation of data standards aimed at enhancing reproducibility, data sharing, and collaboration. However, this abundance creates challenges for researchers navigating which standards to adopt. This presentation provides an overview of the current ecosystem of neuroscience data standards, their interrelationships, and practical implementation guidance.\nWe will survey established data standards for (i) storing and transmitting data, such as DICOM for neuroimaging, NWB for neurophysiological recordings, and OME-NGFF/-Zarr for microscopy images, (ii) for managing entire study datasets, such as BIDS, (iii) modality specific additional annotation of data, such as HED, and (iv) metadata model for integration and searchability in database systems, such as openMINDS and NIDM. We will also overview related tooling interface standards, such as BIDS-Apps and Boutiques. For each standard, we will outline scope, primary data domains, implementation requirements, community adoption, extension mechanisms, and integration with other standards, analysis pipelines, and platforms.This presentation aims to demystify the neuroscience standards landscape, empowering researchers to make informed choices about data management practices that enhance scientific reproducibility and collaboration. The presentation will map relationships between these standards and major data repositories, including DANDI, EMBER, NEMAR, OpenNeuro, SPARC, EBRAINS, BRAINLIFE, GIN, and others. We will highlight how these repositories and organizations like INCF promote, extend and enforce use of standards, while discussing their critical importance to ongoing initiatives such as the Brain Behavioral Quantification and Synchronization (BBQS) and BRAIN Connectivity Across Scales (BRAIN CONNECTS). We will conclude with practical decision-making guidance for researchers to help identify which standards best suit specific research needs. Case studies will demonstrate how laboratories have successfully implemented combinations of standards to enhance their research workflows and facilitate data sharing.",
+    "version": "0.20251111.1",
+    "related_identifiers": [
+      {
+        "identifier": "10.1016/j.neuron.2021.11.017",
+        "relation_type": {
+          "id": "references",
+          "title_l10n": "References"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "publication-article",
+          "title_l10n": "Journal article"
+        }
+      },
+      {
+        "identifier": "10.3389/fninf.2023.1276407",
+        "relation_type": {
+          "id": "references",
+          "title_l10n": "References"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "publication-article",
+          "title_l10n": "Journal article"
+        }
+      },
+      {
+        "identifier": "10.1038/s41597-023-02614-0",
+        "relation_type": {
+          "id": "references",
+          "title_l10n": "References"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "publication-article",
+          "title_l10n": "Journal article"
+        }
+      },
+      {
+        "identifier": "10.1162/imag_a_00103",
+        "relation_type": {
+          "id": "references",
+          "title_l10n": "References"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "publication-article",
+          "title_l10n": "Journal article"
+        }
+      },
+      {
+        "identifier": "10.7554/eLife.78362",
+        "relation_type": {
+          "id": "references",
+          "title_l10n": "References"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "publication-article",
+          "title_l10n": "Journal article"
+        }
+      }
+    ],
+    "additional_descriptions": [
+      {
+        "description": "Grants:\nNational Institutes of Health (NIH) NIH 1U24MH136628: NIH #1U24MH136628 BBQS AI Resource and Data Coordinating Center (BARD.CC)\nNational Institutes of Health (NIH) NIH 1R24MH117295: NIH #1R24MH117295 DANDI: Distributed Archives for Neurophysiology Data Integration\nNational Institutes of Health (NIH) NIH 2R24DA064430: NIH #2R24DA064430 EMBER: Ecosystem for Multimodal Brain-behavior Experimentation and Research\nNational Institutes of Health (NIH) NIH 2R24MH117179-06: NIH #2R24MH117179-06 OpenNeuro: An open archive for analysis and sharing of BRAIN Initiative data\nNational Institutes of Health (NIH) NIH 1RF1MH132747-01: NIH #1RF1MH132747-01 Psych-DS: A FAIR data standard for behavioral datasets\nNational Institutes of Health (NIH) NIH 3OT2OD030541: NIH #3OT2OD030541 K-CORE: Curation and Knowledge Management for SPARC\nNational Institutes of Health (NIH) NIH U24NS120057: NIH #U24NS120057 Advancing Standardization of Neurophysiology Data Through Dissemination of NWB\nNational Institutes of Health (NIH) NIH U24NS140384: NIH #U24NS140384 BRAIN CONNECTS: The Axonal Projectome EXchange (APEX)\nNational Institutes of Health (NIH) NIH R01MH126699: NIH #R01MH126699 A community-driven development of the brain imaging data standard (BIDS) to describe macroscopic brain connections\nNational Institutes of Health (NIH) NIH UM1NS132207: NIH #UM1NS132207 BRAIN CONNECTS: Center for Mesoscale Connectomics\nEuropean Commission 101147319: European Union's Research and Innovation Program Horizon Europe under Grant Agreement No. 101147319 (EBRAINS 2.0, openMINDS)\nNational Institutes of Health (NIH) NIH RF1MH133701: NIH #RF1MH133701 Extending ezBIDS, NiiVue and dcm2niix for user-friendly cloud-based integration and visualization\nNational Institutes of Health (NIH) NIH R24MH114785: NIH #R24MH114785 BossDB: Brain Observatory Storage Service and Database",
+        "type": {
+          "id": "notes",
+          "title_l10n": "Notes"
+        }
+      }
+    ],
+    "rights": [
+      {
+        "id": "cc-by-4.0",
+        "title_l10n": "Creative Commons Attribution 4.0 International",
+        "description_l10n": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited.",
+        "icon": "cc-by-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false,
+    "funding": [
+      {
+        "award": {
+          "id": "01cwqze88::1U24MH136628-01",
+          "title_l10n": "BBQS AI Resource and Data Coordinating Center (BARD.CC)",
+          "number": "1U24MH136628-01"
+        },
+        "funder": {
+          "id": "01cwqze88",
+          "name": "National Institutes of Health"
+        }
+      },
+      {
+        "award": {
+          "id": "01cwqze88::2R24MH117295-06",
+          "title_l10n": "DANDI: Distributed Archives for Neurophysiology Data Integration",
+          "number": "2R24MH117295-06"
+        },
+        "funder": {
+          "id": "01cwqze88",
+          "name": "National Institutes of Health"
+        }
+      },
+      {
+        "award": {
+          "id": "01cwqze88::1R24MH136632-01",
+          "title_l10n": "Ecosystem for Multi-modal Brain-behavior Experimentation and Research (EMBER)",
+          "number": "1R24MH136632-01"
+        },
+        "funder": {
+          "id": "01cwqze88",
+          "name": "National Institutes of Health"
+        }
+      },
+      {
+        "award": {
+          "id": "01cwqze88::2R24MH117179-06",
+          "title_l10n": "OpenNeuro: An open archive for analysis and sharing of BRAIN Initiative data",
+          "number": "2R24MH117179-06",
+          "program": "NATIONAL_INSTITUTE_OF_MENTAL_HEALTH"
+        },
+        "funder": {
+          "id": "01cwqze88",
+          "name": "National Institutes of Health"
+        }
+      },
+      {
+        "award": {
+          "id": "01cwqze88::1RF1MH132747-01",
+          "title_l10n": "Psych-DS: A FAIR data standard for behavioral datasets",
+          "number": "1RF1MH132747-01",
+          "program": "NATIONAL_INSTITUTE_OF_MENTAL_HEALTH"
+        },
+        "funder": {
+          "id": "01cwqze88",
+          "name": "National Institutes of Health"
+        }
+      },
+      {
+        "award": {
+          "id": "00k4n6c32::101147319",
+          "title_l10n": "EBRAINS 2.0: A Research Infrastructure to Advance Neuroscience and Brain Health",
+          "number": "101147319",
+          "acronym": "EBRAINS 2.0",
+          "program": "HORIZON.1.3",
+          "identifiers": [
+            {
+              "identifier": "https://cordis.europa.eu/projects/101147319",
+              "scheme": "url"
+            },
+            {
+              "identifier": "10.3030/101147319",
+              "scheme": "doi"
+            }
+          ]
+        },
+        "funder": {
+          "id": "00k4n6c32",
+          "name": "European Commission"
+        }
+      },
+      {
+        "award": {
+          "id": "01cwqze88::3OT2OD030541-01S5",
+          "title_l10n": "K-CORE: Curation and Knowledge Management for SPARC",
+          "number": "3OT2OD030541-01S5"
+        },
+        "funder": {
+          "id": "01cwqze88",
+          "name": "National Institutes of Health"
+        }
+      },
+      {
+        "award": {
+          "id": "01cwqze88::5U24NS120057-04",
+          "title_l10n": "Advancing Standardization of Neurophysiology Data Through Dissemination of NWB",
+          "number": "5U24NS120057-04"
+        },
+        "funder": {
+          "id": "01cwqze88",
+          "name": "National Institutes of Health"
+        }
+      },
+      {
+        "award": {
+          "id": "01cwqze88::1RF1MH133701-01",
+          "title_l10n": "Extending ezBIDS, NiiVue and dcm2niix for user-friendly cloud-based integration and visualization",
+          "number": "1RF1MH133701-01",
+          "program": "NATIONAL_INSTITUTE_OF_MENTAL_HEALTH"
+        },
+        "funder": {
+          "id": "01cwqze88",
+          "name": "National Institutes of Health"
+        }
+      },
+      {
+        "award": {
+          "id": "01cwqze88::1R01MH126699-01",
+          "title_l10n": "A community-driven development of the brain imaging data standard (BIDS) to describe macroscopic brain connections",
+          "number": "1R01MH126699-01",
+          "program": "NATIONAL_INSTITUTE_OF_MENTAL_HEALTH"
+        },
+        "funder": {
+          "id": "01cwqze88",
+          "name": "National Institutes of Health"
+        }
+      },
+      {
+        "award": {
+          "id": "01cwqze88::5UM1NS132207-02",
+          "title_l10n": "BRAIN CONNECTS: Center for Mesoscale Connectomics",
+          "number": "5UM1NS132207-02"
+        },
+        "funder": {
+          "id": "01cwqze88",
+          "name": "National Institutes of Health"
+        }
+      },
+      {
+        "award": {
+          "id": "01cwqze88::2R24MH114785-06",
+          "title_l10n": "Boss: A cloud-based data archive for electron microscopy and x-ray microtomography",
+          "number": "2R24MH114785-06",
+          "program": "NATIONAL_INSTITUTE_OF_MENTAL_HEALTH"
+        },
+        "funder": {
+          "id": "01cwqze88",
+          "name": "National Institutes of Health"
+        }
+      }
+    ]
+  }
+}

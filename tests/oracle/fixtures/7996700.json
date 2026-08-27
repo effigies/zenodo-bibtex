@@ -1,0 +1,618 @@
+{
+  "id": "7996700",
+  "created": "2023-06-16T19:30:17.333820+00:00",
+  "updated": "2023-06-17T02:26:54.521540+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/7996700",
+    "self_html": "https://zenodo.org/records/7996700",
+    "preview_html": "https://zenodo.org/records/7996700?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.7996700",
+    "self_doi": "https://doi.org/10.5281/zenodo.7996700",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.7996700",
+    "reserve_doi": "https://zenodo.org/api/records/7996700/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/7996699",
+    "parent_html": "https://zenodo.org/records/7996699",
+    "parent_doi": "https://doi.org/10.5281/zenodo.7996699",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.7996699",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:7996700/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:7996700/sequence/default",
+    "files": "https://zenodo.org/api/records/7996700/files",
+    "media_files": "https://zenodo.org/api/records/7996700/media-files",
+    "archive": "https://zenodo.org/api/records/7996700/files-archive",
+    "archive_media": "https://zenodo.org/api/records/7996700/media-files-archive",
+    "latest": "https://zenodo.org/api/records/7996700/versions/latest",
+    "latest_html": "https://zenodo.org/records/7996700/latest",
+    "versions": "https://zenodo.org/api/records/7996700/versions",
+    "draft": "https://zenodo.org/api/records/7996700/draft",
+    "access_links": "https://zenodo.org/api/records/7996700/access/links",
+    "access_grants": "https://zenodo.org/api/records/7996700/access/grants",
+    "access_users": "https://zenodo.org/api/records/7996700/access/users",
+    "access_request": "https://zenodo.org/api/records/7996700/access/request",
+    "access": "https://zenodo.org/api/records/7996700/access",
+    "communities": "https://zenodo.org/api/records/7996700/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/7996700/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/7996700/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/7996700/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/7996700/quota-increase",
+    "requests": "https://zenodo.org/api/records/7996700/requests"
+  },
+  "revision_id": 2,
+  "parent": {
+    "id": "7996699",
+    "access": {
+      "owned_by": {
+        "user": "262806"
+      }
+    },
+    "communities": {},
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.7996699",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 1
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.7996700",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:7996700",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "software",
+      "title": {
+        "de": "Software",
+        "en": "Software"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Hao-Ting Wang",
+          "family_name": "Hao-Ting Wang",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-4078-2038",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM), Montréal, Québec, Canada"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Steven L Meisler",
+          "family_name": "Steven L Meisler",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-8888-1572",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Harvard University, MA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Hanad Sharmarke",
+          "family_name": "Hanad Sharmarke"
+        },
+        "affiliations": [
+          {
+            "name": "Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM), Montréal, Québec, Canada"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Natasha Clarke",
+          "family_name": "Natasha Clarke"
+        },
+        "affiliations": [
+          {
+            "name": "Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM), Montréal, Québec, Canada"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "François Paugam",
+          "family_name": "François Paugam"
+        },
+        "affiliations": [
+          {
+            "name": "Computer Science and Operations Research Department, Université de Montréal, Montréal, Québec, Canada"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Nicolas Gensollen",
+          "family_name": "Nicolas Gensollen",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7199-9753",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Inria, CEA, Université Paris-Saclay, Paris, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Christopher J Markiewicz",
+          "family_name": "Christopher J Markiewicz",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6533-164X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University, Stanford, United States"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Bertrand Thirion",
+          "family_name": "Bertrand Thirion",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-5018-7895",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Inria, CEA, Université Paris-Saclay, Paris, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Pierre Bellec",
+          "family_name": "Pierre Bellec",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-9111-0699",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM), Montréal, Québec, Canada"
+          }
+        ]
+      }
+    ],
+    "title": "A reproducible benchmark of resting-state fMRI denoising strategies using fMRIPrep and Nilearn",
+    "publisher": "Zenodo",
+    "publication_date": "2023-06-02",
+    "subjects": [
+      {
+        "subject": "canadian-open-neuroscience-platform"
+      },
+      {
+        "subject": "neurolibre"
+      }
+    ],
+    "contributors": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "NeuroLibre, Admin",
+          "given_name": "Admin",
+          "family_name": "NeuroLibre"
+        },
+        "role": {
+          "id": "contactperson",
+          "title": {
+            "de": "Kontaktperson",
+            "en": "Contact person"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "NeuroLibre"
+          }
+        ]
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "10.55458/neurolibre.00012",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "issupplementto",
+          "title": {
+            "de": "Ergänzt",
+            "en": "Is supplement to"
+          }
+        },
+        "resource_type": {
+          "id": "publication-preprint",
+          "title": {
+            "de": "Preprint",
+            "en": "Preprint"
+          }
+        }
+      }
+    ],
+    "rights": [
+      {
+        "id": "cc-by-4.0",
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        },
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "<p>Docker image built from the <a href=\"https://github.com/roboneurolibre/fmriprep-denoise-benchmark/commit/b568759fd2cbf9b27ef170a9c9984aaaf0de40a3\"> reference repository/commit by roboneuro</a>, based on the <a href=\"https://github.com/SIMEXP/fmriprep-denoise-benchmark/commit/02f2fa2a0b26b3624a9108e8d600ff4c64047d5c\">latest change by the author</a>, using repo2docker (through BinderHub).<br>\nTo run locally:</p>\n\n<ol>\n\t<li>\n\t<pre><code class=\"language-bash\">docker load &lt; DockerImage_10.55458_NeuroLibre_00012_b56875.tar.gz</code></pre>\n\n\t<pre>&nbsp;</pre>\n\t</li>\n\t<li>\n\t<pre><code class=\"language-bash\">docker run -it --rm -p 8888:8888 DOCKER_IMAGE_ID jupyter lab --ip 0.0.0.0</code></pre>\n\t<strong>by replacing <code>DOCKER_IMAGE_ID</code>&nbsp;above with the respective ID of the Docker image loaded from the tar.gz. file.</strong></li>\n</ol>\n\n<p>For details, please visit the corresponding <a href=\"https://github.com/neurolibre/neurolibre-reviews/issues/12\">NeuroLibre technical screening.</a></p>\n\n<p><strong><a href=\"https://neurolibre.org\">https://neurolibre.org</a></strong></p>"
+  },
+  "custom_fields": {},
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 1,
+    "total_bytes": 1251508498,
+    "entries": {
+      "DockerImage_10.55458_NeuroLibre_00012_b56875.tar.gz": {
+        "id": "e63f4e15-4c71-47b0-b03e-5f8a52b38b22",
+        "checksum": "md5:1899fc3a71b7cfaf9a47133fbc5003b5",
+        "ext": "gz",
+        "size": 1251508498,
+        "mimetype": "application/gzip",
+        "key": "DockerImage_10.55458_NeuroLibre_00012_b56875.tar.gz",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": false,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 294,
+      "unique_views": 293,
+      "downloads": 48,
+      "unique_downloads": 45,
+      "data_volume": 60072407904.0
+    },
+    "all_versions": {
+      "views": 294,
+      "unique_views": 293,
+      "downloads": 48,
+      "unique_downloads": 45,
+      "data_volume": 60072407904.0
+    }
+  },
+  "swh": null,
+  "ui": {
+    "publication_date_l10n_medium": "Jun 2, 2023",
+    "publication_date_l10n_long": "June 2, 2023",
+    "created_date_l10n_long": "June 16, 2023",
+    "updated_date_l10n_long": "June 17, 2023",
+    "resource_type": {
+      "id": "software",
+      "title_l10n": "Software"
+    },
+    "custom_fields": {},
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Hao-Ting Wang",
+            "family_name": "Hao-Ting Wang",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-4078-2038",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM), Montréal, Québec, Canada"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Steven L Meisler",
+            "family_name": "Steven L Meisler",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-8888-1572",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              2,
+              "Harvard University, MA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Hanad Sharmarke",
+            "family_name": "Hanad Sharmarke"
+          },
+          "affiliations": [
+            [
+              1,
+              "Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM), Montréal, Québec, Canada"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Natasha Clarke",
+            "family_name": "Natasha Clarke"
+          },
+          "affiliations": [
+            [
+              1,
+              "Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM), Montréal, Québec, Canada"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "François Paugam",
+            "family_name": "François Paugam"
+          },
+          "affiliations": [
+            [
+              3,
+              "Computer Science and Operations Research Department, Université de Montréal, Montréal, Québec, Canada"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Nicolas Gensollen",
+            "family_name": "Nicolas Gensollen",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7199-9753",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              4,
+              "Inria, CEA, Université Paris-Saclay, Paris, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Christopher J Markiewicz",
+            "family_name": "Christopher J Markiewicz",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6533-164X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              5,
+              "Department of Psychology, Stanford University, Stanford, United States"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Bertrand Thirion",
+            "family_name": "Bertrand Thirion",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-5018-7895",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              4,
+              "Inria, CEA, Université Paris-Saclay, Paris, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Pierre Bellec",
+            "family_name": "Pierre Bellec",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-9111-0699",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM), Montréal, Québec, Canada"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM), Montréal, Québec, Canada",
+          null
+        ],
+        [
+          2,
+          "Harvard University, MA, USA",
+          null
+        ],
+        [
+          3,
+          "Computer Science and Operations Research Department, Université de Montréal, Montréal, Québec, Canada",
+          null
+        ],
+        [
+          4,
+          "Inria, CEA, Université Paris-Saclay, Paris, France",
+          null
+        ],
+        [
+          5,
+          "Department of Psychology, Stanford University, Stanford, United States",
+          null
+        ]
+      ]
+    },
+    "contributors": {
+      "contributors": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "NeuroLibre, Admin",
+            "given_name": "Admin",
+            "family_name": "NeuroLibre"
+          },
+          "role": {
+            "id": "contactperson",
+            "title": "Contact person"
+          },
+          "affiliations": [
+            [
+              1,
+              "NeuroLibre"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "NeuroLibre",
+          null
+        ]
+      ]
+    },
+    "description_stripped": "Docker image built from the  reference repository/commit by roboneuro, based on the latest change by the author, using repo2docker (through BinderHub).\nTo run locally:\n\n\n\n\t\n\n\t\ndocker load < DockerImage_10.55458_NeuroLibre_00012_b56875.tar.gz\n\n\t\n \n\t\n\t\n\n\t\ndocker run -it --rm -p 8888:8888 DOCKER_IMAGE_ID jupyter lab --ip 0.0.0.0\n\tby replacing DOCKER_IMAGE_ID above with the respective ID of the Docker image loaded from the tar.gz. file.\n\n\n\nFor details, please visit the corresponding NeuroLibre technical screening.\n\n\nhttps://neurolibre.org",
+    "version": "v1",
+    "related_identifiers": [
+      {
+        "identifier": "10.55458/neurolibre.00012",
+        "relation_type": {
+          "id": "issupplementto",
+          "title_l10n": "Is supplement to"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "publication-preprint",
+          "title_l10n": "Preprint"
+        }
+      }
+    ],
+    "rights": [
+      {
+        "id": "cc-by-4.0",
+        "title_l10n": "Creative Commons Attribution 4.0 International",
+        "description_l10n": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited.",
+        "icon": "cc-by-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}

@@ -1,0 +1,3456 @@
+{
+  "id": "18944560",
+  "created": "2026-03-10T20:55:23.303015+00:00",
+  "updated": "2026-03-10T20:55:23.499046+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/18944560",
+    "self_html": "https://zenodo.org/records/18944560",
+    "preview_html": "https://zenodo.org/records/18944560?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.18944560",
+    "self_doi": "https://doi.org/10.5281/zenodo.18944560",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18944560",
+    "reserve_doi": "https://zenodo.org/api/records/18944560/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/591597",
+    "parent_html": "https://zenodo.org/records/591597",
+    "parent_doi": "https://doi.org/10.5281/zenodo.591597",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.591597",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18944560/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18944560/sequence/default",
+    "files": "https://zenodo.org/api/records/18944560/files",
+    "media_files": "https://zenodo.org/api/records/18944560/media-files",
+    "archive": "https://zenodo.org/api/records/18944560/files-archive",
+    "archive_media": "https://zenodo.org/api/records/18944560/media-files-archive",
+    "latest": "https://zenodo.org/api/records/18944560/versions/latest",
+    "latest_html": "https://zenodo.org/records/18944560/latest",
+    "versions": "https://zenodo.org/api/records/18944560/versions",
+    "draft": "https://zenodo.org/api/records/18944560/draft",
+    "access_links": "https://zenodo.org/api/records/18944560/access/links",
+    "access_grants": "https://zenodo.org/api/records/18944560/access/grants",
+    "access_users": "https://zenodo.org/api/records/18944560/access/users",
+    "access_request": "https://zenodo.org/api/records/18944560/access/request",
+    "access": "https://zenodo.org/api/records/18944560/access",
+    "communities": "https://zenodo.org/api/records/18944560/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/18944560/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/18944560/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/18944560/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/18944560/quota-increase",
+    "requests": "https://zenodo.org/api/records/18944560/requests"
+  },
+  "revision_id": 4,
+  "parent": {
+    "id": "591597",
+    "access": {
+      "owned_by": {
+        "user": "3931"
+      },
+      "settings": {
+        "allow_user_requests": false,
+        "allow_guest_requests": false,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.591597",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 57
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.18944560",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:18944560",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "software",
+      "title": {
+        "de": "Software",
+        "en": "Software"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Markiewicz, Christopher J.",
+          "given_name": "Christopher J.",
+          "family_name": "Markiewicz",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6533-164X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Stanford University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Brett, Matthew",
+          "given_name": "Matthew",
+          "family_name": "Brett",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-5500-2546",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "School of Psychology, University of Birmingham, Birmingham, UK"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Hanke, Michael",
+          "given_name": "Michael",
+          "family_name": "Hanke",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6398-6370",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Otto-von-Guericke-University Magdeburg, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Côté, Marc-Alexandre",
+          "given_name": "Marc-Alexandre",
+          "family_name": "Côté",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-5147-7859",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Microsoft Research, Montréal, Québec, Canada"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Cipollini, Ben",
+          "given_name": "Ben",
+          "family_name": "Cipollini",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-7782-0790",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "UC San Diego"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "McCarthy, Paul",
+          "given_name": "Paul",
+          "family_name": "McCarthy"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Papadopoulos Orfanos, Dimitri",
+          "given_name": "Dimitri",
+          "family_name": "Papadopoulos Orfanos",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-1242-8990",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "CEA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Jarecka, Dorota",
+          "given_name": "Dorota",
+          "family_name": "Jarecka",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8282-2988",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "MIT"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Cheng, Christopher P.",
+          "given_name": "Christopher P.",
+          "family_name": "Cheng",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-9112-9464",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Center for Open Neuroscience, Dartmouth College"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Larson, Eric",
+          "given_name": "Eric",
+          "family_name": "Larson",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-4782-5360",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University of Washington: Seattle, WA, United States"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Halchenko, Yaroslav O.",
+          "given_name": "Yaroslav O.",
+          "family_name": "Halchenko",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3456-2493",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Dartmouth College: Hanover, NH, United States"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Cottaar, Michiel",
+          "given_name": "Michiel",
+          "family_name": "Cottaar",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-4679-7724",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Wellcome Centre for Integrative Neuroimaging, University of Oxford, UK"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Ghosh, Satrajit",
+          "given_name": "Satrajit",
+          "family_name": "Ghosh",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-5312-6729",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "MIT, HMS"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Wassermann, Demian",
+          "given_name": "Demian",
+          "family_name": "Wassermann",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-5194-6056",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Athena EPI, Inria Sophia-Antipolis"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gerhard, Stephan",
+          "given_name": "Stephan",
+          "family_name": "Gerhard",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-4454-6171",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Neuroinformatics, ETH/University of Zurich"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Lee, Gregory R.",
+          "given_name": "Gregory R.",
+          "family_name": "Lee",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8895-2740",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Deptartment of Radiology, University of Cincinnati College of Medicine, Cincinnati, OH"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Baratz, Zvi",
+          "given_name": "Zvi",
+          "family_name": "Baratz",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7159-1387",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Moloney, Brendan",
+          "given_name": "Brendan",
+          "family_name": "Moloney"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Wang, Hao-Ting",
+          "given_name": "Hao-Ting",
+          "family_name": "Wang",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-4078-2038",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Kastman, Erik",
+          "given_name": "Erik",
+          "family_name": "Kastman",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7221-9042",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Harvard University - Psychology"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Kaczmarzyk, Jakub",
+          "given_name": "Jakub",
+          "family_name": "Kaczmarzyk",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-5544-7577",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "MIT"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Guidotti, Roberto",
+          "given_name": "Roberto",
+          "family_name": "Guidotti",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-0807-6005",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Computer Science, Aalto University, Espoo, Finland and Department of Neuroscience, Imaging and Clinical Sciences, University G. D'Annunzio, Chieti, Italy"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Daniel, Jonathan",
+          "given_name": "Jonathan",
+          "family_name": "Daniel"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Duek, Or",
+          "given_name": "Or",
+          "family_name": "Duek"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Rokem, Ariel",
+          "given_name": "Ariel",
+          "family_name": "Rokem",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-0679-1985",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "The University of Washington eScience Institute"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Scheltienne, Mathieu",
+          "given_name": "Mathieu",
+          "family_name": "Scheltienne",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8316-7436",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Human Neuroscience Platform, Fondation Campus Biotech Geneva, Geneva, Switzerland"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Madison, Cindee",
+          "given_name": "Cindee",
+          "family_name": "Madison"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Sólon, Anibal",
+          "given_name": "Anibal",
+          "family_name": "Sólon"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Morency, Félix C.",
+          "given_name": "Félix C.",
+          "family_name": "Morency"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Goncalves, Mathias",
+          "given_name": "Mathias",
+          "family_name": "Goncalves",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-7252-7771",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "MIT"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Markello, Ross",
+          "given_name": "Ross",
+          "family_name": "Markello",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-1057-1336",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Montreal Neurological Institute and Hospital"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Riddell, Cameron",
+          "given_name": "Cameron",
+          "family_name": "Riddell",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8950-0375",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, University of California Davis, CA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Burns, Christopher",
+          "given_name": "Christopher",
+          "family_name": "Burns"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Millman, Jarrod",
+          "given_name": "Jarrod",
+          "family_name": "Millman",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-5263-5070",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Berkeley Institute for Data Science, UC Berkeley"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gramfort, Alexandre",
+          "given_name": "Alexandre",
+          "family_name": "Gramfort",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-9791-4404",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "CNRS LTCI, Telecom ParisTech, Université Paris-Saclay"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Leppäkangas, Jaakko",
+          "given_name": "Jaakko",
+          "family_name": "Leppäkangas"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "van den Bosch, Jasper J.F.",
+          "given_name": "Jasper J.F.",
+          "family_name": "van den Bosch"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Legarreta, Jon Haitz",
+          "given_name": "Jon Haitz",
+          "family_name": "Legarreta",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-9661-1396",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Brigham and Women's Hospital, Mass General Brigham/Harvard Medical School"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Vincent, Robert D.",
+          "given_name": "Robert D.",
+          "family_name": "Vincent"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Braun, Henry",
+          "given_name": "Henry",
+          "family_name": "Braun",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7003-9822",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Center for Magnetic Resonance Research, University of Minnesota"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Subramaniam, Krish",
+          "given_name": "Krish",
+          "family_name": "Subramaniam"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Van, Andrew",
+          "given_name": "Andrew",
+          "family_name": "Van"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gorgolewski, Krzysztof J.",
+          "given_name": "Krzysztof J.",
+          "family_name": "Gorgolewski",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3321-7583",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Google"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Raamana, Pradeep Reddy",
+          "given_name": "Pradeep Reddy",
+          "family_name": "Raamana",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-4662-0558",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Rotman Research Institute, Baycrest Health Sciences, Toronto, ON, Canada"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Klug, Julian",
+          "given_name": "Julian",
+          "family_name": "Klug",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-4849-9811",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University of Geneva, Switzerland"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Vos de Wael, Reinder",
+          "given_name": "Reinder",
+          "family_name": "Vos de Wael"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Nichols, B. Nolan",
+          "given_name": "B. Nolan",
+          "family_name": "Nichols",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-1099-3328",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "SRI International"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Baker, Eric M.",
+          "given_name": "Eric M.",
+          "family_name": "Baker"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Koudoro, Serge",
+          "given_name": "Serge",
+          "family_name": "Koudoro"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Hayashi, Soichi",
+          "given_name": "Soichi",
+          "family_name": "Hayashi"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Pinsard, Basile",
+          "given_name": "Basile",
+          "family_name": "Pinsard"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Haselgrove, Christian",
+          "given_name": "Christian",
+          "family_name": "Haselgrove"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Hymers, Mark",
+          "given_name": "Mark",
+          "family_name": "Hymers"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Esteban, Oscar",
+          "given_name": "Oscar",
+          "family_name": "Esteban",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8435-6191",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University, CA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Pérez-García, Fernando",
+          "given_name": "Fernando",
+          "family_name": "Pérez-García",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-9090-3024",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University College London"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Becq, Guillaume",
+          "given_name": "Guillaume",
+          "family_name": "Becq",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-2134-1803",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "CRNS, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Dockès, Jérôme",
+          "given_name": "Jérôme",
+          "family_name": "Dockès"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Oosterhof, Nikolaas N.",
+          "given_name": "Nikolaas N.",
+          "family_name": "Oosterhof"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Amirbekian, Bago",
+          "given_name": "Bago",
+          "family_name": "Amirbekian"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Thyreau, Benjamin",
+          "given_name": "Benjamin",
+          "family_name": "Thyreau",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6748-8192",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Tohoku University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Christian, Horea",
+          "given_name": "Horea",
+          "family_name": "Christian"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Nimmo-Smith, Ian",
+          "given_name": "Ian",
+          "family_name": "Nimmo-Smith"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Nguyen, Ly",
+          "given_name": "Ly",
+          "family_name": "Nguyen"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Suter, Peter",
+          "given_name": "Peter",
+          "family_name": "Suter"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Reddigari, Samir",
+          "given_name": "Samir",
+          "family_name": "Reddigari",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-1472-5881",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "BrainSpec, Boston, MA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "St-Jean, Samuel",
+          "given_name": "Samuel",
+          "family_name": "St-Jean"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Daniel, Alex",
+          "given_name": "Alex",
+          "family_name": "Daniel",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-2353-3283",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Sir Peter Mansfield Imaging Centre, University of Nottingham, UK"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Panfilov, Egor",
+          "given_name": "Egor",
+          "family_name": "Panfilov",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-2500-6375",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Garyfallidis, Eleftherios",
+          "given_name": "Eleftherios",
+          "family_name": "Garyfallidis"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Varoquaux, Gael",
+          "given_name": "Gael",
+          "family_name": "Varoquaux",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-1076-5122",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "INRIA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Newton, Joshua",
+          "given_name": "Joshua",
+          "family_name": "Newton",
+          "identifiers": [
+            {
+              "identifier": "0009-0005-6963-3812",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Polytechnique Montréal, Montréal, CA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Hahn, Kevin S.",
+          "given_name": "Kevin S.",
+          "family_name": "Hahn"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Waller, Lea",
+          "given_name": "Lea",
+          "family_name": "Waller",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-3239-6957",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Charite Universitatsmedizin Berlin, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Ayala, Leonardo",
+          "given_name": "Leonardo",
+          "family_name": "Ayala",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-3574-2085",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Hinds, Oliver P.",
+          "given_name": "Oliver P.",
+          "family_name": "Hinds"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Sandro",
+          "family_name": "Sandro"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Fauber, Bennet",
+          "given_name": "Bennet",
+          "family_name": "Fauber"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Dewey, Blake",
+          "given_name": "Blake",
+          "family_name": "Dewey"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Perez, Fabian",
+          "given_name": "Fabian",
+          "family_name": "Perez"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Roberts, Jacob",
+          "given_name": "Jacob",
+          "family_name": "Roberts"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Poline, Jean-Baptiste",
+          "given_name": "Jean-Baptiste",
+          "family_name": "Poline",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-9794-749X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "McGill University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Stutters, Jon",
+          "given_name": "Jon",
+          "family_name": "Stutters",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-9151-0844",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University College London, London, UK"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Jordan, Kesshi",
+          "given_name": "Kesshi",
+          "family_name": "Jordan",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6313-0580",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University of California, San Francisco"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Cieslak, Matthew",
+          "given_name": "Matthew",
+          "family_name": "Cieslak",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-1931-4734",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Neuropsychiatry, University of Pennsylvania"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Moreno, Miguel Estevan",
+          "given_name": "Miguel Estevan",
+          "family_name": "Moreno"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Hrnčiar, Tomáš",
+          "given_name": "Tomáš",
+          "family_name": "Hrnčiar"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Haenel, Valentin",
+          "given_name": "Valentin",
+          "family_name": "Haenel"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Schwartz, Yannick",
+          "given_name": "Yannick",
+          "family_name": "Schwartz"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Beasley, Benjamin A.",
+          "given_name": "Benjamin A.",
+          "family_name": "Beasley"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Darwin, Benjamin C",
+          "given_name": "Benjamin C",
+          "family_name": "Darwin"
+        },
+        "affiliations": [
+          {
+            "name": "Hospital for Sick Children"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Thirion, Bertrand",
+          "given_name": "Bertrand",
+          "family_name": "Thirion",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-5018-7895",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "INRIA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gauthier, Carl",
+          "given_name": "Carl",
+          "family_name": "Gauthier"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Notte, Clorindo",
+          "given_name": "Clorindo",
+          "family_name": "Notte"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Solovey, Igor",
+          "given_name": "Igor",
+          "family_name": "Solovey"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gonzalez, Ivan",
+          "given_name": "Ivan",
+          "family_name": "Gonzalez",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6451-6909",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Athinoula A. Martinos Center for Biomedical Imaging, Charlestown, MA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Palasubramaniam, Jath",
+          "given_name": "Jath",
+          "family_name": "Palasubramaniam"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Cluce, Jon",
+          "given_name": "Jon",
+          "family_name": "Cluce"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Lecher, Justin",
+          "given_name": "Justin",
+          "family_name": "Lecher"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Leinweber, Katrin",
+          "given_name": "Katrin",
+          "family_name": "Leinweber",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-5135-5758",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "TIB – Leibniz Information Centre for Science and Technology and University Library, Hannover, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Raktivan, Konstantinos",
+          "given_name": "Konstantinos",
+          "family_name": "Raktivan"
+        },
+        "affiliations": [
+          {
+            "name": "National Technical University of Athens, Greece"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Calábková, Markéta",
+          "given_name": "Markéta",
+          "family_name": "Calábková"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Fischer, Peter",
+          "given_name": "Peter",
+          "family_name": "Fischer",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3242-9867",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gervais, Philippe",
+          "given_name": "Philippe",
+          "family_name": "Gervais"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gau, Rémi",
+          "given_name": "Rémi",
+          "family_name": "Gau",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-1535-9767",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Inria, Saclay, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gadde, Syam",
+          "given_name": "Syam",
+          "family_name": "Gadde"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Ballinger, Thomas",
+          "given_name": "Thomas",
+          "family_name": "Ballinger"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Roos, Thomas",
+          "given_name": "Thomas",
+          "family_name": "Roos"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Reddam, Venkateswara Reddy",
+          "given_name": "Venkateswara Reddy",
+          "family_name": "Reddam",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6817-2966",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "National Institute of Mental Health and Neuro-Sciences, India"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "freec84",
+          "family_name": "freec84"
+        }
+      }
+    ],
+    "title": "nipy/nibabel: 5.4.1",
+    "publisher": "Zenodo",
+    "publication_date": "2026-03-10",
+    "subjects": [
+      {
+        "subject": "neuroimaging"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/nipy/nibabel/tree/5.4.1",
+        "scheme": "url",
+        "relation_type": {
+          "id": "issupplementto",
+          "title": {
+            "de": "Ergänzt",
+            "en": "Is supplement to"
+          }
+        },
+        "resource_type": {
+          "id": "software",
+          "title": {
+            "de": "Software",
+            "en": "Software"
+          }
+        }
+      }
+    ],
+    "version": "5.4.1",
+    "rights": [
+      {
+        "id": "mit",
+        "title": {
+          "en": "MIT License"
+        },
+        "description": {
+          "en": "A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code."
+        },
+        "props": {
+          "url": "https://opensource.org/licenses/MIT",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "<h2>Release notes</h2>\n<p>Bug-fix release in the 5.4.x series.</p>\n<p>This release addresses test failures on shallow clones or when run with <code>python -m pytest</code> in Python 3.14+.</p>\n<h2>Bug fixes</h2>\n<ul>\n<li>Adjust tests to not depend on how pytest is run, or deep clones (#1478) (CM)</li>\n</ul>\n<h2>Maintenance</h2>\n<ul>\n<li>Consolidate environment management for development tasks to ensure tox and pre-commit stay in sync. (#1475) (CM, reviewed by Rémi Gau)</li>\n<li>Update pre-commit and ruff configurations (#1467) (Rémi Gau, reviewed by CM)</li>\n</ul>\n<h2>New Contributors</h2>\n<ul>\n<li>@Remi-Gau made their first contribution in https://github.com/nipy/nibabel/pull/1467</li>\n</ul>\n<p><strong>Full Changelog</strong>: https://github.com/nipy/nibabel/compare/5.4.0...5.4.1</p>"
+  },
+  "custom_fields": {
+    "code:codeRepository": "https://github.com/nipy/nibabel"
+  },
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 1,
+    "total_bytes": 4889090,
+    "entries": {
+      "nipy/nibabel-5.4.1.zip": {
+        "id": "e2463d09-1af8-4a3e-85bc-c07719294ace",
+        "checksum": "md5:9e80d4127c34bce5affe7e6f96963ec2",
+        "ext": "zip",
+        "size": 4889090,
+        "mimetype": "application/zip",
+        "key": "nipy/nibabel-5.4.1.zip",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": false,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 826,
+      "unique_views": 796,
+      "downloads": 125,
+      "unique_downloads": 125,
+      "data_volume": 611136250.0
+    },
+    "all_versions": {
+      "views": 26459,
+      "unique_views": 24868,
+      "downloads": 3179,
+      "unique_downloads": 3097,
+      "data_volume": 13234091048.0
+    }
+  },
+  "swh": null,
+  "ui": {
+    "publication_date_l10n_medium": "Mar 10, 2026",
+    "publication_date_l10n_long": "March 10, 2026",
+    "created_date_l10n_long": "March 10, 2026",
+    "updated_date_l10n_long": "March 10, 2026",
+    "resource_type": {
+      "id": "software",
+      "title_l10n": "Software"
+    },
+    "custom_fields": {
+      "code:codeRepository": "https://github.com/nipy/nibabel"
+    },
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Markiewicz, Christopher J.",
+            "given_name": "Christopher J.",
+            "family_name": "Markiewicz",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6533-164X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Stanford University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Brett, Matthew",
+            "given_name": "Matthew",
+            "family_name": "Brett",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-5500-2546",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              2,
+              "School of Psychology, University of Birmingham, Birmingham, UK"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Hanke, Michael",
+            "given_name": "Michael",
+            "family_name": "Hanke",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-6398-6370",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              3,
+              "Otto-von-Guericke-University Magdeburg, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Côté, Marc-Alexandre",
+            "given_name": "Marc-Alexandre",
+            "family_name": "Côté",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-5147-7859",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              4,
+              "Microsoft Research, Montréal, Québec, Canada"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Cipollini, Ben",
+            "given_name": "Ben",
+            "family_name": "Cipollini",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-7782-0790",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              5,
+              "UC San Diego"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "McCarthy, Paul",
+            "given_name": "Paul",
+            "family_name": "McCarthy"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Papadopoulos Orfanos, Dimitri",
+            "given_name": "Dimitri",
+            "family_name": "Papadopoulos Orfanos",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-1242-8990",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              6,
+              "CEA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Jarecka, Dorota",
+            "given_name": "Dorota",
+            "family_name": "Jarecka",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8282-2988",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              7,
+              "MIT"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Cheng, Christopher P.",
+            "given_name": "Christopher P.",
+            "family_name": "Cheng",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-9112-9464",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              8,
+              "Center for Open Neuroscience, Dartmouth College"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Larson, Eric",
+            "given_name": "Eric",
+            "family_name": "Larson",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-4782-5360",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              9,
+              "University of Washington: Seattle, WA, United States"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Halchenko, Yaroslav O.",
+            "given_name": "Yaroslav O.",
+            "family_name": "Halchenko",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3456-2493",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              10,
+              "Dartmouth College: Hanover, NH, United States"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Cottaar, Michiel",
+            "given_name": "Michiel",
+            "family_name": "Cottaar",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-4679-7724",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              11,
+              "Wellcome Centre for Integrative Neuroimaging, University of Oxford, UK"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Ghosh, Satrajit",
+            "given_name": "Satrajit",
+            "family_name": "Ghosh",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-5312-6729",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              12,
+              "MIT, HMS"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Wassermann, Demian",
+            "given_name": "Demian",
+            "family_name": "Wassermann",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-5194-6056",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              13,
+              "Athena EPI, Inria Sophia-Antipolis"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gerhard, Stephan",
+            "given_name": "Stephan",
+            "family_name": "Gerhard",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-4454-6171",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              14,
+              "Institute of Neuroinformatics, ETH/University of Zurich"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Lee, Gregory R.",
+            "given_name": "Gregory R.",
+            "family_name": "Lee",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8895-2740",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              15,
+              "Deptartment of Radiology, University of Cincinnati College of Medicine, Cincinnati, OH"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Baratz, Zvi",
+            "given_name": "Zvi",
+            "family_name": "Baratz",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7159-1387",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Moloney, Brendan",
+            "given_name": "Brendan",
+            "family_name": "Moloney"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Wang, Hao-Ting",
+            "given_name": "Hao-Ting",
+            "family_name": "Wang",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-4078-2038",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Kastman, Erik",
+            "given_name": "Erik",
+            "family_name": "Kastman",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7221-9042",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              16,
+              "Harvard University - Psychology"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Kaczmarzyk, Jakub",
+            "given_name": "Jakub",
+            "family_name": "Kaczmarzyk",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-5544-7577",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              7,
+              "MIT"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Guidotti, Roberto",
+            "given_name": "Roberto",
+            "family_name": "Guidotti",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-0807-6005",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              17,
+              "Department of Computer Science, Aalto University, Espoo, Finland and Department of Neuroscience, Imaging and Clinical Sciences, University G. D'Annunzio, Chieti, Italy"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Daniel, Jonathan",
+            "given_name": "Jonathan",
+            "family_name": "Daniel"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Duek, Or",
+            "given_name": "Or",
+            "family_name": "Duek"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Rokem, Ariel",
+            "given_name": "Ariel",
+            "family_name": "Rokem",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-0679-1985",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              18,
+              "The University of Washington eScience Institute"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Scheltienne, Mathieu",
+            "given_name": "Mathieu",
+            "family_name": "Scheltienne",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8316-7436",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              19,
+              "Human Neuroscience Platform, Fondation Campus Biotech Geneva, Geneva, Switzerland"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Madison, Cindee",
+            "given_name": "Cindee",
+            "family_name": "Madison"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Sólon, Anibal",
+            "given_name": "Anibal",
+            "family_name": "Sólon"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Morency, Félix C.",
+            "given_name": "Félix C.",
+            "family_name": "Morency"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Goncalves, Mathias",
+            "given_name": "Mathias",
+            "family_name": "Goncalves",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-7252-7771",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              7,
+              "MIT"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Markello, Ross",
+            "given_name": "Ross",
+            "family_name": "Markello",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-1057-1336",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              20,
+              "Montreal Neurological Institute and Hospital"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Riddell, Cameron",
+            "given_name": "Cameron",
+            "family_name": "Riddell",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8950-0375",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              21,
+              "Department of Psychology, University of California Davis, CA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Burns, Christopher",
+            "given_name": "Christopher",
+            "family_name": "Burns"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Millman, Jarrod",
+            "given_name": "Jarrod",
+            "family_name": "Millman",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-5263-5070",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              22,
+              "Berkeley Institute for Data Science, UC Berkeley"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gramfort, Alexandre",
+            "given_name": "Alexandre",
+            "family_name": "Gramfort",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-9791-4404",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              23,
+              "CNRS LTCI, Telecom ParisTech, Université Paris-Saclay"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Leppäkangas, Jaakko",
+            "given_name": "Jaakko",
+            "family_name": "Leppäkangas"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "van den Bosch, Jasper J.F.",
+            "given_name": "Jasper J.F.",
+            "family_name": "van den Bosch"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Legarreta, Jon Haitz",
+            "given_name": "Jon Haitz",
+            "family_name": "Legarreta",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-9661-1396",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              24,
+              "Brigham and Women's Hospital, Mass General Brigham/Harvard Medical School"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Vincent, Robert D.",
+            "given_name": "Robert D.",
+            "family_name": "Vincent"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Braun, Henry",
+            "given_name": "Henry",
+            "family_name": "Braun",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7003-9822",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              25,
+              "Center for Magnetic Resonance Research, University of Minnesota"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Subramaniam, Krish",
+            "given_name": "Krish",
+            "family_name": "Subramaniam"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Van, Andrew",
+            "given_name": "Andrew",
+            "family_name": "Van"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gorgolewski, Krzysztof J.",
+            "given_name": "Krzysztof J.",
+            "family_name": "Gorgolewski",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3321-7583",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              26,
+              "Google"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Raamana, Pradeep Reddy",
+            "given_name": "Pradeep Reddy",
+            "family_name": "Raamana",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-4662-0558",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              27,
+              "Rotman Research Institute, Baycrest Health Sciences, Toronto, ON, Canada"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Klug, Julian",
+            "given_name": "Julian",
+            "family_name": "Klug",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-4849-9811",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              28,
+              "University of Geneva, Switzerland"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Vos de Wael, Reinder",
+            "given_name": "Reinder",
+            "family_name": "Vos de Wael"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Nichols, B. Nolan",
+            "given_name": "B. Nolan",
+            "family_name": "Nichols",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-1099-3328",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              29,
+              "SRI International"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Baker, Eric M.",
+            "given_name": "Eric M.",
+            "family_name": "Baker"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Koudoro, Serge",
+            "given_name": "Serge",
+            "family_name": "Koudoro"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Hayashi, Soichi",
+            "given_name": "Soichi",
+            "family_name": "Hayashi"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Pinsard, Basile",
+            "given_name": "Basile",
+            "family_name": "Pinsard"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Haselgrove, Christian",
+            "given_name": "Christian",
+            "family_name": "Haselgrove"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Hymers, Mark",
+            "given_name": "Mark",
+            "family_name": "Hymers"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Esteban, Oscar",
+            "given_name": "Oscar",
+            "family_name": "Esteban",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8435-6191",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              30,
+              "Department of Psychology, Stanford University, CA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Pérez-García, Fernando",
+            "given_name": "Fernando",
+            "family_name": "Pérez-García",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-9090-3024",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              31,
+              "University College London"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Becq, Guillaume",
+            "given_name": "Guillaume",
+            "family_name": "Becq",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-2134-1803",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              32,
+              "CRNS, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Dockès, Jérôme",
+            "given_name": "Jérôme",
+            "family_name": "Dockès"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Oosterhof, Nikolaas N.",
+            "given_name": "Nikolaas N.",
+            "family_name": "Oosterhof"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Amirbekian, Bago",
+            "given_name": "Bago",
+            "family_name": "Amirbekian"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Thyreau, Benjamin",
+            "given_name": "Benjamin",
+            "family_name": "Thyreau",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-6748-8192",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              33,
+              "Tohoku University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Christian, Horea",
+            "given_name": "Horea",
+            "family_name": "Christian"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Nimmo-Smith, Ian",
+            "given_name": "Ian",
+            "family_name": "Nimmo-Smith"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Nguyen, Ly",
+            "given_name": "Ly",
+            "family_name": "Nguyen"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Suter, Peter",
+            "given_name": "Peter",
+            "family_name": "Suter"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Reddigari, Samir",
+            "given_name": "Samir",
+            "family_name": "Reddigari",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-1472-5881",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              34,
+              "BrainSpec, Boston, MA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "St-Jean, Samuel",
+            "given_name": "Samuel",
+            "family_name": "St-Jean"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Daniel, Alex",
+            "given_name": "Alex",
+            "family_name": "Daniel",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-2353-3283",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              35,
+              "Sir Peter Mansfield Imaging Centre, University of Nottingham, UK"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Panfilov, Egor",
+            "given_name": "Egor",
+            "family_name": "Panfilov",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-2500-6375",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Garyfallidis, Eleftherios",
+            "given_name": "Eleftherios",
+            "family_name": "Garyfallidis"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Varoquaux, Gael",
+            "given_name": "Gael",
+            "family_name": "Varoquaux",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-1076-5122",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              36,
+              "INRIA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Newton, Joshua",
+            "given_name": "Joshua",
+            "family_name": "Newton",
+            "identifiers": [
+              {
+                "identifier": "0009-0005-6963-3812",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              37,
+              "Polytechnique Montréal, Montréal, CA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Hahn, Kevin S.",
+            "given_name": "Kevin S.",
+            "family_name": "Hahn"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Waller, Lea",
+            "given_name": "Lea",
+            "family_name": "Waller",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-3239-6957",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              38,
+              "Charite Universitatsmedizin Berlin, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Ayala, Leonardo",
+            "given_name": "Leonardo",
+            "family_name": "Ayala",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-3574-2085",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Hinds, Oliver P.",
+            "given_name": "Oliver P.",
+            "family_name": "Hinds"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Sandro",
+            "family_name": "Sandro"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Fauber, Bennet",
+            "given_name": "Bennet",
+            "family_name": "Fauber"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Dewey, Blake",
+            "given_name": "Blake",
+            "family_name": "Dewey"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Perez, Fabian",
+            "given_name": "Fabian",
+            "family_name": "Perez"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Roberts, Jacob",
+            "given_name": "Jacob",
+            "family_name": "Roberts"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Poline, Jean-Baptiste",
+            "given_name": "Jean-Baptiste",
+            "family_name": "Poline",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-9794-749X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              39,
+              "McGill University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Stutters, Jon",
+            "given_name": "Jon",
+            "family_name": "Stutters",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-9151-0844",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              40,
+              "University College London, London, UK"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Jordan, Kesshi",
+            "given_name": "Kesshi",
+            "family_name": "Jordan",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-6313-0580",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              41,
+              "University of California, San Francisco"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Cieslak, Matthew",
+            "given_name": "Matthew",
+            "family_name": "Cieslak",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-1931-4734",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              42,
+              "Department of Neuropsychiatry, University of Pennsylvania"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Moreno, Miguel Estevan",
+            "given_name": "Miguel Estevan",
+            "family_name": "Moreno"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Hrnčiar, Tomáš",
+            "given_name": "Tomáš",
+            "family_name": "Hrnčiar"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Haenel, Valentin",
+            "given_name": "Valentin",
+            "family_name": "Haenel"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Schwartz, Yannick",
+            "given_name": "Yannick",
+            "family_name": "Schwartz"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Beasley, Benjamin A.",
+            "given_name": "Benjamin A.",
+            "family_name": "Beasley"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Darwin, Benjamin C",
+            "given_name": "Benjamin C",
+            "family_name": "Darwin"
+          },
+          "affiliations": [
+            [
+              43,
+              "Hospital for Sick Children"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Thirion, Bertrand",
+            "given_name": "Bertrand",
+            "family_name": "Thirion",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-5018-7895",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              36,
+              "INRIA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gauthier, Carl",
+            "given_name": "Carl",
+            "family_name": "Gauthier"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Notte, Clorindo",
+            "given_name": "Clorindo",
+            "family_name": "Notte"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Solovey, Igor",
+            "given_name": "Igor",
+            "family_name": "Solovey"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gonzalez, Ivan",
+            "given_name": "Ivan",
+            "family_name": "Gonzalez",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6451-6909",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              44,
+              "Athinoula A. Martinos Center for Biomedical Imaging, Charlestown, MA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Palasubramaniam, Jath",
+            "given_name": "Jath",
+            "family_name": "Palasubramaniam"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Cluce, Jon",
+            "given_name": "Jon",
+            "family_name": "Cluce"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Lecher, Justin",
+            "given_name": "Justin",
+            "family_name": "Lecher"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Leinweber, Katrin",
+            "given_name": "Katrin",
+            "family_name": "Leinweber",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-5135-5758",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              45,
+              "TIB – Leibniz Information Centre for Science and Technology and University Library, Hannover, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Raktivan, Konstantinos",
+            "given_name": "Konstantinos",
+            "family_name": "Raktivan"
+          },
+          "affiliations": [
+            [
+              46,
+              "National Technical University of Athens, Greece"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Calábková, Markéta",
+            "given_name": "Markéta",
+            "family_name": "Calábková"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Fischer, Peter",
+            "given_name": "Peter",
+            "family_name": "Fischer",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3242-9867",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              47,
+              "Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gervais, Philippe",
+            "given_name": "Philippe",
+            "family_name": "Gervais"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gau, Rémi",
+            "given_name": "Rémi",
+            "family_name": "Gau",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-1535-9767",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              48,
+              "Inria, Saclay, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gadde, Syam",
+            "given_name": "Syam",
+            "family_name": "Gadde"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Ballinger, Thomas",
+            "given_name": "Thomas",
+            "family_name": "Ballinger"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Roos, Thomas",
+            "given_name": "Thomas",
+            "family_name": "Roos"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Reddam, Venkateswara Reddy",
+            "given_name": "Venkateswara Reddy",
+            "family_name": "Reddam",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-6817-2966",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              49,
+              "National Institute of Mental Health and Neuro-Sciences, India"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "freec84",
+            "family_name": "freec84"
+          }
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "Stanford University",
+          null
+        ],
+        [
+          2,
+          "School of Psychology, University of Birmingham, Birmingham, UK",
+          null
+        ],
+        [
+          3,
+          "Otto-von-Guericke-University Magdeburg, Germany",
+          null
+        ],
+        [
+          4,
+          "Microsoft Research, Montréal, Québec, Canada",
+          null
+        ],
+        [
+          5,
+          "UC San Diego",
+          null
+        ],
+        [
+          6,
+          "CEA",
+          null
+        ],
+        [
+          7,
+          "MIT",
+          null
+        ],
+        [
+          8,
+          "Center for Open Neuroscience, Dartmouth College",
+          null
+        ],
+        [
+          9,
+          "University of Washington: Seattle, WA, United States",
+          null
+        ],
+        [
+          10,
+          "Dartmouth College: Hanover, NH, United States",
+          null
+        ],
+        [
+          11,
+          "Wellcome Centre for Integrative Neuroimaging, University of Oxford, UK",
+          null
+        ],
+        [
+          12,
+          "MIT, HMS",
+          null
+        ],
+        [
+          13,
+          "Athena EPI, Inria Sophia-Antipolis",
+          null
+        ],
+        [
+          14,
+          "Institute of Neuroinformatics, ETH/University of Zurich",
+          null
+        ],
+        [
+          15,
+          "Deptartment of Radiology, University of Cincinnati College of Medicine, Cincinnati, OH",
+          null
+        ],
+        [
+          16,
+          "Harvard University - Psychology",
+          null
+        ],
+        [
+          17,
+          "Department of Computer Science, Aalto University, Espoo, Finland and Department of Neuroscience, Imaging and Clinical Sciences, University G. D'Annunzio, Chieti, Italy",
+          null
+        ],
+        [
+          18,
+          "The University of Washington eScience Institute",
+          null
+        ],
+        [
+          19,
+          "Human Neuroscience Platform, Fondation Campus Biotech Geneva, Geneva, Switzerland",
+          null
+        ],
+        [
+          20,
+          "Montreal Neurological Institute and Hospital",
+          null
+        ],
+        [
+          21,
+          "Department of Psychology, University of California Davis, CA, USA",
+          null
+        ],
+        [
+          22,
+          "Berkeley Institute for Data Science, UC Berkeley",
+          null
+        ],
+        [
+          23,
+          "CNRS LTCI, Telecom ParisTech, Université Paris-Saclay",
+          null
+        ],
+        [
+          24,
+          "Brigham and Women's Hospital, Mass General Brigham/Harvard Medical School",
+          null
+        ],
+        [
+          25,
+          "Center for Magnetic Resonance Research, University of Minnesota",
+          null
+        ],
+        [
+          26,
+          "Google",
+          null
+        ],
+        [
+          27,
+          "Rotman Research Institute, Baycrest Health Sciences, Toronto, ON, Canada",
+          null
+        ],
+        [
+          28,
+          "University of Geneva, Switzerland",
+          null
+        ],
+        [
+          29,
+          "SRI International",
+          null
+        ],
+        [
+          30,
+          "Department of Psychology, Stanford University, CA, USA",
+          null
+        ],
+        [
+          31,
+          "University College London",
+          null
+        ],
+        [
+          32,
+          "CRNS, France",
+          null
+        ],
+        [
+          33,
+          "Tohoku University",
+          null
+        ],
+        [
+          34,
+          "BrainSpec, Boston, MA",
+          null
+        ],
+        [
+          35,
+          "Sir Peter Mansfield Imaging Centre, University of Nottingham, UK",
+          null
+        ],
+        [
+          36,
+          "INRIA",
+          null
+        ],
+        [
+          37,
+          "Polytechnique Montréal, Montréal, CA",
+          null
+        ],
+        [
+          38,
+          "Charite Universitatsmedizin Berlin, Germany",
+          null
+        ],
+        [
+          39,
+          "McGill University",
+          null
+        ],
+        [
+          40,
+          "University College London, London, UK",
+          null
+        ],
+        [
+          41,
+          "University of California, San Francisco",
+          null
+        ],
+        [
+          42,
+          "Department of Neuropsychiatry, University of Pennsylvania",
+          null
+        ],
+        [
+          43,
+          "Hospital for Sick Children",
+          null
+        ],
+        [
+          44,
+          "Athinoula A. Martinos Center for Biomedical Imaging, Charlestown, MA",
+          null
+        ],
+        [
+          45,
+          "TIB – Leibniz Information Centre for Science and Technology and University Library, Hannover, Germany",
+          null
+        ],
+        [
+          46,
+          "National Technical University of Athens, Greece",
+          null
+        ],
+        [
+          47,
+          "Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, Germany",
+          null
+        ],
+        [
+          48,
+          "Inria, Saclay, France",
+          null
+        ],
+        [
+          49,
+          "National Institute of Mental Health and Neuro-Sciences, India",
+          null
+        ]
+      ]
+    },
+    "description_stripped": "Release notes\n\nBug-fix release in the 5.4.x series.\n\nThis release addresses test failures on shallow clones or when run with python -m pytest in Python 3.14+.\n\nBug fixes\n\n\n\nAdjust tests to not depend on how pytest is run, or deep clones (#1478) (CM)\n\n\nMaintenance\n\n\n\nConsolidate environment management for development tasks to ensure tox and pre-commit stay in sync. (#1475) (CM, reviewed by Rémi Gau)\n\nUpdate pre-commit and ruff configurations (#1467) (Rémi Gau, reviewed by CM)\n\n\nNew Contributors\n\n\n\n@Remi-Gau made their first contribution in https://github.com/nipy/nibabel/pull/1467\n\n\nFull Changelog: https://github.com/nipy/nibabel/compare/5.4.0...5.4.1",
+    "version": "5.4.1",
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/nipy/nibabel/tree/5.4.1",
+        "relation_type": {
+          "id": "issupplementto",
+          "title_l10n": "Is supplement to"
+        },
+        "scheme": "url",
+        "resource_type": {
+          "id": "software",
+          "title_l10n": "Software"
+        }
+      }
+    ],
+    "rights": [
+      {
+        "id": "mit",
+        "title_l10n": "MIT License",
+        "description_l10n": "A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.",
+        "props": {
+          "url": "https://opensource.org/licenses/MIT",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}

@@ -1,0 +1,1483 @@
+{
+  "id": "19616237",
+  "created": "2026-04-16T20:24:34.112980+00:00",
+  "updated": "2026-04-16T20:24:34.296460+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/19616237",
+    "self_html": "https://zenodo.org/records/19616237",
+    "preview_html": "https://zenodo.org/records/19616237?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.19616237",
+    "self_doi": "https://doi.org/10.5281/zenodo.19616237",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.19616237",
+    "reserve_doi": "https://zenodo.org/api/records/19616237/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/3759082",
+    "parent_html": "https://zenodo.org/records/3759082",
+    "parent_doi": "https://doi.org/10.5281/zenodo.3759082",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.3759082",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:19616237/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:19616237/sequence/default",
+    "files": "https://zenodo.org/api/records/19616237/files",
+    "media_files": "https://zenodo.org/api/records/19616237/media-files",
+    "archive": "https://zenodo.org/api/records/19616237/files-archive",
+    "archive_media": "https://zenodo.org/api/records/19616237/media-files-archive",
+    "latest": "https://zenodo.org/api/records/19616237/versions/latest",
+    "latest_html": "https://zenodo.org/records/19616237/latest",
+    "versions": "https://zenodo.org/api/records/19616237/versions",
+    "draft": "https://zenodo.org/api/records/19616237/draft",
+    "access_links": "https://zenodo.org/api/records/19616237/access/links",
+    "access_grants": "https://zenodo.org/api/records/19616237/access/grants",
+    "access_users": "https://zenodo.org/api/records/19616237/access/users",
+    "access_request": "https://zenodo.org/api/records/19616237/access/request",
+    "access": "https://zenodo.org/api/records/19616237/access",
+    "communities": "https://zenodo.org/api/records/19616237/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/19616237/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/19616237/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/19616237/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/19616237/quota-increase",
+    "requests": "https://zenodo.org/api/records/19616237/requests"
+  },
+  "revision_id": 4,
+  "parent": {
+    "id": "3759082",
+    "access": {
+      "owned_by": {
+        "user": "77425"
+      },
+      "settings": {
+        "allow_user_requests": false,
+        "allow_guest_requests": false,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.3759082",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 20
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.19616237",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:19616237",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "software",
+      "title": {
+        "de": "Software",
+        "en": "Software"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Salo, Taylor",
+          "given_name": "Taylor",
+          "family_name": "Salo",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-9813-3167",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University of Pennsylvania"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Adebimpe, Azeez",
+          "given_name": "Azeez",
+          "family_name": "Adebimpe",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-9049-0135",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University of Pennsylvania"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Bertolero, Maxwell",
+          "given_name": "Maxwell",
+          "family_name": "Bertolero",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-2691-3698",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University of Pennsylvania"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Dolui, Sudipto",
+          "given_name": "Sudipto",
+          "family_name": "Dolui",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-9035-3795",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Cieslak, Matthew",
+          "given_name": "Matthew",
+          "family_name": "Cieslak",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-1931-4734",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University of Pennsylvania"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Murtha, Kristin",
+          "given_name": "Kristin",
+          "family_name": "Murtha",
+          "identifiers": [
+            {
+              "identifier": "0009-0006-5820-6740",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University of Pennsylvania"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Baller, Erica",
+          "given_name": "Erica",
+          "family_name": "Baller",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-7987-3773",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Boeve, Bradley",
+          "given_name": "Bradley",
+          "family_name": "Boeve",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-4153-8187",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Boxer, Adam",
+          "given_name": "Adam",
+          "family_name": "Boxer",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-1215-5064",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Butler, Ellyn R.",
+          "given_name": "Ellyn R.",
+          "family_name": "Butler",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6316-6444",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Cook, Phil",
+          "given_name": "Phil",
+          "family_name": "Cook"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Colcombe, Stan",
+          "given_name": "Stan",
+          "family_name": "Colcombe",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-5051-2491",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Covitz, Sydney",
+          "given_name": "Sydney",
+          "family_name": "Covitz",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-7430-4125",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University of Pennsylvania"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Davatzikos, Christos",
+          "given_name": "Christos",
+          "family_name": "Davatzikos",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-1025-8561",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Davila, Diego G.",
+          "given_name": "Diego G.",
+          "family_name": "Davila"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Elliott, Mark A.",
+          "given_name": "Mark A.",
+          "family_name": "Elliott",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3807-2723",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Flounders, Matthew W.",
+          "given_name": "Matthew W.",
+          "family_name": "Flounders",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7014-4665",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Franco, Alexandre R.",
+          "given_name": "Alexandre R.",
+          "family_name": "Franco"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Goncalves, Mathias",
+          "given_name": "Mathias",
+          "family_name": "Goncalves",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-7252-7771",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Stanford University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gur, Raquel E.",
+          "given_name": "Raquel E.",
+          "family_name": "Gur",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-4082-8502",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gur, Ruben C.",
+          "given_name": "Ruben C.",
+          "family_name": "Gur",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-9657-1996",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Jaber, Basma",
+          "given_name": "Basma",
+          "family_name": "Jaber"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Markiewicz, Christopher J.",
+          "given_name": "Christopher J.",
+          "family_name": "Markiewicz",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6533-164X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Stanford University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "McMillian, Corey",
+          "given_name": "Corey",
+          "family_name": "McMillian"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "The ALLFTD Consortium",
+          "family_name": "The ALLFTD Consortium"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Milham, Michael",
+          "given_name": "Michael",
+          "family_name": "Milham",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3532-1210",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Mutsaerts, Henk J. M. M.",
+          "given_name": "Henk J. M. M.",
+          "family_name": "Mutsaerts",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-0894-0307",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Oathes, Desmond J.",
+          "given_name": "Desmond J.",
+          "family_name": "Oathes",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7346-2669",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Olm, Christopher A.",
+          "given_name": "Christopher A.",
+          "family_name": "Olm",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-4858-2359",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Phillips, Jeffrey S.",
+          "given_name": "Jeffrey S.",
+          "family_name": "Phillips"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Ptinis, Ashley",
+          "given_name": "Ashley",
+          "family_name": "Ptinis"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Tackett, Will",
+          "given_name": "Will",
+          "family_name": "Tackett"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Roalf, David R.",
+          "given_name": "David R.",
+          "family_name": "Roalf",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-1728-9782",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Rosen, Howard",
+          "given_name": "Howard",
+          "family_name": "Rosen",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-9281-7402",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Sevchik, Brooke",
+          "given_name": "Brooke",
+          "family_name": "Sevchik",
+          "identifiers": [
+            {
+              "identifier": "0009-0005-2187-2275",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Tapera, Tinashe M.",
+          "given_name": "Tinashe M.",
+          "family_name": "Tapera",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-9080-5010",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Tisdall, M. Dylan",
+          "given_name": "M. Dylan",
+          "family_name": "Tisdall",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-0454-3112",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Tong, Tien",
+          "given_name": "Tien",
+          "family_name": "Tong",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-1940-3198",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Zhou, Dale",
+          "given_name": "Dale",
+          "family_name": "Zhou",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-9240-1327",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Esteban, Oscar",
+          "given_name": "Oscar",
+          "family_name": "Esteban",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8435-6191",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Poldrack, Russell A.",
+          "given_name": "Russell A.",
+          "family_name": "Poldrack",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6755-0259",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Detre, John A.",
+          "given_name": "John A.",
+          "family_name": "Detre",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-8115-6343",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Satterthwaite, Theodore",
+          "given_name": "Theodore",
+          "family_name": "Satterthwaite",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7072-9399",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University of Pennsylvania"
+          }
+        ]
+      }
+    ],
+    "title": "ASLPrep: A Robust Preprocessing Pipeline for ASL Data",
+    "publisher": "Zenodo",
+    "publication_date": "2026-04-16",
+    "subjects": [
+      {
+        "subject": "ASL"
+      },
+      {
+        "subject": "BIDS-App"
+      },
+      {
+        "subject": "Neuroimaging"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/PennLINC/aslprep/tree/26.0.3",
+        "scheme": "url",
+        "relation_type": {
+          "id": "issupplementto",
+          "title": {
+            "de": "Ergänzt",
+            "en": "Is supplement to"
+          }
+        },
+        "resource_type": {
+          "id": "software",
+          "title": {
+            "de": "Software",
+            "en": "Software"
+          }
+        }
+      }
+    ],
+    "version": "26.0.3",
+    "rights": [
+      {
+        "id": "bsd-3-clause",
+        "title": {
+          "en": "BSD 3-Clause \"New\" or \"Revised\" License"
+        },
+        "description": {
+          "en": ""
+        },
+        "props": {
+          "url": "https://opensource.org/licenses/BSD-3-Clause",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "Arterial spin labeled (ASL) magnetic resonance imaging (MRI) is the primary method for noninvasively measuring regional brain perfusion in humans. We introduce ASLPrep, a suite of software pipelines that ensure the reproducible and generalizable processing of ASL MRI data.",
+    "additional_descriptions": [
+      {
+        "description": "If you use this software, please cite it using the metadata from this file, as well as the Nature Methods paper (doi:10.1038/s41592-022-01458-7).",
+        "type": {
+          "id": "notes",
+          "title": {
+            "de": "Anmerkungen",
+            "en": "Notes"
+          }
+        }
+      }
+    ]
+  },
+  "custom_fields": {
+    "code:codeRepository": "https://github.com/PennLINC/aslprep"
+  },
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 1,
+    "total_bytes": 33491826,
+    "entries": {
+      "PennLINC/aslprep-26.0.3.zip": {
+        "id": "435544d8-be08-420e-8c66-ea8543e46301",
+        "checksum": "md5:d8e0bbb501cccff958217355ed5236a2",
+        "ext": "zip",
+        "size": 33491826,
+        "mimetype": "application/zip",
+        "key": "PennLINC/aslprep-26.0.3.zip",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": false,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 205,
+      "unique_views": 205,
+      "downloads": 58,
+      "unique_downloads": 58,
+      "data_volume": 1942525908.0
+    },
+    "all_versions": {
+      "views": 2436,
+      "unique_views": 2382,
+      "downloads": 520,
+      "unique_downloads": 512,
+      "data_volume": 19346730327.0
+    }
+  },
+  "swh": {
+    "swhid": "swh:1:dir:0692f7d5aba1954bac203d15761edde488c8065d;origin=https://doi.org/10.5281/zenodo.3759082;visit=swh:1:snp:a8017895f8db8d0f0ef20c156feca8cb8d039558;anchor=swh:1:rel:92598e2c18032ab876babe9df4896f89fbb73c08;path=PennLINC-aslprep-2140be4"
+  },
+  "ui": {
+    "publication_date_l10n_medium": "Apr 16, 2026",
+    "publication_date_l10n_long": "April 16, 2026",
+    "created_date_l10n_long": "April 16, 2026",
+    "updated_date_l10n_long": "April 16, 2026",
+    "resource_type": {
+      "id": "software",
+      "title_l10n": "Software"
+    },
+    "custom_fields": {
+      "code:codeRepository": "https://github.com/PennLINC/aslprep"
+    },
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Salo, Taylor",
+            "given_name": "Taylor",
+            "family_name": "Salo",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-9813-3167",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "University of Pennsylvania"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Adebimpe, Azeez",
+            "given_name": "Azeez",
+            "family_name": "Adebimpe",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-9049-0135",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "University of Pennsylvania"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Bertolero, Maxwell",
+            "given_name": "Maxwell",
+            "family_name": "Bertolero",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-2691-3698",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "University of Pennsylvania"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Dolui, Sudipto",
+            "given_name": "Sudipto",
+            "family_name": "Dolui",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-9035-3795",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Cieslak, Matthew",
+            "given_name": "Matthew",
+            "family_name": "Cieslak",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-1931-4734",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "University of Pennsylvania"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Murtha, Kristin",
+            "given_name": "Kristin",
+            "family_name": "Murtha",
+            "identifiers": [
+              {
+                "identifier": "0009-0006-5820-6740",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "University of Pennsylvania"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Baller, Erica",
+            "given_name": "Erica",
+            "family_name": "Baller",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-7987-3773",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Boeve, Bradley",
+            "given_name": "Bradley",
+            "family_name": "Boeve",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-4153-8187",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Boxer, Adam",
+            "given_name": "Adam",
+            "family_name": "Boxer",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-1215-5064",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Butler, Ellyn R.",
+            "given_name": "Ellyn R.",
+            "family_name": "Butler",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-6316-6444",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Cook, Phil",
+            "given_name": "Phil",
+            "family_name": "Cook"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Colcombe, Stan",
+            "given_name": "Stan",
+            "family_name": "Colcombe",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-5051-2491",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Covitz, Sydney",
+            "given_name": "Sydney",
+            "family_name": "Covitz",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-7430-4125",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "University of Pennsylvania"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Davatzikos, Christos",
+            "given_name": "Christos",
+            "family_name": "Davatzikos",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-1025-8561",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Davila, Diego G.",
+            "given_name": "Diego G.",
+            "family_name": "Davila"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Elliott, Mark A.",
+            "given_name": "Mark A.",
+            "family_name": "Elliott",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3807-2723",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Flounders, Matthew W.",
+            "given_name": "Matthew W.",
+            "family_name": "Flounders",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7014-4665",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Franco, Alexandre R.",
+            "given_name": "Alexandre R.",
+            "family_name": "Franco"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Goncalves, Mathias",
+            "given_name": "Mathias",
+            "family_name": "Goncalves",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-7252-7771",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              2,
+              "Stanford University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gur, Raquel E.",
+            "given_name": "Raquel E.",
+            "family_name": "Gur",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-4082-8502",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gur, Ruben C.",
+            "given_name": "Ruben C.",
+            "family_name": "Gur",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-9657-1996",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Jaber, Basma",
+            "given_name": "Basma",
+            "family_name": "Jaber"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Markiewicz, Christopher J.",
+            "given_name": "Christopher J.",
+            "family_name": "Markiewicz",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6533-164X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              2,
+              "Stanford University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "McMillian, Corey",
+            "given_name": "Corey",
+            "family_name": "McMillian"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "The ALLFTD Consortium",
+            "family_name": "The ALLFTD Consortium"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Milham, Michael",
+            "given_name": "Michael",
+            "family_name": "Milham",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3532-1210",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Mutsaerts, Henk J. M. M.",
+            "given_name": "Henk J. M. M.",
+            "family_name": "Mutsaerts",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-0894-0307",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Oathes, Desmond J.",
+            "given_name": "Desmond J.",
+            "family_name": "Oathes",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7346-2669",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Olm, Christopher A.",
+            "given_name": "Christopher A.",
+            "family_name": "Olm",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-4858-2359",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Phillips, Jeffrey S.",
+            "given_name": "Jeffrey S.",
+            "family_name": "Phillips"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Ptinis, Ashley",
+            "given_name": "Ashley",
+            "family_name": "Ptinis"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Tackett, Will",
+            "given_name": "Will",
+            "family_name": "Tackett"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Roalf, David R.",
+            "given_name": "David R.",
+            "family_name": "Roalf",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-1728-9782",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Rosen, Howard",
+            "given_name": "Howard",
+            "family_name": "Rosen",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-9281-7402",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Sevchik, Brooke",
+            "given_name": "Brooke",
+            "family_name": "Sevchik",
+            "identifiers": [
+              {
+                "identifier": "0009-0005-2187-2275",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Tapera, Tinashe M.",
+            "given_name": "Tinashe M.",
+            "family_name": "Tapera",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-9080-5010",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Tisdall, M. Dylan",
+            "given_name": "M. Dylan",
+            "family_name": "Tisdall",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-0454-3112",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Tong, Tien",
+            "given_name": "Tien",
+            "family_name": "Tong",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-1940-3198",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Zhou, Dale",
+            "given_name": "Dale",
+            "family_name": "Zhou",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-9240-1327",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Esteban, Oscar",
+            "given_name": "Oscar",
+            "family_name": "Esteban",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8435-6191",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Poldrack, Russell A.",
+            "given_name": "Russell A.",
+            "family_name": "Poldrack",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-6755-0259",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Detre, John A.",
+            "given_name": "John A.",
+            "family_name": "Detre",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-8115-6343",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Satterthwaite, Theodore",
+            "given_name": "Theodore",
+            "family_name": "Satterthwaite",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7072-9399",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "University of Pennsylvania"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "University of Pennsylvania",
+          null
+        ],
+        [
+          2,
+          "Stanford University",
+          null
+        ]
+      ]
+    },
+    "description_stripped": "Arterial spin labeled (ASL) magnetic resonance imaging (MRI) is the primary method for noninvasively measuring regional brain perfusion in humans. We introduce ASLPrep, a suite of software pipelines that ensure the reproducible and generalizable processing of ASL MRI data.",
+    "version": "26.0.3",
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/PennLINC/aslprep/tree/26.0.3",
+        "relation_type": {
+          "id": "issupplementto",
+          "title_l10n": "Is supplement to"
+        },
+        "scheme": "url",
+        "resource_type": {
+          "id": "software",
+          "title_l10n": "Software"
+        }
+      }
+    ],
+    "additional_descriptions": [
+      {
+        "description": "If you use this software, please cite it using the metadata from this file, as well as the Nature Methods paper (doi:10.1038/s41592-022-01458-7).",
+        "type": {
+          "id": "notes",
+          "title_l10n": "Notes"
+        }
+      }
+    ],
+    "rights": [
+      {
+        "id": "bsd-3-clause",
+        "title_l10n": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "description_l10n": "",
+        "props": {
+          "url": "https://opensource.org/licenses/BSD-3-Clause",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}

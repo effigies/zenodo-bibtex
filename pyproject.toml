@@ -1,0 +1,50 @@
+[project]
+name = "zenodo-bibtex"
+version = "0.1.0"
+description = "Client-side BibTeX serialization for Zenodo records"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "babel-edtf>=1.2",
+    "edtf>=5.0",
+    "httpx>=0.28",
+    "python-slugify>=8.0",
+    "typer>=0.15",
+]
+
+[project.scripts]
+zenodo-bibtex = "zenodo_bibtex.cli:app"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/zenodo_bibtex"]
+
+[tool.ruff]
+line-length = 88
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = [
+    "B",   # flake8-bugbear; B008 function-call-in-default-argument
+    "BLE", # blind except
+    "C4",  # comprehensions
+    "E",   # pycodestyle errors; E501 makes line-length above load-bearing
+    "F",   # pyflakes
+    "I",   # import sorting
+    "RUF", # ruff-specific, incl. RUF100 unused-noqa
+    "SIM", # simplify
+    "UP",  # pyupgrade
+    "W",   # pycodestyle warnings
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "--cov=zenodo_bibtex --cov=tests --cov-report=term-missing"
+
+[dependency-groups]
+# tox and tox-uv are here so `uv run tox` works as the README documents;
+# tox.ini's `requires = tox-uv` only declares the plugin, it does not install it.
+dev = ["pytest", "pytest-cov", "tox", "tox-uv"]

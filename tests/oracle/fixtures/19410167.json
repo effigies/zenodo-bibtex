@@ -1,0 +1,1187 @@
+{
+  "id": "19410167",
+  "created": "2026-04-03T19:28:11.928071+00:00",
+  "updated": "2026-04-03T19:28:12.121067+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/19410167",
+    "self_html": "https://zenodo.org/records/19410167",
+    "preview_html": "https://zenodo.org/records/19410167?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.19410167",
+    "self_doi": "https://doi.org/10.5281/zenodo.19410167",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.19410167",
+    "reserve_doi": "https://zenodo.org/api/records/19410167/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/1250561",
+    "parent_html": "https://zenodo.org/records/1250561",
+    "parent_doi": "https://doi.org/10.5281/zenodo.1250561",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.1250561",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:19410167/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:19410167/sequence/default",
+    "files": "https://zenodo.org/api/records/19410167/files",
+    "media_files": "https://zenodo.org/api/records/19410167/media-files",
+    "archive": "https://zenodo.org/api/records/19410167/files-archive",
+    "archive_media": "https://zenodo.org/api/records/19410167/media-files-archive",
+    "latest": "https://zenodo.org/api/records/19410167/versions/latest",
+    "latest_html": "https://zenodo.org/records/19410167/latest",
+    "versions": "https://zenodo.org/api/records/19410167/versions",
+    "draft": "https://zenodo.org/api/records/19410167/draft",
+    "access_links": "https://zenodo.org/api/records/19410167/access/links",
+    "access_grants": "https://zenodo.org/api/records/19410167/access/grants",
+    "access_users": "https://zenodo.org/api/records/19410167/access/users",
+    "access_request": "https://zenodo.org/api/records/19410167/access/request",
+    "access": "https://zenodo.org/api/records/19410167/access",
+    "communities": "https://zenodo.org/api/records/19410167/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/19410167/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/19410167/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/19410167/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/19410167/quota-increase",
+    "requests": "https://zenodo.org/api/records/19410167/requests"
+  },
+  "revision_id": 4,
+  "parent": {
+    "id": "1250561",
+    "access": {
+      "owned_by": {
+        "user": "46659"
+      },
+      "settings": {
+        "allow_user_requests": false,
+        "allow_guest_requests": false,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.1250561",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 29
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.19410167",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:19410167",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "software",
+      "title": {
+        "de": "Software",
+        "en": "Software"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "The tedana Community",
+          "family_name": "The tedana Community"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Ahmed, Zaki",
+          "given_name": "Zaki",
+          "family_name": "Ahmed",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-5648-0590",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Mayo Clinic"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Bandettini, Peter A.",
+          "given_name": "Peter A.",
+          "family_name": "Bandettini",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-9038-4746",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "National Institutes of Health"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Bottenhorn, Katherine L.",
+          "given_name": "Katherine L.",
+          "family_name": "Bottenhorn",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-7796-8795",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Florida International University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Caballero-Gaudes, César",
+          "given_name": "César",
+          "family_name": "Caballero-Gaudes",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-9068-5810",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Basque Center on Cognition, Brain and Language"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Dowdle, Logan T.",
+          "given_name": "Logan T.",
+          "family_name": "Dowdle",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-1879-705X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Center for Magnetic Resonance Research, University of Minnesota"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "DuPre, Elizabeth",
+          "given_name": "Elizabeth",
+          "family_name": "DuPre",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-1358-196X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Montreal Neurological Institute, McGill University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gonzalez-Castillo, Javier",
+          "given_name": "Javier",
+          "family_name": "Gonzalez-Castillo",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6520-5125",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "National Institutes of Health"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Handwerker, Dan",
+          "given_name": "Dan",
+          "family_name": "Handwerker",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7261-4042",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "National Institutes of Health"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Heunis, Stephan",
+          "given_name": "Stephan",
+          "family_name": "Heunis",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3503-9872",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Eindhoven University of Technology"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Kundu, Prantik",
+          "given_name": "Prantik",
+          "family_name": "Kundu",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-9367-3068",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Mount Sinai Hospital"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Laird, Angela R.",
+          "given_name": "Angela R.",
+          "family_name": "Laird",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3379-8744",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Florida International University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Markello, Ross",
+          "given_name": "Ross",
+          "family_name": "Markello",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-1057-1336",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Montreal Neurological Institute, McGill University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Markiewicz, Christopher J.",
+          "given_name": "Christopher J.",
+          "family_name": "Markiewicz",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6533-164X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Stanford University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Maullin-Sapey, Thomas",
+          "given_name": "Thomas",
+          "family_name": "Maullin-Sapey",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-4516-5103",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Big Data Institute, University of Oxford"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Moia, Stefano",
+          "given_name": "Stefano",
+          "family_name": "Moia",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-2553-3327",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Basque Center on Cognition, Brain and Language"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Molfese, Peter",
+          "given_name": "Peter",
+          "family_name": "Molfese",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-3045-9408",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "National Institutes of Mental Health, CMN"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Salo, Taylor",
+          "given_name": "Taylor",
+          "family_name": "Salo",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-9813-3167",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Florida International University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Staden, Isla",
+          "given_name": "Isla",
+          "family_name": "Staden",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-0795-1154",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Teves, Joshua",
+          "given_name": "Joshua",
+          "family_name": "Teves",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-7767-0067",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "National Institutes of Mental Health, Section on Functional Imaging Methods"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Uruñuela, Eneko",
+          "given_name": "Eneko",
+          "family_name": "Uruñuela",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6849-9088",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Basque Center on Cognition, Brain and Language"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Vaziri-Pashkam, Maryam",
+          "given_name": "Maryam",
+          "family_name": "Vaziri-Pashkam",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-1830-2501",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Laboratory of Brain and Cognition, National Institute of Mental Health"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Whitaker, Kirstie",
+          "given_name": "Kirstie",
+          "family_name": "Whitaker",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8498-4059",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "The Alan Turing Institute"
+          }
+        ]
+      }
+    ],
+    "title": "ME-ICA/tedana: 26.0.3",
+    "publisher": "Zenodo",
+    "publication_date": "2026-04-03",
+    "subjects": [
+      {
+        "subject": "neuroimaging"
+      },
+      {
+        "subject": "fMRI"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/ME-ICA/tedana/tree/26.0.3",
+        "scheme": "url",
+        "relation_type": {
+          "id": "issupplementto",
+          "title": {
+            "de": "Ergänzt",
+            "en": "Is supplement to"
+          }
+        },
+        "resource_type": {
+          "id": "software",
+          "title": {
+            "de": "Software",
+            "en": "Software"
+          }
+        }
+      }
+    ],
+    "version": "26.0.3",
+    "rights": [
+      {
+        "id": "lgpl-2.1-only",
+        "title": {
+          "en": "GNU Lesser General Public License v2.1 only"
+        },
+        "description": {
+          "en": ""
+        },
+        "props": {
+          "url": "https://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "<p>A new patch release in the 26.0.x series. This release fixes dummy-scan handling in the tedana and t2smap workflows. The associated bug was introduced in 26.0.0, so if you are using a release in the 26.0.x series and rely on the <code>--dummy-scans</code> parameter, we recommend updating to 26.0.3.</p>\n<h2>What's Changed</h2>\n<h3>🐛 Bug Fixes</h3>\n<ul>\n<li>Account for dummy scans in workflows by @tsalo in https://github.com/ME-ICA/tedana/pull/1402</li>\n</ul>\n<p><strong>Full Changelog</strong>: https://github.com/ME-ICA/tedana/compare/26.0.2...26.0.3</p>"
+  },
+  "custom_fields": {
+    "code:codeRepository": "https://github.com/ME-ICA/tedana"
+  },
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 1,
+    "total_bytes": 31683077,
+    "entries": {
+      "ME-ICA/tedana-26.0.3.zip": {
+        "id": "4edd651c-a0f0-49f5-8489-d0d75b699f57",
+        "checksum": "md5:0662679f5041ff25ef6d11c16337360f",
+        "ext": "zip",
+        "size": 31683077,
+        "mimetype": "application/zip",
+        "key": "ME-ICA/tedana-26.0.3.zip",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": false,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 458,
+      "unique_views": 444,
+      "downloads": 75,
+      "unique_downloads": 75,
+      "data_volume": 2376230775.0
+    },
+    "all_versions": {
+      "views": 8314,
+      "unique_views": 7906,
+      "downloads": 1537,
+      "unique_downloads": 1497,
+      "data_volume": 32754296788.0
+    }
+  },
+  "swh": {
+    "swhid": "swh:1:dir:b469f6b1232e8fd3145a6a2f705483ea648cbfe7;origin=https://doi.org/10.5281/zenodo.1250561;visit=swh:1:snp:af8073d59ae182e27f6e47df6265536a9a457402;anchor=swh:1:rel:bbc0f326eae45ab87d5147bb4c696370e76155fe;path=ME-ICA-tedana-e0a18e3"
+  },
+  "ui": {
+    "publication_date_l10n_medium": "Apr 3, 2026",
+    "publication_date_l10n_long": "April 3, 2026",
+    "created_date_l10n_long": "April 3, 2026",
+    "updated_date_l10n_long": "April 3, 2026",
+    "resource_type": {
+      "id": "software",
+      "title_l10n": "Software"
+    },
+    "custom_fields": {
+      "code:codeRepository": "https://github.com/ME-ICA/tedana"
+    },
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "The tedana Community",
+            "family_name": "The tedana Community"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Ahmed, Zaki",
+            "given_name": "Zaki",
+            "family_name": "Ahmed",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-5648-0590",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Mayo Clinic"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Bandettini, Peter A.",
+            "given_name": "Peter A.",
+            "family_name": "Bandettini",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-9038-4746",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              2,
+              "National Institutes of Health"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Bottenhorn, Katherine L.",
+            "given_name": "Katherine L.",
+            "family_name": "Bottenhorn",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-7796-8795",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              3,
+              "Florida International University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Caballero-Gaudes, César",
+            "given_name": "César",
+            "family_name": "Caballero-Gaudes",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-9068-5810",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              4,
+              "Basque Center on Cognition, Brain and Language"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Dowdle, Logan T.",
+            "given_name": "Logan T.",
+            "family_name": "Dowdle",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-1879-705X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              5,
+              "Center for Magnetic Resonance Research, University of Minnesota"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "DuPre, Elizabeth",
+            "given_name": "Elizabeth",
+            "family_name": "DuPre",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-1358-196X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              6,
+              "Montreal Neurological Institute, McGill University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gonzalez-Castillo, Javier",
+            "given_name": "Javier",
+            "family_name": "Gonzalez-Castillo",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6520-5125",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              2,
+              "National Institutes of Health"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Handwerker, Dan",
+            "given_name": "Dan",
+            "family_name": "Handwerker",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7261-4042",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              2,
+              "National Institutes of Health"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Heunis, Stephan",
+            "given_name": "Stephan",
+            "family_name": "Heunis",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3503-9872",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              7,
+              "Eindhoven University of Technology"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Kundu, Prantik",
+            "given_name": "Prantik",
+            "family_name": "Kundu",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-9367-3068",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              8,
+              "Mount Sinai Hospital"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Laird, Angela R.",
+            "given_name": "Angela R.",
+            "family_name": "Laird",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3379-8744",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              3,
+              "Florida International University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Markello, Ross",
+            "given_name": "Ross",
+            "family_name": "Markello",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-1057-1336",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              6,
+              "Montreal Neurological Institute, McGill University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Markiewicz, Christopher J.",
+            "given_name": "Christopher J.",
+            "family_name": "Markiewicz",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6533-164X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              9,
+              "Stanford University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Maullin-Sapey, Thomas",
+            "given_name": "Thomas",
+            "family_name": "Maullin-Sapey",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-4516-5103",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              10,
+              "Big Data Institute, University of Oxford"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Moia, Stefano",
+            "given_name": "Stefano",
+            "family_name": "Moia",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-2553-3327",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              4,
+              "Basque Center on Cognition, Brain and Language"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Molfese, Peter",
+            "given_name": "Peter",
+            "family_name": "Molfese",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-3045-9408",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              11,
+              "National Institutes of Mental Health, CMN"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Salo, Taylor",
+            "given_name": "Taylor",
+            "family_name": "Salo",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-9813-3167",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              3,
+              "Florida International University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Staden, Isla",
+            "given_name": "Isla",
+            "family_name": "Staden",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-0795-1154",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Teves, Joshua",
+            "given_name": "Joshua",
+            "family_name": "Teves",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-7767-0067",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              12,
+              "National Institutes of Mental Health, Section on Functional Imaging Methods"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Uruñuela, Eneko",
+            "given_name": "Eneko",
+            "family_name": "Uruñuela",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-6849-9088",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              4,
+              "Basque Center on Cognition, Brain and Language"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Vaziri-Pashkam, Maryam",
+            "given_name": "Maryam",
+            "family_name": "Vaziri-Pashkam",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-1830-2501",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              13,
+              "Laboratory of Brain and Cognition, National Institute of Mental Health"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Whitaker, Kirstie",
+            "given_name": "Kirstie",
+            "family_name": "Whitaker",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8498-4059",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              14,
+              "The Alan Turing Institute"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "Mayo Clinic",
+          null
+        ],
+        [
+          2,
+          "National Institutes of Health",
+          null
+        ],
+        [
+          3,
+          "Florida International University",
+          null
+        ],
+        [
+          4,
+          "Basque Center on Cognition, Brain and Language",
+          null
+        ],
+        [
+          5,
+          "Center for Magnetic Resonance Research, University of Minnesota",
+          null
+        ],
+        [
+          6,
+          "Montreal Neurological Institute, McGill University",
+          null
+        ],
+        [
+          7,
+          "Eindhoven University of Technology",
+          null
+        ],
+        [
+          8,
+          "Mount Sinai Hospital",
+          null
+        ],
+        [
+          9,
+          "Stanford University",
+          null
+        ],
+        [
+          10,
+          "Big Data Institute, University of Oxford",
+          null
+        ],
+        [
+          11,
+          "National Institutes of Mental Health, CMN",
+          null
+        ],
+        [
+          12,
+          "National Institutes of Mental Health, Section on Functional Imaging Methods",
+          null
+        ],
+        [
+          13,
+          "Laboratory of Brain and Cognition, National Institute of Mental Health",
+          null
+        ],
+        [
+          14,
+          "The Alan Turing Institute",
+          null
+        ]
+      ]
+    },
+    "description_stripped": "A new patch release in the 26.0.x series. This release fixes dummy-scan handling in the tedana and t2smap workflows. The associated bug was introduced in 26.0.0, so if you are using a release in the 26.0.x series and rely on the --dummy-scans parameter, we recommend updating to 26.0.3.\n\nWhat's Changed\n\n🐛 Bug Fixes\n\n\n\nAccount for dummy scans in workflows by @tsalo in https://github.com/ME-ICA/tedana/pull/1402\n\n\nFull Changelog: https://github.com/ME-ICA/tedana/compare/26.0.2...26.0.3",
+    "version": "26.0.3",
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/ME-ICA/tedana/tree/26.0.3",
+        "relation_type": {
+          "id": "issupplementto",
+          "title_l10n": "Is supplement to"
+        },
+        "scheme": "url",
+        "resource_type": {
+          "id": "software",
+          "title_l10n": "Software"
+        }
+      }
+    ],
+    "rights": [
+      {
+        "id": "lgpl-2.1-only",
+        "title_l10n": "GNU Lesser General Public License v2.1 only",
+        "description_l10n": "",
+        "props": {
+          "url": "https://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}

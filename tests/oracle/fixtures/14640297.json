@@ -1,0 +1,2269 @@
+{
+  "id": "14640297",
+  "created": "2025-01-13T16:57:18.310066+00:00",
+  "updated": "2025-01-13T16:57:18.468949+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/14640297",
+    "self_html": "https://zenodo.org/records/14640297",
+    "preview_html": "https://zenodo.org/records/14640297?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.14640297",
+    "self_doi": "https://doi.org/10.5281/zenodo.14640297",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14640297",
+    "reserve_doi": "https://zenodo.org/api/records/14640297/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/2630889",
+    "parent_html": "https://zenodo.org/records/2630889",
+    "parent_doi": "https://doi.org/10.5281/zenodo.2630889",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.2630889",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:14640297/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:14640297/sequence/default",
+    "files": "https://zenodo.org/api/records/14640297/files",
+    "media_files": "https://zenodo.org/api/records/14640297/media-files",
+    "archive": "https://zenodo.org/api/records/14640297/files-archive",
+    "archive_media": "https://zenodo.org/api/records/14640297/media-files-archive",
+    "latest": "https://zenodo.org/api/records/14640297/versions/latest",
+    "latest_html": "https://zenodo.org/records/14640297/latest",
+    "versions": "https://zenodo.org/api/records/14640297/versions",
+    "draft": "https://zenodo.org/api/records/14640297/draft",
+    "access_links": "https://zenodo.org/api/records/14640297/access/links",
+    "access_grants": "https://zenodo.org/api/records/14640297/access/grants",
+    "access_users": "https://zenodo.org/api/records/14640297/access/users",
+    "access_request": "https://zenodo.org/api/records/14640297/access/request",
+    "access": "https://zenodo.org/api/records/14640297/access",
+    "communities": "https://zenodo.org/api/records/14640297/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/14640297/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/14640297/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/14640297/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/14640297/quota-increase",
+    "requests": "https://zenodo.org/api/records/14640297/requests"
+  },
+  "revision_id": 4,
+  "parent": {
+    "id": "2630889",
+    "access": {
+      "owned_by": {
+        "user": "9826"
+      },
+      "settings": {
+        "allow_user_requests": false,
+        "allow_guest_requests": false,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.2630889",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 31
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.14640297",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:14640297",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "software",
+      "title": {
+        "de": "Software",
+        "en": "Software"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Oscar Esteban",
+          "family_name": "Oscar Esteban",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8435-6191",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Christopher J. Markiewicz",
+          "family_name": "Christopher J. Markiewicz",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6533-164X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University, CA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Eilidh MacNicol",
+          "family_name": "Eilidh MacNicol",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3715-7012",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Neuroimaging, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, UK"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Céline Provins",
+          "family_name": "Céline Provins",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-1668-9629",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Radiology, Lausanne University Hospital and University of Lausanne, Switzerland"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "McKenzie P. Hagen",
+          "family_name": "McKenzie P. Hagen",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-7454-8189",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Psychology Department, University of Washington, Seattle, WA, USA"
+          }
+        ]
+      }
+    ],
+    "title": "MRIQC: Advancing the automatic prediction of image quality in MRI from unseen sites",
+    "publisher": "Zenodo",
+    "publication_date": "2025-01-13",
+    "subjects": [
+      {
+        "subject": "neuroimaging"
+      },
+      {
+        "subject": "workflow"
+      },
+      {
+        "subject": "pipeline"
+      },
+      {
+        "subject": "quality-control"
+      },
+      {
+        "subject": "fMRI"
+      },
+      {
+        "subject": "BIDS"
+      }
+    ],
+    "contributors": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Zvi Baratz",
+          "family_name": "Zvi Baratz",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7159-1387",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Quantivly Inc., Somerville, MA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Teresa Gomez",
+          "family_name": "Teresa Gomez"
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "The University of Washington eScience Institute, WA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Dylan Nielson",
+          "family_name": "Dylan Nielson",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-4613-6643",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Section on Clinical and Computational Psychiatry, National Institute of Mental Health, Bethesda, MD, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Jan Varada",
+          "family_name": "Jan Varada"
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Functional MRI Facility, National Institute of Mental Health, Bethesda, MD, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Ross W. Blair",
+          "family_name": "Ross W. Blair",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3007-1056",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University, CA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Ariel Rokem",
+          "family_name": "Ariel Rokem",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-0679-1985",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "The University of Washington eScience Institute, WA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Dimitri Papadopoulos Orfanos",
+          "family_name": "Dimitri Papadopoulos Orfanos",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-1242-8990",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "NeuroSpin, CEA, Université Paris-Saclay, NeuroSpin, Gif-sur-Yvette, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "William Triplett",
+          "family_name": "William Triplett",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-9546-1306",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "University of Florida: Gainesville, Florida, US"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Mathias Goncalves",
+          "family_name": "Mathias Goncalves",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-7252-7771",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University, CA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Nikita Beliy",
+          "family_name": "Nikita Beliy"
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "CRC ULiege, Liege, Belgium"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "John A. Lee",
+          "family_name": "John A. Lee",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-5884-4247",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Quansight, Dublin, Ireland"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Jon Haitz Legarreta Gorroño",
+          "family_name": "Jon Haitz Legarreta Gorroño",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-9661-1396",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Brigham and Women's Hospital, Mass General Brigham, Harvard Medical School, MA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Patrick Sadil",
+          "family_name": "Patrick Sadil",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-4141-1343",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Johns Hopkins Bloomberg School of Public Health, MD, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Ursula A. Tooley",
+          "family_name": "Ursula A. Tooley",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6377-3885",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Department of Neuroscience, University of Pennsylvania, PA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Yaroslav O. Halchenko",
+          "family_name": "Yaroslav O. Halchenko",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3456-2493",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Psychological and Brain Sciences Department, Dartmouth College, NH, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Yibei Chen",
+          "family_name": "Yibei Chen",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-2882-0900",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "James D. Kent",
+          "family_name": "James D. Kent",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-4892-2659",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, University of Texas at Austin, TX, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Bennet Fauber",
+          "family_name": "Bennet Fauber"
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "University of Michigan, Ann Arbor, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Taylor Salo",
+          "family_name": "Taylor Salo",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-9813-3167",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Florida International University, FL, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Michael Krause",
+          "family_name": "Michael Krause"
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Max Planck Institute for Human Development, Berlin, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Pablo Velasco",
+          "family_name": "Pablo Velasco",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-5749-6049",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Center for Brain Imaging, New York University, NY, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Thomas Nichols",
+          "family_name": "Thomas Nichols",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-4516-5103",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Oxford Big Data Institute, University of Oxford, Oxford, GB"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Adam Huffman",
+          "family_name": "Adam Huffman"
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Department of Physics, Imperial College London, London, UK"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Elodie Savary",
+          "family_name": "Elodie Savary",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-3896-6906",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Department of Radiology, Lausanne University Hospital and University of Lausanne, Switzerland"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Johannes Achtzehn",
+          "family_name": "Johannes Achtzehn",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-0657-6516",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Charité Berlin, Berlin, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Joke Durnez",
+          "family_name": "Joke Durnez",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-9030-2202",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University, CA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Satrajit S. Ghosh",
+          "family_name": "Satrajit S. Ghosh",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-5312-6729",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "McGovern Institute for Brain Research, MIT, MA, USA; and Department of Otolaryngology, Harvard Medical School, MA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Adam C. Raikes",
+          "family_name": "Adam C. Raikes"
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Center for Innovation in Brain Science, University of Arizona, Tucson, AZ, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Asier Erramuzpe",
+          "family_name": "Asier Erramuzpe",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-9402-2184",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Computational Neuroimaging Lab, BioCruces Health Research Institute"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Benjamin Kay",
+          "family_name": "Benjamin Kay"
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Washington University School of Medicine, St.Louis, MO, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Daniel Birman",
+          "family_name": "Daniel Birman",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3748-6289",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University, CA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Michael Dayan",
+          "family_name": "Michael Dayan",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-2666-0969",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "International Committee of the Red Cross - ICRC, Geneva, Switzerland"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Michael G. Clark",
+          "family_name": "Michael G. Clark"
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "National Institutes of Health, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Rafael Garcia-Dias",
+          "family_name": "Rafael Garcia-Dias",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-9332-1580",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Psychiatry, Psychology & Neuroscience, King's College London, London, UK"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Adam G. Thomas",
+          "family_name": "Adam G. Thomas",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-2850-1419",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Data Science and Sharing Team, National Institute of Mental Health, Bethesda, MD, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Russell A. Poldrack",
+          "family_name": "Russell A. Poldrack",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6755-0259",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University, CA, USA"
+          }
+        ]
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "http://mriqc.readthedocs.io",
+        "scheme": "url",
+        "relation_type": {
+          "id": "documents",
+          "title": {
+            "de": "Dokumentiert",
+            "en": "Documents"
+          }
+        }
+      },
+      {
+        "identifier": "10.1371/journal.pone.0184661",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "ispartof",
+          "title": {
+            "de": "Ist Teil von",
+            "en": "Is part of"
+          }
+        }
+      }
+    ],
+    "version": "25.0.0rc0",
+    "rights": [
+      {
+        "id": "apache-2.0",
+        "title": {
+          "en": "Apache License 2.0"
+        },
+        "description": {
+          "en": "A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code."
+        },
+        "props": {
+          "url": "http://www.apache.org/licenses/LICENSE-2.0",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "<p>Automated Quality Control and visual reports for Quality Assessment of structural (T1w, T2w) and functional MRI of the brain <a href=\"http://mriqc.readthedocs.io\">http://mriqc.readthedocs.io</a>.</p>"
+  },
+  "custom_fields": {
+    "code:codeRepository": "https://github.com/nipreps/mriqc"
+  },
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 1,
+    "total_bytes": 46067779,
+    "entries": {
+      "nipreps/mriqc-25.0.0rc0.zip": {
+        "id": "c3de64d2-55e5-4bd7-9a17-8f9ccce50852",
+        "checksum": "md5:e64b4fdfbcc06bf3f6ba8da6641884fb",
+        "ext": "zip",
+        "size": 46067779,
+        "mimetype": "application/zip",
+        "key": "nipreps/mriqc-25.0.0rc0.zip",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": false,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 1215,
+      "unique_views": 1196,
+      "downloads": 95,
+      "unique_downloads": 94,
+      "data_volume": 4376439005.0
+    },
+    "all_versions": {
+      "views": 5020,
+      "unique_views": 4952,
+      "downloads": 973,
+      "unique_downloads": 956,
+      "data_volume": 29310351051.0
+    }
+  },
+  "swh": {
+    "swhid": "swh:1:dir:72f40752773b5c839916bd6ff5ed088de147658b;origin=https://doi.org/10.5281/zenodo.2630889;visit=swh:1:snp:432c497b519198d51444ff8daa27799c3df60be5;anchor=swh:1:rel:2d5b0beea31159a49839906ac5ac53cbb337a066;path=nipreps-mriqc-b60bb7f"
+  },
+  "ui": {
+    "publication_date_l10n_medium": "Jan 13, 2025",
+    "publication_date_l10n_long": "January 13, 2025",
+    "created_date_l10n_long": "January 13, 2025",
+    "updated_date_l10n_long": "January 13, 2025",
+    "resource_type": {
+      "id": "software",
+      "title_l10n": "Software"
+    },
+    "custom_fields": {
+      "code:codeRepository": "https://github.com/nipreps/mriqc"
+    },
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Oscar Esteban",
+            "family_name": "Oscar Esteban",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8435-6191",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Christopher J. Markiewicz",
+            "family_name": "Christopher J. Markiewicz",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6533-164X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              2,
+              "Department of Psychology, Stanford University, CA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Eilidh MacNicol",
+            "family_name": "Eilidh MacNicol",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3715-7012",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              3,
+              "Department of Neuroimaging, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, UK"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Céline Provins",
+            "family_name": "Céline Provins",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-1668-9629",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              4,
+              "Department of Radiology, Lausanne University Hospital and University of Lausanne, Switzerland"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "McKenzie P. Hagen",
+            "family_name": "McKenzie P. Hagen",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-7454-8189",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              5,
+              "Psychology Department, University of Washington, Seattle, WA, USA"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland",
+          null
+        ],
+        [
+          2,
+          "Department of Psychology, Stanford University, CA, USA",
+          null
+        ],
+        [
+          3,
+          "Department of Neuroimaging, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, UK",
+          null
+        ],
+        [
+          4,
+          "Department of Radiology, Lausanne University Hospital and University of Lausanne, Switzerland",
+          null
+        ],
+        [
+          5,
+          "Psychology Department, University of Washington, Seattle, WA, USA",
+          null
+        ]
+      ]
+    },
+    "contributors": {
+      "contributors": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Zvi Baratz",
+            "family_name": "Zvi Baratz",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7159-1387",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              1,
+              "Quantivly Inc., Somerville, MA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Teresa Gomez",
+            "family_name": "Teresa Gomez"
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              2,
+              "The University of Washington eScience Institute, WA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Dylan Nielson",
+            "family_name": "Dylan Nielson",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-4613-6643",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              3,
+              "Section on Clinical and Computational Psychiatry, National Institute of Mental Health, Bethesda, MD, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Jan Varada",
+            "family_name": "Jan Varada"
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              4,
+              "Functional MRI Facility, National Institute of Mental Health, Bethesda, MD, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Ross W. Blair",
+            "family_name": "Ross W. Blair",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3007-1056",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              5,
+              "Department of Psychology, Stanford University, CA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Ariel Rokem",
+            "family_name": "Ariel Rokem",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-0679-1985",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              2,
+              "The University of Washington eScience Institute, WA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Dimitri Papadopoulos Orfanos",
+            "family_name": "Dimitri Papadopoulos Orfanos",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-1242-8990",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              6,
+              "NeuroSpin, CEA, Université Paris-Saclay, NeuroSpin, Gif-sur-Yvette, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "William Triplett",
+            "family_name": "William Triplett",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-9546-1306",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              7,
+              "University of Florida: Gainesville, Florida, US"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Mathias Goncalves",
+            "family_name": "Mathias Goncalves",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-7252-7771",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              5,
+              "Department of Psychology, Stanford University, CA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Nikita Beliy",
+            "family_name": "Nikita Beliy"
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              8,
+              "CRC ULiege, Liege, Belgium"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "John A. Lee",
+            "family_name": "John A. Lee",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-5884-4247",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              9,
+              "Quansight, Dublin, Ireland"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Jon Haitz Legarreta Gorroño",
+            "family_name": "Jon Haitz Legarreta Gorroño",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-9661-1396",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              10,
+              "Brigham and Women's Hospital, Mass General Brigham, Harvard Medical School, MA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Patrick Sadil",
+            "family_name": "Patrick Sadil",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-4141-1343",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              11,
+              "Johns Hopkins Bloomberg School of Public Health, MD, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Ursula A. Tooley",
+            "family_name": "Ursula A. Tooley",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-6377-3885",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              12,
+              "Department of Neuroscience, University of Pennsylvania, PA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Yaroslav O. Halchenko",
+            "family_name": "Yaroslav O. Halchenko",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3456-2493",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              13,
+              "Psychological and Brain Sciences Department, Dartmouth College, NH, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Yibei Chen",
+            "family_name": "Yibei Chen",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-2882-0900",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              14,
+              "McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "James D. Kent",
+            "family_name": "James D. Kent",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-4892-2659",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              15,
+              "Department of Psychology, University of Texas at Austin, TX, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Bennet Fauber",
+            "family_name": "Bennet Fauber"
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              16,
+              "University of Michigan, Ann Arbor, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Taylor Salo",
+            "family_name": "Taylor Salo",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-9813-3167",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              17,
+              "Department of Psychology, Florida International University, FL, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Michael Krause",
+            "family_name": "Michael Krause"
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              18,
+              "Max Planck Institute for Human Development, Berlin, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Pablo Velasco",
+            "family_name": "Pablo Velasco",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-5749-6049",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              19,
+              "Center for Brain Imaging, New York University, NY, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Thomas Nichols",
+            "family_name": "Thomas Nichols",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-4516-5103",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              20,
+              "Oxford Big Data Institute, University of Oxford, Oxford, GB"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Adam Huffman",
+            "family_name": "Adam Huffman"
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              21,
+              "Department of Physics, Imperial College London, London, UK"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Elodie Savary",
+            "family_name": "Elodie Savary",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-3896-6906",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              22,
+              "Department of Radiology, Lausanne University Hospital and University of Lausanne, Switzerland"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Johannes Achtzehn",
+            "family_name": "Johannes Achtzehn",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-0657-6516",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              23,
+              "Charité Berlin, Berlin, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Joke Durnez",
+            "family_name": "Joke Durnez",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-9030-2202",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              5,
+              "Department of Psychology, Stanford University, CA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Satrajit S. Ghosh",
+            "family_name": "Satrajit S. Ghosh",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-5312-6729",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              24,
+              "McGovern Institute for Brain Research, MIT, MA, USA; and Department of Otolaryngology, Harvard Medical School, MA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Adam C. Raikes",
+            "family_name": "Adam C. Raikes"
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              25,
+              "Center for Innovation in Brain Science, University of Arizona, Tucson, AZ, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Asier Erramuzpe",
+            "family_name": "Asier Erramuzpe",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-9402-2184",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              26,
+              "Computational Neuroimaging Lab, BioCruces Health Research Institute"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Benjamin Kay",
+            "family_name": "Benjamin Kay"
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              27,
+              "Washington University School of Medicine, St.Louis, MO, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Daniel Birman",
+            "family_name": "Daniel Birman",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3748-6289",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              5,
+              "Department of Psychology, Stanford University, CA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Michael Dayan",
+            "family_name": "Michael Dayan",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-2666-0969",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              28,
+              "International Committee of the Red Cross - ICRC, Geneva, Switzerland"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Michael G. Clark",
+            "family_name": "Michael G. Clark"
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              29,
+              "National Institutes of Health, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Rafael Garcia-Dias",
+            "family_name": "Rafael Garcia-Dias",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-9332-1580",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              30,
+              "Institute of Psychiatry, Psychology & Neuroscience, King's College London, London, UK"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Adam G. Thomas",
+            "family_name": "Adam G. Thomas",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-2850-1419",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              31,
+              "Data Science and Sharing Team, National Institute of Mental Health, Bethesda, MD, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Russell A. Poldrack",
+            "family_name": "Russell A. Poldrack",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-6755-0259",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              5,
+              "Department of Psychology, Stanford University, CA, USA"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "Quantivly Inc., Somerville, MA, USA",
+          null
+        ],
+        [
+          2,
+          "The University of Washington eScience Institute, WA, USA",
+          null
+        ],
+        [
+          3,
+          "Section on Clinical and Computational Psychiatry, National Institute of Mental Health, Bethesda, MD, USA",
+          null
+        ],
+        [
+          4,
+          "Functional MRI Facility, National Institute of Mental Health, Bethesda, MD, USA",
+          null
+        ],
+        [
+          5,
+          "Department of Psychology, Stanford University, CA, USA",
+          null
+        ],
+        [
+          6,
+          "NeuroSpin, CEA, Université Paris-Saclay, NeuroSpin, Gif-sur-Yvette, France",
+          null
+        ],
+        [
+          7,
+          "University of Florida: Gainesville, Florida, US",
+          null
+        ],
+        [
+          8,
+          "CRC ULiege, Liege, Belgium",
+          null
+        ],
+        [
+          9,
+          "Quansight, Dublin, Ireland",
+          null
+        ],
+        [
+          10,
+          "Brigham and Women's Hospital, Mass General Brigham, Harvard Medical School, MA, USA",
+          null
+        ],
+        [
+          11,
+          "Johns Hopkins Bloomberg School of Public Health, MD, USA",
+          null
+        ],
+        [
+          12,
+          "Department of Neuroscience, University of Pennsylvania, PA, USA",
+          null
+        ],
+        [
+          13,
+          "Psychological and Brain Sciences Department, Dartmouth College, NH, USA",
+          null
+        ],
+        [
+          14,
+          "McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, USA",
+          null
+        ],
+        [
+          15,
+          "Department of Psychology, University of Texas at Austin, TX, USA",
+          null
+        ],
+        [
+          16,
+          "University of Michigan, Ann Arbor, USA",
+          null
+        ],
+        [
+          17,
+          "Department of Psychology, Florida International University, FL, USA",
+          null
+        ],
+        [
+          18,
+          "Max Planck Institute for Human Development, Berlin, Germany",
+          null
+        ],
+        [
+          19,
+          "Center for Brain Imaging, New York University, NY, USA",
+          null
+        ],
+        [
+          20,
+          "Oxford Big Data Institute, University of Oxford, Oxford, GB",
+          null
+        ],
+        [
+          21,
+          "Department of Physics, Imperial College London, London, UK",
+          null
+        ],
+        [
+          22,
+          "Department of Radiology, Lausanne University Hospital and University of Lausanne, Switzerland",
+          null
+        ],
+        [
+          23,
+          "Charité Berlin, Berlin, Germany",
+          null
+        ],
+        [
+          24,
+          "McGovern Institute for Brain Research, MIT, MA, USA; and Department of Otolaryngology, Harvard Medical School, MA, USA",
+          null
+        ],
+        [
+          25,
+          "Center for Innovation in Brain Science, University of Arizona, Tucson, AZ, USA",
+          null
+        ],
+        [
+          26,
+          "Computational Neuroimaging Lab, BioCruces Health Research Institute",
+          null
+        ],
+        [
+          27,
+          "Washington University School of Medicine, St.Louis, MO, USA",
+          null
+        ],
+        [
+          28,
+          "International Committee of the Red Cross - ICRC, Geneva, Switzerland",
+          null
+        ],
+        [
+          29,
+          "National Institutes of Health, USA",
+          null
+        ],
+        [
+          30,
+          "Institute of Psychiatry, Psychology & Neuroscience, King's College London, London, UK",
+          null
+        ],
+        [
+          31,
+          "Data Science and Sharing Team, National Institute of Mental Health, Bethesda, MD, USA",
+          null
+        ]
+      ]
+    },
+    "description_stripped": "Automated Quality Control and visual reports for Quality Assessment of structural (T1w, T2w) and functional MRI of the brain http://mriqc.readthedocs.io.",
+    "version": "25.0.0rc0",
+    "related_identifiers": [
+      {
+        "identifier": "http://mriqc.readthedocs.io",
+        "relation_type": {
+          "id": "documents",
+          "title_l10n": "Documents"
+        },
+        "scheme": "url"
+      },
+      {
+        "identifier": "10.1371/journal.pone.0184661",
+        "relation_type": {
+          "id": "ispartof",
+          "title_l10n": "Is part of"
+        },
+        "scheme": "doi"
+      }
+    ],
+    "rights": [
+      {
+        "id": "apache-2.0",
+        "title_l10n": "Apache License 2.0",
+        "description_l10n": "A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.",
+        "props": {
+          "url": "http://www.apache.org/licenses/LICENSE-2.0",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}

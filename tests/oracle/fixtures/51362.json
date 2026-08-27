@@ -1,0 +1,341 @@
+{
+  "id": "51362",
+  "created": "2016-05-18T15:17:57+00:00",
+  "updated": "2023-02-26T00:32:10.863354+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/51362",
+    "self_html": "https://zenodo.org/records/51362",
+    "preview_html": "https://zenodo.org/records/51362?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.51362",
+    "self_doi": "https://doi.org/10.5281/zenodo.51362",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.51362",
+    "reserve_doi": "https://zenodo.org/api/records/51362/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/595045",
+    "parent_html": "https://zenodo.org/records/595045",
+    "parent_doi": "https://doi.org/",
+    "parent_doi_html": "https://zenodo.org/doi/",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:51362/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:51362/sequence/default",
+    "files": "https://zenodo.org/api/records/51362/files",
+    "media_files": "https://zenodo.org/api/records/51362/media-files",
+    "archive": "https://zenodo.org/api/records/51362/files-archive",
+    "archive_media": "https://zenodo.org/api/records/51362/media-files-archive",
+    "latest": "https://zenodo.org/api/records/51362/versions/latest",
+    "latest_html": "https://zenodo.org/records/51362/latest",
+    "versions": "https://zenodo.org/api/records/51362/versions",
+    "draft": "https://zenodo.org/api/records/51362/draft",
+    "access_links": "https://zenodo.org/api/records/51362/access/links",
+    "access_grants": "https://zenodo.org/api/records/51362/access/grants",
+    "access_users": "https://zenodo.org/api/records/51362/access/users",
+    "access_request": "https://zenodo.org/api/records/51362/access/request",
+    "access": "https://zenodo.org/api/records/51362/access",
+    "communities": "https://zenodo.org/api/records/51362/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/51362/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/51362/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/51362/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/51362/quota-increase",
+    "requests": "https://zenodo.org/api/records/51362/requests"
+  },
+  "revision_id": 11,
+  "parent": {
+    "id": "595045",
+    "access": {
+      "owned_by": {
+        "user": "21424"
+      }
+    },
+    "communities": {},
+    "pids": {
+      "doi": {
+        "identifier": "",
+        "provider": "legacy"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "is_latest_draft": true,
+    "index": 1
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.51362",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:51362",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "software",
+      "title": {
+        "de": "Software",
+        "en": "Software"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Jacqueline You",
+          "family_name": "Jacqueline You",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-2562-7526",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Boston University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Christopher J. Markiewicz",
+          "family_name": "Christopher J. Markiewicz",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6533-164X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Boston University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Jason W. Bohland",
+          "family_name": "Jason W. Bohland",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6305-5848",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Boston University"
+          }
+        ]
+      }
+    ],
+    "title": "Formant detection scripts for \"Mapping the cortical representation of speech sounds in a syllable repetition task\"",
+    "publisher": "Zenodo",
+    "publication_date": "2015-07-23",
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/effigies/formant_detection/tree/v1.0",
+        "scheme": "url",
+        "relation_type": {
+          "id": "iscompiledby",
+          "title": {
+            "de": "Kompiliert durch",
+            "en": "Is compiled by"
+          }
+        }
+      }
+    ],
+    "version": "v1.0",
+    "rights": [
+      {
+        "id": "afl-3.0",
+        "title": {
+          "en": "Academic Free License v3.0"
+        },
+        "description": {
+          "en": ""
+        },
+        "props": {
+          "url": "http://www.rosenlaw.com/AFL3.0.htm",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "<p>Formant detection scripts for &quot;Mapping the cortical representation of speech sounds in a syllable repetition task&quot;</p>"
+  },
+  "custom_fields": {},
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 1,
+    "total_bytes": 9770,
+    "entries": {
+      "formant_detection-v1.0.zip": {
+        "id": "cc0b1b0e-a8da-4754-9581-31a8a7701036",
+        "checksum": "md5:b77cdf4e9b1d91ae5a04fcbb74b19131",
+        "ext": "zip",
+        "size": 9770,
+        "mimetype": "application/zip",
+        "key": "formant_detection-v1.0.zip",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": false,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 141,
+      "unique_views": 139,
+      "downloads": 32,
+      "unique_downloads": 31,
+      "data_volume": 312640.0
+    },
+    "all_versions": {
+      "views": 141,
+      "unique_views": 139,
+      "downloads": 32,
+      "unique_downloads": 31,
+      "data_volume": 312640.0
+    }
+  },
+  "swh": null,
+  "ui": {
+    "publication_date_l10n_medium": "Jul 23, 2015",
+    "publication_date_l10n_long": "July 23, 2015",
+    "created_date_l10n_long": "May 18, 2016",
+    "updated_date_l10n_long": "February 26, 2023",
+    "resource_type": {
+      "id": "software",
+      "title_l10n": "Software"
+    },
+    "custom_fields": {},
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Jacqueline You",
+            "family_name": "Jacqueline You",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-2562-7526",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Boston University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Christopher J. Markiewicz",
+            "family_name": "Christopher J. Markiewicz",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6533-164X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Boston University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Jason W. Bohland",
+            "family_name": "Jason W. Bohland",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6305-5848",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Boston University"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "Boston University",
+          null
+        ]
+      ]
+    },
+    "description_stripped": "Formant detection scripts for \"Mapping the cortical representation of speech sounds in a syllable repetition task\"",
+    "version": "v1.0",
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/effigies/formant_detection/tree/v1.0",
+        "relation_type": {
+          "id": "iscompiledby",
+          "title_l10n": "Is compiled by"
+        },
+        "scheme": "url"
+      }
+    ],
+    "rights": [
+      {
+        "id": "afl-3.0",
+        "title_l10n": "Academic Free License v3.0",
+        "description_l10n": "",
+        "props": {
+          "url": "http://www.rosenlaw.com/AFL3.0.htm",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}

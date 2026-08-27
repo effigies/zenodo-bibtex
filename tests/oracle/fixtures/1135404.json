@@ -1,0 +1,1347 @@
+{
+  "id": "1135404",
+  "created": "2018-01-05T09:11:08.265726+00:00",
+  "updated": "2024-08-02T21:02:12.301920+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/1135404",
+    "self_html": "https://zenodo.org/records/1135404",
+    "preview_html": "https://zenodo.org/records/1135404?preview=1",
+    "doi": "https://doi.org/10.11646/zootaxa.4369.2.7",
+    "self_doi": "https://doi.org/10.11646/zootaxa.4369.2.7",
+    "self_doi_html": "https://zenodo.org/doi/10.11646/zootaxa.4369.2.7",
+    "reserve_doi": "https://zenodo.org/api/records/1135404/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/1135403",
+    "parent_html": "https://zenodo.org/records/1135403",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:1135404/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:1135404/sequence/default",
+    "files": "https://zenodo.org/api/records/1135404/files",
+    "media_files": "https://zenodo.org/api/records/1135404/media-files",
+    "archive": "https://zenodo.org/api/records/1135404/files-archive",
+    "archive_media": "https://zenodo.org/api/records/1135404/media-files-archive",
+    "latest": "https://zenodo.org/api/records/1135404/versions/latest",
+    "latest_html": "https://zenodo.org/records/1135404/latest",
+    "versions": "https://zenodo.org/api/records/1135404/versions",
+    "draft": "https://zenodo.org/api/records/1135404/draft",
+    "access_links": "https://zenodo.org/api/records/1135404/access/links",
+    "access_grants": "https://zenodo.org/api/records/1135404/access/grants",
+    "access_users": "https://zenodo.org/api/records/1135404/access/users",
+    "access_request": "https://zenodo.org/api/records/1135404/access/request",
+    "access": "https://zenodo.org/api/records/1135404/access",
+    "communities": "https://zenodo.org/api/records/1135404/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/1135404/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/1135404/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/1135404/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/1135404/quota-increase",
+    "requests": "https://zenodo.org/api/records/1135404/requests"
+  },
+  "revision_id": 9,
+  "parent": {
+    "id": "1135403",
+    "access": {
+      "owned_by": {
+        "user": "1161"
+      },
+      "settings": {
+        "allow_user_requests": false,
+        "allow_guest_requests": false,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {
+      "ids": [
+        "c529f97d-f8cb-4c13-a439-9e36891694c2"
+      ],
+      "default": "c529f97d-f8cb-4c13-a439-9e36891694c2",
+      "entries": [
+        {
+          "id": "c529f97d-f8cb-4c13-a439-9e36891694c2",
+          "created": "2013-11-11T14:14:18+00:00",
+          "updated": "2025-04-07T12:05:37.615917+00:00",
+          "links": {},
+          "revision_id": 15,
+          "slug": "biosyslit",
+          "metadata": {
+            "title": "Biodiversity Literature Repository",
+            "type": {
+              "id": "topic",
+              "title": {
+                "de": "Thema",
+                "en": "Topic"
+              }
+            },
+            "website": "https://www.biolitrepo.org",
+            "funding": [
+              {
+                "funder": {
+                  "id": "051z6e826",
+                  "name": "Arcadia Fund"
+                }
+              }
+            ],
+            "organizations": [
+              {
+                "name": "Plazi"
+              }
+            ]
+          },
+          "access": {
+            "visibility": "public",
+            "members_visibility": "public",
+            "member_policy": "closed",
+            "record_submission_policy": "open",
+            "review_policy": "closed"
+          },
+          "theme": {
+            "style": {
+              "font": {
+                "size": "16px",
+                "family": "Arial, sans-serif",
+                "weight": 600
+              },
+              "primaryColor": "#636363",
+              "secondaryColor": "#7eb13e",
+              "tertiaryColor": "#7eb13e",
+              "primaryTextColor": "#FFFFFF",
+              "secondaryTextColor": "#FFFFFF",
+              "tertiaryTextColor": "#FFFFFF",
+              "mainHeaderBackgroundColor": "#FFFFFF"
+            },
+            "brand": "biosyslit",
+            "enabled": true
+          },
+          "deletion_status": {
+            "is_deleted": false,
+            "status": "P"
+          },
+          "children": {
+            "allow": true
+          }
+        }
+      ]
+    },
+    "pids": {}
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 1
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.11646/zootaxa.4369.2.7",
+      "provider": "external"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:1135404",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "publication-article",
+      "title": {
+        "de": "Zeitschriftenartikel",
+        "en": "Journal article"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gibbs, Sean",
+          "given_name": "Sean",
+          "family_name": "Gibbs"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Hundt, Peter J.",
+          "given_name": "Peter J.",
+          "family_name": "Hundt"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Nelson, Andrea",
+          "given_name": "Andrea",
+          "family_name": "Nelson"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Egan, Joshua P.",
+          "given_name": "Joshua P.",
+          "family_name": "Egan"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Tongnunui, Prasert",
+          "given_name": "Prasert",
+          "family_name": "Tongnunui"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Simons, Andrew M.",
+          "given_name": "Andrew M.",
+          "family_name": "Simons"
+        }
+      }
+    ],
+    "title": "Systematics of the combtooth blenny clade Omobranchus (Blenniidae: Omobranchini), with notes on early life history stages",
+    "publisher": "Zenodo",
+    "publication_date": "2018-01-04",
+    "subjects": [
+      {
+        "subject": "Biodiversity"
+      },
+      {
+        "subject": "Taxonomy"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "http://table.plazi.org/id/DF626667B86F7353A804D9D5F8F9FD08",
+        "scheme": "url",
+        "relation_type": {
+          "id": "haspart",
+          "title": {
+            "de": "Umfasst folgenden Teil",
+            "en": "Has part"
+          }
+        },
+        "resource_type": {
+          "id": "dataset",
+          "title": {
+            "de": "Datensatz",
+            "en": "Dataset"
+          }
+        }
+      },
+      {
+        "identifier": "10.5281/zenodo.1135406",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "haspart",
+          "title": {
+            "de": "Umfasst folgenden Teil",
+            "en": "Has part"
+          }
+        },
+        "resource_type": {
+          "id": "image-figure",
+          "title": {
+            "de": "Abbildung",
+            "en": "Figure"
+          }
+        }
+      },
+      {
+        "identifier": "10.5281/zenodo.1135408",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "haspart",
+          "title": {
+            "de": "Umfasst folgenden Teil",
+            "en": "Has part"
+          }
+        },
+        "resource_type": {
+          "id": "image-figure",
+          "title": {
+            "de": "Abbildung",
+            "en": "Figure"
+          }
+        }
+      },
+      {
+        "identifier": "http://table.plazi.org/id/DF626667B86B7357A804D9F0FAE7FD5B",
+        "scheme": "url",
+        "relation_type": {
+          "id": "haspart",
+          "title": {
+            "de": "Umfasst folgenden Teil",
+            "en": "Has part"
+          }
+        },
+        "resource_type": {
+          "id": "dataset",
+          "title": {
+            "de": "Datensatz",
+            "en": "Dataset"
+          }
+        }
+      },
+      {
+        "identifier": "10.1080/00288330.2004.9517269",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication",
+          "title": {
+            "de": "Publikation",
+            "en": "Publication"
+          }
+        }
+      },
+      {
+        "identifier": "10.1007/s10530-005-5104-2",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication",
+          "title": {
+            "de": "Publikation",
+            "en": "Publication"
+          }
+        }
+      },
+      {
+        "identifier": "10.1017/S0025315404010057h",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication",
+          "title": {
+            "de": "Publikation",
+            "en": "Publication"
+          }
+        }
+      },
+      {
+        "identifier": "10.1201/b10301-5",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication",
+          "title": {
+            "de": "Publikation",
+            "en": "Publication"
+          }
+        }
+      },
+      {
+        "identifier": "10.1371/journal.pone.0028987",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication",
+          "title": {
+            "de": "Publikation",
+            "en": "Publication"
+          }
+        }
+      },
+      {
+        "identifier": "10.1016/j.ympev.2013.09.001",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication",
+          "title": {
+            "de": "Publikation",
+            "en": "Publication"
+          }
+        }
+      },
+      {
+        "identifier": "10.1016/j.ympev.2003.11.009",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication",
+          "title": {
+            "de": "Publikation",
+            "en": "Publication"
+          }
+        }
+      },
+      {
+        "identifier": "10.1007/BF02675434",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication",
+          "title": {
+            "de": "Publikation",
+            "en": "Publication"
+          }
+        }
+      },
+      {
+        "identifier": "10.1007/BF02684241",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication",
+          "title": {
+            "de": "Publikation",
+            "en": "Publication"
+          }
+        }
+      },
+      {
+        "identifier": "10.1093/molbev/mss020",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication",
+          "title": {
+            "de": "Publikation",
+            "en": "Publication"
+          }
+        }
+      },
+      {
+        "identifier": "10.1186/1471-2148-13-210",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication",
+          "title": {
+            "de": "Publikation",
+            "en": "Publication"
+          }
+        }
+      },
+      {
+        "identifier": "10.1007/s10126-006-6137-y",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication",
+          "title": {
+            "de": "Publikation",
+            "en": "Publication"
+          }
+        }
+      },
+      {
+        "identifier": "10.1109/GCE.2010.5676129",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication",
+          "title": {
+            "de": "Publikation",
+            "en": "Publication"
+          }
+        }
+      },
+      {
+        "identifier": "10.1186/1471-2148-14-92",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication",
+          "title": {
+            "de": "Publikation",
+            "en": "Publication"
+          }
+        }
+      },
+      {
+        "identifier": "10.1371/journal.pone.0010095",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication",
+          "title": {
+            "de": "Publikation",
+            "en": "Publication"
+          }
+        }
+      },
+      {
+        "identifier": "10.1093/sysbio/sys029",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication",
+          "title": {
+            "de": "Publikation",
+            "en": "Publication"
+          }
+        }
+      },
+      {
+        "identifier": "10.3391/ai.2011.6.S1.009",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication",
+          "title": {
+            "de": "Publikation",
+            "en": "Publication"
+          }
+        }
+      },
+      {
+        "identifier": "10.5479/si.00810282.130",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication",
+          "title": {
+            "de": "Publikation",
+            "en": "Publication"
+          }
+        }
+      },
+      {
+        "identifier": "10.5479/si.00810282.177",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication",
+          "title": {
+            "de": "Publikation",
+            "en": "Publication"
+          }
+        }
+      },
+      {
+        "identifier": "10.3853/j.0067-1975.53.2001.1324",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication",
+          "title": {
+            "de": "Publikation",
+            "en": "Publication"
+          }
+        }
+      },
+      {
+        "identifier": "10.1201/b10301-17",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication",
+          "title": {
+            "de": "Publikation",
+            "en": "Publication"
+          }
+        }
+      },
+      {
+        "identifier": "10.1186/s12862-015-0331-3",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication",
+          "title": {
+            "de": "Publikation",
+            "en": "Publication"
+          }
+        }
+      },
+      {
+        "identifier": "10.1080/09670262.2014.918658",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication",
+          "title": {
+            "de": "Publikation",
+            "en": "Publication"
+          }
+        }
+      },
+      {
+        "identifier": "10.1093/acprof:oso/9780198567028.001.0001",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication",
+          "title": {
+            "de": "Publikation",
+            "en": "Publication"
+          }
+        }
+      }
+    ],
+    "description": "Gibbs, Sean, Hundt, Peter J., Nelson, Andrea, Egan, Joshua P., Tongnunui, Prasert, Simons, Andrew M. (2018): Systematics of the combtooth blenny clade Omobranchus (Blenniidae: Omobranchini), with notes on early life history stages. Zootaxa 4369 (2): 270-280, DOI: 10.11646/zootaxa.4369.2.7",
+    "references": [
+      {
+        "reference": "Baldwin, C.C., Mounts, J.H., Smith, D.G. & Weigt, L.A. (2009) Genetic identification and color descriptions of early life history stages of Belizean Phaeoptyx and Astrapogon (Teleostei: Apogonidae) with comments on identification of adult Phaeoptyx. Zootaxa, 2008, 1-22."
+      },
+      {
+        "reference": "Eschmeyer, W.N. & Fong, J.D. (2016) Catalog of Fishes: Species by family/subfamily. Available from: http:// researcharchive.calacademy.org/research/ichthyology/catalog/SpeciesByFamily.asp (accessed 26 October 2016)"
+      },
+      {
+        "reference": "Eschmeyer, W.N., Fricke, R. & van der Laan, R. (2016) Catalog of Fishes: Genera, Species, References. Available from: http:// researcharchive.calacademy.org/research/ichthyology/catalog/fishcatmain.asp (accessed 26 October 2016)"
+      },
+      {
+        "reference": "Francis, M.P., Smith P.J., Walsh, C. & Gomon, M.F. (2004) First records of the Australian Blenny, Omobranchus anolius , from New Zealand. New Zealand Journal of Marine and Freshwater Research, 38, 671-679."
+      },
+      {
+        "reference": "https://doi.org/10.1080/00288330.2004.9517269"
+      },
+      {
+        "reference": "Froese, R. & Pauly, D. (2016) FishBase. Available from: http://www.fishbase.org (accessed 26 October 2016)"
+      },
+      {
+        "reference": "Gerhardinger, L.C., Freitas, M.O., Andrade, A.B. & Rangel, C.A. (2006) Omobranchus punctatus (Teleostei: Blenniidae), an exotic blenny in the Southwestern Atlantic. Biological Invasions, 8, 941-946."
+      },
+      {
+        "reference": "https://doi.org/10.1007/s10530-005-5104-2"
+      },
+      {
+        "reference": "Golani, D. (2004) First record of the Muzzled Blenny (Osteichthyes: Blenniidae: Omobranchus punctatus) from the Mediterranean, with remarks on ship-mediated fish introduction. Journal of the Marine Biological Association of the UK, 84, 851-852."
+      },
+      {
+        "reference": "https://doi.org/10.1017/S0025315404010057h"
+      },
+      {
+        "reference": "Hastings, P.A. & Springer, V.G. (2009) Systematics of the Blenniidae (combtooth blennies). In: Patzner, R.A., Goncalves, E.J. & Kapoor, B.G. (Eds.), The Biology of Blennies. Science Publishers, Enfield, New, Hampshire, pp. 69-91. https://doi.org/10.1201/b10301-5"
+      },
+      {
+        "reference": "Hubert, N., Meyer, C.P., Bruggemann, H.J., Guerin, F., Komeno, R.J.L., Espiau, B., Causse, R., Williams, J.T. & Planes, S. (2013) Cryptic diversity in Indo-Pacific coral-reef fishes revealed by DNA-Barcoding provides new support to the Centreof-Overlap Hypothesis. PLoS ONE, 7, e28987."
+      },
+      {
+        "reference": "https://doi.org/10.1371/journal.pone.0028987"
+      },
+      {
+        "reference": "Hundt, P.J., Iglesias, S.P., Hoey, A.S. & Simons, A.M. (2014) A multilocus molecular phylogeny of combtooth blennies (Percomorpha: Blennioidei: Blenniidae): Multiple invasions of intertidal habitats. Molecular Phylogenetics and Evolution, 70, 47-56."
+      },
+      {
+        "reference": "https://doi.org/10.1016/j.ympev.2013.09.001"
+      },
+      {
+        "reference": "Inoue, J.G., Miya, M., Tsukamoto, K. & Nishida, M. (2004) Mitogenomic evidence for the monophyly of elopomorph fishes (Teleostei) and the evolutionary origin of the leptocephalus larva. Molecular Phylogenetics and Evolution, 32, 274-286. https://doi.org/10.1016/j.ympev.2003.11.009"
+      },
+      {
+        "reference": "Kawaguchi, T., Kohno, H., Fujita, K. & Taki, Y. (1999) Early morphological development of Omobranchus fasciolatoceps and O. punctatus (Blenniidae: Omobranchini) reared in an aquarium. Ichthyological Research, 46, 163-170. https://doi.org/10.1007/BF02675434"
+      },
+      {
+        "reference": "Kubo, M. & Sasaki, K. (2000) Larvae of Laiphognathus multimaculatus (Omobranchini, Blenniidae) with pterygiophore blades: Functional implications. Ichthyological Research, 47, 193-197."
+      },
+      {
+        "reference": "https://doi.org/10.1007/BF02684241"
+      },
+      {
+        "reference": "Lanfear, R., Calcott, B., Ho, S.Y.W. & Guindon, S. (2012) PartitionFinder: combined selection of partitioning schemes and substitution models for phylogenetic analyses. Molecular Biology and Evolution, 29, 1695-1701. https://doi.org/10.1093/molbev/mss020"
+      },
+      {
+        "reference": "Lasso-Alcala, O.M., Lasso, C.A. & Posada, J. (2008) Especies exoticas en el Mar Caribe: Introduccion de Omobranchus punctatus (Valenciennes, 1836) (Perciformes, Blennidae) en las Costasde Venezuela. In: Proceedings of the Sixty First Annual Gulf and Caribbean Fisheries Institute. Gulf and Caribbean Fisheries Institute, Guadaloupe, pp. 391-395."
+      },
+      {
+        "reference": "Leis, J.M. & Carson-Ewart, B.M. (2000) The Larvae of Indo-Pacific Coastal Fishes: An Identification Guide to Marine Fish Larvae. Vol. 2. Brill, Leiden, 850 pp."
+      },
+      {
+        "reference": "Lin, H-C. & Hastings, P.A. (2013) Phylogeny and biogeography of a shallow water fish clade (Teleostei: Blenniiformes). BMC Evolutionary Biology, 13, 210."
+      },
+      {
+        "reference": "https://doi.org/10.1186/1471-2148-13-210"
+      },
+      {
+        "reference": "Mahidol, C., Na-Nakorn, U., Sukmanomon, S., Taniguchi, N. & Nguyen, T.T.T. (2007) Mitochondrial DNA diversity of the Asian moon scallop, Amusium pleuronectes (Pectinidae), in Thailand. Marine Biotechnology, 9, 352-359. https://doi.org/10.1007/s10126-006-6137-y"
+      },
+      {
+        "reference": "Miller, M.A., Pfeiffer, W. & Schwartz, T. (2010) Creating the CIPRES science gateway for inference of large phylogenetic trees. In: Proceedings of the Gateway Computing Environments Workshop (GCE), 14 November 2010, New Orleans, LA, pp. 1-8."
+      },
+      {
+        "reference": "https://doi.org/10.1109/GCE.2010.5676129"
+      },
+      {
+        "reference": "Myers, R.F. (1991) Micronesian Reef Fishes: A Comprehensive Guide to the Coral Reef Fishes of Micronesia. Coral Graphics, Barrigada, Guam, 522 pp."
+      },
+      {
+        "reference": "Neira, F.J., Miskiewicz, A.G. & Trnski, T. (1998) Larvae of temperate Australian fishes: laboratory guide for larval fish identification. UWA Publishing, Crawley, 474 pp."
+      },
+      {
+        "reference": "Nguyen, V.X., Detcharoen, M., Tuntiprapas, P., Soe-Htun, U., Sidik, J.B., Harah, M.Z., Prathep, A. & Papenbrock, J. (2014) Genetic species identification and population structure of Halophila (Hydrocharitaceae) from the western Pacific to the eastern Indian Ocean. BMC Evolutionary Biology, 14, 92."
+      },
+      {
+        "reference": "https://doi.org/10.1186/1471-2148-14-92"
+      },
+      {
+        "reference": "Polidoro, B.A., Carpenter, K.E., Collins, L., Duke, N.C., Ellison, A.M., Ellison, J.C., Farnsworth, E.J., Fernando, E.S., Kathiresan, K., Koedam, N.E., Livingstone, S.R., Miyagi, T., Moore, G.E., Nam, V.N., Ong, J.E., Primavera, J.H., Salmo III, S.G., Sanciangco, J.C., Sukardjo, S., Wang, Y. & Yong, J.W.H. (2010) The loss of species: Mangrove extinction risk and geographic areas of global concern. PLoS ONE, 5, e10095."
+      },
+      {
+        "reference": "https://doi.org/10.1371/journal.pone.0010095"
+      },
+      {
+        "reference": "Ronquist, F., Teslenko, M., van der Mark, P., Ayres, D.L., Darling, A., Hohna, S., Larget, B., Liu, L., Suchard, M.A. & Huelsenbeck, J.P. (2012) MrBayes 3.2: efficient Bayesian phylogenetic inference and model choice across a large model space. Systematic Biology, 61, 539-542."
+      },
+      {
+        "reference": "https://doi.org/10.1093/sysbio/sys029"
+      },
+      {
+        "reference": "Soares, B., Raiol, R. & Montag, L. (2011) Occurrence of the non-native blenny Omobranchus punctatus (Valenciennes, 1836) (Perciformes: Blenniidae) in the Amazon Coastal Zone, Brazil. Aquatic Invasions, 6 (Supplement 1), 39-43. https://doi.org/10.3391/ai.2011.6.S1.009"
+      },
+      {
+        "reference": "Springer, V.G. (1972) Synopsis of the Tribe Omobranchini with descriptions of three new genera and two new species (Pisces: Blenniidae). Smithsonian Contributions to Zoology, 130, 1-31."
+      },
+      {
+        "reference": "https://doi.org/10.5479/si.00810282.130"
+      },
+      {
+        "reference": "Springer, V.G. (1985) Oman ypsilon, a new genus and species of blenniid fish from the Indian Ocean. Proceedings of the Biological Society of Washington, 98, 90-97."
+      },
+      {
+        "reference": "Springer, V.G. & Gomon, M.F. (1975) Revision of the blenniid fish genus Omobranchus with descriptions of three new species and notes on other species of the tribe Omobranchini. Smithsonian Contributions to Zoology, 177, 1-135. https://doi.org/10.5479/si.00810282.177"
+      },
+      {
+        "reference": "Thomson, J.M. & Bennett, A.E. (1953) Parental care of the eggs and the early larvae of the oyster blenny, Omobranchus anolius (Valenciennes) (Blenniidae). Marine and Freshwater Research, 4, 227-233."
+      },
+      {
+        "reference": "Watson, W. (1987) Larval development of the endemic Hawaiian blenniid, Enchelyurus brunneolus (Pisces: Blenniidae: Omobranchini. Bulletin of Marine Science, 41, 856."
+      },
+      {
+        "reference": "Watson, W. (2001) Larvae of Enchelyurus ater (gunther, 1877) and E. kraussi (klunzinger, 1871) (pisces: Blenniidae: Omobranchini). Records of the Australian Museum, 53, 57."
+      },
+      {
+        "reference": "https://doi.org/10.3853/j.0067-1975.53.2001.1324"
+      },
+      {
+        "reference": "Watson, W. (2009) Larval development in blennies. In: Patzner, R.A., Goncalves, E.J. & Kapoor, B.G. (Eds.), The Biology of Blennies. Science Publishers, Enfield, New, Hampshire, pp. 69-91."
+      },
+      {
+        "reference": "https://doi.org/10.1201/b10301-17"
+      },
+      {
+        "reference": "Wee, A.K.S., Takayama, K., Chua, J.L., Asakawa, T., Meenakshisundaram, S.H., Onrizal, Adjie, B., Ardli, E.R., Sungkaew, S., Malekal, N.B., Tung, N.X., Salmo, S.G., Yllano, O.B., Saleh, M.N., Soe, K.K., Tateishi, Y., Watano, Y., Baba, S., Webb, E.L. & Kajita, T. (2015) Genetic differentiation and phylogeography of partially sympatric species complex Rhizophora mucronata Lam. and R. stylosa Griff. using SSR markers. BMC Evolutionary Biology, 15, 57. https://doi.org/10.1186/s12862-015-0331-3"
+      },
+      {
+        "reference": "Wichachucherd, B., Prathep, A. & Zuccarello, G.C. (2014) Phylogeography of Padina boryana (Dictyotales, Phaeophyceae) around the Thai-Malay Peninsula. European Journal of Phycology, 49, 313-323."
+      },
+      {
+        "reference": "https://doi.org/10.1080/09670262.2014.918658"
+      },
+      {
+        "reference": "Yamamoto, M.N. & Tagawa, A.W. (2000) Hawaii's Native and Exotic Freshwater Animals. Mutual Publishing, Honolulu, 200 pp."
+      },
+      {
+        "reference": "Yang, Z. (2006) Computational Molecular Evolution. Oxford University Press, Oxford, 374 pp. https://doi.org/10.1093/acprof:oso/9780198567028.001.0001"
+      }
+    ]
+  },
+  "custom_fields": {
+    "journal:journal": {
+      "title": "Zootaxa",
+      "issue": "2",
+      "volume": "4369",
+      "pages": "270-280"
+    },
+    "legacy:communities": [
+      "biosyslit"
+    ]
+  },
+  "access": {
+    "record": "public",
+    "files": "restricted",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "restricted"
+  },
+  "files": {
+    "enabled": true
+  },
+  "media_files": {
+    "enabled": false
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 89,
+      "unique_views": 88,
+      "downloads": 0,
+      "unique_downloads": 0,
+      "data_volume": 0.0
+    },
+    "all_versions": {
+      "views": 90,
+      "unique_views": 89,
+      "downloads": 0,
+      "unique_downloads": 0,
+      "data_volume": 0.0
+    }
+  },
+  "swh": null,
+  "ui": {
+    "publication_date_l10n_medium": "Jan 4, 2018",
+    "publication_date_l10n_long": "January 4, 2018",
+    "created_date_l10n_long": "January 5, 2018",
+    "updated_date_l10n_long": "August 2, 2024",
+    "resource_type": {
+      "id": "publication-article",
+      "title_l10n": "Journal article"
+    },
+    "custom_fields": {
+      "journal:journal": {
+        "title": "Zootaxa",
+        "issue": "2",
+        "volume": "4369",
+        "pages": "270-280"
+      },
+      "legacy:communities": [
+        "biosyslit"
+      ]
+    },
+    "publishing_information": {
+      "journal": "Zootaxa, 4369(2), 270-280, 2018."
+    },
+    "access_status": {
+      "id": "restricted",
+      "title_l10n": "Restricted",
+      "description_l10n": "The record is publicly accessible, but files are restricted to users with access.",
+      "icon": "ban",
+      "embargo_date_l10n": null,
+      "message_class": "negative"
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gibbs, Sean",
+            "given_name": "Sean",
+            "family_name": "Gibbs"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Hundt, Peter J.",
+            "given_name": "Peter J.",
+            "family_name": "Hundt"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Nelson, Andrea",
+            "given_name": "Andrea",
+            "family_name": "Nelson"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Egan, Joshua P.",
+            "given_name": "Joshua P.",
+            "family_name": "Egan"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Tongnunui, Prasert",
+            "given_name": "Prasert",
+            "family_name": "Tongnunui"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Simons, Andrew M.",
+            "given_name": "Andrew M.",
+            "family_name": "Simons"
+          }
+        }
+      ],
+      "affiliations": []
+    },
+    "description_stripped": "Gibbs, Sean, Hundt, Peter J., Nelson, Andrea, Egan, Joshua P., Tongnunui, Prasert, Simons, Andrew M. (2018): Systematics of the combtooth blenny clade Omobranchus (Blenniidae: Omobranchini), with notes on early life history stages. Zootaxa 4369 (2): 270-280, DOI: 10.11646/zootaxa.4369.2.7",
+    "version": "v1",
+    "related_identifiers": [
+      {
+        "identifier": "http://table.plazi.org/id/DF626667B86F7353A804D9D5F8F9FD08",
+        "relation_type": {
+          "id": "haspart",
+          "title_l10n": "Has part"
+        },
+        "scheme": "url",
+        "resource_type": {
+          "id": "dataset",
+          "title_l10n": "Dataset"
+        }
+      },
+      {
+        "identifier": "10.5281/zenodo.1135406",
+        "relation_type": {
+          "id": "haspart",
+          "title_l10n": "Has part"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "image-figure",
+          "title_l10n": "Figure"
+        }
+      },
+      {
+        "identifier": "10.5281/zenodo.1135408",
+        "relation_type": {
+          "id": "haspart",
+          "title_l10n": "Has part"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "image-figure",
+          "title_l10n": "Figure"
+        }
+      },
+      {
+        "identifier": "http://table.plazi.org/id/DF626667B86B7357A804D9F0FAE7FD5B",
+        "relation_type": {
+          "id": "haspart",
+          "title_l10n": "Has part"
+        },
+        "scheme": "url",
+        "resource_type": {
+          "id": "dataset",
+          "title_l10n": "Dataset"
+        }
+      },
+      {
+        "identifier": "10.1080/00288330.2004.9517269",
+        "relation_type": {
+          "id": "cites",
+          "title_l10n": "Cites"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "publication",
+          "title_l10n": "Publication"
+        }
+      },
+      {
+        "identifier": "10.1007/s10530-005-5104-2",
+        "relation_type": {
+          "id": "cites",
+          "title_l10n": "Cites"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "publication",
+          "title_l10n": "Publication"
+        }
+      },
+      {
+        "identifier": "10.1017/S0025315404010057h",
+        "relation_type": {
+          "id": "cites",
+          "title_l10n": "Cites"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "publication",
+          "title_l10n": "Publication"
+        }
+      },
+      {
+        "identifier": "10.1201/b10301-5",
+        "relation_type": {
+          "id": "cites",
+          "title_l10n": "Cites"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "publication",
+          "title_l10n": "Publication"
+        }
+      },
+      {
+        "identifier": "10.1371/journal.pone.0028987",
+        "relation_type": {
+          "id": "cites",
+          "title_l10n": "Cites"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "publication",
+          "title_l10n": "Publication"
+        }
+      },
+      {
+        "identifier": "10.1016/j.ympev.2013.09.001",
+        "relation_type": {
+          "id": "cites",
+          "title_l10n": "Cites"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "publication",
+          "title_l10n": "Publication"
+        }
+      },
+      {
+        "identifier": "10.1016/j.ympev.2003.11.009",
+        "relation_type": {
+          "id": "cites",
+          "title_l10n": "Cites"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "publication",
+          "title_l10n": "Publication"
+        }
+      },
+      {
+        "identifier": "10.1007/BF02675434",
+        "relation_type": {
+          "id": "cites",
+          "title_l10n": "Cites"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "publication",
+          "title_l10n": "Publication"
+        }
+      },
+      {
+        "identifier": "10.1007/BF02684241",
+        "relation_type": {
+          "id": "cites",
+          "title_l10n": "Cites"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "publication",
+          "title_l10n": "Publication"
+        }
+      },
+      {
+        "identifier": "10.1093/molbev/mss020",
+        "relation_type": {
+          "id": "cites",
+          "title_l10n": "Cites"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "publication",
+          "title_l10n": "Publication"
+        }
+      },
+      {
+        "identifier": "10.1186/1471-2148-13-210",
+        "relation_type": {
+          "id": "cites",
+          "title_l10n": "Cites"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "publication",
+          "title_l10n": "Publication"
+        }
+      },
+      {
+        "identifier": "10.1007/s10126-006-6137-y",
+        "relation_type": {
+          "id": "cites",
+          "title_l10n": "Cites"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "publication",
+          "title_l10n": "Publication"
+        }
+      },
+      {
+        "identifier": "10.1109/GCE.2010.5676129",
+        "relation_type": {
+          "id": "cites",
+          "title_l10n": "Cites"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "publication",
+          "title_l10n": "Publication"
+        }
+      },
+      {
+        "identifier": "10.1186/1471-2148-14-92",
+        "relation_type": {
+          "id": "cites",
+          "title_l10n": "Cites"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "publication",
+          "title_l10n": "Publication"
+        }
+      },
+      {
+        "identifier": "10.1371/journal.pone.0010095",
+        "relation_type": {
+          "id": "cites",
+          "title_l10n": "Cites"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "publication",
+          "title_l10n": "Publication"
+        }
+      },
+      {
+        "identifier": "10.1093/sysbio/sys029",
+        "relation_type": {
+          "id": "cites",
+          "title_l10n": "Cites"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "publication",
+          "title_l10n": "Publication"
+        }
+      },
+      {
+        "identifier": "10.3391/ai.2011.6.S1.009",
+        "relation_type": {
+          "id": "cites",
+          "title_l10n": "Cites"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "publication",
+          "title_l10n": "Publication"
+        }
+      },
+      {
+        "identifier": "10.5479/si.00810282.130",
+        "relation_type": {
+          "id": "cites",
+          "title_l10n": "Cites"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "publication",
+          "title_l10n": "Publication"
+        }
+      },
+      {
+        "identifier": "10.5479/si.00810282.177",
+        "relation_type": {
+          "id": "cites",
+          "title_l10n": "Cites"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "publication",
+          "title_l10n": "Publication"
+        }
+      },
+      {
+        "identifier": "10.3853/j.0067-1975.53.2001.1324",
+        "relation_type": {
+          "id": "cites",
+          "title_l10n": "Cites"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "publication",
+          "title_l10n": "Publication"
+        }
+      },
+      {
+        "identifier": "10.1201/b10301-17",
+        "relation_type": {
+          "id": "cites",
+          "title_l10n": "Cites"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "publication",
+          "title_l10n": "Publication"
+        }
+      },
+      {
+        "identifier": "10.1186/s12862-015-0331-3",
+        "relation_type": {
+          "id": "cites",
+          "title_l10n": "Cites"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "publication",
+          "title_l10n": "Publication"
+        }
+      },
+      {
+        "identifier": "10.1080/09670262.2014.918658",
+        "relation_type": {
+          "id": "cites",
+          "title_l10n": "Cites"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "publication",
+          "title_l10n": "Publication"
+        }
+      },
+      {
+        "identifier": "10.1093/acprof:oso/9780198567028.001.0001",
+        "relation_type": {
+          "id": "cites",
+          "title_l10n": "Cites"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "publication",
+          "title_l10n": "Publication"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "id": "1177775",
+  "created": "2018-02-19T18:29:33.808179+00:00",
+  "updated": "2024-08-02T19:01:22.864573+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/1177775",
+    "self_html": "https://zenodo.org/records/1177775",
+    "preview_html": "https://zenodo.org/records/1177775?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.1177775",
+    "self_doi": "https://doi.org/10.5281/zenodo.1177775",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.1177775",
+    "reserve_doi": "https://zenodo.org/api/records/1177775/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/1177774",
+    "parent_html": "https://zenodo.org/records/1177774",
+    "parent_doi": "https://doi.org/10.5281/zenodo.1177774",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.1177774",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:1177775/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:1177775/sequence/default",
+    "files": "https://zenodo.org/api/records/1177775/files",
+    "media_files": "https://zenodo.org/api/records/1177775/media-files",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:1177775:nime2010_451.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:1177775:nime2010_451.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:1177775:nime2010_451.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:1177775:nime2010_451.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:1177775:nime2010_451.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:1177775:nime2010_451.pdf/full/%5E1200,/0/default.jpg"
+    },
+    "archive": "https://zenodo.org/api/records/1177775/files-archive",
+    "archive_media": "https://zenodo.org/api/records/1177775/media-files-archive",
+    "latest": "https://zenodo.org/api/records/1177775/versions/latest",
+    "latest_html": "https://zenodo.org/records/1177775/latest",
+    "versions": "https://zenodo.org/api/records/1177775/versions",
+    "draft": "https://zenodo.org/api/records/1177775/draft",
+    "access_links": "https://zenodo.org/api/records/1177775/access/links",
+    "access_grants": "https://zenodo.org/api/records/1177775/access/grants",
+    "access_users": "https://zenodo.org/api/records/1177775/access/users",
+    "access_request": "https://zenodo.org/api/records/1177775/access/request",
+    "access": "https://zenodo.org/api/records/1177775/access",
+    "communities": "https://zenodo.org/api/records/1177775/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/1177775/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/1177775/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/1177775/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/1177775/quota-increase",
+    "requests": "https://zenodo.org/api/records/1177775/requests"
+  },
+  "revision_id": 8,
+  "parent": {
+    "id": "1177774",
+    "access": {
+      "owned_by": {
+        "user": "42081"
+      }
+    },
+    "communities": {
+      "ids": [
+        "5517c069-330e-42b4-9a61-7187dc64620c"
+      ],
+      "default": "5517c069-330e-42b4-9a61-7187dc64620c",
+      "entries": [
+        {
+          "id": "5517c069-330e-42b4-9a61-7187dc64620c",
+          "created": "2018-05-23T10:18:56.789761+00:00",
+          "updated": "2025-03-14T21:08:28.321610+00:00",
+          "links": {},
+          "revision_id": 3,
+          "slug": "nime_conference",
+          "metadata": {
+            "title": "Proceedings of the International Conference on New Interfaces for Musical Expression",
+            "website": "https://nime.org",
+            "organizations": [
+              {
+                "name": "New Interfaces for Musical Expression"
+              }
+            ]
+          },
+          "access": {
+            "visibility": "public",
+            "members_visibility": "public",
+            "member_policy": "closed",
+            "record_submission_policy": "open",
+            "review_policy": "closed"
+          },
+          "deletion_status": {
+            "is_deleted": false,
+            "status": "P"
+          },
+          "children": {
+            "allow": false
+          }
+        }
+      ]
+    },
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.1177774",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 1
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.1177775",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:1177775",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "publication-conferencepaper",
+      "title": {
+        "de": "Konferenzbeitrag",
+        "en": "Conference paper"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Fyans, A. Cavan",
+          "given_name": "A. Cavan",
+          "family_name": "Fyans"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gurevich, Michael",
+          "given_name": "Michael",
+          "family_name": "Gurevich"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Stapleton, Paul",
+          "given_name": "Paul",
+          "family_name": "Stapleton"
+        }
+      }
+    ],
+    "title": "Examining the Spectator Experience",
+    "publisher": "Zenodo",
+    "publication_date": "2010-06-01",
+    "rights": [
+      {
+        "id": "cc-by-4.0",
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        },
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "Drawing on a model of spectator understanding of error inperformance in the literature, we document a qualitativeexperiment that explores the relationships between domainknowledge, mental models, intention and error recognitionby spectators of performances with electronic instruments.Participants saw two performances with contrasting instruments, with controls on their mental model and understanding of intention. Based on data from a subsequent structured interview, we identify themes in participants' judgements and understanding of performance and explanationsof their spectator experience. These reveal both elementsof similarity and difference between the two performances,instruments and between domain knowledge groups. Fromthese, we suggest and discuss implications for the design ofnovel performative interactions with technology."
+  },
+  "custom_fields": {
+    "meeting:meeting": {
+      "place": "Sydney, Australia",
+      "title": "International Conference on New Interfaces for Musical Expression"
+    },
+    "imprint:imprint": {
+      "title": "Proceedings of the International Conference on New Interfaces for Musical Expression",
+      "pages": "451--454"
+    }
+  },
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 1,
+    "total_bytes": 1291184,
+    "entries": {
+      "nime2010_451.pdf": {
+        "id": "ee8d1c89-9723-40e8-a94c-23ffb1e20d6b",
+        "checksum": "md5:df91d82e3bda923591c90ba847ec1df9",
+        "ext": "pdf",
+        "size": 1291184,
+        "mimetype": "application/pdf",
+        "key": "nime2010_451.pdf",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": true,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 175,
+      "unique_views": 167,
+      "downloads": 98,
+      "unique_downloads": 91,
+      "data_volume": 126536032.0
+    },
+    "all_versions": {
+      "views": 175,
+      "unique_views": 167,
+      "downloads": 98,
+      "unique_downloads": 91,
+      "data_volume": 126536032.0
+    }
+  },
+  "swh": null,
+  "ui": {
+    "publication_date_l10n_medium": "Jun 1, 2010",
+    "publication_date_l10n_long": "June 1, 2010",
+    "created_date_l10n_long": "February 19, 2018",
+    "updated_date_l10n_long": "August 2, 2024",
+    "resource_type": {
+      "id": "publication-conferencepaper",
+      "title_l10n": "Conference paper"
+    },
+    "custom_fields": {
+      "meeting:meeting": {
+        "place": "Sydney, Australia",
+        "title": "International Conference on New Interfaces for Musical Expression"
+      },
+      "imprint:imprint": {
+        "title": "Proceedings of the International Conference on New Interfaces for Musical Expression",
+        "pages": "451--454"
+      }
+    },
+    "publishing_information": {
+      "imprint": "Proceedings of the International Conference on New Interfaces for Musical Expression, 451--454."
+    },
+    "conference": {
+      "place": "Sydney, Australia",
+      "title": "International Conference on New Interfaces for Musical Expression"
+    },
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Fyans, A. Cavan",
+            "given_name": "A. Cavan",
+            "family_name": "Fyans"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gurevich, Michael",
+            "given_name": "Michael",
+            "family_name": "Gurevich"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Stapleton, Paul",
+            "given_name": "Paul",
+            "family_name": "Stapleton"
+          }
+        }
+      ],
+      "affiliations": []
+    },
+    "description_stripped": "Drawing on a model of spectator understanding of error inperformance in the literature, we document a qualitativeexperiment that explores the relationships between domainknowledge, mental models, intention and error recognitionby spectators of performances with electronic instruments.Participants saw two performances with contrasting instruments, with controls on their mental model and understanding of intention. Based on data from a subsequent structured interview, we identify themes in participants' judgements and understanding of performance and explanationsof their spectator experience. These reveal both elementsof similarity and difference between the two performances,instruments and between domain knowledge groups. Fromthese, we suggest and discuss implications for the design ofnovel performative interactions with technology.",
+    "version": "v1",
+    "rights": [
+      {
+        "id": "cc-by-4.0",
+        "title_l10n": "Creative Commons Attribution 4.0 International",
+        "description_l10n": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited.",
+        "icon": "cc-by-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}

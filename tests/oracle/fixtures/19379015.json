@@ -1,0 +1,550 @@
+{
+  "id": "19379015",
+  "created": "2026-04-02T02:04:15.149703+00:00",
+  "updated": "2026-04-02T02:04:15.375577+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/19379015",
+    "self_html": "https://zenodo.org/records/19379015",
+    "preview_html": "https://zenodo.org/records/19379015?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.19379015",
+    "self_doi": "https://doi.org/10.5281/zenodo.19379015",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.19379015",
+    "reserve_doi": "https://zenodo.org/api/records/19379015/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/19379014",
+    "parent_html": "https://zenodo.org/records/19379014",
+    "parent_doi": "https://doi.org/10.5281/zenodo.19379014",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.19379014",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:19379015/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:19379015/sequence/default",
+    "files": "https://zenodo.org/api/records/19379015/files",
+    "media_files": "https://zenodo.org/api/records/19379015/media-files",
+    "archive": "https://zenodo.org/api/records/19379015/files-archive",
+    "archive_media": "https://zenodo.org/api/records/19379015/media-files-archive",
+    "latest": "https://zenodo.org/api/records/19379015/versions/latest",
+    "latest_html": "https://zenodo.org/records/19379015/latest",
+    "versions": "https://zenodo.org/api/records/19379015/versions",
+    "draft": "https://zenodo.org/api/records/19379015/draft",
+    "access_links": "https://zenodo.org/api/records/19379015/access/links",
+    "access_grants": "https://zenodo.org/api/records/19379015/access/grants",
+    "access_users": "https://zenodo.org/api/records/19379015/access/users",
+    "access_request": "https://zenodo.org/api/records/19379015/access/request",
+    "access": "https://zenodo.org/api/records/19379015/access",
+    "communities": "https://zenodo.org/api/records/19379015/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/19379015/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/19379015/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/19379015/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/19379015/quota-increase",
+    "requests": "https://zenodo.org/api/records/19379015/requests"
+  },
+  "revision_id": 4,
+  "parent": {
+    "id": "19379014",
+    "access": {
+      "owned_by": {
+        "user": "1557630"
+      },
+      "settings": {
+        "allow_user_requests": false,
+        "allow_guest_requests": false,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {
+      "ids": [
+        "bfb844ef-1366-446f-aa9e-73ea3da7486e"
+      ],
+      "default": "bfb844ef-1366-446f-aa9e-73ea3da7486e",
+      "entries": [
+        {
+          "id": "bfb844ef-1366-446f-aa9e-73ea3da7486e",
+          "created": "2026-03-02T03:23:41.537449+00:00",
+          "updated": "2026-04-24T22:10:26.676793+00:00",
+          "links": {},
+          "revision_id": 7,
+          "slug": "ilu",
+          "metadata": {
+            "title": "iLU - Integrative Learning from Urban Data and Situational Context for City Mobility Optimization",
+            "type": {
+              "id": "project",
+              "title": {
+                "de": "Projekt",
+                "en": "Project"
+              }
+            },
+            "website": "https://web.ist.utl.pt/rmch/ilu/",
+            "funding": [
+              {
+                "funder": {
+                  "id": "00snfqn58",
+                  "name": "Fundação para a Ciência e Tecnologia"
+                },
+                "award": {
+                  "id": "00snfqn58::DSAIPA/DS/0111/2018",
+                  "number": "DSAIPA/DS/0111/2018",
+                  "title": {
+                    "en": "iLU: Integrative Learning from Urban Data and Situational Context for City Mobility Optimization"
+                  },
+                  "identifiers": [
+                    {
+                      "identifier": "http://www.fct.pt/apoios/projectos/consulta/vglobal_projecto.phtml.en?idProjecto=154534&idElemConcurso=12346",
+                      "scheme": "url"
+                    }
+                  ],
+                  "acronym": "DSAIPA/DS/0111/2018",
+                  "program": "3599-PPCDT"
+                }
+              }
+            ],
+            "organizations": [
+              {
+                "id": "00snfqn58",
+                "name": "Fundação para a Ciência e Tecnologia",
+                "identifiers": [
+                  {
+                    "identifier": "00snfqn58",
+                    "scheme": "ror"
+                  },
+                  {
+                    "identifier": "grid.22919.31",
+                    "scheme": "grid"
+                  },
+                  {
+                    "identifier": "0000 0001 2169 9189",
+                    "scheme": "isni"
+                  }
+                ]
+              },
+              {
+                "id": "04mqy3p58",
+                "name": "Instituto de Engenharia de Sistemas e Computadores Investigação e Desenvolvimento",
+                "identifiers": [
+                  {
+                    "identifier": "04mqy3p58",
+                    "scheme": "ror"
+                  },
+                  {
+                    "identifier": "grid.14647.30",
+                    "scheme": "grid"
+                  },
+                  {
+                    "identifier": "0000 0001 0279 8114",
+                    "scheme": "isni"
+                  }
+                ]
+              },
+              {
+                "id": "03bvw9g02",
+                "name": "National Laboratory for Civil Engineering",
+                "identifiers": [
+                  {
+                    "identifier": "03bvw9g02",
+                    "scheme": "ror"
+                  },
+                  {
+                    "identifier": "grid.16326.30",
+                    "scheme": "grid"
+                  },
+                  {
+                    "identifier": "0000 0004 0392 1227",
+                    "scheme": "isni"
+                  }
+                ]
+              },
+              {
+                "id": "03kwktj23",
+                "name": "Câmara Municipal de Lisboa",
+                "identifiers": [
+                  {
+                    "identifier": "03kwktj23",
+                    "scheme": "ror"
+                  },
+                  {
+                    "identifier": "grid.433486.e",
+                    "scheme": "grid"
+                  },
+                  {
+                    "identifier": "0000 0001 2235 2291",
+                    "scheme": "isni"
+                  }
+                ]
+              }
+            ]
+          },
+          "access": {
+            "visibility": "public",
+            "members_visibility": "public",
+            "member_policy": "closed",
+            "record_submission_policy": "open",
+            "review_policy": "closed"
+          },
+          "deletion_status": {
+            "is_deleted": false,
+            "status": "P"
+          },
+          "children": {
+            "allow": false
+          }
+        }
+      ]
+    },
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.19379014",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 1
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.19379015",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:19379015",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "publication-dissertation",
+      "title": {
+        "en": "Thesis"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Lemonde, Carlos",
+          "given_name": "Carlos",
+          "family_name": "Lemonde"
+        },
+        "affiliations": [
+          {
+            "id": "03db2by73",
+            "name": "Instituto Superior Técnico",
+            "identifiers": [
+              {
+                "identifier": "03db2by73",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "0000 0004 1794 1114",
+                "scheme": "isni"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "title": "Spatial-focused Multimodality Analysis in the City of Lisbon",
+    "publisher": "Zenodo",
+    "publication_date": "2021-01-27",
+    "subjects": [
+      {
+        "subject": "Multimodality"
+      },
+      {
+        "subject": "Sustainable Mobility"
+      },
+      {
+        "subject": "Data Analysis"
+      },
+      {
+        "subject": "Spatio-temporal Data Analysis"
+      },
+      {
+        "subject": "Public Transportation"
+      }
+    ],
+    "contributors": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Almeida, Elisabete Maria Mourinho Arsenio Guterres De",
+          "given_name": "Elisabete Maria Mourinho Arsenio Guterres De",
+          "family_name": "Almeida",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-8520-8665",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "supervisor",
+          "title": {
+            "de": "SupervisorIn",
+            "en": "Supervisor"
+          }
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Henriques, Rui",
+          "given_name": "Rui",
+          "family_name": "Henriques",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-3993-0171",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "supervisor",
+          "title": {
+            "de": "SupervisorIn",
+            "en": "Supervisor"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Instituto Superior Técnico, Universidade de Lisboa"
+          },
+          {
+            "name": "INESC-ID"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": "eng",
+        "title": {
+          "en": "English"
+        }
+      }
+    ],
+    "identifiers": [
+      {
+        "identifier": "https://scholar.tecnico.ulisboa.pt/records/hqs63udccM9w036tyxEcH0rvm-y9z4qJ6I2r",
+        "scheme": "url"
+      }
+    ],
+    "copyright": "© The Author(s).",
+    "description": "<p><strong>Abstract</strong></p>\n<p>The Lisbon's City Council is establishing efforts to collect urban traffic data and their situational context for gaining more comprehensive views of the ongoing multimodal mobility changes and support decisions accordingly. The present work is anchored in the pioneer research and innovation project &ldquo;Integrative Learning from Urban Data&rdquo; (ILU), and describes a methodology to identify multimodal mobility patterns through the analysis of spatiotemporal indices of multimodality in passengers&rsquo; public transport against the available situational context. The analysis was conducted by applying two social-economic indices (Gini Coefficient and Herfindahl index) in the city of Lisbon organized by a synthetic geographic unit, the Traffic Analysis Zones (TAZ). Results demonstrate that the center of the city, abundant in traffic generation and attraction poles, benefit from a more multimodal usage of the public transport system. Additionally, a software tool was built in order to aid specialists in the field, to find inconsistencies on the public transportation network of the city of Lisbon.</p>",
+    "funding": [
+      {
+        "funder": {
+          "id": "00snfqn58",
+          "name": "Fundação para a Ciência e Tecnologia"
+        },
+        "award": {
+          "id": "00snfqn58::DSAIPA/DS/0111/2018",
+          "number": "DSAIPA/DS/0111/2018",
+          "title": {
+            "en": "iLU: Integrative Learning from Urban Data and Situational Context for City Mobility Optimization"
+          },
+          "identifiers": [
+            {
+              "identifier": "http://www.fct.pt/apoios/projectos/consulta/vglobal_projecto.phtml.en?idProjecto=154534&idElemConcurso=12346",
+              "scheme": "url"
+            }
+          ],
+          "acronym": "DSAIPA/DS/0111/2018",
+          "program": "3599-PPCDT"
+        }
+      }
+    ]
+  },
+  "custom_fields": {
+    "thesis:thesis": {
+      "university": "Instituto Superior Técnico",
+      "department": "Computer Science and Engineering",
+      "type": "Masters"
+    }
+  },
+  "access": {
+    "record": "public",
+    "files": "restricted",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "restricted"
+  },
+  "files": {
+    "enabled": true
+  },
+  "media_files": {
+    "enabled": false
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 18,
+      "unique_views": 18,
+      "downloads": 4,
+      "unique_downloads": 3,
+      "data_volume": 47424564.0
+    },
+    "all_versions": {
+      "views": 18,
+      "unique_views": 18,
+      "downloads": 4,
+      "unique_downloads": 3,
+      "data_volume": 47424564.0
+    }
+  },
+  "swh": null,
+  "ui": {
+    "publication_date_l10n_medium": "Jan 27, 2021",
+    "publication_date_l10n_long": "January 27, 2021",
+    "created_date_l10n_long": "April 2, 2026",
+    "updated_date_l10n_long": "April 2, 2026",
+    "resource_type": {
+      "id": "publication-dissertation",
+      "title_l10n": "Thesis"
+    },
+    "custom_fields": {
+      "thesis:thesis": {
+        "university": "Instituto Superior Técnico",
+        "department": "Computer Science and Engineering",
+        "type": "Masters"
+      }
+    },
+    "publishing_information": {
+      "thesis": "Instituto Superior Técnico (Computer Science and Engineering), Masters"
+    },
+    "access_status": {
+      "id": "restricted",
+      "title_l10n": "Restricted",
+      "description_l10n": "The record is publicly accessible, but files are restricted to users with access.",
+      "icon": "ban",
+      "embargo_date_l10n": null,
+      "message_class": "negative"
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Lemonde, Carlos",
+            "given_name": "Carlos",
+            "family_name": "Lemonde"
+          },
+          "affiliations": [
+            [
+              1,
+              "Instituto Superior Técnico"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "Instituto Superior Técnico",
+          "03db2by73"
+        ]
+      ]
+    },
+    "contributors": {
+      "contributors": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Almeida, Elisabete Maria Mourinho Arsenio Guterres De",
+            "given_name": "Elisabete Maria Mourinho Arsenio Guterres De",
+            "family_name": "Almeida",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-8520-8665",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "supervisor",
+            "title": "Supervisor"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Henriques, Rui",
+            "given_name": "Rui",
+            "family_name": "Henriques",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-3993-0171",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "supervisor",
+            "title": "Supervisor"
+          },
+          "affiliations": [
+            [
+              1,
+              "Instituto Superior Técnico, Universidade de Lisboa"
+            ],
+            [
+              2,
+              "INESC-ID"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "Instituto Superior Técnico, Universidade de Lisboa",
+          null
+        ],
+        [
+          2,
+          "INESC-ID",
+          null
+        ]
+      ]
+    },
+    "languages": [
+      {
+        "id": "eng",
+        "title_l10n": "English"
+      }
+    ],
+    "description_stripped": "Abstract\n\nThe Lisbon's City Council is establishing efforts to collect urban traffic data and their situational context for gaining more comprehensive views of the ongoing multimodal mobility changes and support decisions accordingly. The present work is anchored in the pioneer research and innovation project “Integrative Learning from Urban Data” (ILU), and describes a methodology to identify multimodal mobility patterns through the analysis of spatiotemporal indices of multimodality in passengers’ public transport against the available situational context. The analysis was conducted by applying two social-economic indices (Gini Coefficient and Herfindahl index) in the city of Lisbon organized by a synthetic geographic unit, the Traffic Analysis Zones (TAZ). Results demonstrate that the center of the city, abundant in traffic generation and attraction poles, benefit from a more multimodal usage of the public transport system. Additionally, a software tool was built in order to aid specialists in the field, to find inconsistencies on the public transportation network of the city of Lisbon.",
+    "version": "v1",
+    "is_draft": false,
+    "funding": [
+      {
+        "award": {
+          "id": "00snfqn58::DSAIPA/DS/0111/2018",
+          "title_l10n": "iLU: Integrative Learning from Urban Data and Situational Context for City Mobility Optimization",
+          "number": "DSAIPA/DS/0111/2018",
+          "acronym": "DSAIPA/DS/0111/2018",
+          "program": "3599-PPCDT",
+          "identifiers": [
+            {
+              "identifier": "http://www.fct.pt/apoios/projectos/consulta/vglobal_projecto.phtml.en?idProjecto=154534&idElemConcurso=12346",
+              "scheme": "url"
+            }
+          ]
+        },
+        "funder": {
+          "id": "00snfqn58",
+          "name": "Fundação para a Ciência e Tecnologia"
+        }
+      }
+    ]
+  }
+}

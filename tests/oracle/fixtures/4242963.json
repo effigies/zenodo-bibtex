@@ -1,0 +1,488 @@
+{
+  "id": "4242963",
+  "created": "2020-11-03T19:39:40.307691+00:00",
+  "updated": "2021-07-29T01:48:20.908130+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/4242963",
+    "self_html": "https://zenodo.org/records/4242963",
+    "preview_html": "https://zenodo.org/records/4242963?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.4242963",
+    "self_doi": "https://doi.org/10.5281/zenodo.4242963",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.4242963",
+    "reserve_doi": "https://zenodo.org/api/records/4242963/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/4242962",
+    "parent_html": "https://zenodo.org/records/4242962",
+    "parent_doi": "https://doi.org/10.5281/zenodo.4242962",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.4242962",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:4242963/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:4242963/sequence/default",
+    "files": "https://zenodo.org/api/records/4242963/files",
+    "media_files": "https://zenodo.org/api/records/4242963/media-files",
+    "archive": "https://zenodo.org/api/records/4242963/files-archive",
+    "archive_media": "https://zenodo.org/api/records/4242963/media-files-archive",
+    "latest": "https://zenodo.org/api/records/4242963/versions/latest",
+    "latest_html": "https://zenodo.org/records/4242963/latest",
+    "versions": "https://zenodo.org/api/records/4242963/versions",
+    "draft": "https://zenodo.org/api/records/4242963/draft",
+    "access_links": "https://zenodo.org/api/records/4242963/access/links",
+    "access_grants": "https://zenodo.org/api/records/4242963/access/grants",
+    "access_users": "https://zenodo.org/api/records/4242963/access/users",
+    "access_request": "https://zenodo.org/api/records/4242963/access/request",
+    "access": "https://zenodo.org/api/records/4242963/access",
+    "communities": "https://zenodo.org/api/records/4242963/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/4242963/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/4242963/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/4242963/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/4242963/quota-increase",
+    "requests": "https://zenodo.org/api/records/4242963/requests"
+  },
+  "revision_id": 6,
+  "parent": {
+    "id": "4242962",
+    "access": {
+      "grants": [],
+      "owned_by": {
+        "user": "21424"
+      },
+      "links": [],
+      "settings": {
+        "allow_user_requests": false,
+        "allow_guest_requests": false,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {
+      "ids": [
+        "4439d226-c446-46f0-bbbe-3dd76dce22ba"
+      ],
+      "default": "4439d226-c446-46f0-bbbe-3dd76dce22ba",
+      "entries": [
+        {
+          "id": "4439d226-c446-46f0-bbbe-3dd76dce22ba",
+          "created": "2025-12-11T16:13:07.659342+00:00",
+          "updated": "2026-01-09T14:12:00.989509+00:00",
+          "links": {},
+          "revision_id": 9,
+          "slug": "brain-imaging-data-structure",
+          "metadata": {
+            "title": "Brain Imaging Data Structure",
+            "type": {
+              "id": "project",
+              "title": {
+                "de": "Projekt",
+                "en": "Project"
+              }
+            },
+            "website": "https://bids.neuroimaging.io",
+            "funding": [
+              {
+                "funder": {
+                  "id": "021nxhr62",
+                  "name": "U.S. National Science Foundation"
+                },
+                "award": {
+                  "id": "021nxhr62::1760950",
+                  "number": "1760950",
+                  "title": {
+                    "en": "Spokes: MEDIUM: WEST: Breaking down barriers for reproducible neuroimaging data analyses"
+                  },
+                  "program": "CISE/OAD"
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::2R24MH117295-06",
+                  "number": "2R24MH117295-06",
+                  "title": {
+                    "en": "DANDI: Distributed Archives for Neurophysiology Data Integration"
+                  }
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::5P41EB019936-09",
+                  "number": "5P41EB019936-09",
+                  "title": {
+                    "en": "ReproNim: A Center for Reproducible Neuroimaging Computation"
+                  }
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::5R24MH117179-07",
+                  "number": "5R24MH117179-07",
+                  "title": {
+                    "en": "OpenNeuro: An open archive for analysis and sharing of BRAIN Initiative data"
+                  }
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::1ZIAMH002977-03",
+                  "number": "1ZIAMH002977-03",
+                  "title": {
+                    "en": "BRAIN project: OpenNeuroPET: An Archive for PET data"
+                  }
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::1R01MH126699-01",
+                  "number": "1R01MH126699-01",
+                  "title": {
+                    "en": "A community-driven development of the brain imaging data standard (BIDS) to describe macroscopic brain connections"
+                  },
+                  "program": "NATIONAL_INSTITUTE_OF_MENTAL_HEALTH"
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::5R24MH114705-02",
+                  "number": "5R24MH114705-02",
+                  "title": {
+                    "en": "BIDS-Derivatives: A data standard for derived data and models in the BRAIN Initiative"
+                  },
+                  "program": "NATIONAL_INSTITUTE_OF_MENTAL_HEALTH"
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::5R01MH109682-05",
+                  "number": "5R01MH109682-05",
+                  "title": {
+                    "en": "NeuroScout: A cloud-based platform for flexible re-analysis of naturalistic fMRI datasets"
+                  },
+                  "program": "NATIONAL_INSTITUTE_OF_MENTAL_HEALTH"
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::1RF1MH126700-01A1",
+                  "number": "1RF1MH126700-01A1",
+                  "title": {
+                    "en": "BRAIN Initiative: Hierarchical Event Descriptors (HED): a system to characterize events in neurobehavioral data"
+                  },
+                  "program": "NATIONAL_INSTITUTE_OF_MENTAL_HEALTH"
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::5R01EB020740-04",
+                  "number": "5R01EB020740-04",
+                  "title": {
+                    "en": "Nipype: Dataflows for Reproducible Biomedical Research"
+                  },
+                  "program": "NATIONAL_INSTITUTE_OF_BIOMEDICAL_IMAGING_AND_BIOENGINEERING"
+                }
+              },
+              {
+                "funder": {
+                  "id": "018mejw64",
+                  "name": "Deutsche Forschungsgemeinschaft"
+                },
+                "award": {
+                  "number": "501864659",
+                  "title": {
+                    "en": " NFDI4BIOIMAGE - National research data infrastructure for microscopy and bioimage analysis"
+                  },
+                  "identifiers": [
+                    {
+                      "identifier": "https://gepris.dfg.de/gepris/projekt/501864659?language=en",
+                      "scheme": "url"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "access": {
+            "visibility": "public",
+            "members_visibility": "public",
+            "member_policy": "closed",
+            "record_submission_policy": "open",
+            "review_policy": "closed"
+          },
+          "deletion_status": {
+            "is_deleted": false,
+            "status": "P"
+          },
+          "children": {
+            "allow": false
+          }
+        }
+      ]
+    },
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.4242962",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "is_latest_draft": true,
+    "index": 1
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.4242963",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:4242963",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "presentation",
+      "title": {
+        "de": "Präsentation",
+        "en": "Presentation"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Christopher J. Markiewicz",
+          "family_name": "Christopher J. Markiewicz",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6533-164X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Stanford University"
+          }
+        ]
+      }
+    ],
+    "title": "BIDS Applications and Derivatives @ Oldenburg, November 2020",
+    "publisher": "Zenodo",
+    "publication_date": "2020-11-03",
+    "subjects": [
+      {
+        "subject": "Brain Imaging Data Structure"
+      },
+      {
+        "subject": "BIDS"
+      },
+      {
+        "subject": "BIDS Apps"
+      },
+      {
+        "subject": "BIDS Derivatives"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/effigies/bids-derivatives/tree/2020.11.03",
+        "scheme": "url",
+        "relation_type": {
+          "id": "issupplementto",
+          "title": {
+            "de": "Ergänzt",
+            "en": "Is supplement to"
+          }
+        }
+      }
+    ],
+    "version": "2020.11.03",
+    "rights": [
+      {
+        "id": "cc-by-4.0",
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        },
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "<p>Presentation given to &quot;Open and reproducible neuroimaging&quot; workshop.</p>"
+  },
+  "custom_fields": {},
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 1,
+    "total_bytes": 3859412,
+    "entries": {
+      "effigies/bids-derivatives-2020.11.03.zip": {
+        "id": "a17bc970-74ad-4e34-a370-d5bc8ba1cdc0",
+        "checksum": "md5:76cba0e13e6543b2b25af7c88bdc4eda",
+        "ext": "zip",
+        "size": 3859412,
+        "mimetype": "application/zip",
+        "key": "effigies/bids-derivatives-2020.11.03.zip",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": false,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 95,
+      "unique_views": 90,
+      "downloads": 33,
+      "unique_downloads": 33,
+      "data_volume": 127360596.0
+    },
+    "all_versions": {
+      "views": 95,
+      "unique_views": 90,
+      "downloads": 33,
+      "unique_downloads": 33,
+      "data_volume": 127360596.0
+    }
+  },
+  "swh": null,
+  "ui": {
+    "publication_date_l10n_medium": "Nov 3, 2020",
+    "publication_date_l10n_long": "November 3, 2020",
+    "created_date_l10n_long": "November 3, 2020",
+    "updated_date_l10n_long": "July 29, 2021",
+    "resource_type": {
+      "id": "presentation",
+      "title_l10n": "Presentation"
+    },
+    "custom_fields": {},
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Christopher J. Markiewicz",
+            "family_name": "Christopher J. Markiewicz",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6533-164X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Stanford University"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "Stanford University",
+          null
+        ]
+      ]
+    },
+    "description_stripped": "Presentation given to \"Open and reproducible neuroimaging\" workshop.",
+    "version": "2020.11.03",
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/effigies/bids-derivatives/tree/2020.11.03",
+        "relation_type": {
+          "id": "issupplementto",
+          "title_l10n": "Is supplement to"
+        },
+        "scheme": "url"
+      }
+    ],
+    "rights": [
+      {
+        "id": "cc-by-4.0",
+        "title_l10n": "Creative Commons Attribution 4.0 International",
+        "description_l10n": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited.",
+        "icon": "cc-by-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}

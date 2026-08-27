@@ -1,0 +1,1492 @@
+{
+  "id": "21920469",
+  "created": "2026-08-13T13:49:55.760980+00:00",
+  "updated": "2026-08-13T13:49:55.946305+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/21920469",
+    "self_html": "https://zenodo.org/records/21920469",
+    "preview_html": "https://zenodo.org/records/21920469?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.21920469",
+    "self_doi": "https://doi.org/10.5281/zenodo.21920469",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.21920469",
+    "reserve_doi": "https://zenodo.org/api/records/21920469/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/808846",
+    "parent_html": "https://zenodo.org/records/808846",
+    "parent_doi": "https://doi.org/10.5281/zenodo.808846",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.808846",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:21920469/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:21920469/sequence/default",
+    "files": "https://zenodo.org/api/records/21920469/files",
+    "media_files": "https://zenodo.org/api/records/21920469/media-files",
+    "archive": "https://zenodo.org/api/records/21920469/files-archive",
+    "archive_media": "https://zenodo.org/api/records/21920469/media-files-archive",
+    "latest": "https://zenodo.org/api/records/21920469/versions/latest",
+    "latest_html": "https://zenodo.org/records/21920469/latest",
+    "versions": "https://zenodo.org/api/records/21920469/versions",
+    "draft": "https://zenodo.org/api/records/21920469/draft",
+    "access_links": "https://zenodo.org/api/records/21920469/access/links",
+    "access_grants": "https://zenodo.org/api/records/21920469/access/grants",
+    "access_users": "https://zenodo.org/api/records/21920469/access/users",
+    "access_request": "https://zenodo.org/api/records/21920469/access/request",
+    "access": "https://zenodo.org/api/records/21920469/access",
+    "communities": "https://zenodo.org/api/records/21920469/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/21920469/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/21920469/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/21920469/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/21920469/quota-increase",
+    "requests": "https://zenodo.org/api/records/21920469/requests"
+  },
+  "revision_id": 4,
+  "parent": {
+    "id": "808846",
+    "access": {
+      "owned_by": {
+        "user": "3931"
+      },
+      "settings": {
+        "allow_user_requests": false,
+        "allow_guest_requests": false,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.808846",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 109
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.21920469",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:21920469",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "software",
+      "title": {
+        "de": "Software",
+        "en": "Software"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Hanke, Michael",
+          "given_name": "Michael",
+          "family_name": "Hanke",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6398-6370",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany and Institute of Systems Neuroscience, Medical Faculty, Heinrich Heine University Düsseldorf, Düsseldorf, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Halchenko, Yaroslav O.",
+          "given_name": "Yaroslav O.",
+          "family_name": "Halchenko",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3456-2493",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Dartmouth College, Hanover, NH, United States"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Poldrack, Benjamin",
+          "given_name": "Benjamin",
+          "family_name": "Poldrack",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7628-0801",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Meyer, Kyle",
+          "given_name": "Kyle",
+          "family_name": "Meyer"
+        },
+        "affiliations": [
+          {
+            "name": "Dartmouth College, Hanover, NH, United States"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Solanky, Debanjum Singh",
+          "given_name": "Debanjum Singh",
+          "family_name": "Solanky",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-0774-6564",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Dartmouth College, Hanover, NH, United States"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Alteva, Gergana",
+          "given_name": "Gergana",
+          "family_name": "Alteva",
+          "identifiers": [
+            {
+              "identifier": "0009-0009-0668-6801",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gors, Jason",
+          "given_name": "Jason",
+          "family_name": "Gors"
+        },
+        "affiliations": [
+          {
+            "name": "Dartmouth College, Hanover, NH, United States"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "MacFarlane, Dave",
+          "given_name": "Dave",
+          "family_name": "MacFarlane",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-9258-8099",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Olaf Häusler, Christian",
+          "given_name": "Christian",
+          "family_name": "Olaf Häusler",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-0936-317X",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Olson, Taylor",
+          "given_name": "Taylor",
+          "family_name": "Olson"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Waite, Alex",
+          "given_name": "Alex",
+          "family_name": "Waite"
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "De La Vega, Alejandro",
+          "given_name": "Alejandro",
+          "family_name": "De La Vega",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-9062-3778",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University of Texas at Austin"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Sochat, Vanessa",
+          "given_name": "Vanessa",
+          "family_name": "Sochat",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-4387-3819",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Keshavan, Anisha",
+          "given_name": "Anisha",
+          "family_name": "Keshavan",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3554-043X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "UC Berkeley - UCSF Graduate Program in Bioengineering"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Ma, Feilong",
+          "given_name": "Feilong",
+          "family_name": "Ma",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6838-3971",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Dartmouth College, Hanover, NH, United States"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Christian, Horea",
+          "given_name": "Horea",
+          "family_name": "Christian",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7037-2449",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Poelen, Jorrit",
+          "given_name": "Jorrit",
+          "family_name": "Poelen",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3138-4118",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Skytén, Kusti",
+          "given_name": "Kusti",
+          "family_name": "Skytén",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7460-1157",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Visconti di Oleggio Castello, Matteo",
+          "given_name": "Matteo",
+          "family_name": "Visconti di Oleggio Castello",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7931-5272",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "UC Berkeley"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Hardcastle, Nell",
+          "given_name": "Nell",
+          "family_name": "Hardcastle",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-3837-0707",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Stoeter, Torsten",
+          "given_name": "Torsten",
+          "family_name": "Stoeter"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "C Lau, Vicky",
+          "given_name": "Vicky",
+          "family_name": "C Lau"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Markiewicz, Christopher J.",
+          "given_name": "Christopher J.",
+          "family_name": "Markiewicz",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6533-164X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Stanford University, Stanford, CA, United States"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Wagner, Adina S.",
+          "given_name": "Adina S.",
+          "family_name": "Wagner",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-2917-3450",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Psychoinformatics Lab, INM-7, Research Centre Juelich"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Nichols, B. Nolan",
+          "given_name": "B. Nolan",
+          "family_name": "Nichols",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-1099-3328",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Maze Therapeutics, South San Francisco, CA, United States"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Mika Pflüger",
+          "family_name": "Mika Pflüger",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-7814-8916",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Potsdam Institute for Climate Impact Research (PIK) e. V."
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Mönch, Christian",
+          "given_name": "Christian",
+          "family_name": "Mönch",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-3092-0612",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gau, Rémi",
+          "given_name": "Rémi",
+          "family_name": "Gau",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-1535-9767",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Université catholique de Louvain, Louvain la neuve, Belgium"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Szczepanik, Michał",
+          "given_name": "Michał",
+          "family_name": "Szczepanik",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-4028-2087",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Riße, Matthias",
+          "given_name": "Matthias",
+          "family_name": "Riße",
+          "identifiers": [
+            {
+              "identifier": "0009-0006-6081-9327",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Climate and Energy Systems - Stratosphere (ICE-4), Research Centre Jülich, Jülich, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Büchau, Yann Georg",
+          "given_name": "Yann Georg",
+          "family_name": "Büchau",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-2472-2051",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Eberhard Karls Universität Tübingen"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Stephan Heunis",
+          "family_name": "Stephan Heunis",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3503-9872",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Neuroscience and Medicine, Brain & Behavior (INM-7), Research Center Juelich, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Lukas Schrangl",
+          "family_name": "Lukas Schrangl",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-0420-7872",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Biophysics, University of Natural Resources and Life Sciences, Vienna, Austria"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Macdonald, Austin",
+          "given_name": "Austin",
+          "family_name": "Macdonald",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-8124-807X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Dartmouth College, Hanover, NH, United States"
+          }
+        ]
+      }
+    ],
+    "title": "datalad/datalad: 1.6.2",
+    "publisher": "Zenodo",
+    "publication_date": "2026-08-13",
+    "subjects": [
+      {
+        "subject": "data management"
+      },
+      {
+        "subject": "data distribution"
+      },
+      {
+        "subject": "execution provenance tracking"
+      },
+      {
+        "subject": "version control"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/datalad/datalad/tree/1.6.2",
+        "scheme": "url",
+        "relation_type": {
+          "id": "issupplementto",
+          "title": {
+            "de": "Ergänzt",
+            "en": "Is supplement to"
+          }
+        },
+        "resource_type": {
+          "id": "software",
+          "title": {
+            "de": "Software",
+            "en": "Software"
+          }
+        }
+      }
+    ],
+    "version": "1.6.2",
+    "rights": [
+      {
+        "id": "mit",
+        "title": {
+          "en": "MIT License"
+        },
+        "description": {
+          "en": "A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code."
+        },
+        "props": {
+          "url": "https://opensource.org/licenses/MIT",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "<h2>🧪 Tests</h2>\n<ul>\n<li>BF(TST): tolerate chardet 7.5.0/7.5.1 ISO-8859-1 misdetection in test_assure_unicode.  <a href=\"https://github.com/datalad/datalad/pull/7898\">PR #7898</a> (by <a href=\"https://github.com/yarikoptic\">@yarikoptic</a>)</li>\n</ul>",
+    "funding": [
+      {
+        "funder": {
+          "id": "021nxhr62",
+          "name": "U.S. National Science Foundation"
+        },
+        "award": {
+          "id": "021nxhr62::1429999",
+          "number": "1429999",
+          "title": {
+            "en": "CRCNS US-German Data Sharing: DataGit - converging catalogues, warehouses, and deployment logistics into a federated 'data distribution'"
+          },
+          "program": "CISE/OAD"
+        }
+      }
+    ]
+  },
+  "custom_fields": {
+    "code:codeRepository": "https://github.com/datalad/datalad"
+  },
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 1,
+    "total_bytes": 1805583,
+    "entries": {
+      "datalad/datalad-1.6.2.zip": {
+        "id": "61d5c1f1-c296-4797-abca-28c7099355d9",
+        "checksum": "md5:f82977f697cbbe57c02811b24b07602b",
+        "ext": "zip",
+        "size": 1805583,
+        "mimetype": "application/zip",
+        "key": "datalad/datalad-1.6.2.zip",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": false,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 81,
+      "unique_views": 80,
+      "downloads": 6,
+      "unique_downloads": 6,
+      "data_volume": 10833498.0
+    },
+    "all_versions": {
+      "views": 15424,
+      "unique_views": 14858,
+      "downloads": 3255,
+      "unique_downloads": 3070,
+      "data_volume": 5451978358.0
+    }
+  },
+  "swh": null,
+  "ui": {
+    "publication_date_l10n_medium": "Aug 13, 2026",
+    "publication_date_l10n_long": "August 13, 2026",
+    "created_date_l10n_long": "August 13, 2026",
+    "updated_date_l10n_long": "August 13, 2026",
+    "resource_type": {
+      "id": "software",
+      "title_l10n": "Software"
+    },
+    "custom_fields": {
+      "code:codeRepository": "https://github.com/datalad/datalad"
+    },
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Hanke, Michael",
+            "given_name": "Michael",
+            "family_name": "Hanke",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-6398-6370",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany and Institute of Systems Neuroscience, Medical Faculty, Heinrich Heine University Düsseldorf, Düsseldorf, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Halchenko, Yaroslav O.",
+            "given_name": "Yaroslav O.",
+            "family_name": "Halchenko",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3456-2493",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              2,
+              "Dartmouth College, Hanover, NH, United States"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Poldrack, Benjamin",
+            "given_name": "Benjamin",
+            "family_name": "Poldrack",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7628-0801",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              3,
+              "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Meyer, Kyle",
+            "given_name": "Kyle",
+            "family_name": "Meyer"
+          },
+          "affiliations": [
+            [
+              2,
+              "Dartmouth College, Hanover, NH, United States"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Solanky, Debanjum Singh",
+            "given_name": "Debanjum Singh",
+            "family_name": "Solanky",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-0774-6564",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              2,
+              "Dartmouth College, Hanover, NH, United States"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Alteva, Gergana",
+            "given_name": "Gergana",
+            "family_name": "Alteva",
+            "identifiers": [
+              {
+                "identifier": "0009-0009-0668-6801",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gors, Jason",
+            "given_name": "Jason",
+            "family_name": "Gors"
+          },
+          "affiliations": [
+            [
+              2,
+              "Dartmouth College, Hanover, NH, United States"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "MacFarlane, Dave",
+            "given_name": "Dave",
+            "family_name": "MacFarlane",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-9258-8099",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Olaf Häusler, Christian",
+            "given_name": "Christian",
+            "family_name": "Olaf Häusler",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-0936-317X",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Olson, Taylor",
+            "given_name": "Taylor",
+            "family_name": "Olson"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Waite, Alex",
+            "given_name": "Alex",
+            "family_name": "Waite"
+          },
+          "affiliations": [
+            [
+              3,
+              "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "De La Vega, Alejandro",
+            "given_name": "Alejandro",
+            "family_name": "De La Vega",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-9062-3778",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              4,
+              "University of Texas at Austin"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Sochat, Vanessa",
+            "given_name": "Vanessa",
+            "family_name": "Sochat",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-4387-3819",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Keshavan, Anisha",
+            "given_name": "Anisha",
+            "family_name": "Keshavan",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3554-043X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              5,
+              "UC Berkeley - UCSF Graduate Program in Bioengineering"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Ma, Feilong",
+            "given_name": "Feilong",
+            "family_name": "Ma",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6838-3971",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              2,
+              "Dartmouth College, Hanover, NH, United States"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Christian, Horea",
+            "given_name": "Horea",
+            "family_name": "Christian",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7037-2449",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Poelen, Jorrit",
+            "given_name": "Jorrit",
+            "family_name": "Poelen",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3138-4118",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Skytén, Kusti",
+            "given_name": "Kusti",
+            "family_name": "Skytén",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7460-1157",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Visconti di Oleggio Castello, Matteo",
+            "given_name": "Matteo",
+            "family_name": "Visconti di Oleggio Castello",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7931-5272",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              6,
+              "UC Berkeley"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Hardcastle, Nell",
+            "given_name": "Nell",
+            "family_name": "Hardcastle",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-3837-0707",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Stoeter, Torsten",
+            "given_name": "Torsten",
+            "family_name": "Stoeter"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "C Lau, Vicky",
+            "given_name": "Vicky",
+            "family_name": "C Lau"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Markiewicz, Christopher J.",
+            "given_name": "Christopher J.",
+            "family_name": "Markiewicz",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6533-164X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              7,
+              "Stanford University, Stanford, CA, United States"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Wagner, Adina S.",
+            "given_name": "Adina S.",
+            "family_name": "Wagner",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-2917-3450",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              8,
+              "Psychoinformatics Lab, INM-7, Research Centre Juelich"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Nichols, B. Nolan",
+            "given_name": "B. Nolan",
+            "family_name": "Nichols",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-1099-3328",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              9,
+              "Maze Therapeutics, South San Francisco, CA, United States"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Mika Pflüger",
+            "family_name": "Mika Pflüger",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-7814-8916",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              10,
+              "Potsdam Institute for Climate Impact Research (PIK) e. V."
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Mönch, Christian",
+            "given_name": "Christian",
+            "family_name": "Mönch",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-3092-0612",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              3,
+              "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gau, Rémi",
+            "given_name": "Rémi",
+            "family_name": "Gau",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-1535-9767",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              11,
+              "Université catholique de Louvain, Louvain la neuve, Belgium"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Szczepanik, Michał",
+            "given_name": "Michał",
+            "family_name": "Szczepanik",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-4028-2087",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              3,
+              "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Riße, Matthias",
+            "given_name": "Matthias",
+            "family_name": "Riße",
+            "identifiers": [
+              {
+                "identifier": "0009-0006-6081-9327",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              12,
+              "Institute of Climate and Energy Systems - Stratosphere (ICE-4), Research Centre Jülich, Jülich, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Büchau, Yann Georg",
+            "given_name": "Yann Georg",
+            "family_name": "Büchau",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-2472-2051",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              13,
+              "Eberhard Karls Universität Tübingen"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Stephan Heunis",
+            "family_name": "Stephan Heunis",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3503-9872",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              14,
+              "Institute of Neuroscience and Medicine, Brain & Behavior (INM-7), Research Center Juelich, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Lukas Schrangl",
+            "family_name": "Lukas Schrangl",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-0420-7872",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              15,
+              "Institute of Biophysics, University of Natural Resources and Life Sciences, Vienna, Austria"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Macdonald, Austin",
+            "given_name": "Austin",
+            "family_name": "Macdonald",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-8124-807X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              2,
+              "Dartmouth College, Hanover, NH, United States"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany and Institute of Systems Neuroscience, Medical Faculty, Heinrich Heine University Düsseldorf, Düsseldorf, Germany",
+          null
+        ],
+        [
+          2,
+          "Dartmouth College, Hanover, NH, United States",
+          null
+        ],
+        [
+          3,
+          "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany",
+          null
+        ],
+        [
+          4,
+          "University of Texas at Austin",
+          null
+        ],
+        [
+          5,
+          "UC Berkeley - UCSF Graduate Program in Bioengineering",
+          null
+        ],
+        [
+          6,
+          "UC Berkeley",
+          null
+        ],
+        [
+          7,
+          "Stanford University, Stanford, CA, United States",
+          null
+        ],
+        [
+          8,
+          "Psychoinformatics Lab, INM-7, Research Centre Juelich",
+          null
+        ],
+        [
+          9,
+          "Maze Therapeutics, South San Francisco, CA, United States",
+          null
+        ],
+        [
+          10,
+          "Potsdam Institute for Climate Impact Research (PIK) e. V.",
+          null
+        ],
+        [
+          11,
+          "Université catholique de Louvain, Louvain la neuve, Belgium",
+          null
+        ],
+        [
+          12,
+          "Institute of Climate and Energy Systems - Stratosphere (ICE-4), Research Centre Jülich, Jülich, Germany",
+          null
+        ],
+        [
+          13,
+          "Eberhard Karls Universität Tübingen",
+          null
+        ],
+        [
+          14,
+          "Institute of Neuroscience and Medicine, Brain & Behavior (INM-7), Research Center Juelich, Germany",
+          null
+        ],
+        [
+          15,
+          "Institute of Biophysics, University of Natural Resources and Life Sciences, Vienna, Austria",
+          null
+        ]
+      ]
+    },
+    "description_stripped": "🧪 Tests\n\n\n\nBF(TST): tolerate chardet 7.5.0/7.5.1 ISO-8859-1 misdetection in test_assure_unicode.  PR #7898 (by @yarikoptic)",
+    "version": "1.6.2",
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/datalad/datalad/tree/1.6.2",
+        "relation_type": {
+          "id": "issupplementto",
+          "title_l10n": "Is supplement to"
+        },
+        "scheme": "url",
+        "resource_type": {
+          "id": "software",
+          "title_l10n": "Software"
+        }
+      }
+    ],
+    "rights": [
+      {
+        "id": "mit",
+        "title_l10n": "MIT License",
+        "description_l10n": "A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.",
+        "props": {
+          "url": "https://opensource.org/licenses/MIT",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false,
+    "funding": [
+      {
+        "award": {
+          "id": "021nxhr62::1429999",
+          "title_l10n": "CRCNS US-German Data Sharing: DataGit - converging catalogues, warehouses, and deployment logistics into a federated 'data distribution'",
+          "number": "1429999",
+          "program": "CISE/OAD"
+        },
+        "funder": {
+          "id": "021nxhr62",
+          "name": "U.S. National Science Foundation"
+        }
+      }
+    ]
+  }
+}

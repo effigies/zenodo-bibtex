@@ -1,0 +1,992 @@
+{
+  "id": "18952644",
+  "created": "2026-03-11T07:38:36.141459+00:00",
+  "updated": "2026-03-11T07:38:36.365328+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/18952644",
+    "self_html": "https://zenodo.org/records/18952644",
+    "preview_html": "https://zenodo.org/records/18952644?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.18952644",
+    "self_doi": "https://doi.org/10.5281/zenodo.18952644",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18952644",
+    "reserve_doi": "https://zenodo.org/api/records/18952644/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/3785881",
+    "parent_html": "https://zenodo.org/records/3785881",
+    "parent_doi": "https://doi.org/10.5281/zenodo.3785881",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.3785881",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18952644/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18952644/sequence/default",
+    "files": "https://zenodo.org/api/records/18952644/files",
+    "media_files": "https://zenodo.org/api/records/18952644/media-files",
+    "archive": "https://zenodo.org/api/records/18952644/files-archive",
+    "archive_media": "https://zenodo.org/api/records/18952644/media-files-archive",
+    "latest": "https://zenodo.org/api/records/18952644/versions/latest",
+    "latest_html": "https://zenodo.org/records/18952644/latest",
+    "versions": "https://zenodo.org/api/records/18952644/versions",
+    "draft": "https://zenodo.org/api/records/18952644/draft",
+    "access_links": "https://zenodo.org/api/records/18952644/access/links",
+    "access_grants": "https://zenodo.org/api/records/18952644/access/grants",
+    "access_users": "https://zenodo.org/api/records/18952644/access/users",
+    "access_request": "https://zenodo.org/api/records/18952644/access/request",
+    "access": "https://zenodo.org/api/records/18952644/access",
+    "communities": "https://zenodo.org/api/records/18952644/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/18952644/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/18952644/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/18952644/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/18952644/quota-increase",
+    "requests": "https://zenodo.org/api/records/18952644/requests"
+  },
+  "revision_id": 4,
+  "parent": {
+    "id": "3785881",
+    "access": {
+      "owned_by": {
+        "user": "23245"
+      },
+      "settings": {
+        "allow_user_requests": false,
+        "allow_guest_requests": false,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.3785881",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 28
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.18952644",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:18952644",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "software",
+      "title": {
+        "de": "Software",
+        "en": "Software"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Jarecka, Dorota",
+          "given_name": "Dorota",
+          "family_name": "Jarecka",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8282-2988",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "MIT"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Goncalves, Mathias",
+          "given_name": "Mathias",
+          "family_name": "Goncalves",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-7252-7771",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Markiewicz, Christopher J.",
+          "given_name": "Christopher J.",
+          "family_name": "Markiewicz",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6533-164X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Esteban, Oscar",
+          "given_name": "Oscar",
+          "family_name": "Esteban",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8435-6191",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Lo, Nicol",
+          "given_name": "Nicol",
+          "family_name": "Lo",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-7522-686X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "MIT"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Kaczmarzyk, Jakub",
+          "given_name": "Jakub",
+          "family_name": "Kaczmarzyk",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-5544-7577",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Stony Brook University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Cali, Ryan",
+          "given_name": "Ryan",
+          "family_name": "Cali",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-8215-3267",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Imaging Genetics Center, Mark and Mary Stevens Neuroimaging and Informatics Institute, University of Southern California"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Herholz, Peer",
+          "given_name": "Peer",
+          "family_name": "Herholz",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-9840-6257",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Montréal Neurological Institute, McGill University, Montréal, Canada"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Nielson, Dylan M.",
+          "given_name": "Dylan M.",
+          "family_name": "Nielson",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-4613-6643",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "National Institute of Mental Health"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Mentch, Jeff",
+          "given_name": "Jeff",
+          "family_name": "Mentch",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-7762-8678",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Harvard, MIT"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Nijholt, Bas",
+          "given_name": "Bas",
+          "family_name": "Nijholt",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-0383-4986",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Microsoft, Station Q"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Johnson, Charles E.",
+          "given_name": "Charles E.",
+          "family_name": "Johnson",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7814-3501",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University of Iowa"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Wigger, Jeffrey",
+          "given_name": "Jeffrey",
+          "family_name": "Wigger",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-0978-4326",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "FCBG, EPFL"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Close, Thomas G.",
+          "given_name": "Thomas G.",
+          "family_name": "Close",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-4160-2134",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Biomedical Engineering, University of Sydney and Australian National Imaging Facility"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Vaillant, Ghislain",
+          "given_name": "Ghislain",
+          "family_name": "Vaillant",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-0267-3033",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Paris Brain Institute"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Agarwal, Aditya",
+          "given_name": "Aditya",
+          "family_name": "Agarwal",
+          "identifiers": [
+            {
+              "identifier": "0009-0008-2639-5334",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Indian Institute of Information Technology Kalyani"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Ghosh, Satrajit",
+          "given_name": "Satrajit",
+          "family_name": "Ghosh",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-5312-6729",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "MIT, HMS"
+          }
+        ]
+      }
+    ],
+    "title": "nipype/pydra: v1.0a9",
+    "publisher": "Zenodo",
+    "publication_date": "2026-03-11",
+    "subjects": [
+      {
+        "subject": "neuroimaging"
+      },
+      {
+        "subject": "workflow"
+      },
+      {
+        "subject": "pipeline"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/nipype/pydra/tree/v1.0a9",
+        "scheme": "url",
+        "relation_type": {
+          "id": "issupplementto",
+          "title": {
+            "de": "Ergänzt",
+            "en": "Is supplement to"
+          }
+        },
+        "resource_type": {
+          "id": "software",
+          "title": {
+            "de": "Software",
+            "en": "Software"
+          }
+        }
+      }
+    ],
+    "version": "v1.0a9",
+    "rights": [
+      {
+        "id": "apache-2.0",
+        "title": {
+          "en": "Apache License 2.0"
+        },
+        "description": {
+          "en": "A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code."
+        },
+        "props": {
+          "url": "http://www.apache.org/licenses/LICENSE-2.0",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "<h2>What's Changed</h2>\n<ul>\n<li>chore(deps): bump the actions-infrastructure group with 3 updates by @dependabot[bot] in https://github.com/nipype/pydra/pull/862</li>\n<li>fixes an issue with the gh-pages deployment by @tclose in https://github.com/nipype/pydra/pull/863</li>\n</ul>\n<p><strong>Full Changelog</strong>: https://github.com/nipype/pydra/compare/v1.0a8...v1.0a9</p>"
+  },
+  "custom_fields": {
+    "code:codeRepository": "https://github.com/nipype/pydra"
+  },
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 1,
+    "total_bytes": 10882525,
+    "entries": {
+      "nipype/pydra-v1.0a9.zip": {
+        "id": "ba54ef07-0e0e-4277-a75b-2c42e0f68141",
+        "checksum": "md5:cabefcef529a1a152982d64e5d15b538",
+        "ext": "zip",
+        "size": 10882525,
+        "mimetype": "application/zip",
+        "key": "nipype/pydra-v1.0a9.zip",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": false,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 149,
+      "unique_views": 149,
+      "downloads": 28,
+      "unique_downloads": 26,
+      "data_volume": 304710700.0
+    },
+    "all_versions": {
+      "views": 1864,
+      "unique_views": 1847,
+      "downloads": 446,
+      "unique_downloads": 439,
+      "data_volume": 4821056115.0
+    }
+  },
+  "swh": {
+    "swhid": "swh:1:dir:3d0880e30a767a150777fd3f2c90e31464823bef;origin=https://doi.org/10.5281/zenodo.3785881;visit=swh:1:snp:03ceaaf990f9e17d7efcd9253d9a5b30f1f7ddae;anchor=swh:1:rel:00038fad25321b2ac7efb68ecd256dda27ec7695;path=nipype-pydra-02f9cba"
+  },
+  "ui": {
+    "publication_date_l10n_medium": "Mar 11, 2026",
+    "publication_date_l10n_long": "March 11, 2026",
+    "created_date_l10n_long": "March 11, 2026",
+    "updated_date_l10n_long": "March 11, 2026",
+    "resource_type": {
+      "id": "software",
+      "title_l10n": "Software"
+    },
+    "custom_fields": {
+      "code:codeRepository": "https://github.com/nipype/pydra"
+    },
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Jarecka, Dorota",
+            "given_name": "Dorota",
+            "family_name": "Jarecka",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8282-2988",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "MIT"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Goncalves, Mathias",
+            "given_name": "Mathias",
+            "family_name": "Goncalves",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-7252-7771",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              2,
+              "Department of Psychology, Stanford University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Markiewicz, Christopher J.",
+            "given_name": "Christopher J.",
+            "family_name": "Markiewicz",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6533-164X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              2,
+              "Department of Psychology, Stanford University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Esteban, Oscar",
+            "given_name": "Oscar",
+            "family_name": "Esteban",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8435-6191",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              2,
+              "Department of Psychology, Stanford University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Lo, Nicol",
+            "given_name": "Nicol",
+            "family_name": "Lo",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-7522-686X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "MIT"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Kaczmarzyk, Jakub",
+            "given_name": "Jakub",
+            "family_name": "Kaczmarzyk",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-5544-7577",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              3,
+              "Stony Brook University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Cali, Ryan",
+            "given_name": "Ryan",
+            "family_name": "Cali",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-8215-3267",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              4,
+              "Imaging Genetics Center, Mark and Mary Stevens Neuroimaging and Informatics Institute, University of Southern California"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Herholz, Peer",
+            "given_name": "Peer",
+            "family_name": "Herholz",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-9840-6257",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              5,
+              "Montréal Neurological Institute, McGill University, Montréal, Canada"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Nielson, Dylan M.",
+            "given_name": "Dylan M.",
+            "family_name": "Nielson",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-4613-6643",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              6,
+              "National Institute of Mental Health"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Mentch, Jeff",
+            "given_name": "Jeff",
+            "family_name": "Mentch",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-7762-8678",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              7,
+              "Harvard, MIT"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Nijholt, Bas",
+            "given_name": "Bas",
+            "family_name": "Nijholt",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-0383-4986",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              8,
+              "Microsoft, Station Q"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Johnson, Charles E.",
+            "given_name": "Charles E.",
+            "family_name": "Johnson",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7814-3501",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              9,
+              "University of Iowa"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Wigger, Jeffrey",
+            "given_name": "Jeffrey",
+            "family_name": "Wigger",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-0978-4326",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              10,
+              "FCBG, EPFL"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Close, Thomas G.",
+            "given_name": "Thomas G.",
+            "family_name": "Close",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-4160-2134",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              11,
+              "Department of Biomedical Engineering, University of Sydney and Australian National Imaging Facility"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Vaillant, Ghislain",
+            "given_name": "Ghislain",
+            "family_name": "Vaillant",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-0267-3033",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              12,
+              "Paris Brain Institute"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Agarwal, Aditya",
+            "given_name": "Aditya",
+            "family_name": "Agarwal",
+            "identifiers": [
+              {
+                "identifier": "0009-0008-2639-5334",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              13,
+              "Indian Institute of Information Technology Kalyani"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Ghosh, Satrajit",
+            "given_name": "Satrajit",
+            "family_name": "Ghosh",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-5312-6729",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              14,
+              "MIT, HMS"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "MIT",
+          null
+        ],
+        [
+          2,
+          "Department of Psychology, Stanford University",
+          null
+        ],
+        [
+          3,
+          "Stony Brook University",
+          null
+        ],
+        [
+          4,
+          "Imaging Genetics Center, Mark and Mary Stevens Neuroimaging and Informatics Institute, University of Southern California",
+          null
+        ],
+        [
+          5,
+          "Montréal Neurological Institute, McGill University, Montréal, Canada",
+          null
+        ],
+        [
+          6,
+          "National Institute of Mental Health",
+          null
+        ],
+        [
+          7,
+          "Harvard, MIT",
+          null
+        ],
+        [
+          8,
+          "Microsoft, Station Q",
+          null
+        ],
+        [
+          9,
+          "University of Iowa",
+          null
+        ],
+        [
+          10,
+          "FCBG, EPFL",
+          null
+        ],
+        [
+          11,
+          "Department of Biomedical Engineering, University of Sydney and Australian National Imaging Facility",
+          null
+        ],
+        [
+          12,
+          "Paris Brain Institute",
+          null
+        ],
+        [
+          13,
+          "Indian Institute of Information Technology Kalyani",
+          null
+        ],
+        [
+          14,
+          "MIT, HMS",
+          null
+        ]
+      ]
+    },
+    "description_stripped": "What's Changed\n\n\n\nchore(deps): bump the actions-infrastructure group with 3 updates by @dependabot[bot] in https://github.com/nipype/pydra/pull/862\n\nfixes an issue with the gh-pages deployment by @tclose in https://github.com/nipype/pydra/pull/863\n\n\nFull Changelog: https://github.com/nipype/pydra/compare/v1.0a8...v1.0a9",
+    "version": "v1.0a9",
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/nipype/pydra/tree/v1.0a9",
+        "relation_type": {
+          "id": "issupplementto",
+          "title_l10n": "Is supplement to"
+        },
+        "scheme": "url",
+        "resource_type": {
+          "id": "software",
+          "title_l10n": "Software"
+        }
+      }
+    ],
+    "rights": [
+      {
+        "id": "apache-2.0",
+        "title_l10n": "Apache License 2.0",
+        "description_l10n": "A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.",
+        "props": {
+          "url": "http://www.apache.org/licenses/LICENSE-2.0",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}

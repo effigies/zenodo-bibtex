@@ -1,0 +1,311 @@
+{
+  "id": "10668603",
+  "created": "2024-02-15T21:47:18.047391+00:00",
+  "updated": "2024-02-15T21:47:18.227224+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/10668603",
+    "self_html": "https://zenodo.org/records/10668603",
+    "preview_html": "https://zenodo.org/records/10668603?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.10668603",
+    "self_doi": "https://doi.org/10.5281/zenodo.10668603",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.10668603",
+    "reserve_doi": "https://zenodo.org/api/records/10668603/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/10668602",
+    "parent_html": "https://zenodo.org/records/10668602",
+    "parent_doi": "https://doi.org/10.5281/zenodo.10668602",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.10668602",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:10668603/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:10668603/sequence/default",
+    "files": "https://zenodo.org/api/records/10668603/files",
+    "media_files": "https://zenodo.org/api/records/10668603/media-files",
+    "archive": "https://zenodo.org/api/records/10668603/files-archive",
+    "archive_media": "https://zenodo.org/api/records/10668603/media-files-archive",
+    "latest": "https://zenodo.org/api/records/10668603/versions/latest",
+    "latest_html": "https://zenodo.org/records/10668603/latest",
+    "versions": "https://zenodo.org/api/records/10668603/versions",
+    "draft": "https://zenodo.org/api/records/10668603/draft",
+    "access_links": "https://zenodo.org/api/records/10668603/access/links",
+    "access_grants": "https://zenodo.org/api/records/10668603/access/grants",
+    "access_users": "https://zenodo.org/api/records/10668603/access/users",
+    "access_request": "https://zenodo.org/api/records/10668603/access/request",
+    "access": "https://zenodo.org/api/records/10668603/access",
+    "communities": "https://zenodo.org/api/records/10668603/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/10668603/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/10668603/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/10668603/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/10668603/quota-increase",
+    "requests": "https://zenodo.org/api/records/10668603/requests"
+  },
+  "revision_id": 4,
+  "parent": {
+    "id": "10668602",
+    "access": {
+      "owned_by": {
+        "user": "194916"
+      },
+      "settings": {
+        "allow_user_requests": false,
+        "allow_guest_requests": false,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {
+      "ids": [
+        "fc8327be-99bb-4ab2-a208-1dd23f6513b2"
+      ],
+      "default": "fc8327be-99bb-4ab2-a208-1dd23f6513b2",
+      "entries": [
+        {
+          "id": "fc8327be-99bb-4ab2-a208-1dd23f6513b2",
+          "created": "2021-02-07T14:38:01.344098+00:00",
+          "updated": "2024-02-20T11:31:33.939949+00:00",
+          "links": {},
+          "revision_id": 1,
+          "slug": "ilopersiancorpus",
+          "metadata": {
+            "title": "India Office Collection: Persian Manuscript Corpus",
+            "type": {
+              "id": "project",
+              "title": {
+                "de": "Projekt",
+                "en": "Project"
+              }
+            },
+            "organizations": [
+              {
+                "name": "Royal Asiatic Society"
+              }
+            ]
+          },
+          "access": {
+            "visibility": "public",
+            "members_visibility": "public",
+            "member_policy": "closed",
+            "record_submission_policy": "open",
+            "review_policy": "closed"
+          },
+          "deletion_status": {
+            "is_deleted": false,
+            "status": "P"
+          },
+          "children": {
+            "allow": false
+          }
+        }
+      ]
+    },
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.10668602",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 1
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.10668603",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:10668603",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "dataset",
+      "title": {
+        "de": "Datensatz",
+        "en": "Dataset"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Mirzâ Jalâl Asîr bin Mirzâ Mu'min",
+          "family_name": "Mirzâ Jalâl Asîr bin Mirzâ Mu'min"
+        }
+      }
+    ],
+    "title": "[IO Islamic 212] قصائد اسير",
+    "publisher": "Zenodo",
+    "publication_date": "2024-02-15",
+    "subjects": [
+      {
+        "subject": "IO Islamic 212"
+      },
+      {
+        "subject": "Poetry"
+      },
+      {
+        "subject": "India Office"
+      }
+    ],
+    "contributors": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Movahedian, Vafa",
+          "given_name": "Vafa",
+          "family_name": "Movahedian"
+        },
+        "role": {
+          "id": "datamanager",
+          "title": {
+            "de": "DatenmanagerIn",
+            "en": "Data manager"
+          }
+        }
+      }
+    ],
+    "rights": [
+      {
+        "id": "cc-by-4.0",
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        },
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "<ul>\n<li>Ḳaṣ&acirc;&rsquo;id-i-As&icirc;ri</li>\n<li>This manuscript is now IO Islamic 1547 in the India Office collections.</li>\n<li>[metadata: Hermann Eth&eacute;, Catalogue of Persian Manuscripts in the Library of the India Office, 2 vols. (Oxford: India Office, 1903): volume 1, number 212 here with notations and hyperlinks].</li>\n</ul>\n<p><span>1547</span></p>\n<p><span>Ḳ</span><span>a</span><span>ṣ&acirc;</span><span><span>&rsquo;</span></span><span>id-i-As&icirc;r.</span></p>\n<p><span>A defective copy of Jal&acirc;l As&icirc;r</span><span><span>&rsquo;</span></span><span>s </span><span>ḳaṣ&icirc;das, in alphabetical order, beginning, on fol. 142</span><sup><span>a</span></sup><span>: </span><span><span><span><span><span>اى دان</span></span></span><span><span><span>ۀ تسبیح الخ</span></span></span><span> </span></span></span><span>.</span></p>\n<p><span>There is a large lacuna after fol. 165 (comprising chiefly letters </span><span><span><span><span><span>س</span></span></span><span> </span></span></span><span>to </span><span><span><span><span><span>ل</span></span></span></span></span><span>); the last verse on fol. 165</span><sup><span>b</span></sup><span> corresponds to No. 2172 (1544 in this Cat.), fol. 23</span><sup><span>b</span></sup><span>, l. 2; the first on fol. 166</span><sup><span>a</span></sup><span> to fol. 40</span><sup><span>a</span></sup><span>, l. 3 in the same copy. A blank also on fol. 147</span><sup><span>b</span></sup><span>.</span></p>\n<p><span>Dated A.H. 1124 (A.D. 1712), by the same transcriber who copied the </span><span><span><span><span><span>واقعات عالم</span></span></span><span><span><span>گ</span></span></span><span><span><span>يرى</span></span></span><span> </span></span></span><span>(see No. 345 in this Cat.).</span></p>\n<p><span>No. 212, ff. 142-192, 2 coll., each ll. 13-19; Shikasta, by different hands, as it seems; size, 9&frac12; in. by 6 in.</span></p>\n<p>&nbsp;</p>"
+  },
+  "custom_fields": {},
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 1,
+    "total_bytes": 12733,
+    "entries": {
+      "212 1547.odt": {
+        "id": "356e5ad9-84a5-4a94-b45a-e22ff2ec5b7f",
+        "checksum": "md5:b703b52b67203558ad69b8d202a9d91d",
+        "ext": "odt",
+        "size": 12733,
+        "mimetype": "application/octet-stream",
+        "key": "212 1547.odt",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": false,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 70,
+      "unique_views": 67,
+      "downloads": 18,
+      "unique_downloads": 17,
+      "data_volume": 229194.0
+    },
+    "all_versions": {
+      "views": 70,
+      "unique_views": 67,
+      "downloads": 18,
+      "unique_downloads": 17,
+      "data_volume": 229194.0
+    }
+  },
+  "swh": null,
+  "ui": {
+    "publication_date_l10n_medium": "Feb 15, 2024",
+    "publication_date_l10n_long": "February 15, 2024",
+    "created_date_l10n_long": "February 15, 2024",
+    "updated_date_l10n_long": "February 15, 2024",
+    "resource_type": {
+      "id": "dataset",
+      "title_l10n": "Dataset"
+    },
+    "custom_fields": {},
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Mirzâ Jalâl Asîr bin Mirzâ Mu'min",
+            "family_name": "Mirzâ Jalâl Asîr bin Mirzâ Mu'min"
+          }
+        }
+      ],
+      "affiliations": []
+    },
+    "contributors": {
+      "contributors": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Movahedian, Vafa",
+            "given_name": "Vafa",
+            "family_name": "Movahedian"
+          },
+          "role": {
+            "id": "datamanager",
+            "title": "Data manager"
+          }
+        }
+      ],
+      "affiliations": []
+    },
+    "description_stripped": "Ḳaṣâ’id-i-Asîri\n\nThis manuscript is now IO Islamic 1547 in the India Office collections.\n\n[metadata: Hermann Ethé, Catalogue of Persian Manuscripts in the Library of the India Office, 2 vols. (Oxford: India Office, 1903): volume 1, number 212 here with notations and hyperlinks].\n\n\n1547\n\nḲaṣâ’id-i-Asîr.\n\nA defective copy of Jalâl Asîr’s ḳaṣîdas, in alphabetical order, beginning, on fol. 142a: اى دانۀ تسبیح الخ .\n\nThere is a large lacuna after fol. 165 (comprising chiefly letters س to ل); the last verse on fol. 165b corresponds to No. 2172 (1544 in this Cat.), fol. 23b, l. 2; the first on fol. 166a to fol. 40a, l. 3 in the same copy. A blank also on fol. 147b.\n\nDated A.H. 1124 (A.D. 1712), by the same transcriber who copied the واقعات عالمگيرى (see No. 345 in this Cat.).\n\nNo. 212, ff. 142-192, 2 coll., each ll. 13-19; Shikasta, by different hands, as it seems; size, 9½ in. by 6 in.\n\n ",
+    "version": "v1",
+    "rights": [
+      {
+        "id": "cc-by-4.0",
+        "title_l10n": "Creative Commons Attribution 4.0 International",
+        "description_l10n": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited.",
+        "icon": "cc-by-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}

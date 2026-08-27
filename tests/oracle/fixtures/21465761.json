@@ -1,0 +1,1392 @@
+{
+  "id": "21465761",
+  "created": "2026-07-21T02:26:19.665120+00:00",
+  "updated": "2026-07-21T02:26:19.851217+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/21465761",
+    "self_html": "https://zenodo.org/records/21465761",
+    "preview_html": "https://zenodo.org/records/21465761?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.21465761",
+    "self_doi": "https://doi.org/10.5281/zenodo.21465761",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.21465761",
+    "reserve_doi": "https://zenodo.org/api/records/21465761/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/3234946",
+    "parent_html": "https://zenodo.org/records/3234946",
+    "parent_doi": "https://doi.org/10.5281/zenodo.3234946",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.3234946",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:21465761/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:21465761/sequence/default",
+    "files": "https://zenodo.org/api/records/21465761/files",
+    "media_files": "https://zenodo.org/api/records/21465761/media-files",
+    "archive": "https://zenodo.org/api/records/21465761/files-archive",
+    "archive_media": "https://zenodo.org/api/records/21465761/media-files-archive",
+    "latest": "https://zenodo.org/api/records/21465761/versions/latest",
+    "latest_html": "https://zenodo.org/records/21465761/latest",
+    "versions": "https://zenodo.org/api/records/21465761/versions",
+    "draft": "https://zenodo.org/api/records/21465761/draft",
+    "access_links": "https://zenodo.org/api/records/21465761/access/links",
+    "access_grants": "https://zenodo.org/api/records/21465761/access/grants",
+    "access_users": "https://zenodo.org/api/records/21465761/access/users",
+    "access_request": "https://zenodo.org/api/records/21465761/access/request",
+    "access": "https://zenodo.org/api/records/21465761/access",
+    "communities": "https://zenodo.org/api/records/21465761/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/21465761/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/21465761/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/21465761/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/21465761/quota-increase",
+    "requests": "https://zenodo.org/api/records/21465761/requests"
+  },
+  "revision_id": 4,
+  "parent": {
+    "id": "3234946",
+    "access": {
+      "owned_by": {
+        "user": "9826"
+      },
+      "settings": {
+        "allow_user_requests": false,
+        "allow_guest_requests": false,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.3234946",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 70
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.21465761",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:21465761",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "software",
+      "title": {
+        "de": "Software",
+        "en": "Software"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Oscar Esteban",
+          "family_name": "Oscar Esteban",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8435-6191",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Christopher J. Markiewicz",
+          "family_name": "Christopher J. Markiewicz",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6533-164X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University, CA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Mathias Goncalves",
+          "family_name": "Mathias Goncalves",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-7252-7771",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University, CA, USA"
+          }
+        ]
+      }
+    ],
+    "title": "SDCflows: Susceptibility Distortion Correction workFLOWS.",
+    "publisher": "Zenodo",
+    "publication_date": "2026-07-21",
+    "subjects": [
+      {
+        "subject": "neuroimaging"
+      },
+      {
+        "subject": "workflow"
+      },
+      {
+        "subject": "pipeline"
+      },
+      {
+        "subject": "preprocessing"
+      },
+      {
+        "subject": "MRI"
+      },
+      {
+        "subject": "BIDS"
+      }
+    ],
+    "contributors": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Julien Marabotto",
+          "family_name": "Julien Marabotto",
+          "identifiers": [
+            {
+              "identifier": "0009-0003-7070-5217",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Basile Pinsard",
+          "family_name": "Basile Pinsard",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-4391-3075",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "University of Montréal, Montréal, Canada"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Taylor Salo",
+          "family_name": "Taylor Salo",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-9813-3167",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Perelman School of Medicine, University of Pennsylvania, PA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Patrick Sadil",
+          "family_name": "Patrick Sadil",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-4141-1343",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Johns Hopkins Bloomberg School of Public Health"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Mathieu Dugré",
+          "family_name": "Mathieu Dugré",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-2828-6031",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Concordia University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Eilidh MacNicol",
+          "family_name": "Eilidh MacNicol",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3715-7012",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Department of Neuroimaging, King's College London"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Marcel Zwiers",
+          "family_name": "Marcel Zwiers"
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Unknown affiliation"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Yasser Aleman",
+          "family_name": "Yasser Aleman"
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Unknown affiliation"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Steven Meisler",
+          "family_name": "Steven Meisler",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-8888-1572",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Speech & Hearing Bioscience & Technology Program, Harvard University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Lea Waller",
+          "family_name": "Lea Waller",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-3239-6957",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Charite Universitatsmedizin Berlin, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Milton Camacho",
+          "family_name": "Milton Camacho"
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Unknown affiliation"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Jon Haitz Legarreta Gorroño",
+          "family_name": "Jon Haitz Legarreta Gorroño",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-9661-1396",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Brigham and Women's Hospital, Mass General Brigham, Harvard Medical School, MA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Azeez Adebimpe",
+          "family_name": "Azeez Adebimpe",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-9049-0135",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Perelman School of Medicine, University of Pennsylvania, PA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Kevin R. Sitek",
+          "family_name": "Kevin R. Sitek",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-2172-5786",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Speech & Hearing Bioscience & Technology Program, Harvard University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Markus H. Sneve",
+          "family_name": "Markus H. Sneve",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7644-7915",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Center for Lifespan Changes in Brain and Cognition, University of Oslo"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Matthew Cieslak",
+          "family_name": "Matthew Cieslak",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-1931-4734",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Perelman School of Medicine, University of Pennsylvania, PA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Mikaël Naveau",
+          "family_name": "Mikaël Naveau",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6948-9068",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Cyceron, UMS 3408 (CNRS - UCBN), France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Ross W. Blair",
+          "family_name": "Ross W. Blair",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3007-1056",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University, CA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Theodore D. Satterthwaite",
+          "family_name": "Theodore D. Satterthwaite",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7072-9399",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Perelman School of Medicine, University of Pennsylvania, PA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Russell A. Poldrack",
+          "family_name": "Russell A. Poldrack",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6755-0259",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University, CA, USA"
+          }
+        ]
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://fmriprep.org",
+        "scheme": "url",
+        "relation_type": {
+          "id": "ispartof",
+          "title": {
+            "de": "Ist Teil von",
+            "en": "Is part of"
+          }
+        }
+      },
+      {
+        "identifier": "10.1038/s41592-018-0235-4",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "ispartof",
+          "title": {
+            "de": "Ist Teil von",
+            "en": "Is part of"
+          }
+        }
+      }
+    ],
+    "version": "2.16.0",
+    "rights": [
+      {
+        "id": "apache-2.0",
+        "title": {
+          "en": "Apache License 2.0"
+        },
+        "description": {
+          "en": "A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code."
+        },
+        "props": {
+          "url": "http://www.apache.org/licenses/LICENSE-2.0",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "<p>Nipype-based neuroimaging workflows for susceptibility distortion correction (SDC) of echo-planar MRI images.</p>"
+  },
+  "custom_fields": {
+    "code:codeRepository": "https://github.com/nipreps/sdcflows"
+  },
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 1,
+    "total_bytes": 11920736,
+    "entries": {
+      "nipreps/sdcflows-2.16.0.zip": {
+        "id": "194fe18d-cc12-40f2-9b11-3ca03f848c8a",
+        "checksum": "md5:5c8f917e869e15706e0f31e0fa12e100",
+        "ext": "zip",
+        "size": 11920736,
+        "mimetype": "application/zip",
+        "key": "nipreps/sdcflows-2.16.0.zip",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": false,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 32,
+      "unique_views": 32,
+      "downloads": 5,
+      "unique_downloads": 5,
+      "data_volume": 59603680.0
+    },
+    "all_versions": {
+      "views": 5212,
+      "unique_views": 5151,
+      "downloads": 1483,
+      "unique_downloads": 1454,
+      "data_volume": 13833420280.0
+    }
+  },
+  "swh": null,
+  "ui": {
+    "publication_date_l10n_medium": "Jul 21, 2026",
+    "publication_date_l10n_long": "July 21, 2026",
+    "created_date_l10n_long": "July 21, 2026",
+    "updated_date_l10n_long": "July 21, 2026",
+    "resource_type": {
+      "id": "software",
+      "title_l10n": "Software"
+    },
+    "custom_fields": {
+      "code:codeRepository": "https://github.com/nipreps/sdcflows"
+    },
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Oscar Esteban",
+            "family_name": "Oscar Esteban",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8435-6191",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Christopher J. Markiewicz",
+            "family_name": "Christopher J. Markiewicz",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6533-164X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              2,
+              "Department of Psychology, Stanford University, CA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Mathias Goncalves",
+            "family_name": "Mathias Goncalves",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-7252-7771",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              2,
+              "Department of Psychology, Stanford University, CA, USA"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland",
+          null
+        ],
+        [
+          2,
+          "Department of Psychology, Stanford University, CA, USA",
+          null
+        ]
+      ]
+    },
+    "contributors": {
+      "contributors": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Julien Marabotto",
+            "family_name": "Julien Marabotto",
+            "identifiers": [
+              {
+                "identifier": "0009-0003-7070-5217",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              1,
+              "Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Basile Pinsard",
+            "family_name": "Basile Pinsard",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-4391-3075",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              2,
+              "University of Montréal, Montréal, Canada"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Taylor Salo",
+            "family_name": "Taylor Salo",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-9813-3167",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              3,
+              "Perelman School of Medicine, University of Pennsylvania, PA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Patrick Sadil",
+            "family_name": "Patrick Sadil",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-4141-1343",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              4,
+              "Johns Hopkins Bloomberg School of Public Health"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Mathieu Dugré",
+            "family_name": "Mathieu Dugré",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-2828-6031",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              5,
+              "Concordia University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Eilidh MacNicol",
+            "family_name": "Eilidh MacNicol",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3715-7012",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              6,
+              "Department of Neuroimaging, King's College London"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Marcel Zwiers",
+            "family_name": "Marcel Zwiers"
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              7,
+              "Unknown affiliation"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Yasser Aleman",
+            "family_name": "Yasser Aleman"
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              7,
+              "Unknown affiliation"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Steven Meisler",
+            "family_name": "Steven Meisler",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-8888-1572",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              8,
+              "Speech & Hearing Bioscience & Technology Program, Harvard University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Lea Waller",
+            "family_name": "Lea Waller",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-3239-6957",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              9,
+              "Charite Universitatsmedizin Berlin, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Milton Camacho",
+            "family_name": "Milton Camacho"
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              7,
+              "Unknown affiliation"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Jon Haitz Legarreta Gorroño",
+            "family_name": "Jon Haitz Legarreta Gorroño",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-9661-1396",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              10,
+              "Brigham and Women's Hospital, Mass General Brigham, Harvard Medical School, MA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Azeez Adebimpe",
+            "family_name": "Azeez Adebimpe",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-9049-0135",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              3,
+              "Perelman School of Medicine, University of Pennsylvania, PA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Kevin R. Sitek",
+            "family_name": "Kevin R. Sitek",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-2172-5786",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              8,
+              "Speech & Hearing Bioscience & Technology Program, Harvard University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Markus H. Sneve",
+            "family_name": "Markus H. Sneve",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7644-7915",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              11,
+              "Center for Lifespan Changes in Brain and Cognition, University of Oslo"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Matthew Cieslak",
+            "family_name": "Matthew Cieslak",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-1931-4734",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              3,
+              "Perelman School of Medicine, University of Pennsylvania, PA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Mikaël Naveau",
+            "family_name": "Mikaël Naveau",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-6948-9068",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              12,
+              "Cyceron, UMS 3408 (CNRS - UCBN), France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Ross W. Blair",
+            "family_name": "Ross W. Blair",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3007-1056",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              13,
+              "Department of Psychology, Stanford University, CA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Theodore D. Satterthwaite",
+            "family_name": "Theodore D. Satterthwaite",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7072-9399",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              3,
+              "Perelman School of Medicine, University of Pennsylvania, PA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Russell A. Poldrack",
+            "family_name": "Russell A. Poldrack",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-6755-0259",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              13,
+              "Department of Psychology, Stanford University, CA, USA"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland",
+          null
+        ],
+        [
+          2,
+          "University of Montréal, Montréal, Canada",
+          null
+        ],
+        [
+          3,
+          "Perelman School of Medicine, University of Pennsylvania, PA, USA",
+          null
+        ],
+        [
+          4,
+          "Johns Hopkins Bloomberg School of Public Health",
+          null
+        ],
+        [
+          5,
+          "Concordia University",
+          null
+        ],
+        [
+          6,
+          "Department of Neuroimaging, King's College London",
+          null
+        ],
+        [
+          7,
+          "Unknown affiliation",
+          null
+        ],
+        [
+          8,
+          "Speech & Hearing Bioscience & Technology Program, Harvard University",
+          null
+        ],
+        [
+          9,
+          "Charite Universitatsmedizin Berlin, Germany",
+          null
+        ],
+        [
+          10,
+          "Brigham and Women's Hospital, Mass General Brigham, Harvard Medical School, MA, USA",
+          null
+        ],
+        [
+          11,
+          "Center for Lifespan Changes in Brain and Cognition, University of Oslo",
+          null
+        ],
+        [
+          12,
+          "Cyceron, UMS 3408 (CNRS - UCBN), France",
+          null
+        ],
+        [
+          13,
+          "Department of Psychology, Stanford University, CA, USA",
+          null
+        ]
+      ]
+    },
+    "description_stripped": "Nipype-based neuroimaging workflows for susceptibility distortion correction (SDC) of echo-planar MRI images.",
+    "version": "2.16.0",
+    "related_identifiers": [
+      {
+        "identifier": "https://fmriprep.org",
+        "relation_type": {
+          "id": "ispartof",
+          "title_l10n": "Is part of"
+        },
+        "scheme": "url"
+      },
+      {
+        "identifier": "10.1038/s41592-018-0235-4",
+        "relation_type": {
+          "id": "ispartof",
+          "title_l10n": "Is part of"
+        },
+        "scheme": "doi"
+      }
+    ],
+    "rights": [
+      {
+        "id": "apache-2.0",
+        "title_l10n": "Apache License 2.0",
+        "description_l10n": "A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.",
+        "props": {
+          "url": "http://www.apache.org/licenses/LICENSE-2.0",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}

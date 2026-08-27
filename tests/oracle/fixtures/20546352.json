@@ -1,0 +1,406 @@
+{
+  "id": "20546352",
+  "created": "2026-06-04T17:18:05.970517+00:00",
+  "updated": "2026-06-04T17:18:06.252611+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/20546352",
+    "self_html": "https://zenodo.org/records/20546352",
+    "preview_html": "https://zenodo.org/records/20546352?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.20546352",
+    "self_doi": "https://doi.org/10.5281/zenodo.20546352",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20546352",
+    "reserve_doi": "https://zenodo.org/api/records/20546352/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/20546351",
+    "parent_html": "https://zenodo.org/records/20546351",
+    "parent_doi": "https://doi.org/10.5281/zenodo.20546351",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20546351",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:20546352/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:20546352/sequence/default",
+    "files": "https://zenodo.org/api/records/20546352/files",
+    "media_files": "https://zenodo.org/api/records/20546352/media-files",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:20546352:110..pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:20546352:110..pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:20546352:110..pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:20546352:110..pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:20546352:110..pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:20546352:110..pdf/full/%5E1200,/0/default.jpg"
+    },
+    "archive": "https://zenodo.org/api/records/20546352/files-archive",
+    "archive_media": "https://zenodo.org/api/records/20546352/media-files-archive",
+    "latest": "https://zenodo.org/api/records/20546352/versions/latest",
+    "latest_html": "https://zenodo.org/records/20546352/latest",
+    "versions": "https://zenodo.org/api/records/20546352/versions",
+    "draft": "https://zenodo.org/api/records/20546352/draft",
+    "access_links": "https://zenodo.org/api/records/20546352/access/links",
+    "access_grants": "https://zenodo.org/api/records/20546352/access/grants",
+    "access_users": "https://zenodo.org/api/records/20546352/access/users",
+    "access_request": "https://zenodo.org/api/records/20546352/access/request",
+    "access": "https://zenodo.org/api/records/20546352/access",
+    "communities": "https://zenodo.org/api/records/20546352/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/20546352/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/20546352/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/20546352/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/20546352/quota-increase",
+    "requests": "https://zenodo.org/api/records/20546352/requests"
+  },
+  "revision_id": 4,
+  "parent": {
+    "id": "20546351",
+    "access": {
+      "owned_by": {
+        "user": "1002122"
+      },
+      "settings": {
+        "allow_user_requests": false,
+        "allow_guest_requests": false,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {
+      "ids": [
+        "3b215196-1982-4091-94ed-ca946a8968c0"
+      ],
+      "default": "3b215196-1982-4091-94ed-ca946a8968c0",
+      "entries": [
+        {
+          "id": "3b215196-1982-4091-94ed-ca946a8968c0",
+          "created": "2026-06-02T17:42:02.889939+00:00",
+          "updated": "2026-06-02T17:44:15.000218+00:00",
+          "links": {},
+          "revision_id": 3,
+          "slug": "umerc2025",
+          "metadata": {
+            "title": "UMERC Conference 2025",
+            "website": "https://umerc-us.org/networks/events/110075",
+            "organizations": [
+              {
+                "name": "Pacific Ocean Energy Trust"
+              }
+            ]
+          },
+          "access": {
+            "visibility": "public",
+            "members_visibility": "public",
+            "member_policy": "closed",
+            "record_submission_policy": "open",
+            "review_policy": "closed"
+          },
+          "deletion_status": {
+            "is_deleted": false,
+            "status": "P"
+          },
+          "children": {
+            "allow": false
+          }
+        }
+      ]
+    },
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.20546351",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 1
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.20546352",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:20546352",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "publication-conferenceproceeding",
+      "title": {
+        "de": "Tagungsband",
+        "en": "Conference proceeding"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "McCabe, Rebecca",
+          "given_name": "Rebecca",
+          "family_name": "McCabe"
+        },
+        "affiliations": [
+          {
+            "id": "05bnh6r87",
+            "name": "Cornell University",
+            "identifiers": [
+              {
+                "identifier": "05bnh6r87",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.5386.8",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 1936 877X",
+                "scheme": "isni"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Dietrich, Madison",
+          "given_name": "Madison",
+          "family_name": "Dietrich"
+        },
+        "affiliations": [
+          {
+            "id": "05bnh6r87",
+            "name": "Cornell University",
+            "identifiers": [
+              {
+                "identifier": "05bnh6r87",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.5386.8",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 1936 877X",
+                "scheme": "isni"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Haji, Maha",
+          "given_name": "Maha",
+          "family_name": "Haji"
+        },
+        "affiliations": [
+          {
+            "id": "05bnh6r87",
+            "name": "Cornell University",
+            "identifiers": [
+              {
+                "identifier": "05bnh6r87",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.5386.8",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 1936 877X",
+                "scheme": "isni"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "title": "MDOcean: an Open-Source Software for Efficient Simulation and Multidisciplinary Design Optimization of WECs",
+    "publisher": "Zenodo",
+    "publication_date": "2026-06-04",
+    "rights": [
+      {
+        "id": "cc-by-4.0",
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        },
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "<p>MDOcean is a new open-source software tool for the Multidisciplinary Design Optimization (MDO) of ocean wave energy systems. The MDO approach simultaneously considers all subsystem interactions to explore system-level tradeoffs, leading to more holistic and efficient designs. MDOcean implements this process for an axisymmetric wave energy converter (WEC) and includes modules for geometry and hydrostatics, semi-analytical hydrodynamics, modified frequency-domain rigid body dynamics, structural survival (including fatigue and storm load cases), and economic assessment.</p>\n<p>In this work, we review MDOcean&rsquo;s modeling capabilities and underlying assumptions, emphasizing the trade-off between computational accuracy and speed. MDOcean is compared to existing WEC modeling software such as WEC-Sim and WecOptTool, as well as to offshore wind MDO software such as WISDEM / WEIS. MDOcean can simulate 210 sea states in under 50 ms, representing a nearly 5 order of magnitude speedup from the 1 hour required to simulate the dynamics in WEC-Sim. The software&rsquo;s optimization and post-optimality analysis capabilities are then detailed, highlighting its ability to evaluate local and global parameter sensitivities. Additionally, we demonstrate MDOcean&rsquo;s continuous integration framework, which automates unit tests and figure and table generation to facilitate validation, benchmarking, and result reporting.</p>\n<p>A case study is presented featuring an optimization and sensitivity analysis of the Reference Model 3 (RM3) WEC, demonstrating the software&rsquo;s capabilities. The maximum power design achieves a factor of 3 times higher power and the minimum cost design achieves around 40% lower capital cost compared to the nominal RM3 design. Finally, we outline guidelines for the future use and development of the software by others, including necessary extensions to enable modeling and optimization at higher fidelity, larger scale, and alternative WEC architectures.</p>"
+  },
+  "custom_fields": {
+    "meeting:meeting": {
+      "dates": "12 - 14 Aug 2025",
+      "place": "Oregon State University, Corvallis, Oregon",
+      "title": "2025 UMERC Conference"
+    }
+  },
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 1,
+    "total_bytes": 139274,
+    "entries": {
+      "110..pdf": {
+        "id": "f751e02e-afdd-41b4-beb3-59e185c29198",
+        "checksum": "md5:3aa4ed0597335a9d825c882005796bb3",
+        "ext": "pdf",
+        "size": 139274,
+        "mimetype": "application/pdf",
+        "key": "110..pdf",
+        "metadata": {
+          "width": 612,
+          "height": 792
+        },
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": true,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 30,
+      "unique_views": 27,
+      "downloads": 14,
+      "unique_downloads": 14,
+      "data_volume": 1949836.0
+    },
+    "all_versions": {
+      "views": 30,
+      "unique_views": 27,
+      "downloads": 14,
+      "unique_downloads": 14,
+      "data_volume": 1949836.0
+    }
+  },
+  "swh": null,
+  "ui": {
+    "publication_date_l10n_medium": "Jun 4, 2026",
+    "publication_date_l10n_long": "June 4, 2026",
+    "created_date_l10n_long": "June 4, 2026",
+    "updated_date_l10n_long": "June 4, 2026",
+    "resource_type": {
+      "id": "publication-conferenceproceeding",
+      "title_l10n": "Conference proceeding"
+    },
+    "custom_fields": {
+      "meeting:meeting": {
+        "dates": "12 - 14 Aug 2025",
+        "place": "Oregon State University, Corvallis, Oregon",
+        "title": "2025 UMERC Conference"
+      }
+    },
+    "conference": {
+      "dates": "12 - 14 Aug 2025",
+      "place": "Oregon State University, Corvallis, Oregon",
+      "title": "2025 UMERC Conference"
+    },
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "McCabe, Rebecca",
+            "given_name": "Rebecca",
+            "family_name": "McCabe"
+          },
+          "affiliations": [
+            [
+              1,
+              "Cornell University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Dietrich, Madison",
+            "given_name": "Madison",
+            "family_name": "Dietrich"
+          },
+          "affiliations": [
+            [
+              1,
+              "Cornell University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Haji, Maha",
+            "given_name": "Maha",
+            "family_name": "Haji"
+          },
+          "affiliations": [
+            [
+              1,
+              "Cornell University"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "Cornell University",
+          "05bnh6r87"
+        ]
+      ]
+    },
+    "description_stripped": "MDOcean is a new open-source software tool for the Multidisciplinary Design Optimization (MDO) of ocean wave energy systems. The MDO approach simultaneously considers all subsystem interactions to explore system-level tradeoffs, leading to more holistic and efficient designs. MDOcean implements this process for an axisymmetric wave energy converter (WEC) and includes modules for geometry and hydrostatics, semi-analytical hydrodynamics, modified frequency-domain rigid body dynamics, structural survival (including fatigue and storm load cases), and economic assessment.\n\nIn this work, we review MDOcean’s modeling capabilities and underlying assumptions, emphasizing the trade-off between computational accuracy and speed. MDOcean is compared to existing WEC modeling software such as WEC-Sim and WecOptTool, as well as to offshore wind MDO software such as WISDEM / WEIS. MDOcean can simulate 210 sea states in under 50 ms, representing a nearly 5 order of magnitude speedup from the 1 hour required to simulate the dynamics in WEC-Sim. The software’s optimization and post-optimality analysis capabilities are then detailed, highlighting its ability to evaluate local and global parameter sensitivities. Additionally, we demonstrate MDOcean’s continuous integration framework, which automates unit tests and figure and table generation to facilitate validation, benchmarking, and result reporting.\n\nA case study is presented featuring an optimization and sensitivity analysis of the Reference Model 3 (RM3) WEC, demonstrating the software’s capabilities. The maximum power design achieves a factor of 3 times higher power and the minimum cost design achieves around 40% lower capital cost compared to the nominal RM3 design. Finally, we outline guidelines for the future use and development of the software by others, including necessary extensions to enable modeling and optimization at higher fidelity, larger scale, and alternative WEC architectures.",
+    "version": "v1",
+    "rights": [
+      {
+        "id": "cc-by-4.0",
+        "title_l10n": "Creative Commons Attribution 4.0 International",
+        "description_l10n": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited.",
+        "icon": "cc-by-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}

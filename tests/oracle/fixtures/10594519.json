@@ -1,0 +1,395 @@
+{
+  "id": "10594519",
+  "created": "2024-02-02T16:00:11.512721+00:00",
+  "updated": "2024-07-07T09:08:27.607098+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/10594519",
+    "self_html": "https://zenodo.org/records/10594519",
+    "preview_html": "https://zenodo.org/records/10594519?preview=1",
+    "doi": "https://doi.org/10.1007/978-3-319-70836-2_59",
+    "self_doi": "https://doi.org/10.1007/978-3-319-70836-2_59",
+    "self_doi_html": "https://zenodo.org/doi/10.1007/978-3-319-70836-2_59",
+    "reserve_doi": "https://zenodo.org/api/records/10594519/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/10594518",
+    "parent_html": "https://zenodo.org/records/10594518",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:10594519/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:10594519/sequence/default",
+    "files": "https://zenodo.org/api/records/10594519/files",
+    "media_files": "https://zenodo.org/api/records/10594519/media-files",
+    "archive": "https://zenodo.org/api/records/10594519/files-archive",
+    "archive_media": "https://zenodo.org/api/records/10594519/media-files-archive",
+    "latest": "https://zenodo.org/api/records/10594519/versions/latest",
+    "latest_html": "https://zenodo.org/records/10594519/latest",
+    "versions": "https://zenodo.org/api/records/10594519/versions",
+    "draft": "https://zenodo.org/api/records/10594519/draft",
+    "access_links": "https://zenodo.org/api/records/10594519/access/links",
+    "access_grants": "https://zenodo.org/api/records/10594519/access/grants",
+    "access_users": "https://zenodo.org/api/records/10594519/access/users",
+    "access_request": "https://zenodo.org/api/records/10594519/access/request",
+    "access": "https://zenodo.org/api/records/10594519/access",
+    "communities": "https://zenodo.org/api/records/10594519/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/10594519/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/10594519/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/10594519/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/10594519/quota-increase",
+    "requests": "https://zenodo.org/api/records/10594519/requests"
+  },
+  "revision_id": 6,
+  "parent": {
+    "id": "10594518",
+    "access": {
+      "owned_by": {
+        "user": "1062038"
+      },
+      "settings": {
+        "allow_user_requests": false,
+        "allow_guest_requests": false,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "pids": {}
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 1
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.1007/978-3-319-70836-2_59",
+      "provider": "external"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:10594519",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "publication-conferencepaper",
+      "title": {
+        "de": "Konferenzbeitrag",
+        "en": "Conference paper"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Álvarez, David",
+          "given_name": "David",
+          "family_name": "Álvarez",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-2056-640X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        }
+      }
+    ],
+    "title": "Tactile-Based In-Hand Object Pose Estimation",
+    "publisher": "Zenodo",
+    "publication_date": "2017-12-21",
+    "contributors": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Álvarez, David",
+          "given_name": "David",
+          "family_name": "Álvarez",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-2056-640X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "contactperson",
+          "title": {
+            "de": "Kontaktperson",
+            "en": "Contact person"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Robotics Lab, Carlos III University of Madrid, Leganes, Spain"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Roa, Máximo A.",
+          "given_name": "Máximo A.",
+          "family_name": "Roa"
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "German Aerospace Center - DLR, Wessling, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Moreno, Luis",
+          "given_name": "Luis",
+          "family_name": "Moreno"
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Robotics Lab, Carlos III University of Madrid, Leganes, Spain"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": "eng",
+        "title": {
+          "en": "English"
+        }
+      }
+    ],
+    "rights": [
+      {
+        "id": "cc-by-4.0",
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        },
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "<p>This paper presents a method to estimate the pose of an object inside a robotic hand by exploiting contact and joint position information. Once an initial visual estimation is provided, a Bootstrap Particle Filter is used to evaluate multiple hypothesis for the object pose. The function used to score the hypothesis considers feasibility and physical meaning of the contacts between the object and the hand. The method provides a good estimation of in-hand pose for different 3D objects.</p>"
+  },
+  "custom_fields": {
+    "meeting:meeting": {
+      "acronym": "ROBOT17",
+      "dates": "22-241 2017",
+      "place": "Sevilla, Spain",
+      "title": "ROBOT 2017: Third Iberian Robotics Conference"
+    }
+  },
+  "access": {
+    "record": "public",
+    "files": "restricted",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "restricted"
+  },
+  "files": {
+    "enabled": true
+  },
+  "media_files": {
+    "enabled": false
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 28,
+      "unique_views": 27,
+      "downloads": 6,
+      "unique_downloads": 5,
+      "data_volume": 10939182.0
+    },
+    "all_versions": {
+      "views": 28,
+      "unique_views": 27,
+      "downloads": 6,
+      "unique_downloads": 5,
+      "data_volume": 10939182.0
+    }
+  },
+  "swh": null,
+  "ui": {
+    "publication_date_l10n_medium": "Dec 21, 2017",
+    "publication_date_l10n_long": "December 21, 2017",
+    "created_date_l10n_long": "February 2, 2024",
+    "updated_date_l10n_long": "July 7, 2024",
+    "resource_type": {
+      "id": "publication-conferencepaper",
+      "title_l10n": "Conference paper"
+    },
+    "custom_fields": {
+      "meeting:meeting": {
+        "acronym": "ROBOT17",
+        "dates": "22-241 2017",
+        "place": "Sevilla, Spain",
+        "title": "ROBOT 2017: Third Iberian Robotics Conference"
+      }
+    },
+    "conference": {
+      "acronym": "ROBOT17",
+      "dates": "22-241 2017",
+      "place": "Sevilla, Spain",
+      "title": "ROBOT 2017: Third Iberian Robotics Conference"
+    },
+    "access_status": {
+      "id": "restricted",
+      "title_l10n": "Restricted",
+      "description_l10n": "The record is publicly accessible, but files are restricted to users with access.",
+      "icon": "ban",
+      "embargo_date_l10n": null,
+      "message_class": "negative"
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Álvarez, David",
+            "given_name": "David",
+            "family_name": "Álvarez",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-2056-640X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          }
+        }
+      ],
+      "affiliations": []
+    },
+    "contributors": {
+      "contributors": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Álvarez, David",
+            "given_name": "David",
+            "family_name": "Álvarez",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-2056-640X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "contactperson",
+            "title": "Contact person"
+          },
+          "affiliations": [
+            [
+              1,
+              "Robotics Lab, Carlos III University of Madrid, Leganes, Spain"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Roa, Máximo A.",
+            "given_name": "Máximo A.",
+            "family_name": "Roa"
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              2,
+              "German Aerospace Center - DLR, Wessling, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Moreno, Luis",
+            "given_name": "Luis",
+            "family_name": "Moreno"
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              1,
+              "Robotics Lab, Carlos III University of Madrid, Leganes, Spain"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "Robotics Lab, Carlos III University of Madrid, Leganes, Spain",
+          null
+        ],
+        [
+          2,
+          "German Aerospace Center - DLR, Wessling, Germany",
+          null
+        ]
+      ]
+    },
+    "languages": [
+      {
+        "id": "eng",
+        "title_l10n": "English"
+      }
+    ],
+    "description_stripped": "This paper presents a method to estimate the pose of an object inside a robotic hand by exploiting contact and joint position information. Once an initial visual estimation is provided, a Bootstrap Particle Filter is used to evaluate multiple hypothesis for the object pose. The function used to score the hypothesis considers feasibility and physical meaning of the contacts between the object and the hand. The method provides a good estimation of in-hand pose for different 3D objects.",
+    "version": "v1",
+    "rights": [
+      {
+        "id": "cc-by-4.0",
+        "title_l10n": "Creative Commons Attribution 4.0 International",
+        "description_l10n": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited.",
+        "icon": "cc-by-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}

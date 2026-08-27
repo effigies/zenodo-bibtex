@@ -1,0 +1,372 @@
+{
+  "id": "21868769",
+  "created": "2026-08-10T07:07:19.338029+00:00",
+  "updated": "2026-08-10T07:21:59.253963+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/21868769",
+    "self_html": "https://zenodo.org/records/21868769",
+    "preview_html": "https://zenodo.org/records/21868769?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.21868769",
+    "self_doi": "https://doi.org/10.5281/zenodo.21868769",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.21868769",
+    "reserve_doi": "https://zenodo.org/api/records/21868769/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/21868768",
+    "parent_html": "https://zenodo.org/records/21868768",
+    "parent_doi": "https://doi.org/10.5281/zenodo.21868768",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.21868768",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:21868769/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:21868769/sequence/default",
+    "files": "https://zenodo.org/api/records/21868769/files",
+    "media_files": "https://zenodo.org/api/records/21868769/media-files",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:21868769:Workshop%20Report%20on%20%20%20How%20Should%20Health%20Researchers%20Advance%20Health%20Equity%20in%20Southeast%20Asia%20(Post%20Synthesis%20Meeting.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:21868769:Workshop%20Report%20on%20%20%20How%20Should%20Health%20Researchers%20Advance%20Health%20Equity%20in%20Southeast%20Asia%20(Post%20Synthesis%20Meeting.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:21868769:Workshop%20Report%20on%20%20%20How%20Should%20Health%20Researchers%20Advance%20Health%20Equity%20in%20Southeast%20Asia%20(Post%20Synthesis%20Meeting.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:21868769:Workshop%20Report%20on%20%20%20How%20Should%20Health%20Researchers%20Advance%20Health%20Equity%20in%20Southeast%20Asia%20(Post%20Synthesis%20Meeting.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:21868769:Workshop%20Report%20on%20%20%20How%20Should%20Health%20Researchers%20Advance%20Health%20Equity%20in%20Southeast%20Asia%20(Post%20Synthesis%20Meeting.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:21868769:Workshop%20Report%20on%20%20%20How%20Should%20Health%20Researchers%20Advance%20Health%20Equity%20in%20Southeast%20Asia%20(Post%20Synthesis%20Meeting.pdf/full/%5E1200,/0/default.jpg"
+    },
+    "archive": "https://zenodo.org/api/records/21868769/files-archive",
+    "archive_media": "https://zenodo.org/api/records/21868769/media-files-archive",
+    "latest": "https://zenodo.org/api/records/21868769/versions/latest",
+    "latest_html": "https://zenodo.org/records/21868769/latest",
+    "versions": "https://zenodo.org/api/records/21868769/versions",
+    "draft": "https://zenodo.org/api/records/21868769/draft",
+    "access_links": "https://zenodo.org/api/records/21868769/access/links",
+    "access_grants": "https://zenodo.org/api/records/21868769/access/grants",
+    "access_users": "https://zenodo.org/api/records/21868769/access/users",
+    "access_request": "https://zenodo.org/api/records/21868769/access/request",
+    "access": "https://zenodo.org/api/records/21868769/access",
+    "communities": "https://zenodo.org/api/records/21868769/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/21868769/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/21868769/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/21868769/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/21868769/quota-increase",
+    "requests": "https://zenodo.org/api/records/21868769/requests"
+  },
+  "revision_id": 10,
+  "parent": {
+    "id": "21868768",
+    "access": {
+      "owned_by": {
+        "user": "80450"
+      },
+      "settings": {
+        "allow_user_requests": false,
+        "allow_guest_requests": false,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.21868768",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 1
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.21868769",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:21868769",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "event",
+      "title": {
+        "de": "Veranstaltung",
+        "en": "Event"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Cheah, Phaik Yeong",
+          "given_name": "Phaik Yeong",
+          "family_name": "Cheah",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6327-3266",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "hostinginstitution",
+          "title": {
+            "de": "Bereitstellende Institution",
+            "en": "Hosting institution"
+          }
+        },
+        "affiliations": [
+          {
+            "id": "052gg0110",
+            "name": "University of Oxford",
+            "identifiers": [
+              {
+                "identifier": "052gg0110",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.4991.5",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 1936 8948",
+                "scheme": "isni"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "title": "How Should Health Researchers Advance Health Equity in Southeast Asia?",
+    "publisher": "Zenodo",
+    "publication_date": "2026-06-23/2026-06-24",
+    "languages": [
+      {
+        "id": "eng",
+        "title": {
+          "en": "English"
+        }
+      }
+    ],
+    "rights": [
+      {
+        "id": "cc-by-4.0",
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        },
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "<p><strong>\"How Should Health Researchers Advance Health Equity in Southeast Asia?\"</strong> workshop was held in Mahidol Oxford Tropical Medicine Research Unit (MORU) Bangkok on 23rd &ndash; 24th June 2026.</p>\n<p>&nbsp;</p>\n<p>This workshop examined examine what equity and health equity mean in the Southeast Asian context; identify context-specific drivers of health inequity; and consider how health research priorities, questions and practices can be shaped to better address local needs.</p>\n<p>&nbsp;</p>\n<p><strong>Workshop Organisers</strong></p>\n<ul>\n<li>Professor Phaik Yeong Cheah<br>Mahidol Oxford Tropical Medicine Research Unit (MORU) | Southeast Asia Bioethics Network (SEABioN) | Global Health Bioethics Network (GHBN)</li>\n<li>Associate Professor Sharon Kaur Gurmukh Singh<br>Universiti Malaya | Southeast Asia Bioethics Network (SEABioN) | Global Health Bioethics Network (GHBN)</li>\n<li>Professor Michael Parker<br>Ethox Centre, University of Oxford | Global Health Bioethics Network (GHBN)</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Funding:</strong> Wellcome through MORU, SEABioN and GHBN</p>"
+  },
+  "custom_fields": {
+    "meeting:meeting": {
+      "dates": "23-24 June 2026",
+      "place": "Mahidol Oxford Tropical Medicine Research Unit (MORU) Bangkok, Thailand,  \tSimilan and Lanta rooms, 3rd floor, 60th Anniversary Chalermprakiat Building,  420/6 Rajvithi Road, Bangkok 10400 Thailand",
+      "title": "How Should Health Researchers Advance Health Equity in Southeast Asia?"
+    }
+  },
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 5,
+    "total_bytes": 680096,
+    "entries": {
+      "260619 Participants' Biographies.docx": {
+        "id": "f9ce3e76-462a-4d86-97a4-fa7f558bef00",
+        "checksum": "md5:a305e631041d37caee89c6593046d4f7",
+        "ext": "docx",
+        "size": 102453,
+        "mimetype": "application/octet-stream",
+        "key": "260619 Participants' Biographies.docx",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      },
+      "260620 Equity Workshop Agenda.docx": {
+        "id": "bf7b49af-0346-4f29-b661-e8a5c23cd6d5",
+        "checksum": "md5:a31d7370fb284b264c172cbf28aa44ab",
+        "ext": "docx",
+        "size": 105048,
+        "mimetype": "application/octet-stream",
+        "key": "260620 Equity Workshop Agenda.docx",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      },
+      "Workshop Report on   How Should Health Researchers Advance Health Equity in Southeast Asia (Post Synthesis Meeting.pdf": {
+        "id": "77e6b6ed-09a4-4729-bcd4-2458ce266ed8",
+        "checksum": "md5:ad609adf9f18ea10b0204f4b469ce3d8",
+        "ext": "pdf",
+        "size": 158256,
+        "mimetype": "application/pdf",
+        "key": "Workshop Report on   How Should Health Researchers Advance Health Equity in Southeast Asia (Post Synthesis Meeting.pdf",
+        "metadata": {
+          "width": 595,
+          "height": 842
+        },
+        "access": {
+          "hidden": false
+        }
+      },
+      "EquityworkshopSEAconcept_3March2026.docx": {
+        "id": "4cbb2749-1ebe-4621-83f0-b373e23d08ab",
+        "checksum": "md5:0ae5382f6fd3cdc6bf45f51043a728a1",
+        "ext": "docx",
+        "size": 20942,
+        "mimetype": "application/octet-stream",
+        "key": "EquityworkshopSEAconcept_3March2026.docx",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      },
+      "Workshop Report on   How Should Health Researchers Advance Health Equity in Southeast Asia.pdf": {
+        "id": "1a151f39-0731-4df8-8822-2246e7e0e44c",
+        "checksum": "md5:1457145621126a4e494e34cf948290e5",
+        "ext": "pdf",
+        "size": 293397,
+        "mimetype": "application/pdf",
+        "key": "Workshop Report on   How Should Health Researchers Advance Health Equity in Southeast Asia.pdf",
+        "metadata": {
+          "width": 595,
+          "height": 842
+        },
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": true,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 11,
+      "unique_views": 2,
+      "downloads": 17,
+      "unique_downloads": 7,
+      "data_volume": 2470157.0
+    },
+    "all_versions": {
+      "views": 11,
+      "unique_views": 2,
+      "downloads": 17,
+      "unique_downloads": 7,
+      "data_volume": 2470157.0
+    }
+  },
+  "swh": null,
+  "ui": {
+    "publication_date_l10n_medium": "Jun 23 – 24, 2026",
+    "publication_date_l10n_long": "Jun 23 – 24, 2026",
+    "created_date_l10n_long": "August 10, 2026",
+    "updated_date_l10n_long": "August 10, 2026",
+    "resource_type": {
+      "id": "event",
+      "title_l10n": "Event"
+    },
+    "custom_fields": {
+      "meeting:meeting": {
+        "dates": "23-24 June 2026",
+        "place": "Mahidol Oxford Tropical Medicine Research Unit (MORU) Bangkok, Thailand,  \tSimilan and Lanta rooms, 3rd floor, 60th Anniversary Chalermprakiat Building,  420/6 Rajvithi Road, Bangkok 10400 Thailand",
+        "title": "How Should Health Researchers Advance Health Equity in Southeast Asia?"
+      }
+    },
+    "conference": {
+      "dates": "23-24 June 2026",
+      "place": "Mahidol Oxford Tropical Medicine Research Unit (MORU) Bangkok, Thailand,  \tSimilan and Lanta rooms, 3rd floor, 60th Anniversary Chalermprakiat Building,  420/6 Rajvithi Road, Bangkok 10400 Thailand",
+      "title": "How Should Health Researchers Advance Health Equity in Southeast Asia?"
+    },
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Cheah, Phaik Yeong",
+            "given_name": "Phaik Yeong",
+            "family_name": "Cheah",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-6327-3266",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "hostinginstitution",
+            "title": "Hosting institution"
+          },
+          "affiliations": [
+            [
+              1,
+              "University of Oxford"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "University of Oxford",
+          "052gg0110"
+        ]
+      ]
+    },
+    "languages": [
+      {
+        "id": "eng",
+        "title_l10n": "English"
+      }
+    ],
+    "description_stripped": "\"How Should Health Researchers Advance Health Equity in Southeast Asia?\" workshop was held in Mahidol Oxford Tropical Medicine Research Unit (MORU) Bangkok on 23rd – 24th June 2026.\n\n \n\nThis workshop examined examine what equity and health equity mean in the Southeast Asian context; identify context-specific drivers of health inequity; and consider how health research priorities, questions and practices can be shaped to better address local needs.\n\n \n\nWorkshop Organisers\n\n\n\nProfessor Phaik Yeong CheahMahidol Oxford Tropical Medicine Research Unit (MORU) | Southeast Asia Bioethics Network (SEABioN) | Global Health Bioethics Network (GHBN)\n\nAssociate Professor Sharon Kaur Gurmukh SinghUniversiti Malaya | Southeast Asia Bioethics Network (SEABioN) | Global Health Bioethics Network (GHBN)\n\nProfessor Michael ParkerEthox Centre, University of Oxford | Global Health Bioethics Network (GHBN)\n\n\n \n\nFunding: Wellcome through MORU, SEABioN and GHBN",
+    "version": "v1",
+    "rights": [
+      {
+        "id": "cc-by-4.0",
+        "title_l10n": "Creative Commons Attribution 4.0 International",
+        "description_l10n": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited.",
+        "icon": "cc-by-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}

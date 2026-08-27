@@ -1,0 +1,939 @@
+{
+  "id": "13743295",
+  "created": "2024-09-10T20:13:10.213378+00:00",
+  "updated": "2024-09-10T20:13:10.342078+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/13743295",
+    "self_html": "https://zenodo.org/records/13743295",
+    "preview_html": "https://zenodo.org/records/13743295?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.13743295",
+    "self_doi": "https://doi.org/10.5281/zenodo.13743295",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.13743295",
+    "reserve_doi": "https://zenodo.org/api/records/13743295/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/7019701",
+    "parent_html": "https://zenodo.org/records/7019701",
+    "parent_doi": "https://doi.org/10.5281/zenodo.7019701",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.7019701",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:13743295/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:13743295/sequence/default",
+    "files": "https://zenodo.org/api/records/13743295/files",
+    "media_files": "https://zenodo.org/api/records/13743295/media-files",
+    "archive": "https://zenodo.org/api/records/13743295/files-archive",
+    "archive_media": "https://zenodo.org/api/records/13743295/media-files-archive",
+    "latest": "https://zenodo.org/api/records/13743295/versions/latest",
+    "latest_html": "https://zenodo.org/records/13743295/latest",
+    "versions": "https://zenodo.org/api/records/13743295/versions",
+    "draft": "https://zenodo.org/api/records/13743295/draft",
+    "access_links": "https://zenodo.org/api/records/13743295/access/links",
+    "access_grants": "https://zenodo.org/api/records/13743295/access/grants",
+    "access_users": "https://zenodo.org/api/records/13743295/access/users",
+    "access_request": "https://zenodo.org/api/records/13743295/access/request",
+    "access": "https://zenodo.org/api/records/13743295/access",
+    "communities": "https://zenodo.org/api/records/13743295/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/13743295/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/13743295/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/13743295/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/13743295/quota-increase",
+    "requests": "https://zenodo.org/api/records/13743295/requests"
+  },
+  "revision_id": 4,
+  "parent": {
+    "id": "7019701",
+    "access": {
+      "owned_by": {
+        "user": "374001"
+      },
+      "settings": {
+        "allow_user_requests": false,
+        "allow_guest_requests": false,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.7019701",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 21
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.13743295",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:13743295",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "software",
+      "title": {
+        "de": "Software",
+        "en": "Software"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Houghton, Audrey",
+          "given_name": "Audrey",
+          "family_name": "Houghton",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-9426-7969",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Masonic Institute for the Developing Brain, University of Minnesota, Minneapolis, MN"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Conan, Greg",
+          "given_name": "Greg",
+          "family_name": "Conan",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-3758-5562",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Masonic Institute for the Developing Brain, University of Minnesota, Minneapolis, MN"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Hendrickson, Timothy J.",
+          "given_name": "Timothy J.",
+          "family_name": "Hendrickson",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6862-6526",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Masonic Institute for the Developing Brain, University of Minnesota, Minneapolis, MN"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Alexopoulos, Dimitrios",
+          "given_name": "Dimitrios",
+          "family_name": "Alexopoulos",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-5659-8695",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Washington University, St. Louis, MO"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Goncalves, Mathias",
+          "given_name": "Mathias",
+          "family_name": "Goncalves",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-7252-7771",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University, Stanford, CA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Koirala, Sanju",
+          "given_name": "Sanju",
+          "family_name": "Koirala"
+        },
+        "affiliations": [
+          {
+            "name": "Masonic Institute for the Developing Brain, University of Minnesota, Minneapolis, MN"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Latham, Aidan",
+          "given_name": "Aidan",
+          "family_name": "Latham",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-8753-2282",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Washington University, St. Louis, MO"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Lee, Erik",
+          "given_name": "Erik",
+          "family_name": "Lee",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-9236-5100",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Masonic Institute for the Developing Brain, University of Minnesota, Minneapolis, MN"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Lundquist, Jacob",
+          "given_name": "Jacob",
+          "family_name": "Lundquist",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-9573-1954",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Masonic Institute for the Developing Brain, University of Minnesota, Minneapolis, MN"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Madison, Thomas J.",
+          "given_name": "Thomas J.",
+          "family_name": "Madison",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3030-6580",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Masonic Institute for the Developing Brain, University of Minnesota, Minneapolis, MN"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Markiewicz, Christopher J.",
+          "given_name": "Christopher J.",
+          "family_name": "Markiewicz",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6533-164X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University, Stanford, CA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Moore, Lucille A.",
+          "given_name": "Lucille A.",
+          "family_name": "Moore",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-7665-2713",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Masonic Institute for the Developing Brain, University of Minnesota, Minneapolis, MN"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Moser, Julia",
+          "given_name": "Julia",
+          "family_name": "Moser",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6219-415X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Masonic Institute for the Developing Brain, University of Minnesota, Minneapolis, MN"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Reiners, Paul",
+          "given_name": "Paul",
+          "family_name": "Reiners",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6167-5007",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Masonic Institute for the Developing Brain, University of Minnesota, Minneapolis, MN"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Rueter, Amanda",
+          "given_name": "Amanda",
+          "family_name": "Rueter",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-3138-7071",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University of Minnesota, Minneapolis, MN"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Barry J. Tikalsky",
+          "family_name": "Barry J. Tikalsky",
+          "identifiers": [
+            {
+              "identifier": "0009-0009-1155-5742",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Masonic Institute for the Developing Brain, University of Minnesota, Minneapolis, MN"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Fair, Damien A.",
+          "given_name": "Damien A.",
+          "family_name": "Fair",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8602-393X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Masonic Institute for the Developing Brain, University of Minnesota, Minneapolis, MN"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Feczko, Eric",
+          "given_name": "Eric",
+          "family_name": "Feczko",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-1337-5517",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Masonic Institute for the Developing Brain, University of Minnesota, Minneapolis, MN"
+          }
+        ]
+      }
+    ],
+    "title": "BIBSnet",
+    "publisher": "Zenodo",
+    "publication_date": "2024-09-10",
+    "related_identifiers": [
+      {
+        "identifier": "https://bibsnet.readthedocs.io",
+        "scheme": "url",
+        "relation_type": {
+          "id": "documents",
+          "title": {
+            "de": "Dokumentiert",
+            "en": "Documents"
+          }
+        }
+      }
+    ],
+    "version": "3.4.2",
+    "rights": [
+      {
+        "id": "bsd-3-clause",
+        "title": {
+          "en": "BSD 3-Clause \"New\" or \"Revised\" License"
+        },
+        "description": {
+          "en": ""
+        },
+        "props": {
+          "url": "https://opensource.org/licenses/BSD-3-Clause",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "<p>This software provides the utility of creating a nnU-Net anatomical MRI segmentation and mask with a infant brain trained model for the purposes of circumventing JLF within Nibabies.</p>"
+  },
+  "custom_fields": {},
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 1,
+    "total_bytes": 214557,
+    "entries": {
+      "DCAN-Labs/BIBSnet-3.4.2.zip": {
+        "id": "e4bbba90-582c-498d-9a1a-84da9422ac1e",
+        "checksum": "md5:14a240a79de3c7a3053c3000c848634e",
+        "ext": "zip",
+        "size": 214557,
+        "mimetype": "application/zip",
+        "key": "DCAN-Labs/BIBSnet-3.4.2.zip",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": false,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 1543,
+      "unique_views": 1476,
+      "downloads": 90,
+      "unique_downloads": 89,
+      "data_volume": 19310130.0
+    },
+    "all_versions": {
+      "views": 7197,
+      "unique_views": 6882,
+      "downloads": 916,
+      "unique_downloads": 906,
+      "data_volume": 78666260.0
+    }
+  },
+  "swh": null,
+  "ui": {
+    "publication_date_l10n_medium": "Sep 10, 2024",
+    "publication_date_l10n_long": "September 10, 2024",
+    "created_date_l10n_long": "September 10, 2024",
+    "updated_date_l10n_long": "September 10, 2024",
+    "resource_type": {
+      "id": "software",
+      "title_l10n": "Software"
+    },
+    "custom_fields": {},
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Houghton, Audrey",
+            "given_name": "Audrey",
+            "family_name": "Houghton",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-9426-7969",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Masonic Institute for the Developing Brain, University of Minnesota, Minneapolis, MN"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Conan, Greg",
+            "given_name": "Greg",
+            "family_name": "Conan",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-3758-5562",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Masonic Institute for the Developing Brain, University of Minnesota, Minneapolis, MN"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Hendrickson, Timothy J.",
+            "given_name": "Timothy J.",
+            "family_name": "Hendrickson",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-6862-6526",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Masonic Institute for the Developing Brain, University of Minnesota, Minneapolis, MN"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Alexopoulos, Dimitrios",
+            "given_name": "Dimitrios",
+            "family_name": "Alexopoulos",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-5659-8695",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              2,
+              "Washington University, St. Louis, MO"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Goncalves, Mathias",
+            "given_name": "Mathias",
+            "family_name": "Goncalves",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-7252-7771",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              3,
+              "Department of Psychology, Stanford University, Stanford, CA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Koirala, Sanju",
+            "given_name": "Sanju",
+            "family_name": "Koirala"
+          },
+          "affiliations": [
+            [
+              1,
+              "Masonic Institute for the Developing Brain, University of Minnesota, Minneapolis, MN"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Latham, Aidan",
+            "given_name": "Aidan",
+            "family_name": "Latham",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-8753-2282",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              2,
+              "Washington University, St. Louis, MO"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Lee, Erik",
+            "given_name": "Erik",
+            "family_name": "Lee",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-9236-5100",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Masonic Institute for the Developing Brain, University of Minnesota, Minneapolis, MN"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Lundquist, Jacob",
+            "given_name": "Jacob",
+            "family_name": "Lundquist",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-9573-1954",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Masonic Institute for the Developing Brain, University of Minnesota, Minneapolis, MN"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Madison, Thomas J.",
+            "given_name": "Thomas J.",
+            "family_name": "Madison",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3030-6580",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Masonic Institute for the Developing Brain, University of Minnesota, Minneapolis, MN"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Markiewicz, Christopher J.",
+            "given_name": "Christopher J.",
+            "family_name": "Markiewicz",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6533-164X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              3,
+              "Department of Psychology, Stanford University, Stanford, CA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Moore, Lucille A.",
+            "given_name": "Lucille A.",
+            "family_name": "Moore",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-7665-2713",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Masonic Institute for the Developing Brain, University of Minnesota, Minneapolis, MN"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Moser, Julia",
+            "given_name": "Julia",
+            "family_name": "Moser",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6219-415X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Masonic Institute for the Developing Brain, University of Minnesota, Minneapolis, MN"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Reiners, Paul",
+            "given_name": "Paul",
+            "family_name": "Reiners",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6167-5007",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Masonic Institute for the Developing Brain, University of Minnesota, Minneapolis, MN"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Rueter, Amanda",
+            "given_name": "Amanda",
+            "family_name": "Rueter",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-3138-7071",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              4,
+              "University of Minnesota, Minneapolis, MN"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Barry J. Tikalsky",
+            "family_name": "Barry J. Tikalsky",
+            "identifiers": [
+              {
+                "identifier": "0009-0009-1155-5742",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Masonic Institute for the Developing Brain, University of Minnesota, Minneapolis, MN"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Fair, Damien A.",
+            "given_name": "Damien A.",
+            "family_name": "Fair",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8602-393X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Masonic Institute for the Developing Brain, University of Minnesota, Minneapolis, MN"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Feczko, Eric",
+            "given_name": "Eric",
+            "family_name": "Feczko",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-1337-5517",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Masonic Institute for the Developing Brain, University of Minnesota, Minneapolis, MN"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "Masonic Institute for the Developing Brain, University of Minnesota, Minneapolis, MN",
+          null
+        ],
+        [
+          2,
+          "Washington University, St. Louis, MO",
+          null
+        ],
+        [
+          3,
+          "Department of Psychology, Stanford University, Stanford, CA",
+          null
+        ],
+        [
+          4,
+          "University of Minnesota, Minneapolis, MN",
+          null
+        ]
+      ]
+    },
+    "description_stripped": "This software provides the utility of creating a nnU-Net anatomical MRI segmentation and mask with a infant brain trained model for the purposes of circumventing JLF within Nibabies.",
+    "version": "3.4.2",
+    "related_identifiers": [
+      {
+        "identifier": "https://bibsnet.readthedocs.io",
+        "relation_type": {
+          "id": "documents",
+          "title_l10n": "Documents"
+        },
+        "scheme": "url"
+      }
+    ],
+    "rights": [
+      {
+        "id": "bsd-3-clause",
+        "title_l10n": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "description_l10n": "",
+        "props": {
+          "url": "https://opensource.org/licenses/BSD-3-Clause",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}

@@ -1,0 +1,883 @@
+{
+  "id": "16871730",
+  "created": "2025-08-14T08:11:45.357150+00:00",
+  "updated": "2025-08-14T08:11:45.561903+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/16871730",
+    "self_html": "https://zenodo.org/records/16871730",
+    "preview_html": "https://zenodo.org/records/16871730?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.16871730",
+    "self_doi": "https://doi.org/10.5281/zenodo.16871730",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.16871730",
+    "reserve_doi": "https://zenodo.org/api/records/16871730/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/5499693",
+    "parent_html": "https://zenodo.org/records/5499693",
+    "parent_doi": "https://doi.org/10.5281/zenodo.5499693",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.5499693",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:16871730/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:16871730/sequence/default",
+    "files": "https://zenodo.org/api/records/16871730/files",
+    "media_files": "https://zenodo.org/api/records/16871730/media-files",
+    "archive": "https://zenodo.org/api/records/16871730/files-archive",
+    "archive_media": "https://zenodo.org/api/records/16871730/media-files-archive",
+    "latest": "https://zenodo.org/api/records/16871730/versions/latest",
+    "latest_html": "https://zenodo.org/records/16871730/latest",
+    "versions": "https://zenodo.org/api/records/16871730/versions",
+    "draft": "https://zenodo.org/api/records/16871730/draft",
+    "access_links": "https://zenodo.org/api/records/16871730/access/links",
+    "access_grants": "https://zenodo.org/api/records/16871730/access/grants",
+    "access_users": "https://zenodo.org/api/records/16871730/access/users",
+    "access_request": "https://zenodo.org/api/records/16871730/access/request",
+    "access": "https://zenodo.org/api/records/16871730/access",
+    "communities": "https://zenodo.org/api/records/16871730/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/16871730/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/16871730/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/16871730/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/16871730/quota-increase",
+    "requests": "https://zenodo.org/api/records/16871730/requests"
+  },
+  "revision_id": 4,
+  "parent": {
+    "id": "5499693",
+    "access": {
+      "owned_by": {
+        "user": "9826"
+      },
+      "settings": {
+        "allow_user_requests": false,
+        "allow_guest_requests": false,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.5499693",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 15
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.16871730",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:16871730",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "software",
+      "title": {
+        "de": "Software",
+        "en": "Software"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Goncalves, Mathias",
+          "given_name": "Mathias",
+          "family_name": "Goncalves",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-7252-7771",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University, Stanford, CA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Markiewicz, Christopher J.",
+          "given_name": "Christopher J.",
+          "family_name": "Markiewicz",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6533-164X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University, Stanford, CA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Moia, Stefano",
+          "given_name": "Stefano",
+          "family_name": "Moia",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-2553-3327",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Basque Center on Cognition Brain and Language, San Sebastian, Spain"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Waller, Lea",
+          "given_name": "Lea",
+          "family_name": "Waller",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-3239-6957",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Charite Universitatsmedizin Berlin, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Pinsard, Basile",
+          "given_name": "Basile",
+          "family_name": "Pinsard",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-4391-3075",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University of Montréal, Montréal, Canada"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Banús, Jaume",
+          "given_name": "Jaume",
+          "family_name": "Banús",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-9318-6323",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Visconti di Oleggio Castello, Matteo",
+          "given_name": "Matteo",
+          "family_name": "Visconti di Oleggio Castello",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7931-5272",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University of California Berkeley, Berkeley, CA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Marabotto, Julien",
+          "given_name": "Julien",
+          "family_name": "Marabotto",
+          "identifiers": [
+            {
+              "identifier": "0009-0003-7070-5217",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Ma, Feilong",
+          "given_name": "Feilong",
+          "family_name": "Ma",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6838-3971",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Dartmouth College, Hanover, NH, United States"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Nielson, Dylan",
+          "given_name": "Dylan",
+          "family_name": "Nielson",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-4613-6643",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Machine Learning Team, National Institute of Mental Health, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Cluce, Jon",
+          "given_name": "Jon",
+          "family_name": "Cluce",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7590-5806",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Child Mind Institute, New York, NY, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Shain, Cory",
+          "given_name": "Cory",
+          "family_name": "Shain",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-2704-7197",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Stanford University, Stanford, CA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Ghosh, Satrajit",
+          "given_name": "Satrajit",
+          "family_name": "Ghosh",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-5312-6729",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "McGovern Institute for Brain Research, Massachusetts Institute of Technology (MIT), Cambridge, MA, USA; and Department of Otolaryngology, Harvard Medical School, Boston, MA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Poldrack, Russell A.",
+          "given_name": "Russell A.",
+          "family_name": "Poldrack",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6755-0259",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University, Stanford, CA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Esteban, Oscar",
+          "given_name": "Oscar",
+          "family_name": "Esteban",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8435-6191",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland"
+          }
+        ]
+      }
+    ],
+    "title": "NiTransforms: A Python tool to read, represent, manipulate, and apply N-dimensional spatial transforms",
+    "publisher": "Zenodo",
+    "publication_date": "2025-08-14",
+    "subjects": [
+      {
+        "subject": "neuroimaging"
+      },
+      {
+        "subject": "spatial normalization"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/nipy/nitransforms/tree/25.0.1",
+        "scheme": "url",
+        "relation_type": {
+          "id": "issupplementto",
+          "title": {
+            "de": "Ergänzt",
+            "en": "Is supplement to"
+          }
+        },
+        "resource_type": {
+          "id": "software",
+          "title": {
+            "de": "Software",
+            "en": "Software"
+          }
+        }
+      }
+    ],
+    "version": "25.0.1",
+    "rights": [
+      {
+        "id": "mit",
+        "title": {
+          "en": "MIT License"
+        },
+        "description": {
+          "en": "A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code."
+        },
+        "props": {
+          "url": "https://opensource.org/licenses/MIT",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "Spatial transforms formalize mappings between coordinates of objects in biomedical images.\nTransforms typically are the outcome of image registration methodologies, which estimate\nthe alignment between two images.\nImage registration is a prominent task present in nearly all standard image processing\nand analysis pipelines.\nThe proliferation of software implementations of image registration methodologies has\nresulted in a spread of data structures and file formats used to preserve and communicate\ntransforms.\nThis segregation of formats precludes the compatibility between tools and endangers the\nreproducibility of results.\nWe propose a software tool capable of converting between formats and resampling images\nto apply transforms generated by the most popular neuroimaging packages and libraries\n(AFNI, FSL, FreeSurfer, ITK, and SPM).\nThe proposed software is subject to continuous integration tests to check the\ncompatibility with each supported tool after every change to the code base.\nCompatibility between software tools and imaging formats is a necessary bridge\nto ensure the reproducibility of results and enable the optimization and evaluation\nof current image processing and analysis workflows."
+  },
+  "custom_fields": {
+    "code:codeRepository": "https://github.com/nipy/nitransforms"
+  },
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 1,
+    "total_bytes": 30132746,
+    "entries": {
+      "nipy/nitransforms-25.0.1.zip": {
+        "id": "ca278c1a-6da2-4b43-aae0-ec631ebda723",
+        "checksum": "md5:eff233f8692c2f465ad8f0d5096b4747",
+        "ext": "zip",
+        "size": 30132746,
+        "mimetype": "application/zip",
+        "key": "nipy/nitransforms-25.0.1.zip",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": false,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 328,
+      "unique_views": 327,
+      "downloads": 37,
+      "unique_downloads": 37,
+      "data_volume": 1114911602.0
+    },
+    "all_versions": {
+      "views": 1227,
+      "unique_views": 1216,
+      "downloads": 263,
+      "unique_downloads": 261,
+      "data_volume": 7515340838.0
+    }
+  },
+  "swh": null,
+  "ui": {
+    "publication_date_l10n_medium": "Aug 14, 2025",
+    "publication_date_l10n_long": "August 14, 2025",
+    "created_date_l10n_long": "August 14, 2025",
+    "updated_date_l10n_long": "August 14, 2025",
+    "resource_type": {
+      "id": "software",
+      "title_l10n": "Software"
+    },
+    "custom_fields": {
+      "code:codeRepository": "https://github.com/nipy/nitransforms"
+    },
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Goncalves, Mathias",
+            "given_name": "Mathias",
+            "family_name": "Goncalves",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-7252-7771",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Department of Psychology, Stanford University, Stanford, CA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Markiewicz, Christopher J.",
+            "given_name": "Christopher J.",
+            "family_name": "Markiewicz",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6533-164X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Department of Psychology, Stanford University, Stanford, CA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Moia, Stefano",
+            "given_name": "Stefano",
+            "family_name": "Moia",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-2553-3327",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              2,
+              "Basque Center on Cognition Brain and Language, San Sebastian, Spain"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Waller, Lea",
+            "given_name": "Lea",
+            "family_name": "Waller",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-3239-6957",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              3,
+              "Charite Universitatsmedizin Berlin, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Pinsard, Basile",
+            "given_name": "Basile",
+            "family_name": "Pinsard",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-4391-3075",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              4,
+              "University of Montréal, Montréal, Canada"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Banús, Jaume",
+            "given_name": "Jaume",
+            "family_name": "Banús",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-9318-6323",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Visconti di Oleggio Castello, Matteo",
+            "given_name": "Matteo",
+            "family_name": "Visconti di Oleggio Castello",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7931-5272",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              5,
+              "University of California Berkeley, Berkeley, CA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Marabotto, Julien",
+            "given_name": "Julien",
+            "family_name": "Marabotto",
+            "identifiers": [
+              {
+                "identifier": "0009-0003-7070-5217",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              6,
+              "Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Ma, Feilong",
+            "given_name": "Feilong",
+            "family_name": "Ma",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6838-3971",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              7,
+              "Dartmouth College, Hanover, NH, United States"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Nielson, Dylan",
+            "given_name": "Dylan",
+            "family_name": "Nielson",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-4613-6643",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              8,
+              "Machine Learning Team, National Institute of Mental Health, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Cluce, Jon",
+            "given_name": "Jon",
+            "family_name": "Cluce",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7590-5806",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              9,
+              "Child Mind Institute, New York, NY, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Shain, Cory",
+            "given_name": "Cory",
+            "family_name": "Shain",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-2704-7197",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              10,
+              "Stanford University, Stanford, CA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Ghosh, Satrajit",
+            "given_name": "Satrajit",
+            "family_name": "Ghosh",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-5312-6729",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              11,
+              "McGovern Institute for Brain Research, Massachusetts Institute of Technology (MIT), Cambridge, MA, USA; and Department of Otolaryngology, Harvard Medical School, Boston, MA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Poldrack, Russell A.",
+            "given_name": "Russell A.",
+            "family_name": "Poldrack",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-6755-0259",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Department of Psychology, Stanford University, Stanford, CA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Esteban, Oscar",
+            "given_name": "Oscar",
+            "family_name": "Esteban",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8435-6191",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              6,
+              "Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "Department of Psychology, Stanford University, Stanford, CA, USA",
+          null
+        ],
+        [
+          2,
+          "Basque Center on Cognition Brain and Language, San Sebastian, Spain",
+          null
+        ],
+        [
+          3,
+          "Charite Universitatsmedizin Berlin, Germany",
+          null
+        ],
+        [
+          4,
+          "University of Montréal, Montréal, Canada",
+          null
+        ],
+        [
+          5,
+          "University of California Berkeley, Berkeley, CA, USA",
+          null
+        ],
+        [
+          6,
+          "Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland",
+          null
+        ],
+        [
+          7,
+          "Dartmouth College, Hanover, NH, United States",
+          null
+        ],
+        [
+          8,
+          "Machine Learning Team, National Institute of Mental Health, USA",
+          null
+        ],
+        [
+          9,
+          "Child Mind Institute, New York, NY, USA",
+          null
+        ],
+        [
+          10,
+          "Stanford University, Stanford, CA, USA",
+          null
+        ],
+        [
+          11,
+          "McGovern Institute for Brain Research, Massachusetts Institute of Technology (MIT), Cambridge, MA, USA; and Department of Otolaryngology, Harvard Medical School, Boston, MA, USA",
+          null
+        ]
+      ]
+    },
+    "description_stripped": "Spatial transforms formalize mappings between coordinates of objects in biomedical images.\nTransforms typically are the outcome of image registration methodologies, which estimate\nthe alignment between two images.\nImage registration is a prominent task present in nearly all standard image processing\nand analysis pipelines.\nThe proliferation of software implementations of image registration methodologies has\nresulted in a spread of data structures and file formats used to preserve and communicate\ntransforms.\nThis segregation of formats precludes the compatibility between tools and endangers the\nreproducibility of results.\nWe propose a software tool capable of converting between formats and resampling images\nto apply transforms generated by the most popular neuroimaging packages and libraries\n(AFNI, FSL, FreeSurfer, ITK, and SPM).\nThe proposed software is subject to continuous integration tests to check the\ncompatibility with each supported tool after every change to the code base.\nCompatibility between software tools and imaging formats is a necessary bridge\nto ensure the reproducibility of results and enable the optimization and evaluation\nof current image processing and analysis workflows.",
+    "version": "25.0.1",
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/nipy/nitransforms/tree/25.0.1",
+        "relation_type": {
+          "id": "issupplementto",
+          "title_l10n": "Is supplement to"
+        },
+        "scheme": "url",
+        "resource_type": {
+          "id": "software",
+          "title_l10n": "Software"
+        }
+      }
+    ],
+    "rights": [
+      {
+        "id": "mit",
+        "title_l10n": "MIT License",
+        "description_l10n": "A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.",
+        "props": {
+          "url": "https://opensource.org/licenses/MIT",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}

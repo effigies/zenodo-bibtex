@@ -1,0 +1,1013 @@
+{
+  "id": "10371983",
+  "created": "2023-12-13T17:26:51.512229+00:00",
+  "updated": "2024-07-08T00:29:48.092512+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/10371983",
+    "self_html": "https://zenodo.org/records/10371983",
+    "preview_html": "https://zenodo.org/records/10371983?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.10371983",
+    "self_doi": "https://doi.org/10.5281/zenodo.10371983",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.10371983",
+    "reserve_doi": "https://zenodo.org/api/records/10371983/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/10371982",
+    "parent_html": "https://zenodo.org/records/10371982",
+    "parent_doi": "https://doi.org/10.5281/zenodo.10371982",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.10371982",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:10371983/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:10371983/sequence/default",
+    "files": "https://zenodo.org/api/records/10371983/files",
+    "media_files": "https://zenodo.org/api/records/10371983/media-files",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:10371983:PDX%20BIDS%20Sprint%20Report.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:10371983:PDX%20BIDS%20Sprint%20Report.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:10371983:PDX%20BIDS%20Sprint%20Report.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:10371983:PDX%20BIDS%20Sprint%20Report.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:10371983:PDX%20BIDS%20Sprint%20Report.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:10371983:PDX%20BIDS%20Sprint%20Report.pdf/full/%5E1200,/0/default.jpg"
+    },
+    "archive": "https://zenodo.org/api/records/10371983/files-archive",
+    "archive_media": "https://zenodo.org/api/records/10371983/media-files-archive",
+    "latest": "https://zenodo.org/api/records/10371983/versions/latest",
+    "latest_html": "https://zenodo.org/records/10371983/latest",
+    "versions": "https://zenodo.org/api/records/10371983/versions",
+    "draft": "https://zenodo.org/api/records/10371983/draft",
+    "access_links": "https://zenodo.org/api/records/10371983/access/links",
+    "access_grants": "https://zenodo.org/api/records/10371983/access/grants",
+    "access_users": "https://zenodo.org/api/records/10371983/access/users",
+    "access_request": "https://zenodo.org/api/records/10371983/access/request",
+    "access": "https://zenodo.org/api/records/10371983/access",
+    "communities": "https://zenodo.org/api/records/10371983/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/10371983/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/10371983/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/10371983/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/10371983/quota-increase",
+    "requests": "https://zenodo.org/api/records/10371983/requests"
+  },
+  "revision_id": 10,
+  "parent": {
+    "id": "10371982",
+    "access": {
+      "grants": [],
+      "owned_by": {
+        "user": "61438"
+      },
+      "links": [],
+      "settings": {
+        "allow_user_requests": false,
+        "allow_guest_requests": false,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {
+      "ids": [
+        "1d3783ff-57bc-450b-917e-fc702c413ac9",
+        "4439d226-c446-46f0-bbbe-3dd76dce22ba"
+      ],
+      "default": "1d3783ff-57bc-450b-917e-fc702c413ac9",
+      "entries": [
+        {
+          "id": "1d3783ff-57bc-450b-917e-fc702c413ac9",
+          "created": "2023-11-27T12:43:07.174948+00:00",
+          "updated": "2023-11-27T12:49:16.199084+00:00",
+          "links": {},
+          "revision_id": 4,
+          "slug": "nimh-dsst",
+          "metadata": {
+            "title": "NIMH IRP Data Science and Sharing Team",
+            "type": {
+              "id": "organization",
+              "title": {
+                "de": "Organisation",
+                "en": "Organization"
+              }
+            },
+            "website": "https://cmn.nimh.nih.gov/dsst",
+            "funding": [
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::1ZICMH002960-05",
+                  "number": "1ZICMH002960-05",
+                  "title": {
+                    "en": "Data Science and Sharing Team"
+                  },
+                  "program": "NATIONAL_INSTITUTE_OF_MENTAL_HEALTH"
+                }
+              }
+            ],
+            "organizations": [
+              {
+                "id": "04xeg9z08",
+                "name": "National Institute of Mental Health",
+                "identifiers": [
+                  {
+                    "identifier": "04xeg9z08",
+                    "scheme": "ror"
+                  },
+                  {
+                    "identifier": "grid.416868.5",
+                    "scheme": "grid"
+                  },
+                  {
+                    "identifier": "0000 0004 0464 0574",
+                    "scheme": "isni"
+                  }
+                ]
+              }
+            ]
+          },
+          "access": {
+            "visibility": "public",
+            "members_visibility": "public",
+            "member_policy": "closed",
+            "record_submission_policy": "open",
+            "review_policy": "closed"
+          },
+          "deletion_status": {
+            "is_deleted": false,
+            "status": "P"
+          },
+          "children": {
+            "allow": false
+          }
+        },
+        {
+          "id": "4439d226-c446-46f0-bbbe-3dd76dce22ba",
+          "created": "2025-12-11T16:13:07.659342+00:00",
+          "updated": "2026-01-09T14:12:00.989509+00:00",
+          "links": {},
+          "revision_id": 9,
+          "slug": "brain-imaging-data-structure",
+          "metadata": {
+            "title": "Brain Imaging Data Structure",
+            "type": {
+              "id": "project",
+              "title": {
+                "de": "Projekt",
+                "en": "Project"
+              }
+            },
+            "website": "https://bids.neuroimaging.io",
+            "funding": [
+              {
+                "funder": {
+                  "id": "021nxhr62",
+                  "name": "U.S. National Science Foundation"
+                },
+                "award": {
+                  "id": "021nxhr62::1760950",
+                  "number": "1760950",
+                  "title": {
+                    "en": "Spokes: MEDIUM: WEST: Breaking down barriers for reproducible neuroimaging data analyses"
+                  },
+                  "program": "CISE/OAD"
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::2R24MH117295-06",
+                  "number": "2R24MH117295-06",
+                  "title": {
+                    "en": "DANDI: Distributed Archives for Neurophysiology Data Integration"
+                  }
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::5P41EB019936-09",
+                  "number": "5P41EB019936-09",
+                  "title": {
+                    "en": "ReproNim: A Center for Reproducible Neuroimaging Computation"
+                  }
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::5R24MH117179-07",
+                  "number": "5R24MH117179-07",
+                  "title": {
+                    "en": "OpenNeuro: An open archive for analysis and sharing of BRAIN Initiative data"
+                  }
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::1ZIAMH002977-03",
+                  "number": "1ZIAMH002977-03",
+                  "title": {
+                    "en": "BRAIN project: OpenNeuroPET: An Archive for PET data"
+                  }
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::1R01MH126699-01",
+                  "number": "1R01MH126699-01",
+                  "title": {
+                    "en": "A community-driven development of the brain imaging data standard (BIDS) to describe macroscopic brain connections"
+                  },
+                  "program": "NATIONAL_INSTITUTE_OF_MENTAL_HEALTH"
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::5R24MH114705-02",
+                  "number": "5R24MH114705-02",
+                  "title": {
+                    "en": "BIDS-Derivatives: A data standard for derived data and models in the BRAIN Initiative"
+                  },
+                  "program": "NATIONAL_INSTITUTE_OF_MENTAL_HEALTH"
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::5R01MH109682-05",
+                  "number": "5R01MH109682-05",
+                  "title": {
+                    "en": "NeuroScout: A cloud-based platform for flexible re-analysis of naturalistic fMRI datasets"
+                  },
+                  "program": "NATIONAL_INSTITUTE_OF_MENTAL_HEALTH"
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::1RF1MH126700-01A1",
+                  "number": "1RF1MH126700-01A1",
+                  "title": {
+                    "en": "BRAIN Initiative: Hierarchical Event Descriptors (HED): a system to characterize events in neurobehavioral data"
+                  },
+                  "program": "NATIONAL_INSTITUTE_OF_MENTAL_HEALTH"
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::5R01EB020740-04",
+                  "number": "5R01EB020740-04",
+                  "title": {
+                    "en": "Nipype: Dataflows for Reproducible Biomedical Research"
+                  },
+                  "program": "NATIONAL_INSTITUTE_OF_BIOMEDICAL_IMAGING_AND_BIOENGINEERING"
+                }
+              },
+              {
+                "funder": {
+                  "id": "018mejw64",
+                  "name": "Deutsche Forschungsgemeinschaft"
+                },
+                "award": {
+                  "number": "501864659",
+                  "title": {
+                    "en": " NFDI4BIOIMAGE - National research data infrastructure for microscopy and bioimage analysis"
+                  },
+                  "identifiers": [
+                    {
+                      "identifier": "https://gepris.dfg.de/gepris/projekt/501864659?language=en",
+                      "scheme": "url"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "access": {
+            "visibility": "public",
+            "members_visibility": "public",
+            "member_policy": "closed",
+            "record_submission_policy": "open",
+            "review_policy": "closed"
+          },
+          "deletion_status": {
+            "is_deleted": false,
+            "status": "P"
+          },
+          "children": {
+            "allow": false
+          }
+        }
+      ]
+    },
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.10371982",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "is_latest_draft": true,
+    "index": 1
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.10371983",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:10371983",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "presentation",
+      "title": {
+        "de": "Präsentation",
+        "en": "Presentation"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Earl, Eric",
+          "given_name": "Eric",
+          "family_name": "Earl",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-5512-0083",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "projectleader",
+          "title": {
+            "de": "ProjektleiterIn",
+            "en": "Project leader"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "National Institute of Mental Health"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Blair, Ross",
+          "given_name": "Ross",
+          "family_name": "Blair",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3007-1056",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "projectmember",
+          "title": {
+            "de": "Projektmitglied",
+            "en": "Project member"
+          }
+        },
+        "affiliations": [
+          {
+            "id": "00f54p054",
+            "name": "Stanford University",
+            "identifiers": [
+              {
+                "identifier": "00f54p054",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.168010.e",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 1936 8956",
+                "scheme": "isni"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Galassi, Anthony",
+          "given_name": "Anthony",
+          "family_name": "Galassi",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6550-4574",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "projectmember",
+          "title": {
+            "de": "Projektmitglied",
+            "en": "Project member"
+          }
+        },
+        "affiliations": [
+          {
+            "id": "04xeg9z08",
+            "name": "National Institute of Mental Health",
+            "identifiers": [
+              {
+                "identifier": "04xeg9z08",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.416868.5",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 0464 0574",
+                "scheme": "isni"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Hardcastle, Nell",
+          "given_name": "Nell",
+          "family_name": "Hardcastle",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-3837-0707",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "projectmember",
+          "title": {
+            "de": "Projektmitglied",
+            "en": "Project member"
+          }
+        },
+        "affiliations": [
+          {
+            "id": "00f54p054",
+            "name": "Stanford University",
+            "identifiers": [
+              {
+                "identifier": "00f54p054",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.168010.e",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 1936 8956",
+                "scheme": "isni"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Markiewicz, Christopher",
+          "given_name": "Christopher",
+          "family_name": "Markiewicz",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6533-164X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "projectmember",
+          "title": {
+            "de": "Projektmitglied",
+            "en": "Project member"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Stanford University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Salo, Taylor",
+          "given_name": "Taylor",
+          "family_name": "Salo",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-9813-3167",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "projectmember",
+          "title": {
+            "de": "Projektmitglied",
+            "en": "Project member"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "University of Pennsylvania"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Thomas, Adam",
+          "given_name": "Adam",
+          "family_name": "Thomas",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-2850-1419",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "projectmanager",
+          "title": {
+            "de": "ProjektmanagerIn",
+            "en": "Project manager"
+          }
+        },
+        "affiliations": [
+          {
+            "id": "04xeg9z08",
+            "name": "National Institute of Mental Health",
+            "identifiers": [
+              {
+                "identifier": "04xeg9z08",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.416868.5",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 0464 0574",
+                "scheme": "isni"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "title": "Portland BIDS Sprint 1 Report",
+    "publisher": "Zenodo",
+    "publication_date": "2023-12-13",
+    "subjects": [
+      {
+        "subject": "BIDS"
+      },
+      {
+        "subject": "schema"
+      },
+      {
+        "subject": "validator"
+      },
+      {
+        "subject": "sprint"
+      },
+      {
+        "subject": "report"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2022-04-15",
+        "type": {
+          "id": "created",
+          "title": {
+            "de": "Erstellt",
+            "en": "Created"
+          }
+        },
+        "description": "A report for stakeholders"
+      }
+    ],
+    "languages": [
+      {
+        "id": "eng",
+        "title": {
+          "en": "English"
+        }
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.10207820",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "iscontinuedby",
+          "title": {
+            "de": "Wird fortgesetzt durch",
+            "en": "Is continued by"
+          }
+        },
+        "resource_type": {
+          "id": "presentation",
+          "title": {
+            "de": "Präsentation",
+            "en": "Presentation"
+          }
+        }
+      }
+    ],
+    "version": "v1.0.0",
+    "rights": [
+      {
+        "id": "cc-by-4.0",
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        },
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "<p>The PDX BIDS Sprint was the first in a series of three coding sprint events meant to facilitate focused work for core BIDS and OpenNeuro maintainers in order to develop a new BIDS validator based on a BIDS schema. Also known in places as the Schema and Validator Sprint, this first one was held in Portland, Oregon, April 11-15, 2022.&nbsp;This report summariszes the work done that week including, but not limited to GitHub Pull Requests, whiteboard captures, and other notes.</p>"
+  },
+  "custom_fields": {},
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "default_preview": "PDX BIDS Sprint Report.pdf",
+    "order": [],
+    "count": 2,
+    "total_bytes": 3514019,
+    "entries": {
+      "PDX BIDS Sprint Report.pdf": {
+        "id": "dbd59817-66d3-481a-ac0e-1abd7a0955ca",
+        "checksum": "md5:e9cf22e199a189e6a55474731ad6a225",
+        "ext": "pdf",
+        "size": 1631373,
+        "mimetype": "application/pdf",
+        "key": "PDX BIDS Sprint Report.pdf",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      },
+      "PDX BIDS Sprint Report.pptx": {
+        "id": "90cdebd7-fd2b-48f7-b011-bac25345c2dd",
+        "checksum": "md5:e0d8ecebba10662a7c9e754f1dbb9772",
+        "ext": "pptx",
+        "size": 1882646,
+        "mimetype": "application/octet-stream",
+        "key": "PDX BIDS Sprint Report.pptx",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": true,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 221,
+      "unique_views": 213,
+      "downloads": 179,
+      "unique_downloads": 167,
+      "data_volume": 309604877.0
+    },
+    "all_versions": {
+      "views": 221,
+      "unique_views": 213,
+      "downloads": 179,
+      "unique_downloads": 167,
+      "data_volume": 309604877.0
+    }
+  },
+  "swh": null,
+  "ui": {
+    "publication_date_l10n_medium": "Dec 13, 2023",
+    "publication_date_l10n_long": "December 13, 2023",
+    "created_date_l10n_long": "December 13, 2023",
+    "updated_date_l10n_long": "July 8, 2024",
+    "resource_type": {
+      "id": "presentation",
+      "title_l10n": "Presentation"
+    },
+    "custom_fields": {},
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Earl, Eric",
+            "given_name": "Eric",
+            "family_name": "Earl",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-5512-0083",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "projectleader",
+            "title": "Project leader"
+          },
+          "affiliations": [
+            [
+              1,
+              "National Institute of Mental Health"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Blair, Ross",
+            "given_name": "Ross",
+            "family_name": "Blair",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3007-1056",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "projectmember",
+            "title": "Project member"
+          },
+          "affiliations": [
+            [
+              2,
+              "Stanford University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Galassi, Anthony",
+            "given_name": "Anthony",
+            "family_name": "Galassi",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-6550-4574",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "projectmember",
+            "title": "Project member"
+          },
+          "affiliations": [
+            [
+              1,
+              "National Institute of Mental Health"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Hardcastle, Nell",
+            "given_name": "Nell",
+            "family_name": "Hardcastle",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-3837-0707",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "projectmember",
+            "title": "Project member"
+          },
+          "affiliations": [
+            [
+              2,
+              "Stanford University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Markiewicz, Christopher",
+            "given_name": "Christopher",
+            "family_name": "Markiewicz",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6533-164X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "projectmember",
+            "title": "Project member"
+          },
+          "affiliations": [
+            [
+              2,
+              "Stanford University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Salo, Taylor",
+            "given_name": "Taylor",
+            "family_name": "Salo",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-9813-3167",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "projectmember",
+            "title": "Project member"
+          },
+          "affiliations": [
+            [
+              3,
+              "University of Pennsylvania"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Thomas, Adam",
+            "given_name": "Adam",
+            "family_name": "Thomas",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-2850-1419",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "projectmanager",
+            "title": "Project manager"
+          },
+          "affiliations": [
+            [
+              1,
+              "National Institute of Mental Health"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "National Institute of Mental Health",
+          null
+        ],
+        [
+          2,
+          "Stanford University",
+          "00f54p054"
+        ],
+        [
+          3,
+          "University of Pennsylvania",
+          null
+        ]
+      ]
+    },
+    "languages": [
+      {
+        "id": "eng",
+        "title_l10n": "English"
+      }
+    ],
+    "description_stripped": "The PDX BIDS Sprint was the first in a series of three coding sprint events meant to facilitate focused work for core BIDS and OpenNeuro maintainers in order to develop a new BIDS validator based on a BIDS schema. Also known in places as the Schema and Validator Sprint, this first one was held in Portland, Oregon, April 11-15, 2022. This report summariszes the work done that week including, but not limited to GitHub Pull Requests, whiteboard captures, and other notes.",
+    "version": "v1.0.0",
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.10207820",
+        "relation_type": {
+          "id": "iscontinuedby",
+          "title_l10n": "Is continued by"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "presentation",
+          "title_l10n": "Presentation"
+        }
+      }
+    ],
+    "dates": [
+      {
+        "date": "2022-04-15",
+        "type": {
+          "id": "created",
+          "title_l10n": "Created"
+        },
+        "description": "A report for stakeholders"
+      }
+    ],
+    "rights": [
+      {
+        "id": "cc-by-4.0",
+        "title_l10n": "Creative Commons Attribution 4.0 International",
+        "description_l10n": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited.",
+        "icon": "cc-by-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}

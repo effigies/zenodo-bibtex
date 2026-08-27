@@ -1,0 +1,1354 @@
+{
+  "id": "21824843",
+  "created": "2026-08-06T13:43:03.195390+00:00",
+  "updated": "2026-08-06T13:43:03.430428+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/21824843",
+    "self_html": "https://zenodo.org/records/21824843",
+    "preview_html": "https://zenodo.org/records/21824843?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.21824843",
+    "self_doi": "https://doi.org/10.5281/zenodo.21824843",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.21824843",
+    "reserve_doi": "https://zenodo.org/api/records/21824843/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/1012598",
+    "parent_html": "https://zenodo.org/records/1012598",
+    "parent_doi": "https://doi.org/10.5281/zenodo.1012598",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.1012598",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:21824843/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:21824843/sequence/default",
+    "files": "https://zenodo.org/api/records/21824843/files",
+    "media_files": "https://zenodo.org/api/records/21824843/media-files",
+    "archive": "https://zenodo.org/api/records/21824843/files-archive",
+    "archive_media": "https://zenodo.org/api/records/21824843/media-files-archive",
+    "latest": "https://zenodo.org/api/records/21824843/versions/latest",
+    "latest_html": "https://zenodo.org/records/21824843/latest",
+    "versions": "https://zenodo.org/api/records/21824843/versions",
+    "draft": "https://zenodo.org/api/records/21824843/draft",
+    "access_links": "https://zenodo.org/api/records/21824843/access/links",
+    "access_grants": "https://zenodo.org/api/records/21824843/access/grants",
+    "access_users": "https://zenodo.org/api/records/21824843/access/users",
+    "access_request": "https://zenodo.org/api/records/21824843/access/request",
+    "access": "https://zenodo.org/api/records/21824843/access",
+    "communities": "https://zenodo.org/api/records/21824843/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/21824843/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/21824843/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/21824843/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/21824843/quota-increase",
+    "requests": "https://zenodo.org/api/records/21824843/requests"
+  },
+  "revision_id": 4,
+  "parent": {
+    "id": "1012598",
+    "access": {
+      "owned_by": {
+        "user": "23245"
+      },
+      "settings": {
+        "allow_user_requests": false,
+        "allow_guest_requests": false,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.1012598",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 36
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.21824843",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:21824843",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "software",
+      "title": {
+        "de": "Software",
+        "en": "Software"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Yaroslav O. Halchenko",
+          "family_name": "Yaroslav O. Halchenko",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3456-2493",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Center for Open Neuroscience, Department of Psychological and Brain Sciences, Dartmouth College, Hanover, NH, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Mathias Goncalves",
+          "family_name": "Mathias Goncalves",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-7252-7771",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University, CA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Satrajit Ghosh",
+          "family_name": "Satrajit Ghosh",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-5312-6729",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "McGovern Institute, Massachusetts Institute of Technology, Cambridge, MA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Pablo Velasco",
+          "family_name": "Pablo Velasco",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-5749-6049",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Flywheel Exchange LLC, Minneapolis, MN, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Matteo Visconti di Oleggio Castello",
+          "family_name": "Matteo Visconti di Oleggio Castello",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7931-5272",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University of California, Berkeley, Berkeley, CA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Taylor Salo",
+          "family_name": "Taylor Salo",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-9813-3167",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "John T. Wodder II",
+          "family_name": "John T. Wodder II"
+        },
+        "affiliations": [
+          {
+            "name": "Center for Open Neuroscience, Department of Psychological and Brain Sciences, Dartmouth College, Hanover, NH, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Michael Hanke",
+          "family_name": "Michael Hanke",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6398-6370",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Center Jülich, Jülich, Germany and Institute of Systems Neuroscience, Medical Faculty, Heinrich Heine University Düsseldorf, Düsseldorf, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Patrick Sadil",
+          "family_name": "Patrick Sadil",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-4141-1343",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Krzysztof Jacek Gorgolewski",
+          "family_name": "Krzysztof Jacek Gorgolewski",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3321-7583",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Emeritus of Department of Psychology, Stanford University, CA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Horea-Ioan Ioanas",
+          "family_name": "Horea-Ioan Ioanas",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7037-2449",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Center for Open Neuroscience, Department of Psychological and Brain Sciences, Dartmouth College, Hanover, NH, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Chris Rorden",
+          "family_name": "Chris Rorden",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-7554-6142",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, University of South Carolina, Columbia, SC, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Timothy J. Hendrickson",
+          "family_name": "Timothy J. Hendrickson",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6862-6526",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Masonic Institute for the Developing Brain, University of Minnesota, Minneapolis, MN, USA and Minnesota Supercomputing Institute, University of Minnesota, Minneapolis, MN, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Michael Dayan",
+          "family_name": "Michael Dayan",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-2666-0969",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Human Neuroscience Platform, Fondation Campus Biotech Geneva, Geneva, Switzerland"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Sean Dae Houlihan",
+          "family_name": "Sean Dae Houlihan",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-5003-9278",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Center for Open Neuroscience, Department of Psychological and Brain Sciences, Dartmouth College, Hanover, NH, USA and Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "James Kent",
+          "family_name": "James Kent",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-4892-2659",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, University of Texas at Austin, Austin, TX, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Ted Strauss",
+          "family_name": "Ted Strauss",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-1927-666X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "McConnell Brain Imaging Centre, McGill University, Montreal, QC, Canada"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "John Lee",
+          "family_name": "John Lee",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-5884-4247",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Data Science and Sharing Team, National Institute of Mental Health, Bethesda, MD, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Isaac To",
+          "family_name": "Isaac To",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-4740-0824",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Center for Open Neuroscience, Department of Psychological and Brain Sciences, Dartmouth College, Hanover, NH, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Christopher J. Markiewicz",
+          "family_name": "Christopher J. Markiewicz",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6533-164X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University, CA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Darren Lukas",
+          "family_name": "Darren Lukas",
+          "identifiers": [
+            {
+              "identifier": "0009-0003-6941-0833",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institute for Glycomics, Griffith University, QLD, Australia"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Ellyn R. Butler",
+          "family_name": "Ellyn R. Butler",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6316-6444",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Northwestern University, Evanston, IL, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Todd Thompson",
+          "family_name": "Todd Thompson"
+        },
+        "affiliations": [
+          {
+            "name": "Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Maite Termenon",
+          "family_name": "Maite Termenon",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8102-5135",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Biomedical Engineering Department, Faculty of Engineering, Mondragon University, Mondragon, Spain and BCBL, Basque center on Cognition, Brain and Language, San Sebastian, Spain"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "David V. Smith",
+          "family_name": "David V. Smith",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-5754-9633",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology and Neuroscience, Temple University, Philadelphia, PA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Austin Macdonald",
+          "family_name": "Austin Macdonald",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-8124-807X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Center for Open Neuroscience, Department of Psychological and Brain Sciences, Dartmouth College, Hanover, NH, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "David N. Kennedy",
+          "family_name": "David N. Kennedy",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-9377-0797",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Departments of Psychiatry and Radiology, University of Massachusetts Chan Medical School, Worcester, MA, USA"
+          }
+        ]
+      }
+    ],
+    "title": "HeuDiConv — flexible DICOM conversion into structured directory layouts",
+    "publisher": "Zenodo",
+    "publication_date": "2026-08-06",
+    "subjects": [
+      {
+        "subject": "Python"
+      },
+      {
+        "subject": "neuroscience"
+      },
+      {
+        "subject": "standardization"
+      },
+      {
+        "subject": "DICOM"
+      },
+      {
+        "subject": "BIDS"
+      },
+      {
+        "subject": "open science"
+      },
+      {
+        "subject": "FOSS"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/nipy/heudiconv/tree/v1.5.0",
+        "scheme": "url",
+        "relation_type": {
+          "id": "issupplementto",
+          "title": {
+            "de": "Ergänzt",
+            "en": "Is supplement to"
+          }
+        },
+        "resource_type": {
+          "id": "software",
+          "title": {
+            "de": "Software",
+            "en": "Software"
+          }
+        }
+      }
+    ],
+    "version": "v1.5.0",
+    "rights": [
+      {
+        "id": "apache-2.0",
+        "title": {
+          "en": "Apache License 2.0"
+        },
+        "description": {
+          "en": "A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code."
+        },
+        "props": {
+          "url": "http://www.apache.org/licenses/LICENSE-2.0",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "<h4>🚀 Enhancement</h4>\n<ul>\n<li>Ensure all IntendedFor matching params must match <a href=\"https://github.com/nipy/heudiconv/pull/860\">#860</a> (<a href=\"https://github.com/mslw\">@mslw</a>)</li>\n</ul>\n<h4>🏠 Internal</h4>\n<ul>\n<li><a href=\"deps\">gh-actions</a>: Bump codecov/codecov-action from 6 to 7 <a href=\"https://github.com/nipy/heudiconv/pull/857\">#857</a> (<a href=\"https://github.com/dependabot%5Bbot%5D\">@dependabot[bot]</a>)</li>\n<li><a href=\"deps\">gh-actions</a>: Bump actions/checkout from 6 to 7 <a href=\"https://github.com/nipy/heudiconv/pull/861\">#861</a> (<a href=\"https://github.com/dependabot%5Bbot%5D\">@dependabot[bot]</a>)</li>\n<li><a href=\"deps\">gh-actions</a>: Bump actions/setup-python from 6 to 7 <a href=\"https://github.com/nipy/heudiconv/pull/862\">#862</a> (<a href=\"https://github.com/dependabot%5Bbot%5D\">@dependabot[bot]</a>)</li>\n</ul>\n<h4>📝 Documentation</h4>\n<ul>\n<li>Fix RTD build: update build.os to ubuntu-24.04 <a href=\"https://github.com/nipy/heudiconv/pull/865\">#865</a> (<a href=\"https://github.com/claude\">@claude</a> <a href=\"https://github.com/yarikoptic-gitmate\">@yarikoptic-gitmate</a>)</li>\n</ul>\n<h4>Authors: 4</h4>\n<ul>\n<li><a href=\"https://github.com/dependabot%5Bbot%5D\">@dependabot[bot]</a></li>\n<li>Claude (<a href=\"https://github.com/claude\">@claude</a>)</li>\n<li>GitMate for @yarikoptic (<a href=\"https://github.com/yarikoptic-gitmate\">@yarikoptic-gitmate</a>)</li>\n<li>Michał Szczepanik (<a href=\"https://github.com/mslw\">@mslw</a>)</li>\n</ul>"
+  },
+  "custom_fields": {
+    "code:codeRepository": "https://github.com/nipy/heudiconv"
+  },
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 1,
+    "total_bytes": 9781386,
+    "entries": {
+      "nipy/heudiconv-v1.5.0.zip": {
+        "id": "3e694d43-2179-4ecd-b0f3-aaa8a5ad7aaa",
+        "checksum": "md5:ace773d3676d3b564180242114c780fd",
+        "ext": "zip",
+        "size": 9781386,
+        "mimetype": "application/zip",
+        "key": "nipy/heudiconv-v1.5.0.zip",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": false,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 19,
+      "unique_views": 19,
+      "downloads": 2,
+      "unique_downloads": 2,
+      "data_volume": 19562772.0
+    },
+    "all_versions": {
+      "views": 9375,
+      "unique_views": 8472,
+      "downloads": 1550,
+      "unique_downloads": 1523,
+      "data_volume": 10787602646.0
+    }
+  },
+  "swh": null,
+  "ui": {
+    "publication_date_l10n_medium": "Aug 6, 2026",
+    "publication_date_l10n_long": "August 6, 2026",
+    "created_date_l10n_long": "August 6, 2026",
+    "updated_date_l10n_long": "August 6, 2026",
+    "resource_type": {
+      "id": "software",
+      "title_l10n": "Software"
+    },
+    "custom_fields": {
+      "code:codeRepository": "https://github.com/nipy/heudiconv"
+    },
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Yaroslav O. Halchenko",
+            "family_name": "Yaroslav O. Halchenko",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3456-2493",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Center for Open Neuroscience, Department of Psychological and Brain Sciences, Dartmouth College, Hanover, NH, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Mathias Goncalves",
+            "family_name": "Mathias Goncalves",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-7252-7771",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              2,
+              "Department of Psychology, Stanford University, CA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Satrajit Ghosh",
+            "family_name": "Satrajit Ghosh",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-5312-6729",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              3,
+              "McGovern Institute, Massachusetts Institute of Technology, Cambridge, MA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Pablo Velasco",
+            "family_name": "Pablo Velasco",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-5749-6049",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              4,
+              "Flywheel Exchange LLC, Minneapolis, MN, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Matteo Visconti di Oleggio Castello",
+            "family_name": "Matteo Visconti di Oleggio Castello",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7931-5272",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              5,
+              "University of California, Berkeley, Berkeley, CA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Taylor Salo",
+            "family_name": "Taylor Salo",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-9813-3167",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              6,
+              "Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "John T. Wodder II",
+            "family_name": "John T. Wodder II"
+          },
+          "affiliations": [
+            [
+              1,
+              "Center for Open Neuroscience, Department of Psychological and Brain Sciences, Dartmouth College, Hanover, NH, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Michael Hanke",
+            "family_name": "Michael Hanke",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-6398-6370",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              7,
+              "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Center Jülich, Jülich, Germany and Institute of Systems Neuroscience, Medical Faculty, Heinrich Heine University Düsseldorf, Düsseldorf, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Patrick Sadil",
+            "family_name": "Patrick Sadil",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-4141-1343",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              8,
+              "Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Krzysztof Jacek Gorgolewski",
+            "family_name": "Krzysztof Jacek Gorgolewski",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3321-7583",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              9,
+              "Emeritus of Department of Psychology, Stanford University, CA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Horea-Ioan Ioanas",
+            "family_name": "Horea-Ioan Ioanas",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7037-2449",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Center for Open Neuroscience, Department of Psychological and Brain Sciences, Dartmouth College, Hanover, NH, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Chris Rorden",
+            "family_name": "Chris Rorden",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-7554-6142",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              10,
+              "Department of Psychology, University of South Carolina, Columbia, SC, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Timothy J. Hendrickson",
+            "family_name": "Timothy J. Hendrickson",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-6862-6526",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              11,
+              "Masonic Institute for the Developing Brain, University of Minnesota, Minneapolis, MN, USA and Minnesota Supercomputing Institute, University of Minnesota, Minneapolis, MN, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Michael Dayan",
+            "family_name": "Michael Dayan",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-2666-0969",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              12,
+              "Human Neuroscience Platform, Fondation Campus Biotech Geneva, Geneva, Switzerland"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Sean Dae Houlihan",
+            "family_name": "Sean Dae Houlihan",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-5003-9278",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              13,
+              "Center for Open Neuroscience, Department of Psychological and Brain Sciences, Dartmouth College, Hanover, NH, USA and Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "James Kent",
+            "family_name": "James Kent",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-4892-2659",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              14,
+              "Department of Psychology, University of Texas at Austin, Austin, TX, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Ted Strauss",
+            "family_name": "Ted Strauss",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-1927-666X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              15,
+              "McConnell Brain Imaging Centre, McGill University, Montreal, QC, Canada"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "John Lee",
+            "family_name": "John Lee",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-5884-4247",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              16,
+              "Data Science and Sharing Team, National Institute of Mental Health, Bethesda, MD, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Isaac To",
+            "family_name": "Isaac To",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-4740-0824",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Center for Open Neuroscience, Department of Psychological and Brain Sciences, Dartmouth College, Hanover, NH, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Christopher J. Markiewicz",
+            "family_name": "Christopher J. Markiewicz",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6533-164X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              2,
+              "Department of Psychology, Stanford University, CA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Darren Lukas",
+            "family_name": "Darren Lukas",
+            "identifiers": [
+              {
+                "identifier": "0009-0003-6941-0833",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              17,
+              "Institute for Glycomics, Griffith University, QLD, Australia"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Ellyn R. Butler",
+            "family_name": "Ellyn R. Butler",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-6316-6444",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              18,
+              "Department of Psychology, Northwestern University, Evanston, IL, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Todd Thompson",
+            "family_name": "Todd Thompson"
+          },
+          "affiliations": [
+            [
+              19,
+              "Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Maite Termenon",
+            "family_name": "Maite Termenon",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8102-5135",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              20,
+              "Biomedical Engineering Department, Faculty of Engineering, Mondragon University, Mondragon, Spain and BCBL, Basque center on Cognition, Brain and Language, San Sebastian, Spain"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "David V. Smith",
+            "family_name": "David V. Smith",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-5754-9633",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              21,
+              "Department of Psychology and Neuroscience, Temple University, Philadelphia, PA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Austin Macdonald",
+            "family_name": "Austin Macdonald",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-8124-807X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Center for Open Neuroscience, Department of Psychological and Brain Sciences, Dartmouth College, Hanover, NH, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "David N. Kennedy",
+            "family_name": "David N. Kennedy",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-9377-0797",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              22,
+              "Departments of Psychiatry and Radiology, University of Massachusetts Chan Medical School, Worcester, MA, USA"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "Center for Open Neuroscience, Department of Psychological and Brain Sciences, Dartmouth College, Hanover, NH, USA",
+          null
+        ],
+        [
+          2,
+          "Department of Psychology, Stanford University, CA, USA",
+          null
+        ],
+        [
+          3,
+          "McGovern Institute, Massachusetts Institute of Technology, Cambridge, MA, USA",
+          null
+        ],
+        [
+          4,
+          "Flywheel Exchange LLC, Minneapolis, MN, USA",
+          null
+        ],
+        [
+          5,
+          "University of California, Berkeley, Berkeley, CA, USA",
+          null
+        ],
+        [
+          6,
+          "Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA",
+          null
+        ],
+        [
+          7,
+          "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Center Jülich, Jülich, Germany and Institute of Systems Neuroscience, Medical Faculty, Heinrich Heine University Düsseldorf, Düsseldorf, Germany",
+          null
+        ],
+        [
+          8,
+          "Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA",
+          null
+        ],
+        [
+          9,
+          "Emeritus of Department of Psychology, Stanford University, CA, USA",
+          null
+        ],
+        [
+          10,
+          "Department of Psychology, University of South Carolina, Columbia, SC, USA",
+          null
+        ],
+        [
+          11,
+          "Masonic Institute for the Developing Brain, University of Minnesota, Minneapolis, MN, USA and Minnesota Supercomputing Institute, University of Minnesota, Minneapolis, MN, USA",
+          null
+        ],
+        [
+          12,
+          "Human Neuroscience Platform, Fondation Campus Biotech Geneva, Geneva, Switzerland",
+          null
+        ],
+        [
+          13,
+          "Center for Open Neuroscience, Department of Psychological and Brain Sciences, Dartmouth College, Hanover, NH, USA and Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+          null
+        ],
+        [
+          14,
+          "Department of Psychology, University of Texas at Austin, Austin, TX, USA",
+          null
+        ],
+        [
+          15,
+          "McConnell Brain Imaging Centre, McGill University, Montreal, QC, Canada",
+          null
+        ],
+        [
+          16,
+          "Data Science and Sharing Team, National Institute of Mental Health, Bethesda, MD, USA",
+          null
+        ],
+        [
+          17,
+          "Institute for Glycomics, Griffith University, QLD, Australia",
+          null
+        ],
+        [
+          18,
+          "Department of Psychology, Northwestern University, Evanston, IL, USA",
+          null
+        ],
+        [
+          19,
+          "Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA",
+          null
+        ],
+        [
+          20,
+          "Biomedical Engineering Department, Faculty of Engineering, Mondragon University, Mondragon, Spain and BCBL, Basque center on Cognition, Brain and Language, San Sebastian, Spain",
+          null
+        ],
+        [
+          21,
+          "Department of Psychology and Neuroscience, Temple University, Philadelphia, PA, USA",
+          null
+        ],
+        [
+          22,
+          "Departments of Psychiatry and Radiology, University of Massachusetts Chan Medical School, Worcester, MA, USA",
+          null
+        ]
+      ]
+    },
+    "description_stripped": "🚀 Enhancement\n\n\n\nEnsure all IntendedFor matching params must match #860 (@mslw)\n\n\n🏠 Internal\n\n\n\ngh-actions: Bump codecov/codecov-action from 6 to 7 #857 (@dependabot[bot])\n\ngh-actions: Bump actions/checkout from 6 to 7 #861 (@dependabot[bot])\n\ngh-actions: Bump actions/setup-python from 6 to 7 #862 (@dependabot[bot])\n\n\n📝 Documentation\n\n\n\nFix RTD build: update build.os to ubuntu-24.04 #865 (@claude @yarikoptic-gitmate)\n\n\nAuthors: 4\n\n\n\n@dependabot[bot]\n\nClaude (@claude)\n\nGitMate for @yarikoptic (@yarikoptic-gitmate)\n\nMichał Szczepanik (@mslw)",
+    "version": "v1.5.0",
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/nipy/heudiconv/tree/v1.5.0",
+        "relation_type": {
+          "id": "issupplementto",
+          "title_l10n": "Is supplement to"
+        },
+        "scheme": "url",
+        "resource_type": {
+          "id": "software",
+          "title_l10n": "Software"
+        }
+      }
+    ],
+    "rights": [
+      {
+        "id": "apache-2.0",
+        "title_l10n": "Apache License 2.0",
+        "description_l10n": "A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.",
+        "props": {
+          "url": "http://www.apache.org/licenses/LICENSE-2.0",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}

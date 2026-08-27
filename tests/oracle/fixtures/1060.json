@@ -1,0 +1,494 @@
+{
+  "id": "1060",
+  "created": "2014-03-10T17:36:23+00:00",
+  "updated": "2024-08-06T14:18:03.376951+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/1060",
+    "self_html": "https://zenodo.org/records/1060",
+    "preview_html": "https://zenodo.org/records/1060?preview=1",
+    "reserve_doi": "https://zenodo.org/api/records/1060/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/611200",
+    "parent_html": "https://zenodo.org/records/611200",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:1060/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:1060/sequence/default",
+    "files": "https://zenodo.org/api/records/1060/files",
+    "media_files": "https://zenodo.org/api/records/1060/media-files",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:1060:Making%20Research%20Work%20for%20Sustainability.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:1060:Making%20Research%20Work%20for%20Sustainability.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:1060:Making%20Research%20Work%20for%20Sustainability.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:1060:Making%20Research%20Work%20for%20Sustainability.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:1060:Making%20Research%20Work%20for%20Sustainability.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:1060:Making%20Research%20Work%20for%20Sustainability.pdf/full/%5E1200,/0/default.jpg"
+    },
+    "archive": "https://zenodo.org/api/records/1060/files-archive",
+    "archive_media": "https://zenodo.org/api/records/1060/media-files-archive",
+    "latest": "https://zenodo.org/api/records/1060/versions/latest",
+    "latest_html": "https://zenodo.org/records/1060/latest",
+    "versions": "https://zenodo.org/api/records/1060/versions",
+    "draft": "https://zenodo.org/api/records/1060/draft",
+    "access_links": "https://zenodo.org/api/records/1060/access/links",
+    "access_grants": "https://zenodo.org/api/records/1060/access/grants",
+    "access_users": "https://zenodo.org/api/records/1060/access/users",
+    "access_request": "https://zenodo.org/api/records/1060/access/request",
+    "access": "https://zenodo.org/api/records/1060/access",
+    "communities": "https://zenodo.org/api/records/1060/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/1060/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/1060/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/1060/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/1060/quota-increase",
+    "requests": "https://zenodo.org/api/records/1060/requests"
+  },
+  "revision_id": 15,
+  "parent": {
+    "id": "611200",
+    "access": {
+      "owned_by": {
+        "user": "432"
+      },
+      "settings": {
+        "allow_user_requests": false,
+        "allow_guest_requests": false,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {
+      "ids": [
+        "f0a8b890-f97a-4eb2-9eac-8b8a712d3a6c"
+      ],
+      "entries": [
+        {
+          "id": "f0a8b890-f97a-4eb2-9eac-8b8a712d3a6c",
+          "created": "2022-11-23T15:53:29.436323+00:00",
+          "updated": "2026-08-17T14:29:01.587911+00:00",
+          "links": {},
+          "revision_id": 28,
+          "slug": "eu",
+          "metadata": {
+            "title": "EU Open Research Repository",
+            "type": {
+              "id": "organization",
+              "title": {
+                "de": "Organisation",
+                "en": "Organization"
+              }
+            },
+            "website": "https://research-and-innovation.ec.europa.eu",
+            "organizations": [
+              {
+                "id": "00k4n6c32",
+                "name": "European Commission",
+                "identifiers": [
+                  {
+                    "identifier": "00k4n6c32",
+                    "scheme": "ror"
+                  },
+                  {
+                    "identifier": "grid.270680.b",
+                    "scheme": "grid"
+                  },
+                  {
+                    "identifier": "0000 0001 2290 4914",
+                    "scheme": "isni"
+                  }
+                ]
+              }
+            ]
+          },
+          "access": {
+            "visibility": "public",
+            "members_visibility": "public",
+            "member_policy": "closed",
+            "record_submission_policy": "open",
+            "review_policy": "closed"
+          },
+          "theme": {
+            "style": {
+              "font": {
+                "size": "16px",
+                "family": "Arial, sans-serif",
+                "weight": 600
+              },
+              "primaryColor": "#004494",
+              "secondaryColor": "#FFD617",
+              "tertiaryColor": "#e3eefd",
+              "primaryTextColor": "#FFFFFF",
+              "secondaryTextColor": "#000000",
+              "tertiaryTextColor": "#1c5694",
+              "mainHeaderBackgroundColor": "#FFFFFF"
+            },
+            "brand": "horizon",
+            "enabled": true
+          },
+          "deletion_status": {
+            "is_deleted": false,
+            "status": "P"
+          },
+          "children": {
+            "allow": true
+          }
+        }
+      ]
+    },
+    "pids": {}
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 1
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "oai": {
+      "identifier": "oai:openaire.cern.ch:1060",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "publication-report",
+      "title": {
+        "de": "Bericht",
+        "en": "Report"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "McGuinness,David",
+          "given_name": "David",
+          "family_name": "McGuinness"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Theobald, Kate",
+          "given_name": "Kate",
+          "family_name": "Theobald"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Garzillo, Cristina",
+          "given_name": "Cristina",
+          "family_name": "Garzillo"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Grönholm, Sam",
+          "given_name": "Sam",
+          "family_name": "Grönholm"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Joas, Marko",
+          "given_name": "Marko",
+          "family_name": "Joas"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Kuhn, Stefan",
+          "given_name": "Stefan",
+          "family_name": "Kuhn"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Bono, Lorenzo",
+          "given_name": "Lorenzo",
+          "family_name": "Bono"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Rok, Ania",
+          "given_name": "Ania",
+          "family_name": "Rok"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Fernandez de la Fuente, Isabel",
+          "given_name": "Isabel",
+          "family_name": "Fernandez de la Fuente"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Björkqvist, Laura",
+          "given_name": "Laura",
+          "family_name": "Björkqvist"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Berrini, Maria",
+          "given_name": "Maria",
+          "family_name": "Berrini"
+        }
+      }
+    ],
+    "title": "Final Project report: PRIMUS/Informed Cities: Making research Work for Sustainability",
+    "publisher": "ICLEI European Secretariat GmbH",
+    "publication_date": "2012-04-22",
+    "languages": [
+      {
+        "id": "eng",
+        "title": {
+          "en": "English"
+        }
+      }
+    ],
+    "description": "This publication has been prepared in the framework of the Informed Cities Initiative and is one of the outcomes of the EU FP7 Research Project PRIMUS (Policies and Research for an Integrated Management of Urban Sustainability), May 2009 to April 2012.",
+    "funding": [
+      {
+        "funder": {
+          "id": "00k4n6c32",
+          "name": "European Commission"
+        },
+        "award": {
+          "id": "00k4n6c32::226814",
+          "number": "226814",
+          "title": {
+            "en": "Policies and Research for an Integrated Management of Urban Sustainability"
+          },
+          "identifiers": [
+            {
+              "identifier": "https://cordis.europa.eu/projects/226814",
+              "scheme": "url"
+            }
+          ],
+          "acronym": "PRIMUS",
+          "program": "FP7-ENVIRONMENT"
+        }
+      }
+    ]
+  },
+  "custom_fields": {
+    "imprint:imprint": {
+      "place": "Freiburg, Germany"
+    }
+  },
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 1,
+    "total_bytes": 3481338,
+    "entries": {
+      "Making Research Work for Sustainability.pdf": {
+        "id": "98365796-9d94-412f-830f-a4cfb312f8ac",
+        "checksum": "md5:d41fdb237826f0aeec694bc972f8433a",
+        "ext": "pdf",
+        "size": 3481338,
+        "mimetype": "application/pdf",
+        "key": "Making Research Work for Sustainability.pdf",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": true,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 217,
+      "unique_views": 216,
+      "downloads": 207,
+      "unique_downloads": 204,
+      "data_volume": 720636966.0
+    },
+    "all_versions": {
+      "views": 217,
+      "unique_views": 216,
+      "downloads": 207,
+      "unique_downloads": 204,
+      "data_volume": 720636966.0
+    }
+  },
+  "swh": null,
+  "ui": {
+    "publication_date_l10n_medium": "Apr 22, 2012",
+    "publication_date_l10n_long": "April 22, 2012",
+    "created_date_l10n_long": "March 10, 2014",
+    "updated_date_l10n_long": "August 6, 2024",
+    "resource_type": {
+      "id": "publication-report",
+      "title_l10n": "Report"
+    },
+    "custom_fields": {
+      "imprint:imprint": {
+        "place": "Freiburg, Germany"
+      }
+    },
+    "publishing_information": {
+      "imprint": "Freiburg, Germany."
+    },
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "McGuinness,David",
+            "given_name": "David",
+            "family_name": "McGuinness"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Theobald, Kate",
+            "given_name": "Kate",
+            "family_name": "Theobald"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Garzillo, Cristina",
+            "given_name": "Cristina",
+            "family_name": "Garzillo"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Grönholm, Sam",
+            "given_name": "Sam",
+            "family_name": "Grönholm"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Joas, Marko",
+            "given_name": "Marko",
+            "family_name": "Joas"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Kuhn, Stefan",
+            "given_name": "Stefan",
+            "family_name": "Kuhn"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Bono, Lorenzo",
+            "given_name": "Lorenzo",
+            "family_name": "Bono"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Rok, Ania",
+            "given_name": "Ania",
+            "family_name": "Rok"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Fernandez de la Fuente, Isabel",
+            "given_name": "Isabel",
+            "family_name": "Fernandez de la Fuente"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Björkqvist, Laura",
+            "given_name": "Laura",
+            "family_name": "Björkqvist"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Berrini, Maria",
+            "given_name": "Maria",
+            "family_name": "Berrini"
+          }
+        }
+      ],
+      "affiliations": []
+    },
+    "languages": [
+      {
+        "id": "eng",
+        "title_l10n": "English"
+      }
+    ],
+    "description_stripped": "This publication has been prepared in the framework of the Informed Cities Initiative and is one of the outcomes of the EU FP7 Research Project PRIMUS (Policies and Research for an Integrated Management of Urban Sustainability), May 2009 to April 2012.",
+    "version": "v1",
+    "is_draft": false,
+    "funding": [
+      {
+        "award": {
+          "id": "00k4n6c32::226814",
+          "title_l10n": "Policies and Research for an Integrated Management of Urban Sustainability",
+          "number": "226814",
+          "acronym": "PRIMUS",
+          "program": "FP7-ENVIRONMENT",
+          "identifiers": [
+            {
+              "identifier": "https://cordis.europa.eu/projects/226814",
+              "scheme": "url"
+            }
+          ]
+        },
+        "funder": {
+          "id": "00k4n6c32",
+          "name": "European Commission"
+        }
+      }
+    ]
+  }
+}

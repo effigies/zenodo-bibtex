@@ -1,0 +1,1487 @@
+{
+  "id": "3941041",
+  "created": "2020-07-12T16:04:37.737704+00:00",
+  "updated": "2024-07-19T18:15:31.338062+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/3941041",
+    "self_html": "https://zenodo.org/records/3941041",
+    "preview_html": "https://zenodo.org/records/3941041?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.3941041",
+    "self_doi": "https://doi.org/10.5281/zenodo.3941041",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.3941041",
+    "reserve_doi": "https://zenodo.org/api/records/3941041/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/3941040",
+    "parent_html": "https://zenodo.org/records/3941040",
+    "parent_doi": "https://doi.org/10.5281/zenodo.3941040",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.3941040",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:3941041/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:3941041/sequence/default",
+    "files": "https://zenodo.org/api/records/3941041/files",
+    "media_files": "https://zenodo.org/api/records/3941041/media-files",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:3941041:bids-derivatives-poster.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:3941041:bids-derivatives-poster.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:3941041:bids-derivatives-poster.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:3941041:bids-derivatives-poster.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:3941041:bids-derivatives-poster.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:3941041:bids-derivatives-poster.pdf/full/%5E1200,/0/default.jpg"
+    },
+    "archive": "https://zenodo.org/api/records/3941041/files-archive",
+    "archive_media": "https://zenodo.org/api/records/3941041/media-files-archive",
+    "latest": "https://zenodo.org/api/records/3941041/versions/latest",
+    "latest_html": "https://zenodo.org/records/3941041/latest",
+    "versions": "https://zenodo.org/api/records/3941041/versions",
+    "draft": "https://zenodo.org/api/records/3941041/draft",
+    "access_links": "https://zenodo.org/api/records/3941041/access/links",
+    "access_grants": "https://zenodo.org/api/records/3941041/access/grants",
+    "access_users": "https://zenodo.org/api/records/3941041/access/users",
+    "access_request": "https://zenodo.org/api/records/3941041/access/request",
+    "access": "https://zenodo.org/api/records/3941041/access",
+    "communities": "https://zenodo.org/api/records/3941041/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/3941041/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/3941041/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/3941041/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/3941041/quota-increase",
+    "requests": "https://zenodo.org/api/records/3941041/requests"
+  },
+  "revision_id": 6,
+  "parent": {
+    "id": "3941040",
+    "access": {
+      "grants": [],
+      "owned_by": {
+        "user": "21424"
+      },
+      "links": [],
+      "settings": {
+        "allow_user_requests": false,
+        "allow_guest_requests": false,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {
+      "ids": [
+        "4439d226-c446-46f0-bbbe-3dd76dce22ba"
+      ],
+      "default": "4439d226-c446-46f0-bbbe-3dd76dce22ba",
+      "entries": [
+        {
+          "id": "4439d226-c446-46f0-bbbe-3dd76dce22ba",
+          "created": "2025-12-11T16:13:07.659342+00:00",
+          "updated": "2026-01-09T14:12:00.989509+00:00",
+          "links": {},
+          "revision_id": 9,
+          "slug": "brain-imaging-data-structure",
+          "metadata": {
+            "title": "Brain Imaging Data Structure",
+            "type": {
+              "id": "project",
+              "title": {
+                "de": "Projekt",
+                "en": "Project"
+              }
+            },
+            "website": "https://bids.neuroimaging.io",
+            "funding": [
+              {
+                "funder": {
+                  "id": "021nxhr62",
+                  "name": "U.S. National Science Foundation"
+                },
+                "award": {
+                  "id": "021nxhr62::1760950",
+                  "number": "1760950",
+                  "title": {
+                    "en": "Spokes: MEDIUM: WEST: Breaking down barriers for reproducible neuroimaging data analyses"
+                  },
+                  "program": "CISE/OAD"
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::2R24MH117295-06",
+                  "number": "2R24MH117295-06",
+                  "title": {
+                    "en": "DANDI: Distributed Archives for Neurophysiology Data Integration"
+                  }
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::5P41EB019936-09",
+                  "number": "5P41EB019936-09",
+                  "title": {
+                    "en": "ReproNim: A Center for Reproducible Neuroimaging Computation"
+                  }
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::5R24MH117179-07",
+                  "number": "5R24MH117179-07",
+                  "title": {
+                    "en": "OpenNeuro: An open archive for analysis and sharing of BRAIN Initiative data"
+                  }
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::1ZIAMH002977-03",
+                  "number": "1ZIAMH002977-03",
+                  "title": {
+                    "en": "BRAIN project: OpenNeuroPET: An Archive for PET data"
+                  }
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::1R01MH126699-01",
+                  "number": "1R01MH126699-01",
+                  "title": {
+                    "en": "A community-driven development of the brain imaging data standard (BIDS) to describe macroscopic brain connections"
+                  },
+                  "program": "NATIONAL_INSTITUTE_OF_MENTAL_HEALTH"
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::5R24MH114705-02",
+                  "number": "5R24MH114705-02",
+                  "title": {
+                    "en": "BIDS-Derivatives: A data standard for derived data and models in the BRAIN Initiative"
+                  },
+                  "program": "NATIONAL_INSTITUTE_OF_MENTAL_HEALTH"
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::5R01MH109682-05",
+                  "number": "5R01MH109682-05",
+                  "title": {
+                    "en": "NeuroScout: A cloud-based platform for flexible re-analysis of naturalistic fMRI datasets"
+                  },
+                  "program": "NATIONAL_INSTITUTE_OF_MENTAL_HEALTH"
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::1RF1MH126700-01A1",
+                  "number": "1RF1MH126700-01A1",
+                  "title": {
+                    "en": "BRAIN Initiative: Hierarchical Event Descriptors (HED): a system to characterize events in neurobehavioral data"
+                  },
+                  "program": "NATIONAL_INSTITUTE_OF_MENTAL_HEALTH"
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::5R01EB020740-04",
+                  "number": "5R01EB020740-04",
+                  "title": {
+                    "en": "Nipype: Dataflows for Reproducible Biomedical Research"
+                  },
+                  "program": "NATIONAL_INSTITUTE_OF_BIOMEDICAL_IMAGING_AND_BIOENGINEERING"
+                }
+              },
+              {
+                "funder": {
+                  "id": "018mejw64",
+                  "name": "Deutsche Forschungsgemeinschaft"
+                },
+                "award": {
+                  "number": "501864659",
+                  "title": {
+                    "en": " NFDI4BIOIMAGE - National research data infrastructure for microscopy and bioimage analysis"
+                  },
+                  "identifiers": [
+                    {
+                      "identifier": "https://gepris.dfg.de/gepris/projekt/501864659?language=en",
+                      "scheme": "url"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "access": {
+            "visibility": "public",
+            "members_visibility": "public",
+            "member_policy": "closed",
+            "record_submission_policy": "open",
+            "review_policy": "closed"
+          },
+          "deletion_status": {
+            "is_deleted": false,
+            "status": "P"
+          },
+          "children": {
+            "allow": false
+          }
+        }
+      ]
+    },
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.3941040",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "is_latest_draft": true,
+    "index": 1
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.3941041",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:3941041",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "poster",
+      "title": {
+        "de": "Poster",
+        "en": "Poster"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Markiewicz, Christopher J",
+          "given_name": "Christopher J",
+          "family_name": "Markiewicz",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6533-164X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Stanford University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Appelhoff, Stefan",
+          "given_name": "Stefan",
+          "family_name": "Appelhoff",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8002-0877",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Center for Adaptive Rationality, Max Planck Institute for Human Development, Berlin, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Calhoun, Vince",
+          "given_name": "Vince",
+          "family_name": "Calhoun",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-8471-9287",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Georgia State/Georgia Tech/Emory"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Dickie, Erin W",
+          "given_name": "Erin W",
+          "family_name": "Dickie",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3028-9864",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Centre for Addiction and Mental Health, University of Toronto"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Duff, Eugene",
+          "given_name": "Eugene",
+          "family_name": "Duff",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8795-5472",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University of Oxford"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "DuPre, Elizabeth",
+          "given_name": "Elizabeth",
+          "family_name": "DuPre",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-1358-196X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "McGill University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Esteban, Oscar",
+          "given_name": "Oscar",
+          "family_name": "Esteban",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8435-6191",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Stanford University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Feingold, Franklin",
+          "given_name": "Franklin",
+          "family_name": "Feingold",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6533-2909",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Stanford University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Ghosh, Satrajit",
+          "given_name": "Satrajit",
+          "family_name": "Ghosh",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-5312-6729",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "MIT"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Halchenko, Yaroslav O",
+          "given_name": "Yaroslav O",
+          "family_name": "Halchenko",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3456-2493",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Dartmouth College"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Harms, Michael P",
+          "given_name": "Michael P",
+          "family_name": "Harms",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7945-036X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Washington University in St Louis"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Herholz, Peer",
+          "given_name": "Peer",
+          "family_name": "Herholz",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-9840-6257",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "McGill University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Mennes, Maarten",
+          "given_name": "Maarten",
+          "family_name": "Mennes",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-7279-3439",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Donders Institute for Brain, Cognition and Behaviour, Radboud University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Nørgaard, Martin",
+          "given_name": "Martin",
+          "family_name": "Nørgaard",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-2131-5688",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Neurobiologisk Forskningsenhed"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Oostenveld, Robert",
+          "given_name": "Robert",
+          "family_name": "Oostenveld",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-1974-1293",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Donders Institute for Brain, Cognition and Behaviour, Radboud University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Pernet, Cyril",
+          "given_name": "Cyril",
+          "family_name": "Pernet",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-4010-4632",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "The University of Edinburgh"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Pestilli, Franco",
+          "given_name": "Franco",
+          "family_name": "Pestilli",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-2469-0494",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Indiana University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Poldrack, Russell A",
+          "given_name": "Russell A",
+          "family_name": "Poldrack",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6755-0259",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Stanford University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Rokem, Ariel",
+          "given_name": "Ariel",
+          "family_name": "Rokem",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-0679-1985",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "The University of Washington eScience"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Smith, Robert E",
+          "given_name": "Robert E",
+          "family_name": "Smith",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3636-4642",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Florey Institute of Neuroscience and Mental Health"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Yarkoni, Tal",
+          "given_name": "Tal",
+          "family_name": "Yarkoni",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6558-5113",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University of Texas at Austin"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gorgolewski, Krzysztof J",
+          "given_name": "Krzysztof J",
+          "family_name": "Gorgolewski",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3321-7583",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Google"
+          }
+        ]
+      }
+    ],
+    "title": "BIDS Derivatives: Standardization of Processing Results in Brain Imaging",
+    "publisher": "Zenodo",
+    "publication_date": "2020-06-23",
+    "subjects": [
+      {
+        "subject": "Data Organization"
+      },
+      {
+        "subject": "Informatics"
+      },
+      {
+        "subject": "Electrophysiology"
+      },
+      {
+        "subject": "Functional MRI"
+      },
+      {
+        "subject": "MRI"
+      },
+      {
+        "subject": "Positron Emission Tomography (PET)"
+      },
+      {
+        "subject": "Structural MRI"
+      },
+      {
+        "subject": "Reproducibility"
+      }
+    ],
+    "languages": [
+      {
+        "id": "eng",
+        "title": {
+          "en": "English"
+        }
+      }
+    ],
+    "rights": [
+      {
+        "id": "cc-by-4.0",
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        },
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "<p><strong>Introduction</strong></p>\n\n<p>We present BIDS-Derivatives, a set of principles for organizing and describing outputs of computations performed on brain imaging data, enabling researchers and tools to understand and reuse those outputs in subsequent processing.<br>\n<br>\nBIDS-Derivatives is an extension to the Brain Imaging Data Structure (BIDS), which is a standard for organizing magnetic resonance imaging (MRI) [2], electrophysiological [6, 7, 8] and behavioral data generated by a broad range of neuroscientific experiments. BIDS has facilitated the generation of tools (BIDS-Apps) [3] that may run with minimal intervention on BIDS datasets, adapting to the details of the available data. BIDS also provides a common structure for archiving data, both within labs and in large-scale databases such as OpenNeuro [4] and the NIMH Data Archive [10].</p>\n\n<p><strong>Methods</strong></p>\n\n<p>The BIDS specification is hosted on GitHub and published on ReadTheDocs [9]. Significant modifications to BIDS are formulated as BIDS Extension Proposals (BEPs), which may be developed as separate documents or as &quot;forks&quot; of the document source.<br>\n<br>\nDerivatives were conceived during early BIDS discussions as a category distinct from raw experimental data, ranging from preprocessed data to publishable results. A BEP was initially drafted in February 2016. Further work defining the scope of derivatives at an August 2017 meeting led to the division of the effort into fine-grained proposals [5].<br>\n<br>\nIn July 2018, a survey of the neuroimaging community was taken to establish priorities (essential, desirable or inessential) for structural, functional and diffusion MRI derivatives. The results of the survey were posted [1] in advance of an August 2018 workshop of 31 participants, where sub-proposals were pushed toward completion and common principles were established. In December 2018, Release Candidate 1 was published, including all imaging modalities, for implementation and feedback.<br>\n<br>\nIn July 2019, a &quot;Common Derivatives&quot; proposal was re-introduced establishing more general principles, to be followed by subsequent modality-specific and non-imaging proposals.</p>\n\n<p><strong>Results</strong></p>\n\n<p>BIDS-Derivatives are specified in version 1.3.0 of the BIDS standard. This initial release specifies common derivatives, including dataset-level metadata, naming rules for preprocessed data of any modality, and generic imaging derivatives.<br>\n<br>\nDataset metadata and organization follow BIDS conventions, and have been extended to allow the source dataset(s) to be linked and provenance information recorded of software used to generate the dataset.<br>\n<br>\nFile-level naming rules permit space and desc keywords, allowing pipelines to distinguish files by a reference space or a generic description field. Custom references spaces may also be specified with the SpatialReference metadata field. All derived files must distinguish themselves from original (e.g., raw) data files by some component in the filename, permitting the inclusion of original and derived data in the same dataset, if necessary.<br>\n<br>\nImaging-specific derivatives specified in this initial release include naming conventions for resampling parameters (e.g., resolution and surface mesh density) and specifications of regions of interest as masks or deterministic and probabilistic segmentations.</p>\n\n<p><strong>Conclusions</strong></p>\n\n<p>A standard for specifying derivatives will simplify the sharing and archiving of preprocessed data and the results of analyses. It will permit data repositories to provide canonical, preprocessed versions of datasets, simplify further automated processing, and facilitate collaboration between researchers and replication of analyses of published datasets.<br>\n<br>\nThis initial release establishes common principles that guide future derivative specifications. Additional specifications of anatomical, functional and diffusion derivatives are planned within the next year, and electrophysiological, positron emission tomography, and connectomic derivatives are in progress.<br>\n<br>\nBIDS is an open effort, and everyone is encouraged to contribute, regardless of level of expertise.</p>",
+    "references": [
+      {
+        "reference": "Feingold, F.W. (2018), 'BIDS-Processed Data Survey Results', Stanford Center for Reproducible Neuroscience, http://reproducibility.stanford.edu/bids-processed-data-survey-results/"
+      },
+      {
+        "reference": "Gorgolewski, K.J. (2016), 'The brain imaging data structure, a format for organizing and describing outputs of neuroimaging experiments' Scientific Data, 3:160044. doi:10.1038/sdata.2016.44"
+      },
+      {
+        "reference": "Gorgolewski, K.J. (2017a), 'BIDS apps: Improving ease of use, accessibility, and reproducibility of neuroimaging data analysis methods', PLOS Computational Biology 13(3): e1005209, doi:10.1371/journal.pcbi.1005209"
+      },
+      {
+        "reference": "Gorgolewski K.J. (2017b), 'OpenNeuro – a free online platform for sharing and analysis of neuroimaging data [version 1; not peer reviewed]', F1000Research, 6:1055 (poster), doi:10.7490/f1000research.1114354.1"
+      },
+      {
+        "reference": "Gorgolewski, K.J. (2017c), 'Restructuring BIDS Derivatives', bids-discussion mailing-list, https://groups.google.com/forum/#!msg/bids-discussion/l74eKXzNX84/4rMQzS_KAwAJ"
+      },
+      {
+        "reference": "Holdgraf, C. (2019), 'iEEG-BIDS, extending the Brain Imaging Data Structure specification to human intracranial electrophysiology' Scientific Data, 6:102. doi:10.1038/s41597-019-0105-7"
+      },
+      {
+        "reference": "Niso, G. (2018), 'MEG-BIDS, the brain imaging data structure extended to magnetoencephalography' Scientific Data, 5:180110. doi:doi:10.1038/sdata.2018.110"
+      },
+      {
+        "reference": "Pernet, C.R. (2019), 'EEG-BIDS, an extension to the brain imaging data structure for electroencephalography' Scientific Data, 6:103. doi:10.1038/s41597-019-0104-8"
+      },
+      {
+        "reference": "https://bids-specification.readthedocs.io/en/stable/"
+      },
+      {
+        "reference": "https://nda.nih.gov/"
+      }
+    ]
+  },
+  "custom_fields": {
+    "meeting:meeting": {
+      "acronym": "OHBM 2020",
+      "dates": "23 June 2020 - 3 July 2020",
+      "title": "26th Annual Meeting of the Organization for Human Brain Mapping"
+    }
+  },
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 4,
+    "total_bytes": 6836099,
+    "entries": {
+      "bids-derivatives-poster.svg": {
+        "id": "e38a00f1-be07-49b0-a96a-f12742011f7d",
+        "checksum": "md5:aa1bd133c74ee8ad610498a7f85a541c",
+        "ext": "svg",
+        "size": 3051340,
+        "mimetype": "image/svg+xml",
+        "key": "bids-derivatives-poster.svg",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      },
+      "bids-derivatives-readme.md": {
+        "id": "298ed69e-18c5-4a51-8cbd-948cf9cbc3dc",
+        "checksum": "md5:ff787af6db939828045823d72b87904a",
+        "ext": "md",
+        "size": 16238,
+        "mimetype": "application/octet-stream",
+        "key": "bids-derivatives-readme.md",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      },
+      "bids-derivatives-poster.pdf": {
+        "id": "04ba959c-5ea6-4d75-a925-8b3d32a7c207",
+        "checksum": "md5:e9c6c76d4e3a0bb4f809c24592ed2ccf",
+        "ext": "pdf",
+        "size": 844819,
+        "mimetype": "application/pdf",
+        "key": "bids-derivatives-poster.pdf",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      },
+      "bids-derivatives-poster.png": {
+        "id": "905db5d5-d22c-43ca-8366-f475a6f0f1a1",
+        "checksum": "md5:ba0d6ed17ca9b473e2901a873a0af5a6",
+        "ext": "png",
+        "size": 2923702,
+        "mimetype": "image/png",
+        "key": "bids-derivatives-poster.png",
+        "metadata": {
+          "width": 2980,
+          "height": 4213
+        },
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": true,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 415,
+      "unique_views": 397,
+      "downloads": 653,
+      "unique_downloads": 614,
+      "data_volume": 724825144.0
+    },
+    "all_versions": {
+      "views": 415,
+      "unique_views": 397,
+      "downloads": 653,
+      "unique_downloads": 614,
+      "data_volume": 724825144.0
+    }
+  },
+  "swh": null,
+  "ui": {
+    "publication_date_l10n_medium": "Jun 23, 2020",
+    "publication_date_l10n_long": "June 23, 2020",
+    "created_date_l10n_long": "July 12, 2020",
+    "updated_date_l10n_long": "July 19, 2024",
+    "resource_type": {
+      "id": "poster",
+      "title_l10n": "Poster"
+    },
+    "custom_fields": {
+      "meeting:meeting": {
+        "acronym": "OHBM 2020",
+        "dates": "23 June 2020 - 3 July 2020",
+        "title": "26th Annual Meeting of the Organization for Human Brain Mapping"
+      }
+    },
+    "conference": {
+      "acronym": "OHBM 2020",
+      "dates": "23 June 2020 - 3 July 2020",
+      "title": "26th Annual Meeting of the Organization for Human Brain Mapping"
+    },
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Markiewicz, Christopher J",
+            "given_name": "Christopher J",
+            "family_name": "Markiewicz",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6533-164X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Stanford University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Appelhoff, Stefan",
+            "given_name": "Stefan",
+            "family_name": "Appelhoff",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8002-0877",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              2,
+              "Center for Adaptive Rationality, Max Planck Institute for Human Development, Berlin, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Calhoun, Vince",
+            "given_name": "Vince",
+            "family_name": "Calhoun",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-8471-9287",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              3,
+              "Georgia State/Georgia Tech/Emory"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Dickie, Erin W",
+            "given_name": "Erin W",
+            "family_name": "Dickie",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3028-9864",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              4,
+              "Centre for Addiction and Mental Health, University of Toronto"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Duff, Eugene",
+            "given_name": "Eugene",
+            "family_name": "Duff",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8795-5472",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              5,
+              "University of Oxford"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "DuPre, Elizabeth",
+            "given_name": "Elizabeth",
+            "family_name": "DuPre",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-1358-196X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              6,
+              "McGill University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Esteban, Oscar",
+            "given_name": "Oscar",
+            "family_name": "Esteban",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8435-6191",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Stanford University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Feingold, Franklin",
+            "given_name": "Franklin",
+            "family_name": "Feingold",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6533-2909",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Stanford University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Ghosh, Satrajit",
+            "given_name": "Satrajit",
+            "family_name": "Ghosh",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-5312-6729",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              7,
+              "MIT"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Halchenko, Yaroslav O",
+            "given_name": "Yaroslav O",
+            "family_name": "Halchenko",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3456-2493",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              8,
+              "Dartmouth College"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Harms, Michael P",
+            "given_name": "Michael P",
+            "family_name": "Harms",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7945-036X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              9,
+              "Washington University in St Louis"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Herholz, Peer",
+            "given_name": "Peer",
+            "family_name": "Herholz",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-9840-6257",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              6,
+              "McGill University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Mennes, Maarten",
+            "given_name": "Maarten",
+            "family_name": "Mennes",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-7279-3439",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              10,
+              "Donders Institute for Brain, Cognition and Behaviour, Radboud University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Nørgaard, Martin",
+            "given_name": "Martin",
+            "family_name": "Nørgaard",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-2131-5688",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              11,
+              "Neurobiologisk Forskningsenhed"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Oostenveld, Robert",
+            "given_name": "Robert",
+            "family_name": "Oostenveld",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-1974-1293",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              10,
+              "Donders Institute for Brain, Cognition and Behaviour, Radboud University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Pernet, Cyril",
+            "given_name": "Cyril",
+            "family_name": "Pernet",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-4010-4632",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              12,
+              "The University of Edinburgh"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Pestilli, Franco",
+            "given_name": "Franco",
+            "family_name": "Pestilli",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-2469-0494",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              13,
+              "Indiana University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Poldrack, Russell A",
+            "given_name": "Russell A",
+            "family_name": "Poldrack",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-6755-0259",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Stanford University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Rokem, Ariel",
+            "given_name": "Ariel",
+            "family_name": "Rokem",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-0679-1985",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              14,
+              "The University of Washington eScience"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Smith, Robert E",
+            "given_name": "Robert E",
+            "family_name": "Smith",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3636-4642",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              15,
+              "Florey Institute of Neuroscience and Mental Health"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Yarkoni, Tal",
+            "given_name": "Tal",
+            "family_name": "Yarkoni",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6558-5113",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              16,
+              "University of Texas at Austin"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gorgolewski, Krzysztof J",
+            "given_name": "Krzysztof J",
+            "family_name": "Gorgolewski",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3321-7583",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              17,
+              "Google"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "Stanford University",
+          null
+        ],
+        [
+          2,
+          "Center for Adaptive Rationality, Max Planck Institute for Human Development, Berlin, Germany",
+          null
+        ],
+        [
+          3,
+          "Georgia State/Georgia Tech/Emory",
+          null
+        ],
+        [
+          4,
+          "Centre for Addiction and Mental Health, University of Toronto",
+          null
+        ],
+        [
+          5,
+          "University of Oxford",
+          null
+        ],
+        [
+          6,
+          "McGill University",
+          null
+        ],
+        [
+          7,
+          "MIT",
+          null
+        ],
+        [
+          8,
+          "Dartmouth College",
+          null
+        ],
+        [
+          9,
+          "Washington University in St Louis",
+          null
+        ],
+        [
+          10,
+          "Donders Institute for Brain, Cognition and Behaviour, Radboud University",
+          null
+        ],
+        [
+          11,
+          "Neurobiologisk Forskningsenhed",
+          null
+        ],
+        [
+          12,
+          "The University of Edinburgh",
+          null
+        ],
+        [
+          13,
+          "Indiana University",
+          null
+        ],
+        [
+          14,
+          "The University of Washington eScience",
+          null
+        ],
+        [
+          15,
+          "Florey Institute of Neuroscience and Mental Health",
+          null
+        ],
+        [
+          16,
+          "University of Texas at Austin",
+          null
+        ],
+        [
+          17,
+          "Google",
+          null
+        ]
+      ]
+    },
+    "languages": [
+      {
+        "id": "eng",
+        "title_l10n": "English"
+      }
+    ],
+    "description_stripped": "Introduction\n\n\nWe present BIDS-Derivatives, a set of principles for organizing and describing outputs of computations performed on brain imaging data, enabling researchers and tools to understand and reuse those outputs in subsequent processing.\n\nBIDS-Derivatives is an extension to the Brain Imaging Data Structure (BIDS), which is a standard for organizing magnetic resonance imaging (MRI) [2], electrophysiological [6, 7, 8] and behavioral data generated by a broad range of neuroscientific experiments. BIDS has facilitated the generation of tools (BIDS-Apps) [3] that may run with minimal intervention on BIDS datasets, adapting to the details of the available data. BIDS also provides a common structure for archiving data, both within labs and in large-scale databases such as OpenNeuro [4] and the NIMH Data Archive [10].\n\n\nMethods\n\n\nThe BIDS specification is hosted on GitHub and published on ReadTheDocs [9]. Significant modifications to BIDS are formulated as BIDS Extension Proposals (BEPs), which may be developed as separate documents or as \"forks\" of the document source.\n\nDerivatives were conceived during early BIDS discussions as a category distinct from raw experimental data, ranging from preprocessed data to publishable results. A BEP was initially drafted in February 2016. Further work defining the scope of derivatives at an August 2017 meeting led to the division of the effort into fine-grained proposals [5].\n\nIn July 2018, a survey of the neuroimaging community was taken to establish priorities (essential, desirable or inessential) for structural, functional and diffusion MRI derivatives. The results of the survey were posted [1] in advance of an August 2018 workshop of 31 participants, where sub-proposals were pushed toward completion and common principles were established. In December 2018, Release Candidate 1 was published, including all imaging modalities, for implementation and feedback.\n\nIn July 2019, a \"Common Derivatives\" proposal was re-introduced establishing more general principles, to be followed by subsequent modality-specific and non-imaging proposals.\n\n\nResults\n\n\nBIDS-Derivatives are specified in version 1.3.0 of the BIDS standard. This initial release specifies common derivatives, including dataset-level metadata, naming rules for preprocessed data of any modality, and generic imaging derivatives.\n\nDataset metadata and organization follow BIDS conventions, and have been extended to allow the source dataset(s) to be linked and provenance information recorded of software used to generate the dataset.\n\nFile-level naming rules permit space and desc keywords, allowing pipelines to distinguish files by a reference space or a generic description field. Custom references spaces may also be specified with the SpatialReference metadata field. All derived files must distinguish themselves from original (e.g., raw) data files by some component in the filename, permitting the inclusion of original and derived data in the same dataset, if necessary.\n\nImaging-specific derivatives specified in this initial release include naming conventions for resampling parameters (e.g., resolution and surface mesh density) and specifications of regions of interest as masks or deterministic and probabilistic segmentations.\n\n\nConclusions\n\n\nA standard for specifying derivatives will simplify the sharing and archiving of preprocessed data and the results of analyses. It will permit data repositories to provide canonical, preprocessed versions of datasets, simplify further automated processing, and facilitate collaboration between researchers and replication of analyses of published datasets.\n\nThis initial release establishes common principles that guide future derivative specifications. Additional specifications of anatomical, functional and diffusion derivatives are planned within the next year, and electrophysiological, positron emission tomography, and connectomic derivatives are in progress.\n\nBIDS is an open effort, and everyone is encouraged to contribute, regardless of level of expertise.",
+    "version": "v1",
+    "rights": [
+      {
+        "id": "cc-by-4.0",
+        "title_l10n": "Creative Commons Attribution 4.0 International",
+        "description_l10n": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited.",
+        "icon": "cc-by-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}

@@ -1,0 +1,814 @@
+{
+  "id": "17161627",
+  "created": "2025-09-19T16:40:48.648573+00:00",
+  "updated": "2025-09-19T16:40:48.823376+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/17161627",
+    "self_html": "https://zenodo.org/records/17161627",
+    "preview_html": "https://zenodo.org/records/17161627?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.17161627",
+    "self_doi": "https://doi.org/10.5281/zenodo.17161627",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17161627",
+    "reserve_doi": "https://zenodo.org/api/records/17161627/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/2650521",
+    "parent_html": "https://zenodo.org/records/2650521",
+    "parent_doi": "https://doi.org/10.5281/zenodo.2650521",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.2650521",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:17161627/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:17161627/sequence/default",
+    "files": "https://zenodo.org/api/records/17161627/files",
+    "media_files": "https://zenodo.org/api/records/17161627/media-files",
+    "archive": "https://zenodo.org/api/records/17161627/files-archive",
+    "archive_media": "https://zenodo.org/api/records/17161627/media-files-archive",
+    "latest": "https://zenodo.org/api/records/17161627/versions/latest",
+    "latest_html": "https://zenodo.org/records/17161627/latest",
+    "versions": "https://zenodo.org/api/records/17161627/versions",
+    "draft": "https://zenodo.org/api/records/17161627/draft",
+    "access_links": "https://zenodo.org/api/records/17161627/access/links",
+    "access_grants": "https://zenodo.org/api/records/17161627/access/grants",
+    "access_users": "https://zenodo.org/api/records/17161627/access/users",
+    "access_request": "https://zenodo.org/api/records/17161627/access/request",
+    "access": "https://zenodo.org/api/records/17161627/access",
+    "communities": "https://zenodo.org/api/records/17161627/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/17161627/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/17161627/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/17161627/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/17161627/quota-increase",
+    "requests": "https://zenodo.org/api/records/17161627/requests"
+  },
+  "revision_id": 4,
+  "parent": {
+    "id": "2650521",
+    "access": {
+      "owned_by": {
+        "user": "9826"
+      },
+      "settings": {
+        "allow_user_requests": false,
+        "allow_guest_requests": false,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.2650521",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 66
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.17161627",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:17161627",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "software",
+      "title": {
+        "de": "Software",
+        "en": "Software"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Esteban, Oscar",
+          "given_name": "Oscar",
+          "family_name": "Esteban",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8435-6191",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University, CA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Markiewicz, Christopher J.",
+          "given_name": "Christopher J.",
+          "family_name": "Markiewicz",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6533-164X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University, CA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Blair, Ross",
+          "given_name": "Ross",
+          "family_name": "Blair",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3007-1056",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University, CA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Poldrack, Russell A.",
+          "given_name": "Russell A.",
+          "family_name": "Poldrack",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6755-0259",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University, CA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gorgolewski, Krzysztof J.",
+          "given_name": "Krzysztof J.",
+          "family_name": "Gorgolewski",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3321-7583",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University, CA, USA"
+          }
+        ]
+      }
+    ],
+    "title": "sMRIPrep: Structural MRI PREProcessing workflows",
+    "publisher": "Zenodo",
+    "publication_date": "2025-09-19",
+    "subjects": [
+      {
+        "subject": "neuroimaging"
+      },
+      {
+        "subject": "workflow"
+      },
+      {
+        "subject": "pipeline"
+      },
+      {
+        "subject": "preprocessing"
+      },
+      {
+        "subject": "MRI"
+      },
+      {
+        "subject": "BIDS"
+      }
+    ],
+    "contributors": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Lurie, Daniel J.",
+          "given_name": "Daniel J.",
+          "family_name": "Lurie",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8012-6399",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, University of California, Berkeley, CA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Goncalves, Mathias",
+          "given_name": "Mathias",
+          "family_name": "Goncalves",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-7252-7771",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "McGovern Institute for Brain Research, MIT, MA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Ghosh, Satrajit",
+          "given_name": "Satrajit",
+          "family_name": "Ghosh",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-5312-6729",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "McGovern Institute for Brain Research (MIT), and Department of Otolaryngology (Harvard Medical School), MA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Feczko, Eric",
+          "given_name": "Eric",
+          "family_name": "Feczko",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-1337-5517",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Department of Pediatrics, University of Minnesota, MN, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Sadil, Patrick",
+          "given_name": "Patrick",
+          "family_name": "Sadil",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-4141-1343",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, MD, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Papadopoulos Orfanos, Dimitri",
+          "given_name": "Dimitri",
+          "family_name": "Papadopoulos Orfanos",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-1242-8990",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Neurospin, CEA, Université Paris-Saclay, CNRS, 91191 Gif-sur-Yvette, France"
+          }
+        ]
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://fmriprep.org",
+        "scheme": "url",
+        "relation_type": {
+          "id": "ispartof",
+          "title": {
+            "de": "Ist Teil von",
+            "en": "Is part of"
+          }
+        }
+      },
+      {
+        "identifier": "10.1038/s41592-018-0235-4",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "ispartof",
+          "title": {
+            "de": "Ist Teil von",
+            "en": "Is part of"
+          }
+        }
+      }
+    ],
+    "version": "0.19.1",
+    "rights": [
+      {
+        "id": "apache-2.0",
+        "title": {
+          "en": "Apache License 2.0"
+        },
+        "description": {
+          "en": "A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code."
+        },
+        "props": {
+          "url": "http://www.apache.org/licenses/LICENSE-2.0",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "<p>A BIDS-App to preprocess anatomical (T1w, T2w and FLAIR) data, providing workflows for reuse in NIPreps (NeuroImaging PREProcesssing tools) such as fMRIPrep.</p>"
+  },
+  "custom_fields": {
+    "code:codeRepository": "https://github.com/nipreps/smriprep"
+  },
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 1,
+    "total_bytes": 22539509,
+    "entries": {
+      "nipreps/smriprep-0.19.1.zip": {
+        "id": "72ae9ea4-6434-490a-8487-9f89186cb8dd",
+        "checksum": "md5:d419db6ab2a73bd49210050525d69321",
+        "ext": "zip",
+        "size": 22539509,
+        "mimetype": "application/zip",
+        "key": "nipreps/smriprep-0.19.1.zip",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": false,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 1812,
+      "unique_views": 1801,
+      "downloads": 109,
+      "unique_downloads": 109,
+      "data_volume": 2456806481.0
+    },
+    "all_versions": {
+      "views": 8785,
+      "unique_views": 8610,
+      "downloads": 1646,
+      "unique_downloads": 1604,
+      "data_volume": 14536924037.0
+    }
+  },
+  "swh": {
+    "swhid": "swh:1:dir:85c416fd4c7b27d05b3fcb015e18b1028c3e547d;origin=https://doi.org/10.5281/zenodo.2650521;visit=swh:1:snp:8cbb94a3d5b3be05a870f63dbcfdf012b2805051;anchor=swh:1:rel:623652410f35ff001b37b91212a50a13bda8dc1a;path=nipreps-smriprep-eceaf3b"
+  },
+  "ui": {
+    "publication_date_l10n_medium": "Sep 19, 2025",
+    "publication_date_l10n_long": "September 19, 2025",
+    "created_date_l10n_long": "September 19, 2025",
+    "updated_date_l10n_long": "September 19, 2025",
+    "resource_type": {
+      "id": "software",
+      "title_l10n": "Software"
+    },
+    "custom_fields": {
+      "code:codeRepository": "https://github.com/nipreps/smriprep"
+    },
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Esteban, Oscar",
+            "given_name": "Oscar",
+            "family_name": "Esteban",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8435-6191",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Department of Psychology, Stanford University, CA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Markiewicz, Christopher J.",
+            "given_name": "Christopher J.",
+            "family_name": "Markiewicz",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6533-164X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Department of Psychology, Stanford University, CA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Blair, Ross",
+            "given_name": "Ross",
+            "family_name": "Blair",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3007-1056",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Department of Psychology, Stanford University, CA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Poldrack, Russell A.",
+            "given_name": "Russell A.",
+            "family_name": "Poldrack",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-6755-0259",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Department of Psychology, Stanford University, CA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gorgolewski, Krzysztof J.",
+            "given_name": "Krzysztof J.",
+            "family_name": "Gorgolewski",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3321-7583",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Department of Psychology, Stanford University, CA, USA"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "Department of Psychology, Stanford University, CA, USA",
+          null
+        ]
+      ]
+    },
+    "contributors": {
+      "contributors": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Lurie, Daniel J.",
+            "given_name": "Daniel J.",
+            "family_name": "Lurie",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8012-6399",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              1,
+              "Department of Psychology, University of California, Berkeley, CA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Goncalves, Mathias",
+            "given_name": "Mathias",
+            "family_name": "Goncalves",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-7252-7771",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              2,
+              "McGovern Institute for Brain Research, MIT, MA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Ghosh, Satrajit",
+            "given_name": "Satrajit",
+            "family_name": "Ghosh",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-5312-6729",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              3,
+              "McGovern Institute for Brain Research (MIT), and Department of Otolaryngology (Harvard Medical School), MA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Feczko, Eric",
+            "given_name": "Eric",
+            "family_name": "Feczko",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-1337-5517",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              4,
+              "Department of Pediatrics, University of Minnesota, MN, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Sadil, Patrick",
+            "given_name": "Patrick",
+            "family_name": "Sadil",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-4141-1343",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              5,
+              "Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, MD, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Papadopoulos Orfanos, Dimitri",
+            "given_name": "Dimitri",
+            "family_name": "Papadopoulos Orfanos",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-1242-8990",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              6,
+              "Neurospin, CEA, Université Paris-Saclay, CNRS, 91191 Gif-sur-Yvette, France"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "Department of Psychology, University of California, Berkeley, CA, USA",
+          null
+        ],
+        [
+          2,
+          "McGovern Institute for Brain Research, MIT, MA, USA",
+          null
+        ],
+        [
+          3,
+          "McGovern Institute for Brain Research (MIT), and Department of Otolaryngology (Harvard Medical School), MA, USA",
+          null
+        ],
+        [
+          4,
+          "Department of Pediatrics, University of Minnesota, MN, USA",
+          null
+        ],
+        [
+          5,
+          "Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, MD, USA",
+          null
+        ],
+        [
+          6,
+          "Neurospin, CEA, Université Paris-Saclay, CNRS, 91191 Gif-sur-Yvette, France",
+          null
+        ]
+      ]
+    },
+    "description_stripped": "A BIDS-App to preprocess anatomical (T1w, T2w and FLAIR) data, providing workflows for reuse in NIPreps (NeuroImaging PREProcesssing tools) such as fMRIPrep.",
+    "version": "0.19.1",
+    "related_identifiers": [
+      {
+        "identifier": "https://fmriprep.org",
+        "relation_type": {
+          "id": "ispartof",
+          "title_l10n": "Is part of"
+        },
+        "scheme": "url"
+      },
+      {
+        "identifier": "10.1038/s41592-018-0235-4",
+        "relation_type": {
+          "id": "ispartof",
+          "title_l10n": "Is part of"
+        },
+        "scheme": "doi"
+      }
+    ],
+    "rights": [
+      {
+        "id": "apache-2.0",
+        "title_l10n": "Apache License 2.0",
+        "description_l10n": "A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.",
+        "props": {
+          "url": "http://www.apache.org/licenses/LICENSE-2.0",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}

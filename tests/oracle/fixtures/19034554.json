@@ -1,0 +1,352 @@
+{
+  "id": "19034554",
+  "created": "2026-03-15T14:11:37.546305+00:00",
+  "updated": "2026-03-15T14:11:38.006808+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/19034554",
+    "self_html": "https://zenodo.org/records/19034554",
+    "preview_html": "https://zenodo.org/records/19034554?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.19034554",
+    "self_doi": "https://doi.org/10.5281/zenodo.19034554",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.19034554",
+    "reserve_doi": "https://zenodo.org/api/records/19034554/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/19034553",
+    "parent_html": "https://zenodo.org/records/19034553",
+    "parent_doi": "https://doi.org/10.5281/zenodo.19034553",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.19034553",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:19034554/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:19034554/sequence/default",
+    "files": "https://zenodo.org/api/records/19034554/files",
+    "media_files": "https://zenodo.org/api/records/19034554/media-files",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:19034554:AIoT_Health_PrePrint.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:19034554:AIoT_Health_PrePrint.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:19034554:AIoT_Health_PrePrint.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:19034554:AIoT_Health_PrePrint.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:19034554:AIoT_Health_PrePrint.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:19034554:AIoT_Health_PrePrint.pdf/full/%5E1200,/0/default.jpg"
+    },
+    "archive": "https://zenodo.org/api/records/19034554/files-archive",
+    "archive_media": "https://zenodo.org/api/records/19034554/media-files-archive",
+    "latest": "https://zenodo.org/api/records/19034554/versions/latest",
+    "latest_html": "https://zenodo.org/records/19034554/latest",
+    "versions": "https://zenodo.org/api/records/19034554/versions",
+    "draft": "https://zenodo.org/api/records/19034554/draft",
+    "access_links": "https://zenodo.org/api/records/19034554/access/links",
+    "access_grants": "https://zenodo.org/api/records/19034554/access/grants",
+    "access_users": "https://zenodo.org/api/records/19034554/access/users",
+    "access_request": "https://zenodo.org/api/records/19034554/access/request",
+    "access": "https://zenodo.org/api/records/19034554/access",
+    "communities": "https://zenodo.org/api/records/19034554/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/19034554/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/19034554/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/19034554/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/19034554/quota-increase",
+    "requests": "https://zenodo.org/api/records/19034554/requests"
+  },
+  "revision_id": 3,
+  "parent": {
+    "id": "19034553",
+    "access": {
+      "owned_by": {
+        "user": "1575674"
+      },
+      "settings": {
+        "allow_user_requests": true,
+        "allow_guest_requests": true,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.19034553",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 1
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.19034554",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:19034554",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "publication-preprint",
+      "title": {
+        "de": "Preprint",
+        "en": "Preprint"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Singh, Shivansh Pratap",
+          "given_name": "Shivansh Pratap",
+          "family_name": "Singh"
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Independent Researcher, Delhi, India"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gupta, Manoj Kumar",
+          "given_name": "Manoj Kumar",
+          "family_name": "Gupta"
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "id": "01ztcvt22",
+            "name": "Delhi Technological University",
+            "identifiers": [
+              {
+                "identifier": "01ztcvt22",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.440678.9",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0001 0674 5044",
+                "scheme": "isni"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "title": "AIoT Health: Medicine Reminder For The Elderly",
+    "publisher": "Springer",
+    "publication_date": "2026-03-15",
+    "subjects": [
+      {
+        "subject": "TinyML"
+      },
+      {
+        "subject": "IoT"
+      },
+      {
+        "subject": "EdgeAI"
+      },
+      {
+        "subject": "AI/ML"
+      },
+      {
+        "subject": "ESP32"
+      }
+    ],
+    "rights": [
+      {
+        "id": "cc-by-4.0",
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        },
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "<p><span>This paper presents a novel, ultra-low-cost medicine reminder system developed on the ESP32-S3 microcontroller, designed to support medication adherence through multimodal alerts and intelligent user interaction. Reminders are issued via an OLED display, buzzer, and pre-recorded voice prompts, while adherence is verified using physical sensors. The key innovation lies in the integration of a fully on-device, cascading TinyML pipeline: a Keyword Spotting (KWS) model triggers a Spoken Language Understanding (SLU) network for intent classification, enabling natural, context-aware voice interaction. Both models are optimized for the ESP32-S3, ensuring low-power, real-time inference without cloud dependency. The system further incorporates multimodal compliance verification (voice + lid + hand sensing) and caregiver notifications, achieving 96.4% KWS and 94.1% SLU accuracy with sub-100 ms latency and minimal memory footprint. Compared to existing low-cost solutions, our design provides higher adherence accuracy, improved robustness in noisy or resource-constrained environments, and enhanced accessibility for elderly or sensory-impaired users. Its modular, scalable architecture enables offline operation, privacy preservation, and adaptive functionality, offering a uniquely practical and intelligent healthcare companion.</span></p>"
+  },
+  "custom_fields": {
+    "meeting:meeting": {
+      "place": "India",
+      "title": "ICDECT-2025 Springer Lecture Notes in Networks and Systems"
+    }
+  },
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 1,
+    "total_bytes": 824567,
+    "entries": {
+      "AIoT_Health_PrePrint.pdf": {
+        "id": "c3c2f4bd-154c-49ee-8f49-7aff3c90a0f3",
+        "checksum": "md5:b0359fb06048f19502166cfe1cb71768",
+        "ext": "pdf",
+        "size": 824567,
+        "mimetype": "application/pdf",
+        "key": "AIoT_Health_PrePrint.pdf",
+        "metadata": {
+          "width": 595,
+          "height": 842
+        },
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": true,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 54,
+      "unique_views": 49,
+      "downloads": 29,
+      "unique_downloads": 24,
+      "data_volume": 23912443.0
+    },
+    "all_versions": {
+      "views": 54,
+      "unique_views": 49,
+      "downloads": 29,
+      "unique_downloads": 24,
+      "data_volume": 23912443.0
+    }
+  },
+  "swh": null,
+  "ui": {
+    "publication_date_l10n_medium": "Mar 15, 2026",
+    "publication_date_l10n_long": "March 15, 2026",
+    "created_date_l10n_long": "March 15, 2026",
+    "updated_date_l10n_long": "March 15, 2026",
+    "resource_type": {
+      "id": "publication-preprint",
+      "title_l10n": "Preprint"
+    },
+    "custom_fields": {
+      "meeting:meeting": {
+        "place": "India",
+        "title": "ICDECT-2025 Springer Lecture Notes in Networks and Systems"
+      }
+    },
+    "conference": {
+      "place": "India",
+      "title": "ICDECT-2025 Springer Lecture Notes in Networks and Systems"
+    },
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Singh, Shivansh Pratap",
+            "given_name": "Shivansh Pratap",
+            "family_name": "Singh"
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              1,
+              "Independent Researcher, Delhi, India"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gupta, Manoj Kumar",
+            "given_name": "Manoj Kumar",
+            "family_name": "Gupta"
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              2,
+              "Delhi Technological University"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "Independent Researcher, Delhi, India",
+          null
+        ],
+        [
+          2,
+          "Delhi Technological University",
+          "01ztcvt22"
+        ]
+      ]
+    },
+    "description_stripped": "This paper presents a novel, ultra-low-cost medicine reminder system developed on the ESP32-S3 microcontroller, designed to support medication adherence through multimodal alerts and intelligent user interaction. Reminders are issued via an OLED display, buzzer, and pre-recorded voice prompts, while adherence is verified using physical sensors. The key innovation lies in the integration of a fully on-device, cascading TinyML pipeline: a Keyword Spotting (KWS) model triggers a Spoken Language Understanding (SLU) network for intent classification, enabling natural, context-aware voice interaction. Both models are optimized for the ESP32-S3, ensuring low-power, real-time inference without cloud dependency. The system further incorporates multimodal compliance verification (voice + lid + hand sensing) and caregiver notifications, achieving 96.4% KWS and 94.1% SLU accuracy with sub-100 ms latency and minimal memory footprint. Compared to existing low-cost solutions, our design provides higher adherence accuracy, improved robustness in noisy or resource-constrained environments, and enhanced accessibility for elderly or sensory-impaired users. Its modular, scalable architecture enables offline operation, privacy preservation, and adaptive functionality, offering a uniquely practical and intelligent healthcare companion.",
+    "version": "v1",
+    "rights": [
+      {
+        "id": "cc-by-4.0",
+        "title_l10n": "Creative Commons Attribution 4.0 International",
+        "description_l10n": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited.",
+        "icon": "cc-by-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}

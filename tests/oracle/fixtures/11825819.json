@@ -1,0 +1,638 @@
+{
+  "id": "11825819",
+  "created": "2024-06-16T13:10:10.278612+00:00",
+  "updated": "2024-06-16T13:10:10.595584+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/11825819",
+    "self_html": "https://zenodo.org/records/11825819",
+    "preview_html": "https://zenodo.org/records/11825819?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.11825819",
+    "self_doi": "https://doi.org/10.5281/zenodo.11825819",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.11825819",
+    "reserve_doi": "https://zenodo.org/api/records/11825819/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/6833099",
+    "parent_html": "https://zenodo.org/records/6833099",
+    "parent_doi": "https://doi.org/10.5281/zenodo.6833099",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.6833099",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:11825819/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:11825819/sequence/default",
+    "files": "https://zenodo.org/api/records/11825819/files",
+    "media_files": "https://zenodo.org/api/records/11825819/media-files",
+    "archive": "https://zenodo.org/api/records/11825819/files-archive",
+    "archive_media": "https://zenodo.org/api/records/11825819/media-files-archive",
+    "latest": "https://zenodo.org/api/records/11825819/versions/latest",
+    "latest_html": "https://zenodo.org/records/11825819/latest",
+    "versions": "https://zenodo.org/api/records/11825819/versions",
+    "draft": "https://zenodo.org/api/records/11825819/draft",
+    "access_links": "https://zenodo.org/api/records/11825819/access/links",
+    "access_grants": "https://zenodo.org/api/records/11825819/access/grants",
+    "access_users": "https://zenodo.org/api/records/11825819/access/users",
+    "access_request": "https://zenodo.org/api/records/11825819/access/request",
+    "access": "https://zenodo.org/api/records/11825819/access",
+    "communities": "https://zenodo.org/api/records/11825819/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/11825819/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/11825819/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/11825819/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/11825819/quota-increase",
+    "requests": "https://zenodo.org/api/records/11825819/requests"
+  },
+  "revision_id": 4,
+  "parent": {
+    "id": "6833099",
+    "access": {
+      "owned_by": {
+        "user": "370947"
+      },
+      "settings": {
+        "allow_user_requests": false,
+        "allow_guest_requests": false,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.6833099",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 19
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.11825819",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:11825819",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "software",
+      "title": {
+        "de": "Software",
+        "en": "Software"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Halchenko, Yaroslav O.",
+          "given_name": "Yaroslav O.",
+          "family_name": "Halchenko",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3456-2493",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Dartmouth College, Hanover, NH, United States"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Hanke, Michael",
+          "given_name": "Michael",
+          "family_name": "Hanke",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6398-6370",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany and Institute of Systems Neuroscience, Medical Faculty, Heinrich Heine University Düsseldorf, Düsseldorf, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Heunis, Stephan",
+          "given_name": "Stephan",
+          "family_name": "Heunis",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3503-9872",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Markiewicz, Christopher J.",
+          "given_name": "Christopher J.",
+          "family_name": "Markiewicz",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6533-164X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Stanford University, Stanford, CA, United States"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Mönch, Christian",
+          "given_name": "Christian",
+          "family_name": "Mönch",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-3092-0612",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Poldrack, Benjamin",
+          "given_name": "Benjamin",
+          "family_name": "Poldrack",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7628-0801",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Szczepanik, Michał",
+          "given_name": "Michał",
+          "family_name": "Szczepanik",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-4028-2087",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Wagner, Adina S.",
+          "given_name": "Adina S.",
+          "family_name": "Wagner",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-2917-3450",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Wodder II, John T.",
+          "given_name": "John T.",
+          "family_name": "Wodder II",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7106-2661",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Trainito, Caterina",
+          "given_name": "Caterina",
+          "family_name": "Trainito",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-1713-8343",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      }
+    ],
+    "title": "DataLad-next extension",
+    "publisher": "Zenodo",
+    "publication_date": "2024-06-16",
+    "subjects": [
+      {
+        "subject": "data management"
+      },
+      {
+        "subject": "data distribution"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/datalad/datalad-next/tree/1.5.0",
+        "scheme": "url",
+        "relation_type": {
+          "id": "issupplementto",
+          "title": {
+            "de": "Ergänzt",
+            "en": "Is supplement to"
+          }
+        },
+        "resource_type": {
+          "id": "software",
+          "title": {
+            "de": "Software",
+            "en": "Software"
+          }
+        }
+      }
+    ],
+    "version": "1.5.0",
+    "rights": [
+      {
+        "id": "mit",
+        "title": {
+          "en": "MIT License"
+        },
+        "description": {
+          "en": "A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code."
+        },
+        "props": {
+          "url": "https://opensource.org/licenses/MIT",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "<h2>💫 New features</h2>\n<ul>\n<li>new support subpackage for Git's pathspecs <a href=\"https://github.com/datalad/datalad-next/commit/8d05f1cd\">[8d05f1cd]</a></li>\n<li>add pathspec support to <code>iter_(gitworktree|submodules)()</code> <a href=\"https://github.com/datalad/datalad-next/commit/7622267c\">[7622267c]</a></li>\n<li><code>GitWorktreeFileSystemItem</code>:<ul>\n<li>method to convert <code>GitWorktreeItem</code> <a href=\"https://github.com/datalad/datalad-next/commit/30858780\">[30858780]</a></li>\n</ul>\n</li>\n<li><code>iter_gitworktree</code>:<ul>\n<li>added submodule recursion with pathspec support <a href=\"https://github.com/datalad/datalad-next/commit/2851ec4c\">[2851ec4c]</a></li>\n<li>add ability to report untracked content only <a href=\"https://github.com/datalad/datalad-next/commit/2763b10f\">[2763b10f]</a></li>\n</ul>\n</li>\n<li><code>iter_submodules</code>:<ul>\n<li>add <code>match_containing</code> mode <a href=\"https://github.com/datalad/datalad-next/commit/8025b7bd\">[8025b7bd]</a></li>\n</ul>\n</li>\n</ul>\n<h2>🐛 Bug Fixes</h2>\n<ul>\n<li><code>iter_gitstatus</code>:<ul>\n<li>support newly added submodules <a href=\"https://github.com/datalad/datalad-next/commit/fd197ad6\">[fd197ad6]</a></li>\n</ul>\n</li>\n<li><code>iter_gitstatus</code>:<ul>\n<li>rectify usage of unsupported <code>untracked=no</code> mode in tests <a href=\"https://github.com/datalad/datalad-next/commit/673e6c22\">[673e6c22]</a></li>\n</ul>\n</li>\n<li>Patches for DataLad (core):<ul>\n<li>fix <code>create_sibling_ria</code> patching <a href=\"https://github.com/datalad/datalad-next/commit/78e29b5d\">[78e29b5d]</a></li>\n</ul>\n</li>\n</ul>\n<h2>📝 Documentation</h2>\n<ul>\n<li>Contributing guide:<ul>\n<li>expand description of expected commit messages <a href=\"https://github.com/datalad/datalad-next/commit/04f68b49\">[04f68b49]</a></li>\n</ul>\n</li>\n</ul>"
+  },
+  "custom_fields": {},
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 1,
+    "total_bytes": 597536,
+    "entries": {
+      "datalad/datalad-next-1.5.0.zip": {
+        "id": "432d11ae-0089-4f41-abd7-e1ed9eab5c41",
+        "checksum": "md5:1ba8abd3ac5aed5ef4020fe2eb70ffce",
+        "ext": "zip",
+        "size": 597536,
+        "mimetype": "application/zip",
+        "key": "datalad/datalad-next-1.5.0.zip",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": false,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 499,
+      "unique_views": 498,
+      "downloads": 55,
+      "unique_downloads": 55,
+      "data_volume": 32864480.0
+    },
+    "all_versions": {
+      "views": 1837,
+      "unique_views": 1812,
+      "downloads": 580,
+      "unique_downloads": 481,
+      "data_volume": 170959044.0
+    }
+  },
+  "swh": null,
+  "ui": {
+    "publication_date_l10n_medium": "Jun 16, 2024",
+    "publication_date_l10n_long": "June 16, 2024",
+    "created_date_l10n_long": "June 16, 2024",
+    "updated_date_l10n_long": "June 16, 2024",
+    "resource_type": {
+      "id": "software",
+      "title_l10n": "Software"
+    },
+    "custom_fields": {},
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Halchenko, Yaroslav O.",
+            "given_name": "Yaroslav O.",
+            "family_name": "Halchenko",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3456-2493",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Dartmouth College, Hanover, NH, United States"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Hanke, Michael",
+            "given_name": "Michael",
+            "family_name": "Hanke",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-6398-6370",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              2,
+              "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany and Institute of Systems Neuroscience, Medical Faculty, Heinrich Heine University Düsseldorf, Düsseldorf, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Heunis, Stephan",
+            "given_name": "Stephan",
+            "family_name": "Heunis",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3503-9872",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              3,
+              "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Markiewicz, Christopher J.",
+            "given_name": "Christopher J.",
+            "family_name": "Markiewicz",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6533-164X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              4,
+              "Stanford University, Stanford, CA, United States"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Mönch, Christian",
+            "given_name": "Christian",
+            "family_name": "Mönch",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-3092-0612",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              3,
+              "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Poldrack, Benjamin",
+            "given_name": "Benjamin",
+            "family_name": "Poldrack",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7628-0801",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              3,
+              "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Szczepanik, Michał",
+            "given_name": "Michał",
+            "family_name": "Szczepanik",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-4028-2087",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              3,
+              "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Wagner, Adina S.",
+            "given_name": "Adina S.",
+            "family_name": "Wagner",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-2917-3450",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              3,
+              "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Wodder II, John T.",
+            "given_name": "John T.",
+            "family_name": "Wodder II",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7106-2661",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Trainito, Caterina",
+            "given_name": "Caterina",
+            "family_name": "Trainito",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-1713-8343",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "Dartmouth College, Hanover, NH, United States",
+          null
+        ],
+        [
+          2,
+          "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany and Institute of Systems Neuroscience, Medical Faculty, Heinrich Heine University Düsseldorf, Düsseldorf, Germany",
+          null
+        ],
+        [
+          3,
+          "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany",
+          null
+        ],
+        [
+          4,
+          "Stanford University, Stanford, CA, United States",
+          null
+        ]
+      ]
+    },
+    "description_stripped": "💫 New features\n\n\n\nnew support subpackage for Git's pathspecs [8d05f1cd]\n\nadd pathspec support to iter_(gitworktree|submodules)() [7622267c]\n\nGitWorktreeFileSystemItem:\n\n\nmethod to convert GitWorktreeItem [30858780]\n\n\n\niter_gitworktree:\n\n\nadded submodule recursion with pathspec support [2851ec4c]\n\nadd ability to report untracked content only [2763b10f]\n\n\n\niter_submodules:\n\n\nadd match_containing mode [8025b7bd]\n\n\n\n\n🐛 Bug Fixes\n\n\n\niter_gitstatus:\n\n\nsupport newly added submodules [fd197ad6]\n\n\n\niter_gitstatus:\n\n\nrectify usage of unsupported untracked=no mode in tests [673e6c22]\n\n\n\nPatches for DataLad (core):\n\n\nfix create_sibling_ria patching [78e29b5d]\n\n\n\n\n📝 Documentation\n\n\n\nContributing guide:\n\n\nexpand description of expected commit messages [04f68b49]",
+    "version": "1.5.0",
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/datalad/datalad-next/tree/1.5.0",
+        "relation_type": {
+          "id": "issupplementto",
+          "title_l10n": "Is supplement to"
+        },
+        "scheme": "url",
+        "resource_type": {
+          "id": "software",
+          "title_l10n": "Software"
+        }
+      }
+    ],
+    "rights": [
+      {
+        "id": "mit",
+        "title_l10n": "MIT License",
+        "description_l10n": "A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.",
+        "props": {
+          "url": "https://opensource.org/licenses/MIT",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}

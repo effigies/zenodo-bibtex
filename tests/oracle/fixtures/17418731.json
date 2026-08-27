@@ -1,0 +1,504 @@
+{
+  "id": "17418731",
+  "created": "2025-10-22T18:18:41.580553+00:00",
+  "updated": "2025-10-22T18:18:41.832957+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/17418731",
+    "self_html": "https://zenodo.org/records/17418731",
+    "preview_html": "https://zenodo.org/records/17418731?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.17418731",
+    "self_doi": "https://doi.org/10.5281/zenodo.17418731",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17418731",
+    "reserve_doi": "https://zenodo.org/api/records/17418731/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/4917621",
+    "parent_html": "https://zenodo.org/records/4917621",
+    "parent_doi": "https://doi.org/10.5281/zenodo.4917621",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.4917621",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:17418731/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:17418731/sequence/default",
+    "files": "https://zenodo.org/api/records/17418731/files",
+    "media_files": "https://zenodo.org/api/records/17418731/media-files",
+    "archive": "https://zenodo.org/api/records/17418731/files-archive",
+    "archive_media": "https://zenodo.org/api/records/17418731/media-files-archive",
+    "latest": "https://zenodo.org/api/records/17418731/versions/latest",
+    "latest_html": "https://zenodo.org/records/17418731/latest",
+    "versions": "https://zenodo.org/api/records/17418731/versions",
+    "draft": "https://zenodo.org/api/records/17418731/draft",
+    "access_links": "https://zenodo.org/api/records/17418731/access/links",
+    "access_grants": "https://zenodo.org/api/records/17418731/access/grants",
+    "access_users": "https://zenodo.org/api/records/17418731/access/users",
+    "access_request": "https://zenodo.org/api/records/17418731/access/request",
+    "access": "https://zenodo.org/api/records/17418731/access",
+    "communities": "https://zenodo.org/api/records/17418731/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/17418731/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/17418731/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/17418731/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/17418731/quota-increase",
+    "requests": "https://zenodo.org/api/records/17418731/requests"
+  },
+  "revision_id": 4,
+  "parent": {
+    "id": "4917621",
+    "access": {
+      "owned_by": {
+        "user": "234063"
+      },
+      "settings": {
+        "allow_user_requests": false,
+        "allow_guest_requests": false,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.4917621",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 36
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.17418731",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:17418731",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "software",
+      "title": {
+        "de": "Software",
+        "en": "Software"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Goncalves, Mathias",
+          "given_name": "Mathias",
+          "family_name": "Goncalves",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-7252-7771",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Markiewicz, Christopher J.",
+          "given_name": "Christopher J.",
+          "family_name": "Markiewicz",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6533-164X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Esteban, Oscar",
+          "given_name": "Oscar",
+          "family_name": "Esteban",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8435-6191",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Feczko, Eric",
+          "given_name": "Eric",
+          "family_name": "Feczko"
+        },
+        "affiliations": [
+          {
+            "name": "University of Minnesota"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Poldrack, Russell A.",
+          "given_name": "Russell A.",
+          "family_name": "Poldrack",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6755-0259",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Fair, Damien A.",
+          "given_name": "Damien A.",
+          "family_name": "Fair"
+        },
+        "affiliations": [
+          {
+            "name": "University of Minnesota"
+          }
+        ]
+      }
+    ],
+    "title": "NiBabies: a robust preprocessing pipeline for infant functional MRI",
+    "publisher": "Zenodo",
+    "publication_date": "2025-10-22",
+    "subjects": [
+      {
+        "subject": "neuroimaging"
+      },
+      {
+        "subject": "workflow"
+      },
+      {
+        "subject": "pipeline"
+      },
+      {
+        "subject": "preprocessing"
+      },
+      {
+        "subject": "fMRI"
+      },
+      {
+        "subject": "BIDS"
+      },
+      {
+        "subject": "infant"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/nipreps/nibabies",
+        "scheme": "url",
+        "relation_type": {
+          "id": "documents",
+          "title": {
+            "de": "Dokumentiert",
+            "en": "Documents"
+          }
+        }
+      },
+      {
+        "identifier": "10.5281/zenodo.6418986",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "ispartof",
+          "title": {
+            "de": "Ist Teil von",
+            "en": "Is part of"
+          }
+        }
+      }
+    ],
+    "version": "25.2.1",
+    "rights": [
+      {
+        "id": "apache-2.0",
+        "title": {
+          "en": "Apache License 2.0"
+        },
+        "description": {
+          "en": "A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code."
+        },
+        "props": {
+          "url": "http://www.apache.org/licenses/LICENSE-2.0",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "<p>NiBabies is a robust and easy-to-use pipeline for preprocessing of diverse infant and neonate fMRI data. The transparent workflow dispenses of manual intervention, thereby ensuring the reproducibility of the results.</p>"
+  },
+  "custom_fields": {
+    "code:codeRepository": "https://github.com/nipreps/nibabies"
+  },
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 1,
+    "total_bytes": 2477923,
+    "entries": {
+      "nipreps/nibabies-25.2.1.zip": {
+        "id": "fe62f078-5271-432d-8cbe-e1fdd57a7074",
+        "checksum": "md5:fc0af01460d94fb1c115a76d6fa9a4ab",
+        "ext": "zip",
+        "size": 2477923,
+        "mimetype": "application/zip",
+        "key": "nipreps/nibabies-25.2.1.zip",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": false,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 722,
+      "unique_views": 712,
+      "downloads": 73,
+      "unique_downloads": 72,
+      "data_volume": 180888379.0
+    },
+    "all_versions": {
+      "views": 4414,
+      "unique_views": 4299,
+      "downloads": 900,
+      "unique_downloads": 890,
+      "data_volume": 2506090186.0
+    }
+  },
+  "swh": {
+    "swhid": "swh:1:dir:c19055386528ab67f9167b2e32594a5a4c9df08c;origin=https://doi.org/10.5281/zenodo.4917621;visit=swh:1:snp:18007b3bd7195e8bcb3002aebfac1f98d12224e3;anchor=swh:1:rel:841ab284defc4ecbcec9ae316301344e6601079f;path=nipreps-nibabies-023ef71"
+  },
+  "ui": {
+    "publication_date_l10n_medium": "Oct 22, 2025",
+    "publication_date_l10n_long": "October 22, 2025",
+    "created_date_l10n_long": "October 22, 2025",
+    "updated_date_l10n_long": "October 22, 2025",
+    "resource_type": {
+      "id": "software",
+      "title_l10n": "Software"
+    },
+    "custom_fields": {
+      "code:codeRepository": "https://github.com/nipreps/nibabies"
+    },
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Goncalves, Mathias",
+            "given_name": "Mathias",
+            "family_name": "Goncalves",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-7252-7771",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Department of Psychology, Stanford University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Markiewicz, Christopher J.",
+            "given_name": "Christopher J.",
+            "family_name": "Markiewicz",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6533-164X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Department of Psychology, Stanford University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Esteban, Oscar",
+            "given_name": "Oscar",
+            "family_name": "Esteban",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8435-6191",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              2,
+              "Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Feczko, Eric",
+            "given_name": "Eric",
+            "family_name": "Feczko"
+          },
+          "affiliations": [
+            [
+              3,
+              "University of Minnesota"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Poldrack, Russell A.",
+            "given_name": "Russell A.",
+            "family_name": "Poldrack",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-6755-0259",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Department of Psychology, Stanford University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Fair, Damien A.",
+            "given_name": "Damien A.",
+            "family_name": "Fair"
+          },
+          "affiliations": [
+            [
+              3,
+              "University of Minnesota"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "Department of Psychology, Stanford University",
+          null
+        ],
+        [
+          2,
+          "Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland",
+          null
+        ],
+        [
+          3,
+          "University of Minnesota",
+          null
+        ]
+      ]
+    },
+    "description_stripped": "NiBabies is a robust and easy-to-use pipeline for preprocessing of diverse infant and neonate fMRI data. The transparent workflow dispenses of manual intervention, thereby ensuring the reproducibility of the results.",
+    "version": "25.2.1",
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/nipreps/nibabies",
+        "relation_type": {
+          "id": "documents",
+          "title_l10n": "Documents"
+        },
+        "scheme": "url"
+      },
+      {
+        "identifier": "10.5281/zenodo.6418986",
+        "relation_type": {
+          "id": "ispartof",
+          "title_l10n": "Is part of"
+        },
+        "scheme": "doi"
+      }
+    ],
+    "rights": [
+      {
+        "id": "apache-2.0",
+        "title_l10n": "Apache License 2.0",
+        "description_l10n": "A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.",
+        "props": {
+          "url": "http://www.apache.org/licenses/LICENSE-2.0",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}

@@ -1,0 +1,6758 @@
+{
+  "id": "21126970",
+  "created": "2026-07-02T06:46:59.014270+00:00",
+  "updated": "2026-07-02T06:46:59.325412+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/21126970",
+    "self_html": "https://zenodo.org/records/21126970",
+    "preview_html": "https://zenodo.org/records/21126970?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.21126970",
+    "self_doi": "https://doi.org/10.5281/zenodo.21126970",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.21126970",
+    "reserve_doi": "https://zenodo.org/api/records/21126970/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/8397156",
+    "parent_html": "https://zenodo.org/records/8397156",
+    "parent_doi": "https://doi.org/10.5281/zenodo.8397156",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.8397156",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:21126970/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:21126970/sequence/default",
+    "files": "https://zenodo.org/api/records/21126970/files",
+    "media_files": "https://zenodo.org/api/records/21126970/media-files",
+    "archive": "https://zenodo.org/api/records/21126970/files-archive",
+    "archive_media": "https://zenodo.org/api/records/21126970/media-files-archive",
+    "latest": "https://zenodo.org/api/records/21126970/versions/latest",
+    "latest_html": "https://zenodo.org/records/21126970/latest",
+    "versions": "https://zenodo.org/api/records/21126970/versions",
+    "draft": "https://zenodo.org/api/records/21126970/draft",
+    "access_links": "https://zenodo.org/api/records/21126970/access/links",
+    "access_grants": "https://zenodo.org/api/records/21126970/access/grants",
+    "access_users": "https://zenodo.org/api/records/21126970/access/users",
+    "access_request": "https://zenodo.org/api/records/21126970/access/request",
+    "access": "https://zenodo.org/api/records/21126970/access",
+    "communities": "https://zenodo.org/api/records/21126970/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/21126970/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/21126970/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/21126970/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/21126970/quota-increase",
+    "requests": "https://zenodo.org/api/records/21126970/requests"
+  },
+  "revision_id": 4,
+  "parent": {
+    "id": "8397156",
+    "access": {
+      "owned_by": {
+        "user": "609069"
+      },
+      "settings": {
+        "allow_user_requests": false,
+        "allow_guest_requests": false,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.8397156",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 15
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.21126970",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:21126970",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "software",
+      "title": {
+        "de": "Software",
+        "en": "Software"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Nilearn contributors",
+          "family_name": "Nilearn contributors"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Chamma, Ahmad",
+          "given_name": "Ahmad",
+          "family_name": "Chamma",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-0975-133X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Inria, Saclay, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Frau-Pascual, Aina",
+          "given_name": "Aina",
+          "family_name": "Frau-Pascual",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6311-8426",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Rothberg, Alex",
+          "given_name": "Alex",
+          "family_name": "Rothberg"
+        },
+        "affiliations": [
+          {
+            "name": "Free Agency, New York, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Abadie, Alexandre",
+          "given_name": "Alexandre",
+          "family_name": "Abadie"
+        },
+        "affiliations": [
+          {
+            "name": "Inria, Paris"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Abraham, Alexandre",
+          "given_name": "Alexandre",
+          "family_name": "Abraham",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3693-0560",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Bazemont, Île-de-France, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gramfort, Alexandre",
+          "given_name": "Alexandre",
+          "family_name": "Gramfort",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-9791-4404",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Meta, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Savio, Alexandre",
+          "given_name": "Alexandre",
+          "family_name": "Savio"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Cionca, Alexandre",
+          "given_name": "Alexandre",
+          "family_name": "Cionca",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-1910-9650",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Centre Hospitalier Universitaire Vaudoise, Lausanne, Switzerland"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Sayal, Alexandre",
+          "given_name": "Alexandre",
+          "family_name": "Sayal"
+        },
+        "affiliations": [
+          {
+            "name": "CIBIT, University of Coimbra, Portugal"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Thual, Alexis",
+          "given_name": "Alexis",
+          "family_name": "Thual"
+        },
+        "affiliations": [
+          {
+            "name": "Inria, Saclay, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Kodibagkar, Alisha",
+          "given_name": "Alisha",
+          "family_name": "Kodibagkar",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-0951-242X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "MIT McGovern Institute, Cambridge, Massachusetts, United States"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Kanaan, Amadeus",
+          "given_name": "Amadeus",
+          "family_name": "Kanaan"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Pinho, Ana Luisa",
+          "given_name": "Ana Luisa",
+          "family_name": "Pinho"
+        },
+        "affiliations": [
+          {
+            "name": "Western University, London, Ontario, Canada"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Joshi, Anand",
+          "given_name": "Anand",
+          "family_name": "Joshi"
+        },
+        "affiliations": [
+          {
+            "name": "University of Southern California, Los Angeles, California, United States"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Idrobo, Andrés Hoyos",
+          "given_name": "Andrés Hoyos",
+          "family_name": "Idrobo"
+        },
+        "affiliations": [
+          {
+            "name": "Rakuten, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Kieslinger, Anne-Sophie",
+          "given_name": "Anne-Sophie",
+          "family_name": "Kieslinger"
+        },
+        "affiliations": [
+          {
+            "name": "Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germnay"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Kumari, Anupriya",
+          "given_name": "Anupriya",
+          "family_name": "Kumari"
+        },
+        "affiliations": [
+          {
+            "name": "Indian Institute of Technology, Roorkee, India"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Rokem, Ariel",
+          "given_name": "Ariel",
+          "family_name": "Rokem",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-0679-1985",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University of Washington, Psychology, Seattle, Washington, 98107, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Mensch, Arthur",
+          "given_name": "Arthur",
+          "family_name": "Mensch",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7866-0461",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Vijayan, Aswin",
+          "given_name": "Aswin",
+          "family_name": "Vijayan"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Duran, Audrey",
+          "given_name": "Audrey",
+          "family_name": "Duran"
+        },
+        "affiliations": [
+          {
+            "name": "TheraPanacea, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Pinsard, Basile",
+          "given_name": "Basile",
+          "family_name": "Pinsard"
+        },
+        "affiliations": [
+          {
+            "name": "Montréal Geriatrics Institute (CRIUGM), Montréal, Canada"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Cagna, Bastien",
+          "given_name": "Bastien",
+          "family_name": "Cagna",
+          "identifiers": [
+            {
+              "identifier": "0009-0005-4243-5234",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "CATI, APHP, Paris, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Cipollini, Ben",
+          "given_name": "Ben",
+          "family_name": "Cipollini"
+        },
+        "affiliations": [
+          {
+            "name": "Facebook, Hayward, California, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Thirion, Bertrand",
+          "given_name": "Bertrand",
+          "family_name": "Thirion",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-5018-7895",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Inria, Saclay, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Nguyen, Binh",
+          "given_name": "Binh",
+          "family_name": "Nguyen"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Cakan, Caglar",
+          "given_name": "Caglar",
+          "family_name": "Cakan",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-1902-5393",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Technische Universität Berlin, Berlin, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Hampson, Chloe",
+          "given_name": "Chloe",
+          "family_name": "Hampson",
+          "identifiers": [
+            {
+              "identifier": "0009-0005-1212-9324",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Florida International University, Miami, United States"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Rorden, Chris",
+          "given_name": "Chris",
+          "family_name": "Rorden"
+        },
+        "affiliations": [
+          {
+            "name": "University of South Carolina, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gorgolewski, Chris",
+          "given_name": "Chris",
+          "family_name": "Gorgolewski",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3321-7583",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Google LLC"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Markiewicz, Chris",
+          "given_name": "Chris",
+          "family_name": "Markiewicz",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6533-164X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Stanford University, Stanford, California, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Horea, Christian",
+          "given_name": "Christian",
+          "family_name": "Horea",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7037-2449",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Dartmouth College, PBS, Hanover, New Hampshire, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gerloff, Christian",
+          "given_name": "Christian",
+          "family_name": "Gerloff"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Roßmanith, Christina",
+          "given_name": "Christina",
+          "family_name": "Roßmanith"
+        },
+        "affiliations": [
+          {
+            "name": "Dept. of Neurology, Medical Faculty Mannheim, University of Heidelberg, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Reininger, Colin",
+          "given_name": "Colin",
+          "family_name": "Reininger"
+        },
+        "affiliations": [
+          {
+            "name": "Denver, Colorado, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Lane, Connor",
+          "given_name": "Connor",
+          "family_name": "Lane"
+        },
+        "affiliations": [
+          {
+            "name": "Child Mind Institute, Baltimore, MD, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Sy, Czarina",
+          "given_name": "Czarina",
+          "family_name": "Sy"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Delettre, Céline",
+          "given_name": "Céline",
+          "family_name": "Delettre"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gale, Dan",
+          "given_name": "Dan",
+          "family_name": "Gale"
+        },
+        "affiliations": [
+          {
+            "name": "Centre for Neuroscience Studie, Queen University, Kingston, Ontario, Canada"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gomez, Daniel",
+          "given_name": "Daniel",
+          "family_name": "Gomez"
+        },
+        "affiliations": [
+          {
+            "name": "Cambridge, Massachusetts, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Bzdok, Danilo",
+          "given_name": "Danilo",
+          "family_name": "Bzdok"
+        },
+        "affiliations": [
+          {
+            "name": "McGill University & Mila Quebec AI Institute, Montréal, Canada"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Ellis, David G",
+          "given_name": "David G",
+          "family_name": "Ellis"
+        },
+        "affiliations": [
+          {
+            "name": "University of Nebraska Medical Center, Nebraska, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Wassermann, Demian",
+          "given_name": "Demian",
+          "family_name": "Wassermann",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-5194-6056",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Inria, Saclay, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Pisner, Derek",
+          "given_name": "Derek",
+          "family_name": "Pisner",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-1228-0201",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "St. Petersburg, FL"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Orfanos, Dimitri Papadopoulos",
+          "given_name": "Dimitri Papadopoulos",
+          "family_name": "Orfanos",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-1242-8990",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "NeuroSpin, CEA, Université Paris-Saclay, Gif-sur-Yvette, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "DuPre, Elizabeth",
+          "given_name": "Elizabeth",
+          "family_name": "DuPre",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-1358-196X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Stanford University, Stanford, California, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Dohmatob, Elvis",
+          "given_name": "Elvis",
+          "family_name": "Dohmatob"
+        },
+        "affiliations": [
+          {
+            "name": "Facebook AI Research (FAIR)"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Larson, Eric",
+          "given_name": "Eric",
+          "family_name": "Larson"
+        },
+        "affiliations": [
+          {
+            "name": "Institute for Learning and Brain Sciences, University of Washington, Washington, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Edmond, Evan",
+          "given_name": "Evan",
+          "family_name": "Edmond",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-4641-3583",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University of Oxford, Oxford, UK"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Pedregosa, Fabian",
+          "given_name": "Fabian",
+          "family_name": "Pedregosa",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-4025-3953",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "@google, Geneva, Switzerland"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Ponce, Fernanda",
+          "given_name": "Fernanda",
+          "family_name": "Ponce",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7142-0975",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Université Paris-Saclay, Inria, Saclay, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Pollet, Florent",
+          "given_name": "Florent",
+          "family_name": "Pollet"
+        },
+        "affiliations": [
+          {
+            "name": "ENS Paris-Saclay, Saclay, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Liem, Franz",
+          "given_name": "Franz",
+          "family_name": "Liem"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Paugam, François",
+          "given_name": "François",
+          "family_name": "Paugam",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-8161-7699",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Amorosino, Gabriele",
+          "given_name": "Gabriele",
+          "family_name": "Amorosino",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-2789-5193",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, The University of Texas at Austin, TX, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Varoquaux, Gael",
+          "given_name": "Gael",
+          "family_name": "Varoquaux",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-1076-5122",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Inria, Saclay, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Hollander, Gilles de",
+          "given_name": "Gilles de",
+          "family_name": "Hollander",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-1988-5091",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Vrije Universiteit, Amsterdam, The Netherlands"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Kiar, Greg",
+          "given_name": "Greg",
+          "family_name": "Kiar",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8915-496X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Child Mind Institute"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gilmore, Greydon",
+          "given_name": "Greydon",
+          "family_name": "Gilmore",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7523-5734",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Mathematics, Western University, Toronto, Canada"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Lemaitre, Guillaume",
+          "given_name": "Guillaume",
+          "family_name": "Lemaitre",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-0897-6791",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Inria, Saclay, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Magnusson, Gustav",
+          "given_name": "Gustav",
+          "family_name": "Magnusson",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-1668-2021",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Linköping University, Linköping"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gözükan, Hande",
+          "given_name": "Hande",
+          "family_name": "Gözükan"
+        },
+        "affiliations": [
+          {
+            "name": "Inria, Saclay, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Wang, Hao-Ting",
+          "given_name": "Hao-Ting",
+          "family_name": "Wang",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-4078-2038",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Montréal Geriatrics Institute (CRIUGM), Montréal, Canada"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Aggarwal, Himanshu",
+          "given_name": "Himanshu",
+          "family_name": "Aggarwal",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-2451-0470",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Inria, Saclay, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Delhaye, Hugo",
+          "given_name": "Hugo",
+          "family_name": "Delhaye",
+          "identifiers": [
+            {
+              "identifier": "0009-0002-8540-6394",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "SIMEXP, Université de Montréal, Montréal, Canada"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Abenes, Ian",
+          "given_name": "Ian",
+          "family_name": "Abenes",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-7625-1557",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Traore, Idrissa",
+          "given_name": "Idrissa",
+          "family_name": "Traore"
+        },
+        "affiliations": [
+          {
+            "name": "IMT Atlantique, Brest, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Vogel, Jake",
+          "given_name": "Jake",
+          "family_name": "Vogel"
+        },
+        "affiliations": [
+          {
+            "name": "Department of Clinical Sciences, SciLifeLab, Lund University, Lund, Sweden"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Margeta, Jan",
+          "given_name": "Jan",
+          "family_name": "Margeta",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-4882-0502",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "KardioMe, Nova Dubnica, Slovakia"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Grobler, Jaques",
+          "given_name": "Jaques",
+          "family_name": "Grobler"
+        },
+        "affiliations": [
+          {
+            "name": "Anyline GmbH, Vienna, Austria"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gors, Jason",
+          "given_name": "Jason",
+          "family_name": "Gors"
+        },
+        "affiliations": [
+          {
+            "name": "Insight Data Science, Mountain View, California, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Kai, Jason",
+          "given_name": "Jason",
+          "family_name": "Kai"
+        },
+        "affiliations": [
+          {
+            "name": "Child Mind Institute"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Yeatman, Jason D.",
+          "given_name": "Jason D.",
+          "family_name": "Yeatman"
+        },
+        "affiliations": [
+          {
+            "name": "Stanford University, Stanford, California, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Rasero, Javier",
+          "given_name": "Javier",
+          "family_name": "Rasero",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-1661-2856",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "School of Data Science, University of Virginia, Viginia, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Kossaifi, Jean",
+          "given_name": "Jean",
+          "family_name": "Kossaifi"
+        },
+        "affiliations": [
+          {
+            "name": "Imperial College London, London, UK"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "King, Jean-Rémi",
+          "given_name": "Jean-Rémi",
+          "family_name": "King"
+        },
+        "affiliations": [
+          {
+            "name": "Meta AI, CNRS, Paris"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Dalenberg, Jelle Roelof",
+          "given_name": "Jelle Roelof",
+          "family_name": "Dalenberg",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8580-5358",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University Medical Center Groningen, Groningen, The Netherlands"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Lefort-Besnard, Jeremy",
+          "given_name": "Jeremy",
+          "family_name": "Lefort-Besnard"
+        },
+        "affiliations": [
+          {
+            "name": "Inria Rennes, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Dockes, Jerome",
+          "given_name": "Jerome",
+          "family_name": "Dockes"
+        },
+        "affiliations": [
+          {
+            "name": "Probabl"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Chevalier, Jerome-Alexis",
+          "given_name": "Jerome-Alexis",
+          "family_name": "Chevalier",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-1959-3056",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Emerton Data"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Bayer, Johanna",
+          "given_name": "Johanna",
+          "family_name": "Bayer",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-4891-6256",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "McGill University, Montréal, Canada"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Wiesner, Johannes",
+          "given_name": "Johannes",
+          "family_name": "Wiesner",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7040-3516",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Central Institute of Mental Health, Mannheim, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Johnson, John T.",
+          "given_name": "John T.",
+          "family_name": "Johnson"
+        },
+        "affiliations": [
+          {
+            "name": "Neurogram, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gorrono, Jon Haitz Legarreta",
+          "given_name": "Jon Haitz Legarreta",
+          "family_name": "Gorrono"
+        },
+        "affiliations": [
+          {
+            "name": "Brigham and Women's Hospital, Mass General Brigham/Harvard Medical School, Boston, Massachusetts, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Sassenhagen, Jona",
+          "given_name": "Jona",
+          "family_name": "Sassenhagen"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Huguet, Jordi",
+          "given_name": "Jordi",
+          "family_name": "Huguet",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8420-4833",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "BarcelonaBeta Brain Research Center"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Paillard, Joseph",
+          "given_name": "Joseph",
+          "family_name": "Paillard"
+        },
+        "affiliations": [
+          {
+            "name": "Inria, Saclay, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Teves, Joshua",
+          "given_name": "Joshua",
+          "family_name": "Teves"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Huntenburg, Julia",
+          "given_name": "Julia",
+          "family_name": "Huntenburg",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-0579-9811",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "International Brain Laboratory, Berlin, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Peraza, Julio A",
+          "given_name": "Julio A",
+          "family_name": "Peraza",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3816-5903",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Florida International University, Miami, Florida, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Daddy, Kamalakar Reddy",
+          "given_name": "Kamalakar Reddy",
+          "family_name": "Daddy"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Sitek, Kevin",
+          "given_name": "Kevin",
+          "family_name": "Sitek",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-2172-5786",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Northwestern University, Evanston, Ilinois , USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Helwegen, Koen",
+          "given_name": "Koen",
+          "family_name": "Helwegen",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-1247-6626",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Dutch Connectome Lab, VU, Amsterdam, The Netherlands"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Wagstyl, Konrad",
+          "given_name": "Konrad",
+          "family_name": "Wagstyl",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3439-5808",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Shmelkov, Konstantin",
+          "given_name": "Konstantin",
+          "family_name": "Shmelkov"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Tanno, Kosei",
+          "given_name": "Kosei",
+          "family_name": "Tanno"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Chawla, Kshitij",
+          "given_name": "Kshitij",
+          "family_name": "Chawla",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-7517-6321",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Duke University Health System, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "CHEN, Kun",
+          "given_name": "Kun",
+          "family_name": "CHEN",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-9138-3195",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University of Macau, Macau, China"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Piñero Roig, Laura",
+          "given_name": "Laura",
+          "family_name": "Piñero Roig",
+          "identifiers": [
+            {
+              "identifier": "0009-0008-3390-4029",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University of Barcelona, Barcelona, Spain"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Newberg, Lee",
+          "given_name": "Lee",
+          "family_name": "Newberg",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-4644-8874",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Kitware, Inc., USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Sasse, Leonard",
+          "given_name": "Leonard",
+          "family_name": "Sasse",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-2400-3404",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Estève, Loic",
+          "given_name": "Loic",
+          "family_name": "Estève"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Tetrel, Loic",
+          "given_name": "Loic",
+          "family_name": "Tetrel"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Paz, Luz",
+          "given_name": "Luz",
+          "family_name": "Paz"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Pietrantoni, Manon",
+          "given_name": "Manon",
+          "family_name": "Pietrantoni"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Flores, Marco",
+          "given_name": "Marco",
+          "family_name": "Flores"
+        },
+        "affiliations": [
+          {
+            "name": "Basque Center on Cognition Brain and Language"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Bedini, Marco",
+          "given_name": "Marco",
+          "family_name": "Bedini",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-2018-5175",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institut de Neurosciences de la Timone, University of Aix-Marseille, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Perez-Guevara, Martin",
+          "given_name": "Martin",
+          "family_name": "Perez-Guevara"
+        },
+        "affiliations": [
+          {
+            "name": "Criteo, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Wegrzyn, Martin",
+          "given_name": "Martin",
+          "family_name": "Wegrzyn"
+        },
+        "affiliations": [
+          {
+            "name": "Bielefeld University, Bielefeld, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Goncalves, Mathias",
+          "given_name": "Mathias",
+          "family_name": "Goncalves",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-7252-7771",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Stanford University, Stanford, California, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Dugré, Mathieu",
+          "given_name": "Mathieu",
+          "family_name": "Dugré",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-2828-6031",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Concordia University, Montréal, Canada"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Ekman, Matthias",
+          "given_name": "Matthias",
+          "family_name": "Ekman",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-1254-1392",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Donders Institute, Nijmegen, The Netherlands"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Joulot, Matthieu",
+          "given_name": "Matthieu",
+          "family_name": "Joulot"
+        },
+        "affiliations": [
+          {
+            "name": "Aramis, Paris Brain Institute, Paris, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Sitter, Maximilian Cosmo",
+          "given_name": "Maximilian Cosmo",
+          "family_name": "Sitter"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Rahim, Mehdi",
+          "given_name": "Mehdi",
+          "family_name": "Rahim"
+        },
+        "affiliations": [
+          {
+            "name": "Air Liquide, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Zwally, Mia",
+          "given_name": "Mia",
+          "family_name": "Zwally"
+        },
+        "affiliations": [
+          {
+            "name": "DSST, National Institute of Mental Health, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Burkhardt, Micha",
+          "given_name": "Micha",
+          "family_name": "Burkhardt",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6268-3527",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University of Oldenburg, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Eickenberg, Michael",
+          "given_name": "Michael",
+          "family_name": "Eickenberg"
+        },
+        "affiliations": [
+          {
+            "name": "Flatiron Institute, New-York, New-York, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Hanke, Michael",
+          "given_name": "Michael",
+          "family_name": "Hanke",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6398-6370",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Psychoinformatics, Forschungszentrum Jülich GmbH, Jülich, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Notter, Michael",
+          "given_name": "Michael",
+          "family_name": "Notter",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-5866-047X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "ams OSRAM, Martigny, Lausanne, Switzerland"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Waskom, Michael",
+          "given_name": "Michael",
+          "family_name": "Waskom"
+        },
+        "affiliations": [
+          {
+            "name": "Flatiron health, New York, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Wang, Michelle",
+          "given_name": "Michelle",
+          "family_name": "Wang"
+        },
+        "affiliations": [
+          {
+            "name": "Origami lab, McGill University, Montréal, Canada"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Camacho, Milton",
+          "given_name": "Milton",
+          "family_name": "Camacho"
+        },
+        "affiliations": [
+          {
+            "name": "University of Calgary, Calgary, Alberta, Canada"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Torabi, Mohammad",
+          "given_name": "Mohammad",
+          "family_name": "Torabi",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-4429-8481",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Origami lab, McGill University, Montréal, Canada"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Sadeghi Hardengi, Mohammad",
+          "given_name": "Mohammad",
+          "family_name": "Sadeghi Hardengi"
+        },
+        "affiliations": [
+          {
+            "name": "IAUN, Iran (M.Sc. student, AI and robotics)"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Boos, Moritz",
+          "given_name": "Moritz",
+          "family_name": "Boos"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Chapra, Mudassir",
+          "given_name": "Mudassir",
+          "family_name": "Chapra"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Song, Myeong Seop",
+          "given_name": "Myeong Seop",
+          "family_name": "Song"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Clarke, Natasha",
+          "given_name": "Natasha",
+          "family_name": "Clarke"
+        },
+        "affiliations": [
+          {
+            "name": "@SIMEXP, Montréal, Canada"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Shah, Neelay",
+          "given_name": "Neelay",
+          "family_name": "Shah"
+        },
+        "affiliations": [
+          {
+            "name": "Max Planck Institute for Intelligent Systems, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gensollen, Nicolas",
+          "given_name": "Nicolas",
+          "family_name": "Gensollen",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7199-9753",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Inria, Paris, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Krish, Nikhil",
+          "given_name": "Nikhil",
+          "family_name": "Krish"
+        },
+        "affiliations": [
+          {
+            "name": "University of Texas, Austin"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Mulay, Nirmitee",
+          "given_name": "Nirmitee",
+          "family_name": "Mulay",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-3360-4973",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "BCBL, Spain"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Benson, Noah C.",
+          "given_name": "Noah C.",
+          "family_name": "Benson"
+        },
+        "affiliations": [
+          {
+            "name": "University of Washington, Seattle, Washington, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Warrington, Oliver",
+          "given_name": "Oliver",
+          "family_name": "Warrington",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-3592-7071",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Wellcome Centre for Human Neuroimaging, UCL, London, UK"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Esteban, Oscar",
+          "given_name": "Oscar",
+          "family_name": "Esteban",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8435-6191",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Centre Hospitalier Universitaire Vaudoise, Lausanne, Switzerland"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Sadil, Patrick",
+          "given_name": "Patrick",
+          "family_name": "Sadil",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-4141-1343",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Bogdan, Paul",
+          "given_name": "Paul",
+          "family_name": "Bogdan"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Reiners, Paul",
+          "given_name": "Paul",
+          "family_name": "Reiners",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6167-5007",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Masonic Institute for the Developing Brain, University of Minnesota, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Sanz-Leon, Paula",
+          "given_name": "Paula",
+          "family_name": "Sanz-Leon",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-1545-6380",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Medical Research Institute, Brisbane, Australia"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Herholz, Peer",
+          "given_name": "Peer",
+          "family_name": "Herholz",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-9840-6257",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Origami lab, McGill University, Montréal, Canada"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gervais, Philippe",
+          "given_name": "Philippe",
+          "family_name": "Gervais"
+        },
+        "affiliations": [
+          {
+            "name": "Zurich, Switzerland"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Bellec, Pierre",
+          "given_name": "Pierre",
+          "family_name": "Bellec",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-9111-0699",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Psychology Department, University of Montréal, Montréal, Canada"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Glaser, Pierre",
+          "given_name": "Pierre",
+          "family_name": "Glaser"
+        },
+        "affiliations": [
+          {
+            "name": "Gatsby Computational Neuroscience Unit, University College London, London, UK"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Barbarant, Pierre-Louis",
+          "given_name": "Pierre-Louis",
+          "family_name": "Barbarant"
+        },
+        "affiliations": [
+          {
+            "name": "Inria, Saclay, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Quirion, Pierre-Olivier",
+          "given_name": "Pierre-Olivier",
+          "family_name": "Quirion",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-2270-0000",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Canadian Center for Computational Genomics / Calcul, Québec, Canada"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Raamana, Pradeep Reddy",
+          "given_name": "Pradeep Reddy",
+          "family_name": "Raamana",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-4662-0558",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University of Pittsburgh, Pittsburgh, PA, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Jain, Prakhar",
+          "given_name": "Prakhar",
+          "family_name": "Jain"
+        },
+        "affiliations": [
+          {
+            "name": "RV College of Engineering, Bangalore, India"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Brito, Rahul",
+          "given_name": "Rahul",
+          "family_name": "Brito"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Meudec, Raphael",
+          "given_name": "Raphael",
+          "family_name": "Meudec"
+        },
+        "affiliations": [
+          {
+            "name": "Inria, Saclay, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Kapil, Rishika",
+          "given_name": "Rishika",
+          "family_name": "Kapil"
+        },
+        "affiliations": [
+          {
+            "name": "Thapar Institute of Engineering and Technology"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Luke, Robert",
+          "given_name": "Robert",
+          "family_name": "Luke",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-4930-8351",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "@agencyenterprise, Melbourne, Australia"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Williamson, Robert",
+          "given_name": "Robert",
+          "family_name": "Williamson"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Guidotti, Roberto",
+          "given_name": "Roberto",
+          "family_name": "Guidotti"
+        },
+        "affiliations": [
+          {
+            "name": "University \"G. D'Annunzio\" Chieti-Pescara, San Benedetto del Tronto, Italy"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Jepegnanam, Rohan Thomas",
+          "given_name": "Rohan Thomas",
+          "family_name": "Jepegnanam",
+          "identifiers": [
+            {
+              "identifier": "0009-0000-6982-3038",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Cognitive Neuroscience & Clinical Phenomenology Lab, Christian Medical College, Vellore, India"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Phlypo, Ronald",
+          "given_name": "Ronald",
+          "family_name": "Phlypo"
+        },
+        "affiliations": [
+          {
+            "name": "Lyon area, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Dörfel, Ruben",
+          "given_name": "Ruben",
+          "family_name": "Dörfel",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-5920-5102",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Karolinska Institutet"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Hammonds, Ryan",
+          "given_name": "Ryan",
+          "family_name": "Hammonds"
+        },
+        "affiliations": [
+          {
+            "name": "UC San Diego, San Diego, California, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gau, Rémi",
+          "given_name": "Rémi",
+          "family_name": "Gau",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-1535-9767",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Inria, Saclay, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Patalasingh, Sachin",
+          "given_name": "Sachin",
+          "family_name": "Patalasingh"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Babadi, Saeed",
+          "given_name": "Saeed",
+          "family_name": "Babadi"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Hahn, Sage",
+          "given_name": "Sage",
+          "family_name": "Hahn",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3560-2952",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "deephealth"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Bougacha, Salma",
+          "given_name": "Salma",
+          "family_name": "Bougacha"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Johnson, Sam Buck",
+          "given_name": "Sam Buck",
+          "family_name": "Johnson"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Jawhar, Sami",
+          "given_name": "Sami",
+          "family_name": "Jawhar",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-9914-2193",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Soni, Sanjana",
+          "given_name": "Sanjana",
+          "family_name": "Soni"
+        },
+        "affiliations": [
+          {
+            "name": "Goverment Engineering College, Bilaspur, India"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Steinkamp, Simon",
+          "given_name": "Simon",
+          "family_name": "Steinkamp",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6437-0700",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Danish Research Centre for Magnetic Resonance, Copenhagen University Hospital Amager & Hvidovre, Copenhagen, Denmark."
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Kim, Sin",
+          "given_name": "Sin",
+          "family_name": "Kim",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-4652-3758",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Korea Advanced Institute of Science and Technology: Daejeon, KR"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Singh, Sourav",
+          "given_name": "Sourav",
+          "family_name": "Singh"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Meisler, Steven",
+          "given_name": "Steven",
+          "family_name": "Meisler",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-8888-1572",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Harvard-MIT Division of Health Sciences and Technology, Cambridge, Massachusetts, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Pokharel, Suramya",
+          "given_name": "Suramya",
+          "family_name": "Pokharel"
+        },
+        "affiliations": [
+          {
+            "name": "Tribhuvan University, Kathmandu, Nepal"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Lan, Sylvain",
+          "given_name": "Sylvain",
+          "family_name": "Lan"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Takerkart, Sylvain",
+          "given_name": "Sylvain",
+          "family_name": "Takerkart",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8410-0962",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "CNRS, Institut des Neurosciences de la Timone, Marseille, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gezici, Tamer",
+          "given_name": "Tamer",
+          "family_name": "Gezici"
+        },
+        "affiliations": [
+          {
+            "name": "Bilkent University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Samanta, Tarun",
+          "given_name": "Tarun",
+          "family_name": "Samanta",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-1630-8993",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Acharya Prafulla Chandra College"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Hanayik, Taylor",
+          "given_name": "Taylor",
+          "family_name": "Hanayik"
+        },
+        "affiliations": [
+          {
+            "name": "QuantCo"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Salo, Taylor",
+          "given_name": "Taylor",
+          "family_name": "Salo",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-9813-3167",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Lifespan Informatics & Neuroimaging Center, University of Pennsylvania, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "K, Tharun",
+          "given_name": "Tharun",
+          "family_name": "K"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Varax, Thibault de",
+          "given_name": "Thibault de",
+          "family_name": "Varax"
+        },
+        "affiliations": [
+          {
+            "name": "Aramis lab, Paris Brain Institute"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Premrudeepreechacharn, Thiti",
+          "given_name": "Thiti",
+          "family_name": "Premrudeepreechacharn"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Bazeille, Thomas",
+          "given_name": "Thomas",
+          "family_name": "Bazeille",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-5377-9108",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Inria, Saclay, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Vanasse, Tom",
+          "given_name": "Tom",
+          "family_name": "Vanasse",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-4672-0049",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Wisconsin Institute for Sleep and Consciousness, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Diogo, Vasco",
+          "given_name": "Vasco",
+          "family_name": "Diogo"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Shevchenko, Victoria",
+          "given_name": "Victoria",
+          "family_name": "Shevchenko"
+        },
+        "affiliations": [
+          {
+            "name": "Inria Saclay, Université Paris Cité, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "McCray, Victoria",
+          "given_name": "Victoria",
+          "family_name": "McCray",
+          "identifiers": [
+            {
+              "identifier": "0009-0004-9507-835X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Northeastern University, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Michel, Vincent",
+          "given_name": "Vincent",
+          "family_name": "Michel"
+        },
+        "affiliations": [
+          {
+            "name": "https://www.logilab.fr/"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Fritsch, Virgile",
+          "given_name": "Virgile",
+          "family_name": "Fritsch"
+        },
+        "affiliations": [
+          {
+            "name": "Inria, Saclay, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Xu, Xichun",
+          "given_name": "Xichun",
+          "family_name": "Xu"
+        },
+        "affiliations": [
+          {
+            "name": "Oregon State University, Corvallis, Oregon, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Halchenko, Yaroslav",
+          "given_name": "Yaroslav",
+          "family_name": "Halchenko",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3456-2493",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Dartmouth College, PBS, Hanover, New Hampshire, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Mzayek, Yasmin",
+          "given_name": "Yasmin",
+          "family_name": "Mzayek",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-2904-2530",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Inria, Saclay, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Huang, Yichun",
+          "given_name": "Yichun",
+          "family_name": "Huang"
+        },
+        "affiliations": [
+          {
+            "name": "Peking University, Beijing, China"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Baratz, Zvi",
+          "given_name": "Zvi",
+          "family_name": "Baratz",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7159-1387",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Tel-Aviv University, Israel"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Nájera, Óscar",
+          "given_name": "Óscar",
+          "family_name": "Nájera"
+        },
+        "affiliations": [
+          {
+            "name": "Checkmk"
+          }
+        ]
+      }
+    ],
+    "title": "nilearn",
+    "publisher": "Zenodo",
+    "publication_date": "2026-07-02",
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/nilearn/nilearn/tree/0.14.0",
+        "scheme": "url",
+        "relation_type": {
+          "id": "issupplementto",
+          "title": {
+            "de": "Ergänzt",
+            "en": "Is supplement to"
+          }
+        },
+        "resource_type": {
+          "id": "software",
+          "title": {
+            "de": "Software",
+            "en": "Software"
+          }
+        }
+      }
+    ],
+    "version": "0.14.0",
+    "rights": [
+      {
+        "id": "bsd-4-clause",
+        "title": {
+          "en": "BSD 4-Clause \"Original\" or \"Old\" License"
+        },
+        "description": {
+          "en": ""
+        },
+        "props": {
+          "url": "http://directory.fsf.org/wiki/License:BSD_4Clause",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "Nilearn enables approachable and versatile analyses of brain volumes.\nIt provides statistical and machine-learning tools,\nwith instructive documentation &amp; friendly community.",
+    "additional_descriptions": [
+      {
+        "description": "If you use this software, please cite it as below.",
+        "type": {
+          "id": "notes",
+          "title": {
+            "de": "Anmerkungen",
+            "en": "Notes"
+          }
+        }
+      }
+    ]
+  },
+  "custom_fields": {
+    "code:codeRepository": "https://github.com/nilearn/nilearn"
+  },
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 1,
+    "total_bytes": 57470542,
+    "entries": {
+      "nilearn/nilearn-0.14.0.zip": {
+        "id": "7c3fa259-384d-4168-b92f-dd25ab61133f",
+        "checksum": "md5:cde93bfbb9cdd72c3c0ac715266cfc7c",
+        "ext": "zip",
+        "size": 57470542,
+        "mimetype": "application/zip",
+        "key": "nilearn/nilearn-0.14.0.zip",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": false,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 374,
+      "unique_views": 366,
+      "downloads": 33,
+      "unique_downloads": 33,
+      "data_volume": 1896527886.0
+    },
+    "all_versions": {
+      "views": 7607,
+      "unique_views": 7400,
+      "downloads": 818,
+      "unique_downloads": 804,
+      "data_volume": 18960635355.0
+    }
+  },
+  "swh": null,
+  "ui": {
+    "publication_date_l10n_medium": "Jul 2, 2026",
+    "publication_date_l10n_long": "July 2, 2026",
+    "created_date_l10n_long": "July 2, 2026",
+    "updated_date_l10n_long": "July 2, 2026",
+    "resource_type": {
+      "id": "software",
+      "title_l10n": "Software"
+    },
+    "custom_fields": {
+      "code:codeRepository": "https://github.com/nilearn/nilearn"
+    },
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Nilearn contributors",
+            "family_name": "Nilearn contributors"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Chamma, Ahmad",
+            "given_name": "Ahmad",
+            "family_name": "Chamma",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-0975-133X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Inria, Saclay, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Frau-Pascual, Aina",
+            "given_name": "Aina",
+            "family_name": "Frau-Pascual",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-6311-8426",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Rothberg, Alex",
+            "given_name": "Alex",
+            "family_name": "Rothberg"
+          },
+          "affiliations": [
+            [
+              2,
+              "Free Agency, New York, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Abadie, Alexandre",
+            "given_name": "Alexandre",
+            "family_name": "Abadie"
+          },
+          "affiliations": [
+            [
+              3,
+              "Inria, Paris"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Abraham, Alexandre",
+            "given_name": "Alexandre",
+            "family_name": "Abraham",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3693-0560",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              4,
+              "Bazemont, Île-de-France, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gramfort, Alexandre",
+            "given_name": "Alexandre",
+            "family_name": "Gramfort",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-9791-4404",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              5,
+              "Meta, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Savio, Alexandre",
+            "given_name": "Alexandre",
+            "family_name": "Savio"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Cionca, Alexandre",
+            "given_name": "Alexandre",
+            "family_name": "Cionca",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-1910-9650",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              6,
+              "Centre Hospitalier Universitaire Vaudoise, Lausanne, Switzerland"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Sayal, Alexandre",
+            "given_name": "Alexandre",
+            "family_name": "Sayal"
+          },
+          "affiliations": [
+            [
+              7,
+              "CIBIT, University of Coimbra, Portugal"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Thual, Alexis",
+            "given_name": "Alexis",
+            "family_name": "Thual"
+          },
+          "affiliations": [
+            [
+              1,
+              "Inria, Saclay, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Kodibagkar, Alisha",
+            "given_name": "Alisha",
+            "family_name": "Kodibagkar",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-0951-242X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              8,
+              "MIT McGovern Institute, Cambridge, Massachusetts, United States"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Kanaan, Amadeus",
+            "given_name": "Amadeus",
+            "family_name": "Kanaan"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Pinho, Ana Luisa",
+            "given_name": "Ana Luisa",
+            "family_name": "Pinho"
+          },
+          "affiliations": [
+            [
+              9,
+              "Western University, London, Ontario, Canada"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Joshi, Anand",
+            "given_name": "Anand",
+            "family_name": "Joshi"
+          },
+          "affiliations": [
+            [
+              10,
+              "University of Southern California, Los Angeles, California, United States"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Idrobo, Andrés Hoyos",
+            "given_name": "Andrés Hoyos",
+            "family_name": "Idrobo"
+          },
+          "affiliations": [
+            [
+              11,
+              "Rakuten, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Kieslinger, Anne-Sophie",
+            "given_name": "Anne-Sophie",
+            "family_name": "Kieslinger"
+          },
+          "affiliations": [
+            [
+              12,
+              "Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germnay"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Kumari, Anupriya",
+            "given_name": "Anupriya",
+            "family_name": "Kumari"
+          },
+          "affiliations": [
+            [
+              13,
+              "Indian Institute of Technology, Roorkee, India"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Rokem, Ariel",
+            "given_name": "Ariel",
+            "family_name": "Rokem",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-0679-1985",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              14,
+              "University of Washington, Psychology, Seattle, Washington, 98107, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Mensch, Arthur",
+            "given_name": "Arthur",
+            "family_name": "Mensch",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7866-0461",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Vijayan, Aswin",
+            "given_name": "Aswin",
+            "family_name": "Vijayan"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Duran, Audrey",
+            "given_name": "Audrey",
+            "family_name": "Duran"
+          },
+          "affiliations": [
+            [
+              15,
+              "TheraPanacea, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Pinsard, Basile",
+            "given_name": "Basile",
+            "family_name": "Pinsard"
+          },
+          "affiliations": [
+            [
+              16,
+              "Montréal Geriatrics Institute (CRIUGM), Montréal, Canada"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Cagna, Bastien",
+            "given_name": "Bastien",
+            "family_name": "Cagna",
+            "identifiers": [
+              {
+                "identifier": "0009-0005-4243-5234",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              17,
+              "CATI, APHP, Paris, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Cipollini, Ben",
+            "given_name": "Ben",
+            "family_name": "Cipollini"
+          },
+          "affiliations": [
+            [
+              18,
+              "Facebook, Hayward, California, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Thirion, Bertrand",
+            "given_name": "Bertrand",
+            "family_name": "Thirion",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-5018-7895",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Inria, Saclay, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Nguyen, Binh",
+            "given_name": "Binh",
+            "family_name": "Nguyen"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Cakan, Caglar",
+            "given_name": "Caglar",
+            "family_name": "Cakan",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-1902-5393",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              19,
+              "Technische Universität Berlin, Berlin, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Hampson, Chloe",
+            "given_name": "Chloe",
+            "family_name": "Hampson",
+            "identifiers": [
+              {
+                "identifier": "0009-0005-1212-9324",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              20,
+              "Florida International University, Miami, United States"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Rorden, Chris",
+            "given_name": "Chris",
+            "family_name": "Rorden"
+          },
+          "affiliations": [
+            [
+              21,
+              "University of South Carolina, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gorgolewski, Chris",
+            "given_name": "Chris",
+            "family_name": "Gorgolewski",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3321-7583",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              22,
+              "Google LLC"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Markiewicz, Chris",
+            "given_name": "Chris",
+            "family_name": "Markiewicz",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6533-164X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              23,
+              "Stanford University, Stanford, California, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Horea, Christian",
+            "given_name": "Christian",
+            "family_name": "Horea",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7037-2449",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              24,
+              "Dartmouth College, PBS, Hanover, New Hampshire, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gerloff, Christian",
+            "given_name": "Christian",
+            "family_name": "Gerloff"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Roßmanith, Christina",
+            "given_name": "Christina",
+            "family_name": "Roßmanith"
+          },
+          "affiliations": [
+            [
+              25,
+              "Dept. of Neurology, Medical Faculty Mannheim, University of Heidelberg, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Reininger, Colin",
+            "given_name": "Colin",
+            "family_name": "Reininger"
+          },
+          "affiliations": [
+            [
+              26,
+              "Denver, Colorado, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Lane, Connor",
+            "given_name": "Connor",
+            "family_name": "Lane"
+          },
+          "affiliations": [
+            [
+              27,
+              "Child Mind Institute, Baltimore, MD, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Sy, Czarina",
+            "given_name": "Czarina",
+            "family_name": "Sy"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Delettre, Céline",
+            "given_name": "Céline",
+            "family_name": "Delettre"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gale, Dan",
+            "given_name": "Dan",
+            "family_name": "Gale"
+          },
+          "affiliations": [
+            [
+              28,
+              "Centre for Neuroscience Studie, Queen University, Kingston, Ontario, Canada"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gomez, Daniel",
+            "given_name": "Daniel",
+            "family_name": "Gomez"
+          },
+          "affiliations": [
+            [
+              29,
+              "Cambridge, Massachusetts, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Bzdok, Danilo",
+            "given_name": "Danilo",
+            "family_name": "Bzdok"
+          },
+          "affiliations": [
+            [
+              30,
+              "McGill University & Mila Quebec AI Institute, Montréal, Canada"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Ellis, David G",
+            "given_name": "David G",
+            "family_name": "Ellis"
+          },
+          "affiliations": [
+            [
+              31,
+              "University of Nebraska Medical Center, Nebraska, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Wassermann, Demian",
+            "given_name": "Demian",
+            "family_name": "Wassermann",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-5194-6056",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Inria, Saclay, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Pisner, Derek",
+            "given_name": "Derek",
+            "family_name": "Pisner",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-1228-0201",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              32,
+              "St. Petersburg, FL"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Orfanos, Dimitri Papadopoulos",
+            "given_name": "Dimitri Papadopoulos",
+            "family_name": "Orfanos",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-1242-8990",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              33,
+              "NeuroSpin, CEA, Université Paris-Saclay, Gif-sur-Yvette, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "DuPre, Elizabeth",
+            "given_name": "Elizabeth",
+            "family_name": "DuPre",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-1358-196X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              23,
+              "Stanford University, Stanford, California, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Dohmatob, Elvis",
+            "given_name": "Elvis",
+            "family_name": "Dohmatob"
+          },
+          "affiliations": [
+            [
+              34,
+              "Facebook AI Research (FAIR)"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Larson, Eric",
+            "given_name": "Eric",
+            "family_name": "Larson"
+          },
+          "affiliations": [
+            [
+              35,
+              "Institute for Learning and Brain Sciences, University of Washington, Washington, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Edmond, Evan",
+            "given_name": "Evan",
+            "family_name": "Edmond",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-4641-3583",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              36,
+              "University of Oxford, Oxford, UK"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Pedregosa, Fabian",
+            "given_name": "Fabian",
+            "family_name": "Pedregosa",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-4025-3953",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              37,
+              "@google, Geneva, Switzerland"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Ponce, Fernanda",
+            "given_name": "Fernanda",
+            "family_name": "Ponce",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7142-0975",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              38,
+              "Université Paris-Saclay, Inria, Saclay, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Pollet, Florent",
+            "given_name": "Florent",
+            "family_name": "Pollet"
+          },
+          "affiliations": [
+            [
+              39,
+              "ENS Paris-Saclay, Saclay, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Liem, Franz",
+            "given_name": "Franz",
+            "family_name": "Liem"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Paugam, François",
+            "given_name": "François",
+            "family_name": "Paugam",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-8161-7699",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Amorosino, Gabriele",
+            "given_name": "Gabriele",
+            "family_name": "Amorosino",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-2789-5193",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              40,
+              "Department of Psychology, The University of Texas at Austin, TX, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Varoquaux, Gael",
+            "given_name": "Gael",
+            "family_name": "Varoquaux",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-1076-5122",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Inria, Saclay, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Hollander, Gilles de",
+            "given_name": "Gilles de",
+            "family_name": "Hollander",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-1988-5091",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              41,
+              "Vrije Universiteit, Amsterdam, The Netherlands"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Kiar, Greg",
+            "given_name": "Greg",
+            "family_name": "Kiar",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8915-496X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              42,
+              "Child Mind Institute"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gilmore, Greydon",
+            "given_name": "Greydon",
+            "family_name": "Gilmore",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7523-5734",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              43,
+              "Department of Mathematics, Western University, Toronto, Canada"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Lemaitre, Guillaume",
+            "given_name": "Guillaume",
+            "family_name": "Lemaitre",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-0897-6791",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Inria, Saclay, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Magnusson, Gustav",
+            "given_name": "Gustav",
+            "family_name": "Magnusson",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-1668-2021",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              44,
+              "Linköping University, Linköping"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gözükan, Hande",
+            "given_name": "Hande",
+            "family_name": "Gözükan"
+          },
+          "affiliations": [
+            [
+              1,
+              "Inria, Saclay, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Wang, Hao-Ting",
+            "given_name": "Hao-Ting",
+            "family_name": "Wang",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-4078-2038",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              16,
+              "Montréal Geriatrics Institute (CRIUGM), Montréal, Canada"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Aggarwal, Himanshu",
+            "given_name": "Himanshu",
+            "family_name": "Aggarwal",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-2451-0470",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Inria, Saclay, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Delhaye, Hugo",
+            "given_name": "Hugo",
+            "family_name": "Delhaye",
+            "identifiers": [
+              {
+                "identifier": "0009-0002-8540-6394",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              45,
+              "SIMEXP, Université de Montréal, Montréal, Canada"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Abenes, Ian",
+            "given_name": "Ian",
+            "family_name": "Abenes",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-7625-1557",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Traore, Idrissa",
+            "given_name": "Idrissa",
+            "family_name": "Traore"
+          },
+          "affiliations": [
+            [
+              46,
+              "IMT Atlantique, Brest, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Vogel, Jake",
+            "given_name": "Jake",
+            "family_name": "Vogel"
+          },
+          "affiliations": [
+            [
+              47,
+              "Department of Clinical Sciences, SciLifeLab, Lund University, Lund, Sweden"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Margeta, Jan",
+            "given_name": "Jan",
+            "family_name": "Margeta",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-4882-0502",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              48,
+              "KardioMe, Nova Dubnica, Slovakia"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Grobler, Jaques",
+            "given_name": "Jaques",
+            "family_name": "Grobler"
+          },
+          "affiliations": [
+            [
+              49,
+              "Anyline GmbH, Vienna, Austria"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gors, Jason",
+            "given_name": "Jason",
+            "family_name": "Gors"
+          },
+          "affiliations": [
+            [
+              50,
+              "Insight Data Science, Mountain View, California, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Kai, Jason",
+            "given_name": "Jason",
+            "family_name": "Kai"
+          },
+          "affiliations": [
+            [
+              42,
+              "Child Mind Institute"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Yeatman, Jason D.",
+            "given_name": "Jason D.",
+            "family_name": "Yeatman"
+          },
+          "affiliations": [
+            [
+              23,
+              "Stanford University, Stanford, California, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Rasero, Javier",
+            "given_name": "Javier",
+            "family_name": "Rasero",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-1661-2856",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              51,
+              "School of Data Science, University of Virginia, Viginia, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Kossaifi, Jean",
+            "given_name": "Jean",
+            "family_name": "Kossaifi"
+          },
+          "affiliations": [
+            [
+              52,
+              "Imperial College London, London, UK"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "King, Jean-Rémi",
+            "given_name": "Jean-Rémi",
+            "family_name": "King"
+          },
+          "affiliations": [
+            [
+              53,
+              "Meta AI, CNRS, Paris"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Dalenberg, Jelle Roelof",
+            "given_name": "Jelle Roelof",
+            "family_name": "Dalenberg",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8580-5358",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              54,
+              "University Medical Center Groningen, Groningen, The Netherlands"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Lefort-Besnard, Jeremy",
+            "given_name": "Jeremy",
+            "family_name": "Lefort-Besnard"
+          },
+          "affiliations": [
+            [
+              55,
+              "Inria Rennes, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Dockes, Jerome",
+            "given_name": "Jerome",
+            "family_name": "Dockes"
+          },
+          "affiliations": [
+            [
+              56,
+              "Probabl"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Chevalier, Jerome-Alexis",
+            "given_name": "Jerome-Alexis",
+            "family_name": "Chevalier",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-1959-3056",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              57,
+              "Emerton Data"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Bayer, Johanna",
+            "given_name": "Johanna",
+            "family_name": "Bayer",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-4891-6256",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              58,
+              "McGill University, Montréal, Canada"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Wiesner, Johannes",
+            "given_name": "Johannes",
+            "family_name": "Wiesner",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7040-3516",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              59,
+              "Central Institute of Mental Health, Mannheim, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Johnson, John T.",
+            "given_name": "John T.",
+            "family_name": "Johnson"
+          },
+          "affiliations": [
+            [
+              60,
+              "Neurogram, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gorrono, Jon Haitz Legarreta",
+            "given_name": "Jon Haitz Legarreta",
+            "family_name": "Gorrono"
+          },
+          "affiliations": [
+            [
+              61,
+              "Brigham and Women's Hospital, Mass General Brigham/Harvard Medical School, Boston, Massachusetts, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Sassenhagen, Jona",
+            "given_name": "Jona",
+            "family_name": "Sassenhagen"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Huguet, Jordi",
+            "given_name": "Jordi",
+            "family_name": "Huguet",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8420-4833",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              62,
+              "BarcelonaBeta Brain Research Center"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Paillard, Joseph",
+            "given_name": "Joseph",
+            "family_name": "Paillard"
+          },
+          "affiliations": [
+            [
+              1,
+              "Inria, Saclay, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Teves, Joshua",
+            "given_name": "Joshua",
+            "family_name": "Teves"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Huntenburg, Julia",
+            "given_name": "Julia",
+            "family_name": "Huntenburg",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-0579-9811",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              63,
+              "International Brain Laboratory, Berlin, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Peraza, Julio A",
+            "given_name": "Julio A",
+            "family_name": "Peraza",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3816-5903",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              64,
+              "Florida International University, Miami, Florida, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Daddy, Kamalakar Reddy",
+            "given_name": "Kamalakar Reddy",
+            "family_name": "Daddy"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Sitek, Kevin",
+            "given_name": "Kevin",
+            "family_name": "Sitek",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-2172-5786",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              65,
+              "Northwestern University, Evanston, Ilinois , USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Helwegen, Koen",
+            "given_name": "Koen",
+            "family_name": "Helwegen",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-1247-6626",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              66,
+              "Dutch Connectome Lab, VU, Amsterdam, The Netherlands"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Wagstyl, Konrad",
+            "given_name": "Konrad",
+            "family_name": "Wagstyl",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3439-5808",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Shmelkov, Konstantin",
+            "given_name": "Konstantin",
+            "family_name": "Shmelkov"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Tanno, Kosei",
+            "given_name": "Kosei",
+            "family_name": "Tanno"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Chawla, Kshitij",
+            "given_name": "Kshitij",
+            "family_name": "Chawla",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-7517-6321",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              67,
+              "Duke University Health System, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "CHEN, Kun",
+            "given_name": "Kun",
+            "family_name": "CHEN",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-9138-3195",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              68,
+              "University of Macau, Macau, China"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Piñero Roig, Laura",
+            "given_name": "Laura",
+            "family_name": "Piñero Roig",
+            "identifiers": [
+              {
+                "identifier": "0009-0008-3390-4029",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              69,
+              "University of Barcelona, Barcelona, Spain"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Newberg, Lee",
+            "given_name": "Lee",
+            "family_name": "Newberg",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-4644-8874",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              70,
+              "Kitware, Inc., USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Sasse, Leonard",
+            "given_name": "Leonard",
+            "family_name": "Sasse",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-2400-3404",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Estève, Loic",
+            "given_name": "Loic",
+            "family_name": "Estève"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Tetrel, Loic",
+            "given_name": "Loic",
+            "family_name": "Tetrel"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Paz, Luz",
+            "given_name": "Luz",
+            "family_name": "Paz"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Pietrantoni, Manon",
+            "given_name": "Manon",
+            "family_name": "Pietrantoni"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Flores, Marco",
+            "given_name": "Marco",
+            "family_name": "Flores"
+          },
+          "affiliations": [
+            [
+              71,
+              "Basque Center on Cognition Brain and Language"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Bedini, Marco",
+            "given_name": "Marco",
+            "family_name": "Bedini",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-2018-5175",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              72,
+              "Institut de Neurosciences de la Timone, University of Aix-Marseille, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Perez-Guevara, Martin",
+            "given_name": "Martin",
+            "family_name": "Perez-Guevara"
+          },
+          "affiliations": [
+            [
+              73,
+              "Criteo, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Wegrzyn, Martin",
+            "given_name": "Martin",
+            "family_name": "Wegrzyn"
+          },
+          "affiliations": [
+            [
+              74,
+              "Bielefeld University, Bielefeld, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Goncalves, Mathias",
+            "given_name": "Mathias",
+            "family_name": "Goncalves",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-7252-7771",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              23,
+              "Stanford University, Stanford, California, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Dugré, Mathieu",
+            "given_name": "Mathieu",
+            "family_name": "Dugré",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-2828-6031",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              75,
+              "Concordia University, Montréal, Canada"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Ekman, Matthias",
+            "given_name": "Matthias",
+            "family_name": "Ekman",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-1254-1392",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              76,
+              "Donders Institute, Nijmegen, The Netherlands"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Joulot, Matthieu",
+            "given_name": "Matthieu",
+            "family_name": "Joulot"
+          },
+          "affiliations": [
+            [
+              77,
+              "Aramis, Paris Brain Institute, Paris, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Sitter, Maximilian Cosmo",
+            "given_name": "Maximilian Cosmo",
+            "family_name": "Sitter"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Rahim, Mehdi",
+            "given_name": "Mehdi",
+            "family_name": "Rahim"
+          },
+          "affiliations": [
+            [
+              78,
+              "Air Liquide, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Zwally, Mia",
+            "given_name": "Mia",
+            "family_name": "Zwally"
+          },
+          "affiliations": [
+            [
+              79,
+              "DSST, National Institute of Mental Health, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Burkhardt, Micha",
+            "given_name": "Micha",
+            "family_name": "Burkhardt",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6268-3527",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              80,
+              "University of Oldenburg, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Eickenberg, Michael",
+            "given_name": "Michael",
+            "family_name": "Eickenberg"
+          },
+          "affiliations": [
+            [
+              81,
+              "Flatiron Institute, New-York, New-York, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Hanke, Michael",
+            "given_name": "Michael",
+            "family_name": "Hanke",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-6398-6370",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              82,
+              "Psychoinformatics, Forschungszentrum Jülich GmbH, Jülich, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Notter, Michael",
+            "given_name": "Michael",
+            "family_name": "Notter",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-5866-047X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              83,
+              "ams OSRAM, Martigny, Lausanne, Switzerland"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Waskom, Michael",
+            "given_name": "Michael",
+            "family_name": "Waskom"
+          },
+          "affiliations": [
+            [
+              84,
+              "Flatiron health, New York, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Wang, Michelle",
+            "given_name": "Michelle",
+            "family_name": "Wang"
+          },
+          "affiliations": [
+            [
+              85,
+              "Origami lab, McGill University, Montréal, Canada"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Camacho, Milton",
+            "given_name": "Milton",
+            "family_name": "Camacho"
+          },
+          "affiliations": [
+            [
+              86,
+              "University of Calgary, Calgary, Alberta, Canada"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Torabi, Mohammad",
+            "given_name": "Mohammad",
+            "family_name": "Torabi",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-4429-8481",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              85,
+              "Origami lab, McGill University, Montréal, Canada"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Sadeghi Hardengi, Mohammad",
+            "given_name": "Mohammad",
+            "family_name": "Sadeghi Hardengi"
+          },
+          "affiliations": [
+            [
+              87,
+              "IAUN, Iran (M.Sc. student, AI and robotics)"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Boos, Moritz",
+            "given_name": "Moritz",
+            "family_name": "Boos"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Chapra, Mudassir",
+            "given_name": "Mudassir",
+            "family_name": "Chapra"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Song, Myeong Seop",
+            "given_name": "Myeong Seop",
+            "family_name": "Song"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Clarke, Natasha",
+            "given_name": "Natasha",
+            "family_name": "Clarke"
+          },
+          "affiliations": [
+            [
+              88,
+              "@SIMEXP, Montréal, Canada"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Shah, Neelay",
+            "given_name": "Neelay",
+            "family_name": "Shah"
+          },
+          "affiliations": [
+            [
+              89,
+              "Max Planck Institute for Intelligent Systems, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gensollen, Nicolas",
+            "given_name": "Nicolas",
+            "family_name": "Gensollen",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7199-9753",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              90,
+              "Inria, Paris, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Krish, Nikhil",
+            "given_name": "Nikhil",
+            "family_name": "Krish"
+          },
+          "affiliations": [
+            [
+              91,
+              "University of Texas, Austin"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Mulay, Nirmitee",
+            "given_name": "Nirmitee",
+            "family_name": "Mulay",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-3360-4973",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              92,
+              "BCBL, Spain"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Benson, Noah C.",
+            "given_name": "Noah C.",
+            "family_name": "Benson"
+          },
+          "affiliations": [
+            [
+              93,
+              "University of Washington, Seattle, Washington, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Warrington, Oliver",
+            "given_name": "Oliver",
+            "family_name": "Warrington",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-3592-7071",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              94,
+              "Wellcome Centre for Human Neuroimaging, UCL, London, UK"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Esteban, Oscar",
+            "given_name": "Oscar",
+            "family_name": "Esteban",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8435-6191",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              6,
+              "Centre Hospitalier Universitaire Vaudoise, Lausanne, Switzerland"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Sadil, Patrick",
+            "given_name": "Patrick",
+            "family_name": "Sadil",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-4141-1343",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              95,
+              "Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Bogdan, Paul",
+            "given_name": "Paul",
+            "family_name": "Bogdan"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Reiners, Paul",
+            "given_name": "Paul",
+            "family_name": "Reiners",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6167-5007",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              96,
+              "Masonic Institute for the Developing Brain, University of Minnesota, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Sanz-Leon, Paula",
+            "given_name": "Paula",
+            "family_name": "Sanz-Leon",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-1545-6380",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              97,
+              "Medical Research Institute, Brisbane, Australia"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Herholz, Peer",
+            "given_name": "Peer",
+            "family_name": "Herholz",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-9840-6257",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              85,
+              "Origami lab, McGill University, Montréal, Canada"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gervais, Philippe",
+            "given_name": "Philippe",
+            "family_name": "Gervais"
+          },
+          "affiliations": [
+            [
+              98,
+              "Zurich, Switzerland"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Bellec, Pierre",
+            "given_name": "Pierre",
+            "family_name": "Bellec",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-9111-0699",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              99,
+              "Psychology Department, University of Montréal, Montréal, Canada"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Glaser, Pierre",
+            "given_name": "Pierre",
+            "family_name": "Glaser"
+          },
+          "affiliations": [
+            [
+              100,
+              "Gatsby Computational Neuroscience Unit, University College London, London, UK"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Barbarant, Pierre-Louis",
+            "given_name": "Pierre-Louis",
+            "family_name": "Barbarant"
+          },
+          "affiliations": [
+            [
+              1,
+              "Inria, Saclay, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Quirion, Pierre-Olivier",
+            "given_name": "Pierre-Olivier",
+            "family_name": "Quirion",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-2270-0000",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              101,
+              "Canadian Center for Computational Genomics / Calcul, Québec, Canada"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Raamana, Pradeep Reddy",
+            "given_name": "Pradeep Reddy",
+            "family_name": "Raamana",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-4662-0558",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              102,
+              "University of Pittsburgh, Pittsburgh, PA, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Jain, Prakhar",
+            "given_name": "Prakhar",
+            "family_name": "Jain"
+          },
+          "affiliations": [
+            [
+              103,
+              "RV College of Engineering, Bangalore, India"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Brito, Rahul",
+            "given_name": "Rahul",
+            "family_name": "Brito"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Meudec, Raphael",
+            "given_name": "Raphael",
+            "family_name": "Meudec"
+          },
+          "affiliations": [
+            [
+              1,
+              "Inria, Saclay, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Kapil, Rishika",
+            "given_name": "Rishika",
+            "family_name": "Kapil"
+          },
+          "affiliations": [
+            [
+              104,
+              "Thapar Institute of Engineering and Technology"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Luke, Robert",
+            "given_name": "Robert",
+            "family_name": "Luke",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-4930-8351",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              105,
+              "@agencyenterprise, Melbourne, Australia"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Williamson, Robert",
+            "given_name": "Robert",
+            "family_name": "Williamson"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Guidotti, Roberto",
+            "given_name": "Roberto",
+            "family_name": "Guidotti"
+          },
+          "affiliations": [
+            [
+              106,
+              "University \"G. D'Annunzio\" Chieti-Pescara, San Benedetto del Tronto, Italy"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Jepegnanam, Rohan Thomas",
+            "given_name": "Rohan Thomas",
+            "family_name": "Jepegnanam",
+            "identifiers": [
+              {
+                "identifier": "0009-0000-6982-3038",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              107,
+              "Cognitive Neuroscience & Clinical Phenomenology Lab, Christian Medical College, Vellore, India"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Phlypo, Ronald",
+            "given_name": "Ronald",
+            "family_name": "Phlypo"
+          },
+          "affiliations": [
+            [
+              108,
+              "Lyon area, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Dörfel, Ruben",
+            "given_name": "Ruben",
+            "family_name": "Dörfel",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-5920-5102",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              109,
+              "Karolinska Institutet"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Hammonds, Ryan",
+            "given_name": "Ryan",
+            "family_name": "Hammonds"
+          },
+          "affiliations": [
+            [
+              110,
+              "UC San Diego, San Diego, California, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gau, Rémi",
+            "given_name": "Rémi",
+            "family_name": "Gau",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-1535-9767",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Inria, Saclay, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Patalasingh, Sachin",
+            "given_name": "Sachin",
+            "family_name": "Patalasingh"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Babadi, Saeed",
+            "given_name": "Saeed",
+            "family_name": "Babadi"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Hahn, Sage",
+            "given_name": "Sage",
+            "family_name": "Hahn",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3560-2952",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              111,
+              "deephealth"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Bougacha, Salma",
+            "given_name": "Salma",
+            "family_name": "Bougacha"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Johnson, Sam Buck",
+            "given_name": "Sam Buck",
+            "family_name": "Johnson"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Jawhar, Sami",
+            "given_name": "Sami",
+            "family_name": "Jawhar",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-9914-2193",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Soni, Sanjana",
+            "given_name": "Sanjana",
+            "family_name": "Soni"
+          },
+          "affiliations": [
+            [
+              112,
+              "Goverment Engineering College, Bilaspur, India"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Steinkamp, Simon",
+            "given_name": "Simon",
+            "family_name": "Steinkamp",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6437-0700",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              113,
+              "Danish Research Centre for Magnetic Resonance, Copenhagen University Hospital Amager & Hvidovre, Copenhagen, Denmark."
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Kim, Sin",
+            "given_name": "Sin",
+            "family_name": "Kim",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-4652-3758",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              114,
+              "Korea Advanced Institute of Science and Technology: Daejeon, KR"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Singh, Sourav",
+            "given_name": "Sourav",
+            "family_name": "Singh"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Meisler, Steven",
+            "given_name": "Steven",
+            "family_name": "Meisler",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-8888-1572",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              115,
+              "Harvard-MIT Division of Health Sciences and Technology, Cambridge, Massachusetts, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Pokharel, Suramya",
+            "given_name": "Suramya",
+            "family_name": "Pokharel"
+          },
+          "affiliations": [
+            [
+              116,
+              "Tribhuvan University, Kathmandu, Nepal"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Lan, Sylvain",
+            "given_name": "Sylvain",
+            "family_name": "Lan"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Takerkart, Sylvain",
+            "given_name": "Sylvain",
+            "family_name": "Takerkart",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8410-0962",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              117,
+              "CNRS, Institut des Neurosciences de la Timone, Marseille, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gezici, Tamer",
+            "given_name": "Tamer",
+            "family_name": "Gezici"
+          },
+          "affiliations": [
+            [
+              118,
+              "Bilkent University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Samanta, Tarun",
+            "given_name": "Tarun",
+            "family_name": "Samanta",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-1630-8993",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              119,
+              "Acharya Prafulla Chandra College"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Hanayik, Taylor",
+            "given_name": "Taylor",
+            "family_name": "Hanayik"
+          },
+          "affiliations": [
+            [
+              120,
+              "QuantCo"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Salo, Taylor",
+            "given_name": "Taylor",
+            "family_name": "Salo",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-9813-3167",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              121,
+              "Lifespan Informatics & Neuroimaging Center, University of Pennsylvania, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "K, Tharun",
+            "given_name": "Tharun",
+            "family_name": "K"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Varax, Thibault de",
+            "given_name": "Thibault de",
+            "family_name": "Varax"
+          },
+          "affiliations": [
+            [
+              122,
+              "Aramis lab, Paris Brain Institute"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Premrudeepreechacharn, Thiti",
+            "given_name": "Thiti",
+            "family_name": "Premrudeepreechacharn"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Bazeille, Thomas",
+            "given_name": "Thomas",
+            "family_name": "Bazeille",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-5377-9108",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Inria, Saclay, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Vanasse, Tom",
+            "given_name": "Tom",
+            "family_name": "Vanasse",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-4672-0049",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              123,
+              "Wisconsin Institute for Sleep and Consciousness, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Diogo, Vasco",
+            "given_name": "Vasco",
+            "family_name": "Diogo"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Shevchenko, Victoria",
+            "given_name": "Victoria",
+            "family_name": "Shevchenko"
+          },
+          "affiliations": [
+            [
+              124,
+              "Inria Saclay, Université Paris Cité, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "McCray, Victoria",
+            "given_name": "Victoria",
+            "family_name": "McCray",
+            "identifiers": [
+              {
+                "identifier": "0009-0004-9507-835X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              125,
+              "Northeastern University, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Michel, Vincent",
+            "given_name": "Vincent",
+            "family_name": "Michel"
+          },
+          "affiliations": [
+            [
+              126,
+              "https://www.logilab.fr/"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Fritsch, Virgile",
+            "given_name": "Virgile",
+            "family_name": "Fritsch"
+          },
+          "affiliations": [
+            [
+              1,
+              "Inria, Saclay, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Xu, Xichun",
+            "given_name": "Xichun",
+            "family_name": "Xu"
+          },
+          "affiliations": [
+            [
+              127,
+              "Oregon State University, Corvallis, Oregon, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Halchenko, Yaroslav",
+            "given_name": "Yaroslav",
+            "family_name": "Halchenko",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3456-2493",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              24,
+              "Dartmouth College, PBS, Hanover, New Hampshire, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Mzayek, Yasmin",
+            "given_name": "Yasmin",
+            "family_name": "Mzayek",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-2904-2530",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Inria, Saclay, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Huang, Yichun",
+            "given_name": "Yichun",
+            "family_name": "Huang"
+          },
+          "affiliations": [
+            [
+              128,
+              "Peking University, Beijing, China"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Baratz, Zvi",
+            "given_name": "Zvi",
+            "family_name": "Baratz",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7159-1387",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              129,
+              "Tel-Aviv University, Israel"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Nájera, Óscar",
+            "given_name": "Óscar",
+            "family_name": "Nájera"
+          },
+          "affiliations": [
+            [
+              130,
+              "Checkmk"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "Inria, Saclay, France",
+          null
+        ],
+        [
+          2,
+          "Free Agency, New York, USA",
+          null
+        ],
+        [
+          3,
+          "Inria, Paris",
+          null
+        ],
+        [
+          4,
+          "Bazemont, Île-de-France, France",
+          null
+        ],
+        [
+          5,
+          "Meta, France",
+          null
+        ],
+        [
+          6,
+          "Centre Hospitalier Universitaire Vaudoise, Lausanne, Switzerland",
+          null
+        ],
+        [
+          7,
+          "CIBIT, University of Coimbra, Portugal",
+          null
+        ],
+        [
+          8,
+          "MIT McGovern Institute, Cambridge, Massachusetts, United States",
+          null
+        ],
+        [
+          9,
+          "Western University, London, Ontario, Canada",
+          null
+        ],
+        [
+          10,
+          "University of Southern California, Los Angeles, California, United States",
+          null
+        ],
+        [
+          11,
+          "Rakuten, France",
+          null
+        ],
+        [
+          12,
+          "Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germnay",
+          null
+        ],
+        [
+          13,
+          "Indian Institute of Technology, Roorkee, India",
+          null
+        ],
+        [
+          14,
+          "University of Washington, Psychology, Seattle, Washington, 98107, USA",
+          null
+        ],
+        [
+          15,
+          "TheraPanacea, France",
+          null
+        ],
+        [
+          16,
+          "Montréal Geriatrics Institute (CRIUGM), Montréal, Canada",
+          null
+        ],
+        [
+          17,
+          "CATI, APHP, Paris, France",
+          null
+        ],
+        [
+          18,
+          "Facebook, Hayward, California, USA",
+          null
+        ],
+        [
+          19,
+          "Technische Universität Berlin, Berlin, Germany",
+          null
+        ],
+        [
+          20,
+          "Florida International University, Miami, United States",
+          null
+        ],
+        [
+          21,
+          "University of South Carolina, USA",
+          null
+        ],
+        [
+          22,
+          "Google LLC",
+          null
+        ],
+        [
+          23,
+          "Stanford University, Stanford, California, USA",
+          null
+        ],
+        [
+          24,
+          "Dartmouth College, PBS, Hanover, New Hampshire, USA",
+          null
+        ],
+        [
+          25,
+          "Dept. of Neurology, Medical Faculty Mannheim, University of Heidelberg, Germany",
+          null
+        ],
+        [
+          26,
+          "Denver, Colorado, USA",
+          null
+        ],
+        [
+          27,
+          "Child Mind Institute, Baltimore, MD, USA",
+          null
+        ],
+        [
+          28,
+          "Centre for Neuroscience Studie, Queen University, Kingston, Ontario, Canada",
+          null
+        ],
+        [
+          29,
+          "Cambridge, Massachusetts, USA",
+          null
+        ],
+        [
+          30,
+          "McGill University & Mila Quebec AI Institute, Montréal, Canada",
+          null
+        ],
+        [
+          31,
+          "University of Nebraska Medical Center, Nebraska, USA",
+          null
+        ],
+        [
+          32,
+          "St. Petersburg, FL",
+          null
+        ],
+        [
+          33,
+          "NeuroSpin, CEA, Université Paris-Saclay, Gif-sur-Yvette, France",
+          null
+        ],
+        [
+          34,
+          "Facebook AI Research (FAIR)",
+          null
+        ],
+        [
+          35,
+          "Institute for Learning and Brain Sciences, University of Washington, Washington, USA",
+          null
+        ],
+        [
+          36,
+          "University of Oxford, Oxford, UK",
+          null
+        ],
+        [
+          37,
+          "@google, Geneva, Switzerland",
+          null
+        ],
+        [
+          38,
+          "Université Paris-Saclay, Inria, Saclay, France",
+          null
+        ],
+        [
+          39,
+          "ENS Paris-Saclay, Saclay, France",
+          null
+        ],
+        [
+          40,
+          "Department of Psychology, The University of Texas at Austin, TX, USA",
+          null
+        ],
+        [
+          41,
+          "Vrije Universiteit, Amsterdam, The Netherlands",
+          null
+        ],
+        [
+          42,
+          "Child Mind Institute",
+          null
+        ],
+        [
+          43,
+          "Department of Mathematics, Western University, Toronto, Canada",
+          null
+        ],
+        [
+          44,
+          "Linköping University, Linköping",
+          null
+        ],
+        [
+          45,
+          "SIMEXP, Université de Montréal, Montréal, Canada",
+          null
+        ],
+        [
+          46,
+          "IMT Atlantique, Brest, France",
+          null
+        ],
+        [
+          47,
+          "Department of Clinical Sciences, SciLifeLab, Lund University, Lund, Sweden",
+          null
+        ],
+        [
+          48,
+          "KardioMe, Nova Dubnica, Slovakia",
+          null
+        ],
+        [
+          49,
+          "Anyline GmbH, Vienna, Austria",
+          null
+        ],
+        [
+          50,
+          "Insight Data Science, Mountain View, California, USA",
+          null
+        ],
+        [
+          51,
+          "School of Data Science, University of Virginia, Viginia, USA",
+          null
+        ],
+        [
+          52,
+          "Imperial College London, London, UK",
+          null
+        ],
+        [
+          53,
+          "Meta AI, CNRS, Paris",
+          null
+        ],
+        [
+          54,
+          "University Medical Center Groningen, Groningen, The Netherlands",
+          null
+        ],
+        [
+          55,
+          "Inria Rennes, France",
+          null
+        ],
+        [
+          56,
+          "Probabl",
+          null
+        ],
+        [
+          57,
+          "Emerton Data",
+          null
+        ],
+        [
+          58,
+          "McGill University, Montréal, Canada",
+          null
+        ],
+        [
+          59,
+          "Central Institute of Mental Health, Mannheim, Germany",
+          null
+        ],
+        [
+          60,
+          "Neurogram, USA",
+          null
+        ],
+        [
+          61,
+          "Brigham and Women's Hospital, Mass General Brigham/Harvard Medical School, Boston, Massachusetts, USA",
+          null
+        ],
+        [
+          62,
+          "BarcelonaBeta Brain Research Center",
+          null
+        ],
+        [
+          63,
+          "International Brain Laboratory, Berlin, Germany",
+          null
+        ],
+        [
+          64,
+          "Florida International University, Miami, Florida, USA",
+          null
+        ],
+        [
+          65,
+          "Northwestern University, Evanston, Ilinois , USA",
+          null
+        ],
+        [
+          66,
+          "Dutch Connectome Lab, VU, Amsterdam, The Netherlands",
+          null
+        ],
+        [
+          67,
+          "Duke University Health System, USA",
+          null
+        ],
+        [
+          68,
+          "University of Macau, Macau, China",
+          null
+        ],
+        [
+          69,
+          "University of Barcelona, Barcelona, Spain",
+          null
+        ],
+        [
+          70,
+          "Kitware, Inc., USA",
+          null
+        ],
+        [
+          71,
+          "Basque Center on Cognition Brain and Language",
+          null
+        ],
+        [
+          72,
+          "Institut de Neurosciences de la Timone, University of Aix-Marseille, France",
+          null
+        ],
+        [
+          73,
+          "Criteo, France",
+          null
+        ],
+        [
+          74,
+          "Bielefeld University, Bielefeld, Germany",
+          null
+        ],
+        [
+          75,
+          "Concordia University, Montréal, Canada",
+          null
+        ],
+        [
+          76,
+          "Donders Institute, Nijmegen, The Netherlands",
+          null
+        ],
+        [
+          77,
+          "Aramis, Paris Brain Institute, Paris, France",
+          null
+        ],
+        [
+          78,
+          "Air Liquide, France",
+          null
+        ],
+        [
+          79,
+          "DSST, National Institute of Mental Health, USA",
+          null
+        ],
+        [
+          80,
+          "University of Oldenburg, Germany",
+          null
+        ],
+        [
+          81,
+          "Flatiron Institute, New-York, New-York, USA",
+          null
+        ],
+        [
+          82,
+          "Psychoinformatics, Forschungszentrum Jülich GmbH, Jülich, Germany",
+          null
+        ],
+        [
+          83,
+          "ams OSRAM, Martigny, Lausanne, Switzerland",
+          null
+        ],
+        [
+          84,
+          "Flatiron health, New York, USA",
+          null
+        ],
+        [
+          85,
+          "Origami lab, McGill University, Montréal, Canada",
+          null
+        ],
+        [
+          86,
+          "University of Calgary, Calgary, Alberta, Canada",
+          null
+        ],
+        [
+          87,
+          "IAUN, Iran (M.Sc. student, AI and robotics)",
+          null
+        ],
+        [
+          88,
+          "@SIMEXP, Montréal, Canada",
+          null
+        ],
+        [
+          89,
+          "Max Planck Institute for Intelligent Systems, Germany",
+          null
+        ],
+        [
+          90,
+          "Inria, Paris, France",
+          null
+        ],
+        [
+          91,
+          "University of Texas, Austin",
+          null
+        ],
+        [
+          92,
+          "BCBL, Spain",
+          null
+        ],
+        [
+          93,
+          "University of Washington, Seattle, Washington, USA",
+          null
+        ],
+        [
+          94,
+          "Wellcome Centre for Human Neuroimaging, UCL, London, UK",
+          null
+        ],
+        [
+          95,
+          "Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, USA",
+          null
+        ],
+        [
+          96,
+          "Masonic Institute for the Developing Brain, University of Minnesota, USA",
+          null
+        ],
+        [
+          97,
+          "Medical Research Institute, Brisbane, Australia",
+          null
+        ],
+        [
+          98,
+          "Zurich, Switzerland",
+          null
+        ],
+        [
+          99,
+          "Psychology Department, University of Montréal, Montréal, Canada",
+          null
+        ],
+        [
+          100,
+          "Gatsby Computational Neuroscience Unit, University College London, London, UK",
+          null
+        ],
+        [
+          101,
+          "Canadian Center for Computational Genomics / Calcul, Québec, Canada",
+          null
+        ],
+        [
+          102,
+          "University of Pittsburgh, Pittsburgh, PA, USA",
+          null
+        ],
+        [
+          103,
+          "RV College of Engineering, Bangalore, India",
+          null
+        ],
+        [
+          104,
+          "Thapar Institute of Engineering and Technology",
+          null
+        ],
+        [
+          105,
+          "@agencyenterprise, Melbourne, Australia",
+          null
+        ],
+        [
+          106,
+          "University \"G. D'Annunzio\" Chieti-Pescara, San Benedetto del Tronto, Italy",
+          null
+        ],
+        [
+          107,
+          "Cognitive Neuroscience & Clinical Phenomenology Lab, Christian Medical College, Vellore, India",
+          null
+        ],
+        [
+          108,
+          "Lyon area, France",
+          null
+        ],
+        [
+          109,
+          "Karolinska Institutet",
+          null
+        ],
+        [
+          110,
+          "UC San Diego, San Diego, California, USA",
+          null
+        ],
+        [
+          111,
+          "deephealth",
+          null
+        ],
+        [
+          112,
+          "Goverment Engineering College, Bilaspur, India",
+          null
+        ],
+        [
+          113,
+          "Danish Research Centre for Magnetic Resonance, Copenhagen University Hospital Amager & Hvidovre, Copenhagen, Denmark.",
+          null
+        ],
+        [
+          114,
+          "Korea Advanced Institute of Science and Technology: Daejeon, KR",
+          null
+        ],
+        [
+          115,
+          "Harvard-MIT Division of Health Sciences and Technology, Cambridge, Massachusetts, USA",
+          null
+        ],
+        [
+          116,
+          "Tribhuvan University, Kathmandu, Nepal",
+          null
+        ],
+        [
+          117,
+          "CNRS, Institut des Neurosciences de la Timone, Marseille, France",
+          null
+        ],
+        [
+          118,
+          "Bilkent University",
+          null
+        ],
+        [
+          119,
+          "Acharya Prafulla Chandra College",
+          null
+        ],
+        [
+          120,
+          "QuantCo",
+          null
+        ],
+        [
+          121,
+          "Lifespan Informatics & Neuroimaging Center, University of Pennsylvania, USA",
+          null
+        ],
+        [
+          122,
+          "Aramis lab, Paris Brain Institute",
+          null
+        ],
+        [
+          123,
+          "Wisconsin Institute for Sleep and Consciousness, USA",
+          null
+        ],
+        [
+          124,
+          "Inria Saclay, Université Paris Cité, France",
+          null
+        ],
+        [
+          125,
+          "Northeastern University, USA",
+          null
+        ],
+        [
+          126,
+          "https://www.logilab.fr/",
+          null
+        ],
+        [
+          127,
+          "Oregon State University, Corvallis, Oregon, USA",
+          null
+        ],
+        [
+          128,
+          "Peking University, Beijing, China",
+          null
+        ],
+        [
+          129,
+          "Tel-Aviv University, Israel",
+          null
+        ],
+        [
+          130,
+          "Checkmk",
+          null
+        ]
+      ]
+    },
+    "description_stripped": "Nilearn enables approachable and versatile analyses of brain volumes.\nIt provides statistical and machine-learning tools,\nwith instructive documentation & friendly community.",
+    "version": "0.14.0",
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/nilearn/nilearn/tree/0.14.0",
+        "relation_type": {
+          "id": "issupplementto",
+          "title_l10n": "Is supplement to"
+        },
+        "scheme": "url",
+        "resource_type": {
+          "id": "software",
+          "title_l10n": "Software"
+        }
+      }
+    ],
+    "additional_descriptions": [
+      {
+        "description": "If you use this software, please cite it as below.",
+        "type": {
+          "id": "notes",
+          "title_l10n": "Notes"
+        }
+      }
+    ],
+    "rights": [
+      {
+        "id": "bsd-4-clause",
+        "title_l10n": "BSD 4-Clause \"Original\" or \"Old\" License",
+        "description_l10n": "",
+        "props": {
+          "url": "http://directory.fsf.org/wiki/License:BSD_4Clause",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}

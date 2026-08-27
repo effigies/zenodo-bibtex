@@ -1,0 +1,2127 @@
+{
+  "id": "7640431",
+  "created": "2023-02-14T15:01:44.316037+00:00",
+  "updated": "2023-02-15T14:26:35.249418+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/7640431",
+    "self_html": "https://zenodo.org/records/7640431",
+    "preview_html": "https://zenodo.org/records/7640431?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.7640431",
+    "self_doi": "https://doi.org/10.5281/zenodo.7640431",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.7640431",
+    "reserve_doi": "https://zenodo.org/api/records/7640431/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/3608611",
+    "parent_html": "https://zenodo.org/records/3608611",
+    "parent_doi": "https://doi.org/10.5281/zenodo.3608611",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.3608611",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:7640431/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:7640431/sequence/default",
+    "files": "https://zenodo.org/api/records/7640431/files",
+    "media_files": "https://zenodo.org/api/records/7640431/media-files",
+    "archive": "https://zenodo.org/api/records/7640431/files-archive",
+    "archive_media": "https://zenodo.org/api/records/7640431/media-files-archive",
+    "latest": "https://zenodo.org/api/records/7640431/versions/latest",
+    "latest_html": "https://zenodo.org/records/7640431/latest",
+    "versions": "https://zenodo.org/api/records/7640431/versions",
+    "draft": "https://zenodo.org/api/records/7640431/draft",
+    "access_links": "https://zenodo.org/api/records/7640431/access/links",
+    "access_grants": "https://zenodo.org/api/records/7640431/access/grants",
+    "access_users": "https://zenodo.org/api/records/7640431/access/users",
+    "access_request": "https://zenodo.org/api/records/7640431/access/request",
+    "access": "https://zenodo.org/api/records/7640431/access",
+    "communities": "https://zenodo.org/api/records/7640431/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/7640431/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/7640431/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/7640431/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/7640431/quota-increase",
+    "requests": "https://zenodo.org/api/records/7640431/requests"
+  },
+  "revision_id": 3,
+  "parent": {
+    "id": "3608611",
+    "access": {
+      "owned_by": {
+        "user": "56493"
+      }
+    },
+    "communities": {},
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.3608611",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 7
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.7640431",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:7640431",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "publication-book",
+      "title": {
+        "de": "Buch",
+        "en": "Book"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Wagner, Adina S.",
+          "given_name": "Adina S.",
+          "family_name": "Wagner",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-2917-3450",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Waite, Laura K.",
+          "given_name": "Laura K.",
+          "family_name": "Waite",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-2213-7465",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Meyer, Kyle",
+          "given_name": "Kyle",
+          "family_name": "Meyer"
+        },
+        "affiliations": [
+          {
+            "name": "Dartmouth College, Hanover, NH, United States"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Heckner, Marisa K.",
+          "given_name": "Marisa K.",
+          "family_name": "Heckner",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-4761-9308",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany and Institute of Systems Neuroscience, Medical Faculty, Heinrich Heine University Düsseldorf, Düsseldorf, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Kadelka, Tobias",
+          "given_name": "Tobias",
+          "family_name": "Kadelka",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-0152-3490",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Reuter, Niels",
+          "given_name": "Niels",
+          "family_name": "Reuter",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6895-3527",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany and Institute of Systems Neuroscience, Medical Faculty, Heinrich Heine University Düsseldorf, Düsseldorf, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Waite, Alexander Q.",
+          "given_name": "Alexander Q.",
+          "family_name": "Waite",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-8402-6173",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Poldrack, Benjamin",
+          "given_name": "Benjamin",
+          "family_name": "Poldrack",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7628-0801",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Markiewicz, Christopher J.",
+          "given_name": "Christopher J.",
+          "family_name": "Markiewicz",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6533-164X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Stanford University, Stanford, CA, United States"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Halchenko, Yaroslav O.",
+          "given_name": "Yaroslav O.",
+          "family_name": "Halchenko",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3456-2493",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Dartmouth College, Hanover, NH, United States"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Vavra, Peter",
+          "given_name": "Peter",
+          "family_name": "Vavra",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8432-5459",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Biological Psychology, Otto von Guericke University Magdeburg, Magdeburg, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Chormai, Pattarawat",
+          "given_name": "Pattarawat",
+          "family_name": "Chormai",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-7582-4667",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Max Planck School of Cognition, Leipzig, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Poline, Jean-Baptiste",
+          "given_name": "Jean-Baptiste",
+          "family_name": "Poline",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-9794-749X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "McGill University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Paas, Lya K.",
+          "given_name": "Lya K.",
+          "family_name": "Paas",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7924-3440",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany and Institute of Systems Neuroscience, Medical Faculty, Heinrich Heine University Düsseldorf, Düsseldorf, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Herholz, Peer",
+          "given_name": "Peer",
+          "family_name": "Herholz",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-9840-6257",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Montréal Neurological Institute, McGill University, Montréal, Canada"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Mochalski, Lisa N.",
+          "given_name": "Lisa N.",
+          "family_name": "Mochalski",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-9558-8251",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany and Institute of Systems Neuroscience, Medical Faculty, Heinrich Heine University Düsseldorf, Düsseldorf, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Kraljevic, Nevena",
+          "given_name": "Nevena",
+          "family_name": "Kraljevic",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-0869-648X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany and Institute of Systems Neuroscience, Medical Faculty, Heinrich Heine University Düsseldorf, Düsseldorf, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Wiersch, Lisa",
+          "given_name": "Lisa",
+          "family_name": "Wiersch",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8006-8678",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7)"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Hutton, Alexandre",
+          "given_name": "Alexandre",
+          "family_name": "Hutton"
+        },
+        "affiliations": [
+          {
+            "name": "McGill University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Pustina, Dorian",
+          "given_name": "Dorian",
+          "family_name": "Pustina",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-2834-7220",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "CHDI Foundation"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Baagil, Hamzah Hamid",
+          "given_name": "Hamzah Hamid",
+          "family_name": "Baagil"
+        },
+        "affiliations": [
+          {
+            "name": "Imaging in Neurodegenerative Diseases, University Hospital RWTH Aachen"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Glatard, Tristan",
+          "given_name": "Tristan",
+          "family_name": "Glatard"
+        },
+        "affiliations": [
+          {
+            "name": "Department of Computer Science and Software Engineering, Concordia University, Montreal"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Oliveira, Sarah",
+          "given_name": "Sarah",
+          "family_name": "Oliveira",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-8050-6305",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Neuroscience and Medicine, Structural and functional organisation of the brain (INM-1)"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Ippoliti, Giulia",
+          "given_name": "Giulia",
+          "family_name": "Ippoliti"
+        },
+        "affiliations": [
+          {
+            "name": "Bioengineering Department, McGill University, Montreal"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Mönch, Christian",
+          "given_name": "Christian",
+          "family_name": "Mönch"
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7)"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Huijser, Dorien",
+          "given_name": "Dorien",
+          "family_name": "Huijser",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3282-8083",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Erasmus School of Social and Behavioral Sciences, Erasmus University Rotterdam"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Togaru, Surya T.",
+          "given_name": "Surya T.",
+          "family_name": "Togaru",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-5714-9135",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Indian Institute of Technology Indore, Madhya Pradesh, India"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Rokem, Ariel",
+          "given_name": "Ariel",
+          "family_name": "Rokem",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-0679-1985",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "The University of Washington, Seattle, WA, United States of America"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gau, Rémi",
+          "given_name": "Rémi",
+          "family_name": "Gau",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-1535-9767",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Université catholique de Louvain, Louvain la neuve, Belgium"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Bomba, Judith",
+          "given_name": "Judith",
+          "family_name": "Bomba",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-5027-6927",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Otto von Guericke University Magdeburg, Magdeburg, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Wierzba, Małgorzata",
+          "given_name": "Małgorzata",
+          "family_name": "Wierzba",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-0820-2662",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Appelhoff, Stefan",
+          "given_name": "Stefan",
+          "family_name": "Appelhoff",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8002-0877",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Center for Adaptive Rationality, Max Planck Institute for Human Development, Berlin, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Joseph, Michael",
+          "given_name": "Michael",
+          "family_name": "Joseph",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-0068-230X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "The Centre for Addiction and Mental Health"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Kim, Sin",
+          "given_name": "Sin",
+          "family_name": "Kim",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-4652-3758",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Korea Advanced Institute of Science and Technology, Daejeon, Korea"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Heunis, Stephan",
+          "given_name": "Stephan",
+          "family_name": "Heunis",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3503-9872",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Esteban, Oscar",
+          "given_name": "Oscar",
+          "family_name": "Esteban",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8435-6191",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Radiology, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Ort, Eduard",
+          "given_name": "Eduard",
+          "family_name": "Ort",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-5546-3561",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Experimental Psychology, Heinrich-Heine University Düsseldorf, Düsseldorf, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Ikko Ashimine",
+          "family_name": "Ikko Ashimine",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-3576-6677",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University of the Ryukyus"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Szczepanik, Michał",
+          "given_name": "Michał",
+          "family_name": "Szczepanik",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-4028-2087",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Breuer, Julius",
+          "given_name": "Julius",
+          "family_name": "Breuer",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6226-7208",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Technical University of Darmstadt"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Thomas Guiot",
+          "family_name": "Thomas Guiot",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7041-598X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Medical Physics Department, Institut Jules Bordet, Brussels, Belgium"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Basavaraj, Arshitha",
+          "given_name": "Arshitha",
+          "family_name": "Basavaraj",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6984-7969",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Data Science and Sharing Team, National Institute of Mental Health, National Institutes of Health, Bethesda, MD, USA."
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Veltri, Anthony J.",
+          "given_name": "Anthony J.",
+          "family_name": "Veltri",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-7067-1796",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Versiti Blood Research Institute, Milwaukee, WI, USA."
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Kosciessa, Julian Q.",
+          "given_name": "Julian Q.",
+          "family_name": "Kosciessa",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-4553-2794",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Donders Institute for Brain, Cognition and Behaviour, Donders Centre for Cognition, Radboud University, Nijmegen, The Netherlands"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Macdonald, Austin",
+          "given_name": "Austin",
+          "family_name": "Macdonald"
+        },
+        "affiliations": [
+          {
+            "name": "Dartmouth College, Hanover, NH, United States"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "To, Isaac",
+          "given_name": "Isaac",
+          "family_name": "To"
+        },
+        "affiliations": [
+          {
+            "name": "Dartmouth College, Hanover, NH, United States"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Hanke, Michael",
+          "given_name": "Michael",
+          "family_name": "Hanke",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6398-6370",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany and Institute of Systems Neuroscience, Medical Faculty, Heinrich Heine University Düsseldorf, Düsseldorf, Germany"
+          }
+        ]
+      }
+    ],
+    "title": "The DataLad Handbook",
+    "publisher": "Zenodo",
+    "publication_date": "2023-02-14",
+    "subjects": [
+      {
+        "subject": "data management"
+      },
+      {
+        "subject": "book"
+      },
+      {
+        "subject": "datalad"
+      },
+      {
+        "subject": "version control"
+      },
+      {
+        "subject": "teaching resource"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/datalad-handbook/book/tree/0.18",
+        "scheme": "url",
+        "relation_type": {
+          "id": "issupplementto",
+          "title": {
+            "de": "Ergänzt",
+            "en": "Is supplement to"
+          }
+        }
+      }
+    ],
+    "version": "0.18",
+    "rights": [
+      {
+        "id": "cc-by-sa-4.0",
+        "title": {
+          "en": "Creative Commons Attribution Share Alike 4.0 International"
+        },
+        "description": {
+          "en": "Permits almost any use subject to providing credit and license notice. Frequently used for media assets and educational materials. The most common license for Open Access scientific publications. Not recommended for software."
+        },
+        "icon": "cc-by-sa-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "<p>The DataLad Handbook is a comprehensive educational resource for data management with DataLad.</p>"
+  },
+  "custom_fields": {},
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 1,
+    "total_bytes": 3021703,
+    "entries": {
+      "datalad-handbook/book-0.18.zip": {
+        "id": "59ce8a53-4316-4a49-8815-9f7d8c68e53e",
+        "checksum": "md5:e3052d9d27942ef747c2924f617ac2fd",
+        "ext": "zip",
+        "size": 3021703,
+        "mimetype": "application/zip",
+        "key": "datalad-handbook/book-0.18.zip",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": false,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 562,
+      "unique_views": 546,
+      "downloads": 82,
+      "unique_downloads": 80,
+      "data_volume": 247779646.0
+    },
+    "all_versions": {
+      "views": 2889,
+      "unique_views": 2807,
+      "downloads": 380,
+      "unique_downloads": 375,
+      "data_volume": 996053387.0
+    }
+  },
+  "swh": null,
+  "ui": {
+    "publication_date_l10n_medium": "Feb 14, 2023",
+    "publication_date_l10n_long": "February 14, 2023",
+    "created_date_l10n_long": "February 14, 2023",
+    "updated_date_l10n_long": "February 15, 2023",
+    "resource_type": {
+      "id": "publication-book",
+      "title_l10n": "Book"
+    },
+    "custom_fields": {},
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Wagner, Adina S.",
+            "given_name": "Adina S.",
+            "family_name": "Wagner",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-2917-3450",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Waite, Laura K.",
+            "given_name": "Laura K.",
+            "family_name": "Waite",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-2213-7465",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Meyer, Kyle",
+            "given_name": "Kyle",
+            "family_name": "Meyer"
+          },
+          "affiliations": [
+            [
+              2,
+              "Dartmouth College, Hanover, NH, United States"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Heckner, Marisa K.",
+            "given_name": "Marisa K.",
+            "family_name": "Heckner",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-4761-9308",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              3,
+              "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany and Institute of Systems Neuroscience, Medical Faculty, Heinrich Heine University Düsseldorf, Düsseldorf, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Kadelka, Tobias",
+            "given_name": "Tobias",
+            "family_name": "Kadelka",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-0152-3490",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Reuter, Niels",
+            "given_name": "Niels",
+            "family_name": "Reuter",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-6895-3527",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              3,
+              "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany and Institute of Systems Neuroscience, Medical Faculty, Heinrich Heine University Düsseldorf, Düsseldorf, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Waite, Alexander Q.",
+            "given_name": "Alexander Q.",
+            "family_name": "Waite",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-8402-6173",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Poldrack, Benjamin",
+            "given_name": "Benjamin",
+            "family_name": "Poldrack",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7628-0801",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Markiewicz, Christopher J.",
+            "given_name": "Christopher J.",
+            "family_name": "Markiewicz",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6533-164X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              4,
+              "Stanford University, Stanford, CA, United States"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Halchenko, Yaroslav O.",
+            "given_name": "Yaroslav O.",
+            "family_name": "Halchenko",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3456-2493",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              2,
+              "Dartmouth College, Hanover, NH, United States"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Vavra, Peter",
+            "given_name": "Peter",
+            "family_name": "Vavra",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8432-5459",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              5,
+              "Department of Biological Psychology, Otto von Guericke University Magdeburg, Magdeburg, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Chormai, Pattarawat",
+            "given_name": "Pattarawat",
+            "family_name": "Chormai",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-7582-4667",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              6,
+              "Max Planck School of Cognition, Leipzig, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Poline, Jean-Baptiste",
+            "given_name": "Jean-Baptiste",
+            "family_name": "Poline",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-9794-749X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              7,
+              "McGill University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Paas, Lya K.",
+            "given_name": "Lya K.",
+            "family_name": "Paas",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7924-3440",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              3,
+              "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany and Institute of Systems Neuroscience, Medical Faculty, Heinrich Heine University Düsseldorf, Düsseldorf, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Herholz, Peer",
+            "given_name": "Peer",
+            "family_name": "Herholz",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-9840-6257",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              8,
+              "Montréal Neurological Institute, McGill University, Montréal, Canada"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Mochalski, Lisa N.",
+            "given_name": "Lisa N.",
+            "family_name": "Mochalski",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-9558-8251",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              3,
+              "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany and Institute of Systems Neuroscience, Medical Faculty, Heinrich Heine University Düsseldorf, Düsseldorf, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Kraljevic, Nevena",
+            "given_name": "Nevena",
+            "family_name": "Kraljevic",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-0869-648X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              3,
+              "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany and Institute of Systems Neuroscience, Medical Faculty, Heinrich Heine University Düsseldorf, Düsseldorf, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Wiersch, Lisa",
+            "given_name": "Lisa",
+            "family_name": "Wiersch",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8006-8678",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              9,
+              "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7)"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Hutton, Alexandre",
+            "given_name": "Alexandre",
+            "family_name": "Hutton"
+          },
+          "affiliations": [
+            [
+              7,
+              "McGill University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Pustina, Dorian",
+            "given_name": "Dorian",
+            "family_name": "Pustina",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-2834-7220",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              10,
+              "CHDI Foundation"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Baagil, Hamzah Hamid",
+            "given_name": "Hamzah Hamid",
+            "family_name": "Baagil"
+          },
+          "affiliations": [
+            [
+              11,
+              "Imaging in Neurodegenerative Diseases, University Hospital RWTH Aachen"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Glatard, Tristan",
+            "given_name": "Tristan",
+            "family_name": "Glatard"
+          },
+          "affiliations": [
+            [
+              12,
+              "Department of Computer Science and Software Engineering, Concordia University, Montreal"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Oliveira, Sarah",
+            "given_name": "Sarah",
+            "family_name": "Oliveira",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-8050-6305",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              13,
+              "Institute of Neuroscience and Medicine, Structural and functional organisation of the brain (INM-1)"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Ippoliti, Giulia",
+            "given_name": "Giulia",
+            "family_name": "Ippoliti"
+          },
+          "affiliations": [
+            [
+              14,
+              "Bioengineering Department, McGill University, Montreal"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Mönch, Christian",
+            "given_name": "Christian",
+            "family_name": "Mönch"
+          },
+          "affiliations": [
+            [
+              9,
+              "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7)"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Huijser, Dorien",
+            "given_name": "Dorien",
+            "family_name": "Huijser",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3282-8083",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              15,
+              "Erasmus School of Social and Behavioral Sciences, Erasmus University Rotterdam"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Togaru, Surya T.",
+            "given_name": "Surya T.",
+            "family_name": "Togaru",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-5714-9135",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              16,
+              "Indian Institute of Technology Indore, Madhya Pradesh, India"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Rokem, Ariel",
+            "given_name": "Ariel",
+            "family_name": "Rokem",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-0679-1985",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              17,
+              "The University of Washington, Seattle, WA, United States of America"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gau, Rémi",
+            "given_name": "Rémi",
+            "family_name": "Gau",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-1535-9767",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              18,
+              "Université catholique de Louvain, Louvain la neuve, Belgium"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Bomba, Judith",
+            "given_name": "Judith",
+            "family_name": "Bomba",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-5027-6927",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              19,
+              "Otto von Guericke University Magdeburg, Magdeburg, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Wierzba, Małgorzata",
+            "given_name": "Małgorzata",
+            "family_name": "Wierzba",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-0820-2662",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Appelhoff, Stefan",
+            "given_name": "Stefan",
+            "family_name": "Appelhoff",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8002-0877",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              20,
+              "Center for Adaptive Rationality, Max Planck Institute for Human Development, Berlin, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Joseph, Michael",
+            "given_name": "Michael",
+            "family_name": "Joseph",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-0068-230X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              21,
+              "The Centre for Addiction and Mental Health"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Kim, Sin",
+            "given_name": "Sin",
+            "family_name": "Kim",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-4652-3758",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              22,
+              "Korea Advanced Institute of Science and Technology, Daejeon, Korea"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Heunis, Stephan",
+            "given_name": "Stephan",
+            "family_name": "Heunis",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3503-9872",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Esteban, Oscar",
+            "given_name": "Oscar",
+            "family_name": "Esteban",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8435-6191",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              23,
+              "Department of Radiology, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Ort, Eduard",
+            "given_name": "Eduard",
+            "family_name": "Ort",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-5546-3561",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              24,
+              "Department of Experimental Psychology, Heinrich-Heine University Düsseldorf, Düsseldorf, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Ikko Ashimine",
+            "family_name": "Ikko Ashimine",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-3576-6677",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              25,
+              "University of the Ryukyus"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Szczepanik, Michał",
+            "given_name": "Michał",
+            "family_name": "Szczepanik",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-4028-2087",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Breuer, Julius",
+            "given_name": "Julius",
+            "family_name": "Breuer",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6226-7208",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              26,
+              "Technical University of Darmstadt"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Thomas Guiot",
+            "family_name": "Thomas Guiot",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7041-598X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              27,
+              "Medical Physics Department, Institut Jules Bordet, Brussels, Belgium"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Basavaraj, Arshitha",
+            "given_name": "Arshitha",
+            "family_name": "Basavaraj",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6984-7969",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              28,
+              "Data Science and Sharing Team, National Institute of Mental Health, National Institutes of Health, Bethesda, MD, USA."
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Veltri, Anthony J.",
+            "given_name": "Anthony J.",
+            "family_name": "Veltri",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-7067-1796",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              29,
+              "Versiti Blood Research Institute, Milwaukee, WI, USA."
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Kosciessa, Julian Q.",
+            "given_name": "Julian Q.",
+            "family_name": "Kosciessa",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-4553-2794",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              30,
+              "Donders Institute for Brain, Cognition and Behaviour, Donders Centre for Cognition, Radboud University, Nijmegen, The Netherlands"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Macdonald, Austin",
+            "given_name": "Austin",
+            "family_name": "Macdonald"
+          },
+          "affiliations": [
+            [
+              2,
+              "Dartmouth College, Hanover, NH, United States"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "To, Isaac",
+            "given_name": "Isaac",
+            "family_name": "To"
+          },
+          "affiliations": [
+            [
+              2,
+              "Dartmouth College, Hanover, NH, United States"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Hanke, Michael",
+            "given_name": "Michael",
+            "family_name": "Hanke",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-6398-6370",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              3,
+              "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany and Institute of Systems Neuroscience, Medical Faculty, Heinrich Heine University Düsseldorf, Düsseldorf, Germany"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany",
+          null
+        ],
+        [
+          2,
+          "Dartmouth College, Hanover, NH, United States",
+          null
+        ],
+        [
+          3,
+          "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich, Jülich, Germany and Institute of Systems Neuroscience, Medical Faculty, Heinrich Heine University Düsseldorf, Düsseldorf, Germany",
+          null
+        ],
+        [
+          4,
+          "Stanford University, Stanford, CA, United States",
+          null
+        ],
+        [
+          5,
+          "Department of Biological Psychology, Otto von Guericke University Magdeburg, Magdeburg, Germany",
+          null
+        ],
+        [
+          6,
+          "Max Planck School of Cognition, Leipzig, Germany",
+          null
+        ],
+        [
+          7,
+          "McGill University",
+          null
+        ],
+        [
+          8,
+          "Montréal Neurological Institute, McGill University, Montréal, Canada",
+          null
+        ],
+        [
+          9,
+          "Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7)",
+          null
+        ],
+        [
+          10,
+          "CHDI Foundation",
+          null
+        ],
+        [
+          11,
+          "Imaging in Neurodegenerative Diseases, University Hospital RWTH Aachen",
+          null
+        ],
+        [
+          12,
+          "Department of Computer Science and Software Engineering, Concordia University, Montreal",
+          null
+        ],
+        [
+          13,
+          "Institute of Neuroscience and Medicine, Structural and functional organisation of the brain (INM-1)",
+          null
+        ],
+        [
+          14,
+          "Bioengineering Department, McGill University, Montreal",
+          null
+        ],
+        [
+          15,
+          "Erasmus School of Social and Behavioral Sciences, Erasmus University Rotterdam",
+          null
+        ],
+        [
+          16,
+          "Indian Institute of Technology Indore, Madhya Pradesh, India",
+          null
+        ],
+        [
+          17,
+          "The University of Washington, Seattle, WA, United States of America",
+          null
+        ],
+        [
+          18,
+          "Université catholique de Louvain, Louvain la neuve, Belgium",
+          null
+        ],
+        [
+          19,
+          "Otto von Guericke University Magdeburg, Magdeburg, Germany",
+          null
+        ],
+        [
+          20,
+          "Center for Adaptive Rationality, Max Planck Institute for Human Development, Berlin, Germany",
+          null
+        ],
+        [
+          21,
+          "The Centre for Addiction and Mental Health",
+          null
+        ],
+        [
+          22,
+          "Korea Advanced Institute of Science and Technology, Daejeon, Korea",
+          null
+        ],
+        [
+          23,
+          "Department of Radiology, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland",
+          null
+        ],
+        [
+          24,
+          "Department of Experimental Psychology, Heinrich-Heine University Düsseldorf, Düsseldorf, Germany",
+          null
+        ],
+        [
+          25,
+          "University of the Ryukyus",
+          null
+        ],
+        [
+          26,
+          "Technical University of Darmstadt",
+          null
+        ],
+        [
+          27,
+          "Medical Physics Department, Institut Jules Bordet, Brussels, Belgium",
+          null
+        ],
+        [
+          28,
+          "Data Science and Sharing Team, National Institute of Mental Health, National Institutes of Health, Bethesda, MD, USA.",
+          null
+        ],
+        [
+          29,
+          "Versiti Blood Research Institute, Milwaukee, WI, USA.",
+          null
+        ],
+        [
+          30,
+          "Donders Institute for Brain, Cognition and Behaviour, Donders Centre for Cognition, Radboud University, Nijmegen, The Netherlands",
+          null
+        ]
+      ]
+    },
+    "description_stripped": "The DataLad Handbook is a comprehensive educational resource for data management with DataLad.",
+    "version": "0.18",
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/datalad-handbook/book/tree/0.18",
+        "relation_type": {
+          "id": "issupplementto",
+          "title_l10n": "Is supplement to"
+        },
+        "scheme": "url"
+      }
+    ],
+    "rights": [
+      {
+        "id": "cc-by-sa-4.0",
+        "title_l10n": "Creative Commons Attribution Share Alike 4.0 International",
+        "description_l10n": "Permits almost any use subject to providing credit and license notice. Frequently used for media assets and educational materials. The most common license for Open Access scientific publications. Not recommended for software.",
+        "icon": "cc-by-sa-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}

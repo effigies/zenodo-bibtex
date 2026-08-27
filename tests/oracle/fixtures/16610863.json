@@ -1,0 +1,601 @@
+{
+  "id": "16610863",
+  "created": "2025-07-30T13:15:32.447693+00:00",
+  "updated": "2025-07-30T13:15:32.734581+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/16610863",
+    "self_html": "https://zenodo.org/records/16610863",
+    "preview_html": "https://zenodo.org/records/16610863?preview=1",
+    "doi": "https://doi.org/10.21175/rad.abstr.book.2024.13.4",
+    "self_doi": "https://doi.org/10.21175/rad.abstr.book.2024.13.4",
+    "self_doi_html": "https://zenodo.org/doi/10.21175/rad.abstr.book.2024.13.4",
+    "reserve_doi": "https://zenodo.org/api/records/16610863/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/16610862",
+    "parent_html": "https://zenodo.org/records/16610862",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:16610863/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:16610863/sequence/default",
+    "files": "https://zenodo.org/api/records/16610863/files",
+    "media_files": "https://zenodo.org/api/records/16610863/media-files",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:16610863:RAD_2024-Abstract_Bondar.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:16610863:RAD_2024-Abstract_Bondar.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:16610863:RAD_2024-Abstract_Bondar.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:16610863:RAD_2024-Abstract_Bondar.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:16610863:RAD_2024-Abstract_Bondar.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:16610863:RAD_2024-Abstract_Bondar.pdf/full/%5E1200,/0/default.jpg"
+    },
+    "archive": "https://zenodo.org/api/records/16610863/files-archive",
+    "archive_media": "https://zenodo.org/api/records/16610863/media-files-archive",
+    "latest": "https://zenodo.org/api/records/16610863/versions/latest",
+    "latest_html": "https://zenodo.org/records/16610863/latest",
+    "versions": "https://zenodo.org/api/records/16610863/versions",
+    "draft": "https://zenodo.org/api/records/16610863/draft",
+    "access_links": "https://zenodo.org/api/records/16610863/access/links",
+    "access_grants": "https://zenodo.org/api/records/16610863/access/grants",
+    "access_users": "https://zenodo.org/api/records/16610863/access/users",
+    "access_request": "https://zenodo.org/api/records/16610863/access/request",
+    "access": "https://zenodo.org/api/records/16610863/access",
+    "communities": "https://zenodo.org/api/records/16610863/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/16610863/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/16610863/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/16610863/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/16610863/quota-increase",
+    "requests": "https://zenodo.org/api/records/16610863/requests"
+  },
+  "revision_id": 4,
+  "parent": {
+    "id": "16610862",
+    "access": {
+      "owned_by": {
+        "user": "1104177"
+      },
+      "settings": {
+        "allow_user_requests": false,
+        "allow_guest_requests": false,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {
+      "ids": [
+        "416e51f6-6004-4dbd-9fbe-68f9677f2492",
+        "f0a8b890-f97a-4eb2-9eac-8b8a712d3a6c"
+      ],
+      "default": "416e51f6-6004-4dbd-9fbe-68f9677f2492",
+      "entries": [
+        {
+          "id": "416e51f6-6004-4dbd-9fbe-68f9677f2492",
+          "created": "2024-06-06T10:40:43.137605+00:00",
+          "updated": "2024-06-06T10:42:16.273811+00:00",
+          "links": {},
+          "revision_id": 3,
+          "slug": "msca_fzp_czu",
+          "metadata": {
+            "title": "MSCA projects at Faculty of Environmental Sciences, CZU Prague",
+            "type": {
+              "id": "topic",
+              "title": {
+                "de": "Thema",
+                "en": "Topic"
+              }
+            },
+            "funding": [
+              {
+                "funder": {
+                  "id": "00k4n6c32",
+                  "name": "European Commission"
+                },
+                "award": {
+                  "id": "00k4n6c32::101066324",
+                  "number": "101066324",
+                  "title": {
+                    "en": "effects of Climatic extremes On eCOsystem Stability"
+                  },
+                  "identifiers": [
+                    {
+                      "identifier": "https://cordis.europa.eu/projects/101066324",
+                      "scheme": "url"
+                    }
+                  ],
+                  "acronym": "COCOS",
+                  "program": "HORIZON.1.2"
+                }
+              }
+            ],
+            "organizations": [
+              {
+                "id": "0415vcw02",
+                "name": "Czech University of Life Sciences Prague",
+                "identifiers": [
+                  {
+                    "identifier": "0415vcw02",
+                    "scheme": "ror"
+                  },
+                  {
+                    "identifier": "grid.15866.3c",
+                    "scheme": "grid"
+                  },
+                  {
+                    "identifier": "0000 0001 2238 631X",
+                    "scheme": "isni"
+                  }
+                ]
+              }
+            ]
+          },
+          "access": {
+            "visibility": "public",
+            "members_visibility": "public",
+            "member_policy": "closed",
+            "record_submission_policy": "open",
+            "review_policy": "closed"
+          },
+          "deletion_status": {
+            "is_deleted": false,
+            "status": "P"
+          },
+          "children": {
+            "allow": false
+          }
+        },
+        {
+          "id": "f0a8b890-f97a-4eb2-9eac-8b8a712d3a6c",
+          "created": "2022-11-23T15:53:29.436323+00:00",
+          "updated": "2026-03-31T12:29:43.596724+00:00",
+          "links": {},
+          "revision_id": 24,
+          "slug": "eu",
+          "metadata": {
+            "title": "EU Open Research Repository",
+            "type": {
+              "id": "organization",
+              "title": {
+                "de": "Organisation",
+                "en": "Organization"
+              }
+            },
+            "website": "https://research-and-innovation.ec.europa.eu",
+            "funding": [
+              {
+                "funder": {
+                  "id": "00k4n6c32",
+                  "name": "European Commission"
+                }
+              }
+            ],
+            "organizations": [
+              {
+                "id": "00k4n6c32",
+                "name": "European Commission",
+                "identifiers": [
+                  {
+                    "identifier": "00k4n6c32",
+                    "scheme": "ror"
+                  },
+                  {
+                    "identifier": "grid.270680.b",
+                    "scheme": "grid"
+                  }
+                ]
+              }
+            ]
+          },
+          "access": {
+            "visibility": "public",
+            "members_visibility": "public",
+            "member_policy": "closed",
+            "record_submission_policy": "open",
+            "review_policy": "closed"
+          },
+          "theme": {
+            "style": {
+              "font": {
+                "size": "16px",
+                "family": "Arial, sans-serif",
+                "weight": 600
+              },
+              "primaryColor": "#004494",
+              "secondaryColor": "#FFD617",
+              "tertiaryColor": "#e3eefd",
+              "primaryTextColor": "#FFFFFF",
+              "secondaryTextColor": "#000000",
+              "tertiaryTextColor": "#1c5694",
+              "mainHeaderBackgroundColor": "#FFFFFF"
+            },
+            "brand": "horizon",
+            "enabled": true
+          },
+          "deletion_status": {
+            "is_deleted": false,
+            "status": "P"
+          },
+          "children": {
+            "allow": true
+          }
+        }
+      ]
+    },
+    "pids": {}
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 1
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.21175/rad.abstr.book.2024.13.4",
+      "provider": "external"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:16610863",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "publication-conferencepaper",
+      "title": {
+        "de": "Konferenzbeitrag",
+        "en": "Conference paper"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Bondar, Yuliia",
+          "given_name": "Yuliia",
+          "family_name": "Bondar",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-5511-1387",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "State Institution \"The Institute of Environmental Geochemistry of National Academy of Sciences of Ukraine\""
+          },
+          {
+            "id": "0415vcw02",
+            "name": "Czech University of Life Sciences Prague",
+            "identifiers": [
+              {
+                "identifier": "0415vcw02",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.15866.3c",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0001 2238 631X",
+                "scheme": "isni"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Šípková, Adéla",
+          "given_name": "Adéla",
+          "family_name": "Šípková",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-7626-7591",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "role": {
+          "id": "datacurator",
+          "title": {
+            "de": "DatenkuratorIn",
+            "en": "Data curator"
+          }
+        },
+        "affiliations": [
+          {
+            "name": "Czech University of Life Sciences Prague"
+          }
+        ]
+      }
+    ],
+    "title": "Composite adsorbents based on natural zeolite  for selective removal of toxic metals and  radionuclides",
+    "publisher": "Zenodo",
+    "publication_date": "2025-07-30",
+    "rights": [
+      {
+        "id": "cc-by-4.0",
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        },
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "<p>Conference abstract: Composite adsorbents based on natural zeolite&nbsp;for selective removal of toxic metals and radionuclides</p>",
+    "additional_descriptions": [
+      {
+        "description": "<p><span lang=\"EN-GB\">This project has received funding through the MSCA4Ukraine project, which is funded by the European Union. Views and opinions expressed are, however, those of the author(s) only and do not necessarily reflect those of the European Union, the European Research Executive Agency, or the MSCA4Ukraine Consortium. Neither the European Union nor the European Research Executive Agency, nor the MSCA4Ukraine Consortium as a whole nor any individual member institutions of the MSCA4Ukraine Consortium can be held responsible for them</span></p>",
+        "type": {
+          "id": "notes",
+          "title": {
+            "de": "Anmerkungen",
+            "en": "Notes"
+          }
+        }
+      }
+    ],
+    "funding": [
+      {
+        "funder": {
+          "id": "00k4n6c32",
+          "name": "European Commission"
+        },
+        "award": {
+          "id": "00k4n6c32::101101923",
+          "number": "101101923",
+          "title": {
+            "en": "MSCA4Ukraine"
+          },
+          "identifiers": [
+            {
+              "identifier": "https://cordis.europa.eu/projects/101101923",
+              "scheme": "url"
+            }
+          ],
+          "acronym": "MSCA4Ukraine",
+          "program": "HORIZON.1.2"
+        }
+      },
+      {
+        "funder": {
+          "id": "01pv73b02",
+          "name": "Czech Science Foundation"
+        },
+        "award": {
+          "number": "22-36079S"
+        }
+      }
+    ]
+  },
+  "custom_fields": {
+    "imprint:imprint": {
+      "title": "Book of abstracts / Twelfth International Conference on Radiation, Natural Sciences, Medicine, Engineering, Technology and Ecology",
+      "isbn": "978-86-901150-7-5",
+      "pages": "38",
+      "place": "Serbia"
+    }
+  },
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 1,
+    "total_bytes": 431109,
+    "entries": {
+      "RAD_2024-Abstract_Bondar.pdf": {
+        "id": "b9e49f65-c324-49de-8a0a-de602e95dff9",
+        "checksum": "md5:477f80a199bc04085b5a470b2d5db93d",
+        "ext": "pdf",
+        "size": 431109,
+        "mimetype": "application/pdf",
+        "key": "RAD_2024-Abstract_Bondar.pdf",
+        "metadata": {
+          "width": 595,
+          "height": 842
+        },
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": true,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 50,
+      "unique_views": 48,
+      "downloads": 30,
+      "unique_downloads": 23,
+      "data_volume": 12933270.0
+    },
+    "all_versions": {
+      "views": 50,
+      "unique_views": 48,
+      "downloads": 30,
+      "unique_downloads": 23,
+      "data_volume": 12933270.0
+    }
+  },
+  "swh": null,
+  "ui": {
+    "publication_date_l10n_medium": "Jul 30, 2025",
+    "publication_date_l10n_long": "July 30, 2025",
+    "created_date_l10n_long": "July 30, 2025",
+    "updated_date_l10n_long": "July 30, 2025",
+    "resource_type": {
+      "id": "publication-conferencepaper",
+      "title_l10n": "Conference paper"
+    },
+    "custom_fields": {
+      "imprint:imprint": {
+        "title": "Book of abstracts / Twelfth International Conference on Radiation, Natural Sciences, Medicine, Engineering, Technology and Ecology",
+        "isbn": "978-86-901150-7-5",
+        "pages": "38",
+        "place": "Serbia"
+      }
+    },
+    "publishing_information": {
+      "imprint": "Book of abstracts / Twelfth International Conference on Radiation, Natural Sciences, Medicine, Engineering, Technology and Ecology, 38. Serbia. ISBN: 978-86-901150-7-5."
+    },
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Bondar, Yuliia",
+            "given_name": "Yuliia",
+            "family_name": "Bondar",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-5511-1387",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "researcher",
+            "title": "Researcher"
+          },
+          "affiliations": [
+            [
+              1,
+              "State Institution \"The Institute of Environmental Geochemistry of National Academy of Sciences of Ukraine\""
+            ],
+            [
+              2,
+              "Czech University of Life Sciences Prague"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Šípková, Adéla",
+            "given_name": "Adéla",
+            "family_name": "Šípková",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-7626-7591",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "role": {
+            "id": "datacurator",
+            "title": "Data curator"
+          },
+          "affiliations": [
+            [
+              2,
+              "Czech University of Life Sciences Prague"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "State Institution \"The Institute of Environmental Geochemistry of National Academy of Sciences of Ukraine\"",
+          null
+        ],
+        [
+          2,
+          "Czech University of Life Sciences Prague",
+          "0415vcw02"
+        ]
+      ]
+    },
+    "description_stripped": "Conference abstract: Composite adsorbents based on natural zeolite for selective removal of toxic metals and radionuclides",
+    "version": "v1",
+    "additional_descriptions": [
+      {
+        "description": "<p><span lang=\"EN-GB\">This project has received funding through the MSCA4Ukraine project, which is funded by the European Union. Views and opinions expressed are, however, those of the author(s) only and do not necessarily reflect those of the European Union, the European Research Executive Agency, or the MSCA4Ukraine Consortium. Neither the European Union nor the European Research Executive Agency, nor the MSCA4Ukraine Consortium as a whole nor any individual member institutions of the MSCA4Ukraine Consortium can be held responsible for them</span></p>",
+        "type": {
+          "id": "notes",
+          "title_l10n": "Notes"
+        }
+      }
+    ],
+    "rights": [
+      {
+        "id": "cc-by-4.0",
+        "title_l10n": "Creative Commons Attribution 4.0 International",
+        "description_l10n": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited.",
+        "icon": "cc-by-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false,
+    "funding": [
+      {
+        "award": {
+          "id": "00k4n6c32::101101923",
+          "title_l10n": "MSCA4Ukraine",
+          "number": "101101923",
+          "acronym": "MSCA4Ukraine",
+          "program": "HORIZON.1.2",
+          "identifiers": [
+            {
+              "identifier": "https://cordis.europa.eu/projects/101101923",
+              "scheme": "url"
+            }
+          ]
+        },
+        "funder": {
+          "id": "00k4n6c32",
+          "name": "European Commission"
+        }
+      },
+      {
+        "award": {
+          "number": "22-36079S"
+        },
+        "funder": {
+          "id": "01pv73b02",
+          "name": "Czech Science Foundation"
+        }
+      }
+    ]
+  }
+}

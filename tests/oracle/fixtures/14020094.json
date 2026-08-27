@@ -1,0 +1,1751 @@
+{
+  "id": "14020094",
+  "created": "2024-10-31T20:03:26.919957+00:00",
+  "updated": "2025-12-11T17:06:27.139791+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/14020094",
+    "self_html": "https://zenodo.org/records/14020094",
+    "preview_html": "https://zenodo.org/records/14020094?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.14020094",
+    "self_doi": "https://doi.org/10.5281/zenodo.14020094",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14020094",
+    "reserve_doi": "https://zenodo.org/api/records/14020094/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/3688706",
+    "parent_html": "https://zenodo.org/records/3688706",
+    "parent_doi": "https://doi.org/10.5281/zenodo.3688706",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.3688706",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:14020094/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:14020094/sequence/default",
+    "files": "https://zenodo.org/api/records/14020094/files",
+    "media_files": "https://zenodo.org/api/records/14020094/media-files",
+    "archive": "https://zenodo.org/api/records/14020094/files-archive",
+    "archive_media": "https://zenodo.org/api/records/14020094/media-files-archive",
+    "latest": "https://zenodo.org/api/records/14020094/versions/latest",
+    "latest_html": "https://zenodo.org/records/14020094/latest",
+    "versions": "https://zenodo.org/api/records/14020094/versions",
+    "draft": "https://zenodo.org/api/records/14020094/draft",
+    "access_links": "https://zenodo.org/api/records/14020094/access/links",
+    "access_grants": "https://zenodo.org/api/records/14020094/access/grants",
+    "access_users": "https://zenodo.org/api/records/14020094/access/users",
+    "access_request": "https://zenodo.org/api/records/14020094/access/request",
+    "access": "https://zenodo.org/api/records/14020094/access",
+    "communities": "https://zenodo.org/api/records/14020094/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/14020094/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/14020094/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/14020094/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/14020094/quota-increase",
+    "requests": "https://zenodo.org/api/records/14020094/requests"
+  },
+  "revision_id": 6,
+  "parent": {
+    "id": "3688706",
+    "access": {
+      "grants": [
+        {
+          "permission": "manage",
+          "subject": {
+            "id": "21424",
+            "type": "user"
+          },
+          "origin": "api:92337"
+        },
+        {
+          "permission": "manage",
+          "subject": {
+            "id": "70314",
+            "type": "user"
+          },
+          "origin": "api:92337"
+        }
+      ],
+      "owned_by": {
+        "user": "92337"
+      },
+      "links": [],
+      "settings": {
+        "allow_user_requests": false,
+        "allow_guest_requests": false,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {
+      "ids": [
+        "4439d226-c446-46f0-bbbe-3dd76dce22ba"
+      ],
+      "default": "4439d226-c446-46f0-bbbe-3dd76dce22ba",
+      "entries": [
+        {
+          "id": "4439d226-c446-46f0-bbbe-3dd76dce22ba",
+          "created": "2025-12-11T16:13:07.659342+00:00",
+          "updated": "2026-01-09T14:12:00.989509+00:00",
+          "links": {},
+          "revision_id": 9,
+          "slug": "brain-imaging-data-structure",
+          "metadata": {
+            "title": "Brain Imaging Data Structure",
+            "type": {
+              "id": "project",
+              "title": {
+                "de": "Projekt",
+                "en": "Project"
+              }
+            },
+            "website": "https://bids.neuroimaging.io",
+            "funding": [
+              {
+                "funder": {
+                  "id": "021nxhr62",
+                  "name": "U.S. National Science Foundation"
+                },
+                "award": {
+                  "id": "021nxhr62::1760950",
+                  "number": "1760950",
+                  "title": {
+                    "en": "Spokes: MEDIUM: WEST: Breaking down barriers for reproducible neuroimaging data analyses"
+                  },
+                  "program": "CISE/OAD"
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::2R24MH117295-06",
+                  "number": "2R24MH117295-06",
+                  "title": {
+                    "en": "DANDI: Distributed Archives for Neurophysiology Data Integration"
+                  }
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::5P41EB019936-09",
+                  "number": "5P41EB019936-09",
+                  "title": {
+                    "en": "ReproNim: A Center for Reproducible Neuroimaging Computation"
+                  }
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::5R24MH117179-07",
+                  "number": "5R24MH117179-07",
+                  "title": {
+                    "en": "OpenNeuro: An open archive for analysis and sharing of BRAIN Initiative data"
+                  }
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::1ZIAMH002977-03",
+                  "number": "1ZIAMH002977-03",
+                  "title": {
+                    "en": "BRAIN project: OpenNeuroPET: An Archive for PET data"
+                  }
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::1R01MH126699-01",
+                  "number": "1R01MH126699-01",
+                  "title": {
+                    "en": "A community-driven development of the brain imaging data standard (BIDS) to describe macroscopic brain connections"
+                  },
+                  "program": "NATIONAL_INSTITUTE_OF_MENTAL_HEALTH"
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::5R24MH114705-02",
+                  "number": "5R24MH114705-02",
+                  "title": {
+                    "en": "BIDS-Derivatives: A data standard for derived data and models in the BRAIN Initiative"
+                  },
+                  "program": "NATIONAL_INSTITUTE_OF_MENTAL_HEALTH"
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::5R01MH109682-05",
+                  "number": "5R01MH109682-05",
+                  "title": {
+                    "en": "NeuroScout: A cloud-based platform for flexible re-analysis of naturalistic fMRI datasets"
+                  },
+                  "program": "NATIONAL_INSTITUTE_OF_MENTAL_HEALTH"
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::1RF1MH126700-01A1",
+                  "number": "1RF1MH126700-01A1",
+                  "title": {
+                    "en": "BRAIN Initiative: Hierarchical Event Descriptors (HED): a system to characterize events in neurobehavioral data"
+                  },
+                  "program": "NATIONAL_INSTITUTE_OF_MENTAL_HEALTH"
+                }
+              },
+              {
+                "funder": {
+                  "id": "01cwqze88",
+                  "name": "National Institutes of Health"
+                },
+                "award": {
+                  "id": "01cwqze88::5R01EB020740-04",
+                  "number": "5R01EB020740-04",
+                  "title": {
+                    "en": "Nipype: Dataflows for Reproducible Biomedical Research"
+                  },
+                  "program": "NATIONAL_INSTITUTE_OF_BIOMEDICAL_IMAGING_AND_BIOENGINEERING"
+                }
+              },
+              {
+                "funder": {
+                  "id": "018mejw64",
+                  "name": "Deutsche Forschungsgemeinschaft"
+                },
+                "award": {
+                  "number": "501864659",
+                  "title": {
+                    "en": " NFDI4BIOIMAGE - National research data infrastructure for microscopy and bioimage analysis"
+                  },
+                  "identifiers": [
+                    {
+                      "identifier": "https://gepris.dfg.de/gepris/projekt/501864659?language=en",
+                      "scheme": "url"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "access": {
+            "visibility": "public",
+            "members_visibility": "public",
+            "member_policy": "closed",
+            "record_submission_policy": "open",
+            "review_policy": "closed"
+          },
+          "deletion_status": {
+            "is_deleted": false,
+            "status": "P"
+          },
+          "children": {
+            "allow": false
+          }
+        }
+      ]
+    },
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.3688706",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "is_latest_draft": true,
+    "index": 44
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.14020094",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:14020094",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "software",
+      "title": {
+        "de": "Software",
+        "en": "Software"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Blair, Ross",
+          "given_name": "Ross",
+          "family_name": "Blair",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3007-1056",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Stanford University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Michael, Zack",
+          "given_name": "Zack",
+          "family_name": "Michael"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gorgolewski, Krzysztof J.",
+          "given_name": "Krzysztof J.",
+          "family_name": "Gorgolewski",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3321-7583",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Google"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Hardcastle, Nell",
+          "given_name": "Nell",
+          "family_name": "Hardcastle",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-3837-0707",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Squishymedia"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Hobson-Lowther, Teal",
+          "given_name": "Teal",
+          "family_name": "Hobson-Lowther"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Nishikawa, David",
+          "given_name": "David",
+          "family_name": "Nishikawa"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Bhogawar, Suyash",
+          "given_name": "Suyash",
+          "family_name": "Bhogawar"
+        },
+        "affiliations": [
+          {
+            "name": "Northern California Institute for Research and Education, San Francisco CA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Appelhoff, Stefan",
+          "given_name": "Stefan",
+          "family_name": "Appelhoff",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8002-0877",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Center for Adaptive Rationality, Max Planck Institute for Human Development, Berlin, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Jas, Mainak",
+          "given_name": "Mainak",
+          "family_name": "Jas",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-3199-9027",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "AA Martinos Center for Biomedical Imaging, USA"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Grass, Brian",
+          "given_name": "Brian",
+          "family_name": "Grass"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Markiewicz, Christopher J.",
+          "given_name": "Christopher J.",
+          "family_name": "Markiewicz",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6533-164X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Stanford University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Holdgraf, Chris",
+          "given_name": "Chris",
+          "family_name": "Holdgraf",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-2391-0678",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Berkeley Institute for Data Science; University of California at Berkeley"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Jones, Alexander",
+          "given_name": "Alexander",
+          "family_name": "Jones",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-2067-3862",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University of Texas at San Antonio"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Goyal, Rohan",
+          "given_name": "Rohan",
+          "family_name": "Goyal"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Oostenveld, Robert",
+          "given_name": "Robert",
+          "family_name": "Oostenveld",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-1974-1293",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Radboud University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Noack, Gregory",
+          "given_name": "Gregory",
+          "family_name": "Noack"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Triplett, William",
+          "given_name": "William",
+          "family_name": "Triplett"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Naveau, Mikaël",
+          "given_name": "Mikaël",
+          "family_name": "Naveau",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-4685-0057",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "CYCERON imaging plateform, Caen, France"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Zito, Matthew",
+          "given_name": "Matthew",
+          "family_name": "Zito",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-2704-0742",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Durnez, Joke",
+          "given_name": "Joke",
+          "family_name": "Durnez"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Traut, Nicolas",
+          "given_name": "Nicolas",
+          "family_name": "Traut",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3277-6316",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Pasteur Institute"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Sethi, Parul",
+          "given_name": "Parul",
+          "family_name": "Sethi"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Halchenko, Yaroslav O.",
+          "given_name": "Yaroslav O.",
+          "family_name": "Halchenko",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3456-2493",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Dartmouth College"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Papadopoulos, Dimitri",
+          "given_name": "Dimitri",
+          "family_name": "Papadopoulos"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Wexler, Joseph",
+          "given_name": "Joseph",
+          "family_name": "Wexler"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Salo, Taylor",
+          "given_name": "Taylor",
+          "family_name": "Salo",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-9813-3167",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Florida International University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Thomas, Adam",
+          "given_name": "Adam",
+          "family_name": "Thomas"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Hanke, Michael",
+          "given_name": "Michael",
+          "family_name": "Hanke",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6398-6370",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Research Center Jülich; Heinrich-Heine University Düsseldorf"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Hayashi, Soichi",
+          "given_name": "Soichi",
+          "family_name": "Hayashi",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3641-3491",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Indiana University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Warren, David E.",
+          "given_name": "David E.",
+          "family_name": "Warren"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Patterson, Dianne",
+          "given_name": "Dianne",
+          "family_name": "Patterson"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Macleod, Duncan",
+          "given_name": "Duncan",
+          "family_name": "Macleod"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Ort, Eduard",
+          "given_name": "Eduard",
+          "family_name": "Ort",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-5546-3561",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Heinrich-Heine University Düsseldorf"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Feingold, Franklin",
+          "given_name": "Franklin",
+          "family_name": "Feingold",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6533-2909",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Christian, Horea",
+          "given_name": "Horea",
+          "family_name": "Christian",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7037-2449",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "MIT"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Kaczmarzyk, Jakub",
+          "given_name": "Jakub",
+          "family_name": "Kaczmarzyk",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-5544-7577",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Stony Brook University School of Medicine"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Poldrack, Russell",
+          "given_name": "Russell",
+          "family_name": "Poldrack",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6755-0259",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Stanford University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Riddle, Travis",
+          "given_name": "Travis",
+          "family_name": "Riddle",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-8160-3986",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "National Institutes of Health"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Zulfikar, Wazeer",
+          "given_name": "Wazeer",
+          "family_name": "Zulfikar"
+        }
+      }
+    ],
+    "title": "bids-validator",
+    "publisher": "Zenodo",
+    "publication_date": "2024-10-31",
+    "subjects": [
+      {
+        "subject": "BIDS"
+      },
+      {
+        "subject": "brain imaging data structure"
+      },
+      {
+        "subject": "neuroscience"
+      },
+      {
+        "subject": "neuroimaging"
+      },
+      {
+        "subject": "neuroinformatics"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/bids-standard/bids-validator/tree/v1.15.0",
+        "scheme": "url",
+        "relation_type": {
+          "id": "issupplementto",
+          "title": {
+            "de": "Ergänzt",
+            "en": "Is supplement to"
+          }
+        },
+        "resource_type": {
+          "id": "software",
+          "title": {
+            "de": "Software",
+            "en": "Software"
+          }
+        }
+      },
+      {
+        "identifier": "10.5281/zenodo.17902244",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "ispreviousversionof",
+          "title": {
+            "de": "Ist eine vorherige Version von",
+            "en": "Is previous version of"
+          }
+        },
+        "resource_type": {
+          "id": "software",
+          "title": {
+            "de": "Software",
+            "en": "Software"
+          }
+        }
+      }
+    ],
+    "version": "v1.15.0",
+    "rights": [
+      {
+        "id": "mit",
+        "title": {
+          "en": "MIT License"
+        },
+        "description": {
+          "en": "A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code."
+        },
+        "props": {
+          "url": "https://opensource.org/licenses/MIT",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "The bids-validator is a software tool to check neuroimaging datasets for adherence to the Brain Imaging Data Structure (BIDS) format. More information about BIDS can be found at <a href=\"https://bids.neuroimaging.io\">bids.neuroimaging.io</a>."
+  },
+  "custom_fields": {
+    "code:programmingLanguage": [
+      {
+        "id": "javascript",
+        "title": {
+          "en": "JavaScript"
+        }
+      }
+    ]
+  },
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 1,
+    "total_bytes": 5082545,
+    "entries": {
+      "bids-standard/bids-validator-v1.15.0.zip": {
+        "id": "b8aa7ed9-1b94-4692-8152-d370ef7a74a6",
+        "checksum": "md5:8f3e9e29a1eab661c5b6eff72498cb5c",
+        "ext": "zip",
+        "size": 5082545,
+        "mimetype": "application/zip",
+        "key": "bids-standard/bids-validator-v1.15.0.zip",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": false,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 975,
+      "unique_views": 934,
+      "downloads": 65,
+      "unique_downloads": 65,
+      "data_volume": 330365425.0
+    },
+    "all_versions": {
+      "views": 5206,
+      "unique_views": 5025,
+      "downloads": 1140,
+      "unique_downloads": 1094,
+      "data_volume": 4778165842.0
+    }
+  },
+  "swh": null,
+  "ui": {
+    "publication_date_l10n_medium": "Oct 31, 2024",
+    "publication_date_l10n_long": "October 31, 2024",
+    "created_date_l10n_long": "October 31, 2024",
+    "updated_date_l10n_long": "December 11, 2025",
+    "resource_type": {
+      "id": "software",
+      "title_l10n": "Software"
+    },
+    "custom_fields": {
+      "code:programmingLanguage": [
+        {
+          "id": "javascript",
+          "title_l10n": "JavaScript"
+        }
+      ]
+    },
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Blair, Ross",
+            "given_name": "Ross",
+            "family_name": "Blair",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3007-1056",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Stanford University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Michael, Zack",
+            "given_name": "Zack",
+            "family_name": "Michael"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gorgolewski, Krzysztof J.",
+            "given_name": "Krzysztof J.",
+            "family_name": "Gorgolewski",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3321-7583",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              2,
+              "Google"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Hardcastle, Nell",
+            "given_name": "Nell",
+            "family_name": "Hardcastle",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-3837-0707",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              3,
+              "Squishymedia"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Hobson-Lowther, Teal",
+            "given_name": "Teal",
+            "family_name": "Hobson-Lowther"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Nishikawa, David",
+            "given_name": "David",
+            "family_name": "Nishikawa"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Bhogawar, Suyash",
+            "given_name": "Suyash",
+            "family_name": "Bhogawar"
+          },
+          "affiliations": [
+            [
+              4,
+              "Northern California Institute for Research and Education, San Francisco CA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Appelhoff, Stefan",
+            "given_name": "Stefan",
+            "family_name": "Appelhoff",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8002-0877",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              5,
+              "Center for Adaptive Rationality, Max Planck Institute for Human Development, Berlin, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Jas, Mainak",
+            "given_name": "Mainak",
+            "family_name": "Jas",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-3199-9027",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              6,
+              "AA Martinos Center for Biomedical Imaging, USA"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Grass, Brian",
+            "given_name": "Brian",
+            "family_name": "Grass"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Markiewicz, Christopher J.",
+            "given_name": "Christopher J.",
+            "family_name": "Markiewicz",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6533-164X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Stanford University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Holdgraf, Chris",
+            "given_name": "Chris",
+            "family_name": "Holdgraf",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-2391-0678",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              7,
+              "Berkeley Institute for Data Science; University of California at Berkeley"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Jones, Alexander",
+            "given_name": "Alexander",
+            "family_name": "Jones",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-2067-3862",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              8,
+              "University of Texas at San Antonio"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Goyal, Rohan",
+            "given_name": "Rohan",
+            "family_name": "Goyal"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Oostenveld, Robert",
+            "given_name": "Robert",
+            "family_name": "Oostenveld",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-1974-1293",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              9,
+              "Radboud University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Noack, Gregory",
+            "given_name": "Gregory",
+            "family_name": "Noack"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Triplett, William",
+            "given_name": "William",
+            "family_name": "Triplett"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Naveau, Mikaël",
+            "given_name": "Mikaël",
+            "family_name": "Naveau",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-4685-0057",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              10,
+              "CYCERON imaging plateform, Caen, France"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Zito, Matthew",
+            "given_name": "Matthew",
+            "family_name": "Zito",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-2704-0742",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Durnez, Joke",
+            "given_name": "Joke",
+            "family_name": "Durnez"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Traut, Nicolas",
+            "given_name": "Nicolas",
+            "family_name": "Traut",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3277-6316",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              11,
+              "Pasteur Institute"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Sethi, Parul",
+            "given_name": "Parul",
+            "family_name": "Sethi"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Halchenko, Yaroslav O.",
+            "given_name": "Yaroslav O.",
+            "family_name": "Halchenko",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3456-2493",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              12,
+              "Dartmouth College"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Papadopoulos, Dimitri",
+            "given_name": "Dimitri",
+            "family_name": "Papadopoulos"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Wexler, Joseph",
+            "given_name": "Joseph",
+            "family_name": "Wexler"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Salo, Taylor",
+            "given_name": "Taylor",
+            "family_name": "Salo",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-9813-3167",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              13,
+              "Florida International University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Thomas, Adam",
+            "given_name": "Adam",
+            "family_name": "Thomas"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Hanke, Michael",
+            "given_name": "Michael",
+            "family_name": "Hanke",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-6398-6370",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              14,
+              "Research Center Jülich; Heinrich-Heine University Düsseldorf"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Hayashi, Soichi",
+            "given_name": "Soichi",
+            "family_name": "Hayashi",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3641-3491",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              15,
+              "Indiana University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Warren, David E.",
+            "given_name": "David E.",
+            "family_name": "Warren"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Patterson, Dianne",
+            "given_name": "Dianne",
+            "family_name": "Patterson"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Macleod, Duncan",
+            "given_name": "Duncan",
+            "family_name": "Macleod"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Ort, Eduard",
+            "given_name": "Eduard",
+            "family_name": "Ort",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-5546-3561",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              16,
+              "Heinrich-Heine University Düsseldorf"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Feingold, Franklin",
+            "given_name": "Franklin",
+            "family_name": "Feingold",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6533-2909",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              17,
+              "Department of Psychology, Stanford University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Christian, Horea",
+            "given_name": "Horea",
+            "family_name": "Christian",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7037-2449",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              18,
+              "MIT"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Kaczmarzyk, Jakub",
+            "given_name": "Jakub",
+            "family_name": "Kaczmarzyk",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-5544-7577",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              19,
+              "Stony Brook University School of Medicine"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Poldrack, Russell",
+            "given_name": "Russell",
+            "family_name": "Poldrack",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-6755-0259",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Stanford University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Riddle, Travis",
+            "given_name": "Travis",
+            "family_name": "Riddle",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-8160-3986",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              20,
+              "National Institutes of Health"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Zulfikar, Wazeer",
+            "given_name": "Wazeer",
+            "family_name": "Zulfikar"
+          }
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "Stanford University",
+          null
+        ],
+        [
+          2,
+          "Google",
+          null
+        ],
+        [
+          3,
+          "Squishymedia",
+          null
+        ],
+        [
+          4,
+          "Northern California Institute for Research and Education, San Francisco CA",
+          null
+        ],
+        [
+          5,
+          "Center for Adaptive Rationality, Max Planck Institute for Human Development, Berlin, Germany",
+          null
+        ],
+        [
+          6,
+          "AA Martinos Center for Biomedical Imaging, USA",
+          null
+        ],
+        [
+          7,
+          "Berkeley Institute for Data Science; University of California at Berkeley",
+          null
+        ],
+        [
+          8,
+          "University of Texas at San Antonio",
+          null
+        ],
+        [
+          9,
+          "Radboud University",
+          null
+        ],
+        [
+          10,
+          "CYCERON imaging plateform, Caen, France",
+          null
+        ],
+        [
+          11,
+          "Pasteur Institute",
+          null
+        ],
+        [
+          12,
+          "Dartmouth College",
+          null
+        ],
+        [
+          13,
+          "Florida International University",
+          null
+        ],
+        [
+          14,
+          "Research Center Jülich; Heinrich-Heine University Düsseldorf",
+          null
+        ],
+        [
+          15,
+          "Indiana University",
+          null
+        ],
+        [
+          16,
+          "Heinrich-Heine University Düsseldorf",
+          null
+        ],
+        [
+          17,
+          "Department of Psychology, Stanford University",
+          null
+        ],
+        [
+          18,
+          "MIT",
+          null
+        ],
+        [
+          19,
+          "Stony Brook University School of Medicine",
+          null
+        ],
+        [
+          20,
+          "National Institutes of Health",
+          null
+        ]
+      ]
+    },
+    "description_stripped": "The bids-validator is a software tool to check neuroimaging datasets for adherence to the Brain Imaging Data Structure (BIDS) format. More information about BIDS can be found at bids.neuroimaging.io.",
+    "version": "v1.15.0",
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/bids-standard/bids-validator/tree/v1.15.0",
+        "relation_type": {
+          "id": "issupplementto",
+          "title_l10n": "Is supplement to"
+        },
+        "scheme": "url",
+        "resource_type": {
+          "id": "software",
+          "title_l10n": "Software"
+        }
+      },
+      {
+        "identifier": "10.5281/zenodo.17902244",
+        "relation_type": {
+          "id": "ispreviousversionof",
+          "title_l10n": "Is previous version of"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "software",
+          "title_l10n": "Software"
+        }
+      }
+    ],
+    "rights": [
+      {
+        "id": "mit",
+        "title_l10n": "MIT License",
+        "description_l10n": "A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.",
+        "props": {
+          "url": "https://opensource.org/licenses/MIT",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}

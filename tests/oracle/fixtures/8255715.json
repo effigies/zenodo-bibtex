@@ -1,0 +1,276 @@
+{
+  "id": "8255715",
+  "created": "2023-08-17T10:07:29.312466+00:00",
+  "updated": "2024-07-11T12:30:35.928926+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/8255715",
+    "self_html": "https://zenodo.org/records/8255715",
+    "preview_html": "https://zenodo.org/records/8255715?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.8255715",
+    "self_doi": "https://doi.org/10.5281/zenodo.8255715",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.8255715",
+    "reserve_doi": "https://zenodo.org/api/records/8255715/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/8255714",
+    "parent_html": "https://zenodo.org/records/8255714",
+    "parent_doi": "https://doi.org/10.5281/zenodo.8255714",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.8255714",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:8255715/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:8255715/sequence/default",
+    "files": "https://zenodo.org/api/records/8255715/files",
+    "media_files": "https://zenodo.org/api/records/8255715/media-files",
+    "archive": "https://zenodo.org/api/records/8255715/files-archive",
+    "archive_media": "https://zenodo.org/api/records/8255715/media-files-archive",
+    "latest": "https://zenodo.org/api/records/8255715/versions/latest",
+    "latest_html": "https://zenodo.org/records/8255715/latest",
+    "versions": "https://zenodo.org/api/records/8255715/versions",
+    "draft": "https://zenodo.org/api/records/8255715/draft",
+    "access_links": "https://zenodo.org/api/records/8255715/access/links",
+    "access_grants": "https://zenodo.org/api/records/8255715/access/grants",
+    "access_users": "https://zenodo.org/api/records/8255715/access/users",
+    "access_request": "https://zenodo.org/api/records/8255715/access/request",
+    "access": "https://zenodo.org/api/records/8255715/access",
+    "communities": "https://zenodo.org/api/records/8255715/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/8255715/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/8255715/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/8255715/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/8255715/quota-increase",
+    "requests": "https://zenodo.org/api/records/8255715/requests"
+  },
+  "revision_id": 7,
+  "parent": {
+    "id": "8255714",
+    "access": {
+      "owned_by": {
+        "user": "597908"
+      },
+      "settings": {
+        "allow_user_requests": false,
+        "allow_guest_requests": false,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.8255714",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 1
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.8255715",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:8255715",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "publication-section",
+      "title": {
+        "de": "Buchkapitel",
+        "en": "Book chapter"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "VOEGELE, Augustin",
+          "given_name": "Augustin",
+          "family_name": "VOEGELE",
+          "identifiers": [
+            {
+              "identifier": "0009-0003-8656-0155",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Université de Haute-Alsace"
+          }
+        ]
+      }
+    ],
+    "title": "Vitesse psychique et lenteur romanesque chez Jules Romains",
+    "publisher": "Classiques Garnier",
+    "publication_date": "2018-08-17",
+    "subjects": [
+      {
+        "subject": "Jules Romains"
+      },
+      {
+        "subject": "Temps"
+      },
+      {
+        "subject": "Time"
+      },
+      {
+        "subject": "Vitesse"
+      },
+      {
+        "subject": "Speed"
+      }
+    ],
+    "languages": [
+      {
+        "id": "fra",
+        "title": {
+          "en": "French"
+        }
+      }
+    ],
+    "rights": [
+      {
+        "id": "cc-by-4.0",
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        },
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "<p>Si les personnages de Jules Romains sont capables de communiquer presque instantan&eacute;ment par les voies de l&rsquo;esprit, le temps s&rsquo;&eacute;coule en revanche tr&egrave;s lentement dans certains de ses romans. Comment expliquer ce paradoxe&nbsp;?</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>While Jules Romains&#39; characters are capable of communicating almost instantaneously through their minds, time passes very slowly in some of his novels. How can we explain this paradox?</p>"
+  },
+  "custom_fields": {
+    "imprint:imprint": {
+      "title": "Vertiges de la vitesse",
+      "pages": "p. 89-99."
+    }
+  },
+  "access": {
+    "record": "public",
+    "files": "restricted",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "restricted"
+  },
+  "files": {
+    "enabled": true
+  },
+  "media_files": {
+    "enabled": false
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 42,
+      "unique_views": 40,
+      "downloads": 21,
+      "unique_downloads": 18,
+      "data_volume": 2755515.0
+    },
+    "all_versions": {
+      "views": 42,
+      "unique_views": 40,
+      "downloads": 21,
+      "unique_downloads": 18,
+      "data_volume": 2755515.0
+    }
+  },
+  "swh": null,
+  "ui": {
+    "publication_date_l10n_medium": "Aug 17, 2018",
+    "publication_date_l10n_long": "August 17, 2018",
+    "created_date_l10n_long": "August 17, 2023",
+    "updated_date_l10n_long": "July 11, 2024",
+    "resource_type": {
+      "id": "publication-section",
+      "title_l10n": "Book chapter"
+    },
+    "custom_fields": {
+      "imprint:imprint": {
+        "title": "Vertiges de la vitesse",
+        "pages": "p. 89-99."
+      }
+    },
+    "publishing_information": {
+      "imprint": "Vertiges de la vitesse, p. 89-99.."
+    },
+    "access_status": {
+      "id": "restricted",
+      "title_l10n": "Restricted",
+      "description_l10n": "The record is publicly accessible, but files are restricted to users with access.",
+      "icon": "ban",
+      "embargo_date_l10n": null,
+      "message_class": "negative"
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "VOEGELE, Augustin",
+            "given_name": "Augustin",
+            "family_name": "VOEGELE",
+            "identifiers": [
+              {
+                "identifier": "0009-0003-8656-0155",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Université de Haute-Alsace"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "Université de Haute-Alsace",
+          null
+        ]
+      ]
+    },
+    "languages": [
+      {
+        "id": "fra",
+        "title_l10n": "French"
+      }
+    ],
+    "description_stripped": "Si les personnages de Jules Romains sont capables de communiquer presque instantanément par les voies de l’esprit, le temps s’écoule en revanche très lentement dans certains de ses romans. Comment expliquer ce paradoxe ?\n\n\n \n\n\n \n\n\nWhile Jules Romains' characters are capable of communicating almost instantaneously through their minds, time passes very slowly in some of his novels. How can we explain this paradox?",
+    "version": "v1",
+    "rights": [
+      {
+        "id": "cc-by-4.0",
+        "title_l10n": "Creative Commons Attribution 4.0 International",
+        "description_l10n": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited.",
+        "icon": "cc-by-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}

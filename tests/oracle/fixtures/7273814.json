@@ -1,0 +1,253 @@
+{
+  "id": "7273814",
+  "created": "2022-11-02T12:04:11.166422+00:00",
+  "updated": "2022-11-02T14:26:34.060091+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/7273814",
+    "self_html": "https://zenodo.org/records/7273814",
+    "preview_html": "https://zenodo.org/records/7273814?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.7273814",
+    "self_doi": "https://doi.org/10.5281/zenodo.7273814",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.7273814",
+    "reserve_doi": "https://zenodo.org/api/records/7273814/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/7273813",
+    "parent_html": "https://zenodo.org/records/7273813",
+    "parent_doi": "https://doi.org/10.5281/zenodo.7273813",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.7273813",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:7273814/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:7273814/sequence/default",
+    "files": "https://zenodo.org/api/records/7273814/files",
+    "media_files": "https://zenodo.org/api/records/7273814/media-files",
+    "archive": "https://zenodo.org/api/records/7273814/files-archive",
+    "archive_media": "https://zenodo.org/api/records/7273814/media-files-archive",
+    "latest": "https://zenodo.org/api/records/7273814/versions/latest",
+    "latest_html": "https://zenodo.org/records/7273814/latest",
+    "versions": "https://zenodo.org/api/records/7273814/versions",
+    "draft": "https://zenodo.org/api/records/7273814/draft",
+    "access_links": "https://zenodo.org/api/records/7273814/access/links",
+    "access_grants": "https://zenodo.org/api/records/7273814/access/grants",
+    "access_users": "https://zenodo.org/api/records/7273814/access/users",
+    "access_request": "https://zenodo.org/api/records/7273814/access/request",
+    "access": "https://zenodo.org/api/records/7273814/access",
+    "communities": "https://zenodo.org/api/records/7273814/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/7273814/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/7273814/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/7273814/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/7273814/quota-increase",
+    "requests": "https://zenodo.org/api/records/7273814/requests"
+  },
+  "revision_id": 2,
+  "parent": {
+    "id": "7273813",
+    "access": {
+      "owned_by": {
+        "user": "433327"
+      }
+    },
+    "communities": {},
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.7273813",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 1
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.7273814",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:7273814",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "publication-article",
+      "title": {
+        "de": "Zeitschriftenartikel",
+        "en": "Journal article"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Weichang Yang",
+          "family_name": "Weichang Yang"
+        },
+        "affiliations": [
+          {
+            "name": "The Second Affiliated Hospital of Nanchang University"
+          }
+        ]
+      }
+    ],
+    "title": "Raw_data",
+    "publisher": "Zenodo",
+    "publication_date": "2022-11-02",
+    "subjects": [
+      {
+        "subject": "Asthma, Non-small cell lung cancer, Lung adenocarcinoma, Hub genes, Bioinformatics analysis, Immune cell infiltration."
+      }
+    ],
+    "languages": [
+      {
+        "id": "eng",
+        "title": {
+          "en": "English"
+        }
+      }
+    ],
+    "version": "Semantic Versioning 2.0.0",
+    "rights": [
+      {
+        "id": "cc-by-4.0",
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        },
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "<p>Asthma and lung cancer</p>"
+  },
+  "custom_fields": {},
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 1,
+    "total_bytes": 351150940,
+    "entries": {
+      "Raw data.zip": {
+        "id": "42c822ee-ffe2-4f55-817e-b5c73bf02bc2",
+        "checksum": "md5:6d9e6f316e38a4e07e99413e72e5d3da",
+        "ext": "zip",
+        "size": 351150940,
+        "mimetype": "application/zip",
+        "key": "Raw data.zip",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": false,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 91,
+      "unique_views": 88,
+      "downloads": 30,
+      "unique_downloads": 29,
+      "data_volume": 10534528200.0
+    },
+    "all_versions": {
+      "views": 93,
+      "unique_views": 89,
+      "downloads": 32,
+      "unique_downloads": 30,
+      "data_volume": 11236830080.0
+    }
+  },
+  "swh": null,
+  "ui": {
+    "publication_date_l10n_medium": "Nov 2, 2022",
+    "publication_date_l10n_long": "November 2, 2022",
+    "created_date_l10n_long": "November 2, 2022",
+    "updated_date_l10n_long": "November 2, 2022",
+    "resource_type": {
+      "id": "publication-article",
+      "title_l10n": "Journal article"
+    },
+    "custom_fields": {},
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Weichang Yang",
+            "family_name": "Weichang Yang"
+          },
+          "affiliations": [
+            [
+              1,
+              "The Second Affiliated Hospital of Nanchang University"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "The Second Affiliated Hospital of Nanchang University",
+          null
+        ]
+      ]
+    },
+    "languages": [
+      {
+        "id": "eng",
+        "title_l10n": "English"
+      }
+    ],
+    "description_stripped": "Asthma and lung cancer",
+    "version": "Semantic Versioning 2.0.0",
+    "rights": [
+      {
+        "id": "cc-by-4.0",
+        "title_l10n": "Creative Commons Attribution 4.0 International",
+        "description_l10n": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited.",
+        "icon": "cc-by-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}

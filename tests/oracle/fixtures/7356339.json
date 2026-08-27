@@ -1,0 +1,447 @@
+{
+  "id": "7356339",
+  "created": "2022-11-24T11:30:02.716378+00:00",
+  "updated": "2024-07-15T16:44:52.085393+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/7356339",
+    "self_html": "https://zenodo.org/records/7356339",
+    "preview_html": "https://zenodo.org/records/7356339?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.7356339",
+    "self_doi": "https://doi.org/10.5281/zenodo.7356339",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.7356339",
+    "reserve_doi": "https://zenodo.org/api/records/7356339/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/7356338",
+    "parent_html": "https://zenodo.org/records/7356338",
+    "parent_doi": "https://doi.org/10.5281/zenodo.7356338",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.7356338",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:7356339/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:7356339/sequence/default",
+    "files": "https://zenodo.org/api/records/7356339/files",
+    "media_files": "https://zenodo.org/api/records/7356339/media-files",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:7356339:Models_and_Measurements_Intercomparison_2.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:7356339:Models_and_Measurements_Intercomparison_2.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:7356339:Models_and_Measurements_Intercomparison_2.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:7356339:Models_and_Measurements_Intercomparison_2.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:7356339:Models_and_Measurements_Intercomparison_2.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:7356339:Models_and_Measurements_Intercomparison_2.pdf/full/%5E1200,/0/default.jpg"
+    },
+    "archive": "https://zenodo.org/api/records/7356339/files-archive",
+    "archive_media": "https://zenodo.org/api/records/7356339/media-files-archive",
+    "latest": "https://zenodo.org/api/records/7356339/versions/latest",
+    "latest_html": "https://zenodo.org/records/7356339/latest",
+    "versions": "https://zenodo.org/api/records/7356339/versions",
+    "draft": "https://zenodo.org/api/records/7356339/draft",
+    "access_links": "https://zenodo.org/api/records/7356339/access/links",
+    "access_grants": "https://zenodo.org/api/records/7356339/access/grants",
+    "access_users": "https://zenodo.org/api/records/7356339/access/users",
+    "access_request": "https://zenodo.org/api/records/7356339/access/request",
+    "access": "https://zenodo.org/api/records/7356339/access",
+    "communities": "https://zenodo.org/api/records/7356339/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/7356339/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/7356339/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/7356339/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/7356339/quota-increase",
+    "requests": "https://zenodo.org/api/records/7356339/requests"
+  },
+  "revision_id": 7,
+  "parent": {
+    "id": "7356338",
+    "access": {
+      "owned_by": {
+        "user": "260920"
+      }
+    },
+    "communities": {
+      "ids": [
+        "5050bdbd-89cc-4e1b-a99e-7ae853533cb7"
+      ],
+      "default": "5050bdbd-89cc-4e1b-a99e-7ae853533cb7",
+      "entries": [
+        {
+          "id": "5050bdbd-89cc-4e1b-a99e-7ae853533cb7",
+          "created": "2021-10-20T15:10:11.250581+00:00",
+          "updated": "2024-04-11T08:26:48.189350+00:00",
+          "links": {},
+          "revision_id": 8,
+          "slug": "ceda-document-repository",
+          "metadata": {
+            "title": "Centre for Environmental Data Analysis (CEDA) Document Repository",
+            "type": {
+              "id": "topic",
+              "title": {
+                "de": "Thema",
+                "en": "Topic"
+              }
+            },
+            "website": "https://archive.ceda.ac.uk",
+            "organizations": [
+              {
+                "id": "04j4kad11",
+                "name": "Centre for Environmental Data Analysis",
+                "identifiers": [
+                  {
+                    "identifier": "04j4kad11",
+                    "scheme": "ror"
+                  }
+                ]
+              },
+              {
+                "id": "02b5d8509",
+                "name": "Natural Environment Research Council",
+                "identifiers": [
+                  {
+                    "identifier": "02b5d8509",
+                    "scheme": "ror"
+                  },
+                  {
+                    "identifier": "grid.8682.4",
+                    "scheme": "grid"
+                  },
+                  {
+                    "identifier": "0000 0000 9478 1573",
+                    "scheme": "isni"
+                  }
+                ]
+              }
+            ]
+          },
+          "access": {
+            "visibility": "public",
+            "members_visibility": "public",
+            "member_policy": "closed",
+            "record_submission_policy": "open",
+            "review_policy": "closed"
+          },
+          "deletion_status": {
+            "is_deleted": false,
+            "status": "P"
+          },
+          "children": {
+            "allow": false
+          }
+        }
+      ]
+    },
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.7356338",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 1
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.7356339",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:7356339",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "publication-technicalnote",
+      "title": {
+        "de": "Technical Note",
+        "en": "Technical note"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Park, Jae H",
+          "given_name": "Jae H",
+          "family_name": "Park"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Ko, Malcolm KW",
+          "given_name": "Malcolm KW",
+          "family_name": "Ko"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Jackman, Charles H",
+          "given_name": "Charles H",
+          "family_name": "Jackman"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Plumb, R Alan",
+          "given_name": "R Alan",
+          "family_name": "Plumb"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Kaye, Jack A",
+          "given_name": "Jack A",
+          "family_name": "Kaye"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Sage, Karen H",
+          "given_name": "Karen H",
+          "family_name": "Sage"
+        }
+      }
+    ],
+    "title": "NASA Models and Measurements Intercomparison 2",
+    "publisher": "Zenodo",
+    "publication_date": "1999-09-01",
+    "languages": [
+      {
+        "id": "eng",
+        "title": {
+          "en": "English"
+        }
+      }
+    ],
+    "rights": [
+      {
+        "id": "cc-by-4.0",
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        },
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "Executive Summary:\nThe Second Workshop on Stratospheric Models and Measurements Workshop (M&amp;M II) is the\ncontinuation of the effort previously started in the first Workshop (M&amp;M I, Prather and Remsberg\n[1993]) held in 1992. As originally stated, the aim of M&amp;M is to provide a foundation for establishing\nthe credibility of stratospheric models used in environmental assessments of the ozone response to\nchlorofluorocarbons, aircraft emissions, and other climate-chemistry interactions. To accomplish this, a\nset of measurements of the present day atmosphere was selected. The intent was that successful simulations\nof the set of measurements should become the prerequisite for the acceptance of these models as\nhaving a reliable prediction for future ozone behavior.\nThe choice of the measurements for M&amp;M I was limited by data availability, and the emphasis on\n2-D and 3-D assessment models. Other models such as climate models, air-trajectory models and assimilation\nmodels were not included in the consideration. In M&amp;M II, the GSFC DAO assimilation model\nprovided results for a number of transport experiments. In this report, we emphasize what was accomplished\nbeyond M&amp;M I.",
+    "additional_descriptions": [
+      {
+        "description": "Previously curated at: http://cedadocs.ceda.ac.uk/996/\n\nThe publish date on this item was its original published date.\n\nMain files in this record:\nModels_and_Measurements_Intercomparison_2.pdf\n\nItem originally deposited with Centre for Environmental Data Analysis (CEDA) document repository by Miss Poppy Townsend. Transferred to CEDA document repository community on Zenodo on 2022-11-24",
+        "type": {
+          "id": "notes",
+          "title": {
+            "de": "Anmerkungen",
+            "en": "Notes"
+          }
+        }
+      }
+    ]
+  },
+  "custom_fields": {
+    "legacy:subjects": [
+      {
+        "term": "Chemistry",
+        "identifier": "https://id.loc.gov/authorities/subjects/sh85022986.html",
+        "scheme": "url"
+      },
+      {
+        "term": "Atmospheric Sciences",
+        "identifier": "https://id.loc.gov/authorities/subjects/sh2018002590.html",
+        "scheme": "url"
+      },
+      {
+        "term": "Meteorology",
+        "identifier": "https://id.loc.gov/authorities/subjects/sh85084334.html",
+        "scheme": "url"
+      }
+    ]
+  },
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 1,
+    "total_bytes": 8648816,
+    "entries": {
+      "Models_and_Measurements_Intercomparison_2.pdf": {
+        "id": "bf6eb535-0f30-41c2-b73d-de146189c35a",
+        "checksum": "md5:9ad58866474f2bda20d71be71c45e5b5",
+        "ext": "pdf",
+        "size": 8648816,
+        "mimetype": "application/pdf",
+        "key": "Models_and_Measurements_Intercomparison_2.pdf",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": true,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 42,
+      "unique_views": 42,
+      "downloads": 40,
+      "unique_downloads": 40,
+      "data_volume": 345952640.0
+    },
+    "all_versions": {
+      "views": 42,
+      "unique_views": 42,
+      "downloads": 40,
+      "unique_downloads": 40,
+      "data_volume": 345952640.0
+    }
+  },
+  "swh": null,
+  "ui": {
+    "publication_date_l10n_medium": "Sep 1, 1999",
+    "publication_date_l10n_long": "September 1, 1999",
+    "created_date_l10n_long": "November 24, 2022",
+    "updated_date_l10n_long": "July 15, 2024",
+    "resource_type": {
+      "id": "publication-technicalnote",
+      "title_l10n": "Technical note"
+    },
+    "custom_fields": {
+      "legacy:subjects": [
+        {
+          "term": "Chemistry",
+          "identifier": "https://id.loc.gov/authorities/subjects/sh85022986.html",
+          "scheme": "url"
+        },
+        {
+          "term": "Atmospheric Sciences",
+          "identifier": "https://id.loc.gov/authorities/subjects/sh2018002590.html",
+          "scheme": "url"
+        },
+        {
+          "term": "Meteorology",
+          "identifier": "https://id.loc.gov/authorities/subjects/sh85084334.html",
+          "scheme": "url"
+        }
+      ]
+    },
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Park, Jae H",
+            "given_name": "Jae H",
+            "family_name": "Park"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Ko, Malcolm KW",
+            "given_name": "Malcolm KW",
+            "family_name": "Ko"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Jackman, Charles H",
+            "given_name": "Charles H",
+            "family_name": "Jackman"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Plumb, R Alan",
+            "given_name": "R Alan",
+            "family_name": "Plumb"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Kaye, Jack A",
+            "given_name": "Jack A",
+            "family_name": "Kaye"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Sage, Karen H",
+            "given_name": "Karen H",
+            "family_name": "Sage"
+          }
+        }
+      ],
+      "affiliations": []
+    },
+    "languages": [
+      {
+        "id": "eng",
+        "title_l10n": "English"
+      }
+    ],
+    "description_stripped": "Executive Summary:\nThe Second Workshop on Stratospheric Models and Measurements Workshop (M&M II) is the\ncontinuation of the effort previously started in the first Workshop (M&M I, Prather and Remsberg\n[1993]) held in 1992. As originally stated, the aim of M&M is to provide a foundation for establishing\nthe credibility of stratospheric models used in environmental assessments of the ozone response to\nchlorofluorocarbons, aircraft emissions, and other climate-chemistry interactions. To accomplish this, a\nset of measurements of the present day atmosphere was selected. The intent was that successful simulations\nof the set of measurements should become the prerequisite for the acceptance of these models as\nhaving a reliable prediction for future ozone behavior.\nThe choice of the measurements for M&M I was limited by data availability, and the emphasis on\n2-D and 3-D assessment models. Other models such as climate models, air-trajectory models and assimilation\nmodels were not included in the consideration. In M&M II, the GSFC DAO assimilation model\nprovided results for a number of transport experiments. In this report, we emphasize what was accomplished\nbeyond M&M I.",
+    "version": "v1",
+    "additional_descriptions": [
+      {
+        "description": "Previously curated at: http://cedadocs.ceda.ac.uk/996/\n\nThe publish date on this item was its original published date.\n\nMain files in this record:\nModels_and_Measurements_Intercomparison_2.pdf\n\nItem originally deposited with Centre for Environmental Data Analysis (CEDA) document repository by Miss Poppy Townsend. Transferred to CEDA document repository community on Zenodo on 2022-11-24",
+        "type": {
+          "id": "notes",
+          "title_l10n": "Notes"
+        }
+      }
+    ],
+    "rights": [
+      {
+        "id": "cc-by-4.0",
+        "title_l10n": "Creative Commons Attribution 4.0 International",
+        "description_l10n": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited.",
+        "icon": "cc-by-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}

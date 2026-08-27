@@ -1,0 +1,842 @@
+{
+  "id": "7217447",
+  "created": "2022-10-17T18:51:00.828414+00:00",
+  "updated": "2022-10-18T02:26:31.741170+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/7217447",
+    "self_html": "https://zenodo.org/records/7217447",
+    "preview_html": "https://zenodo.org/records/7217447?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.7217447",
+    "self_doi": "https://doi.org/10.5281/zenodo.7217447",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.7217447",
+    "reserve_doi": "https://zenodo.org/api/records/7217447/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/1306215",
+    "parent_html": "https://zenodo.org/records/1306215",
+    "parent_doi": "https://doi.org/10.5281/zenodo.1306215",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.1306215",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:7217447/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:7217447/sequence/default",
+    "files": "https://zenodo.org/api/records/7217447/files",
+    "media_files": "https://zenodo.org/api/records/7217447/media-files",
+    "archive": "https://zenodo.org/api/records/7217447/files-archive",
+    "archive_media": "https://zenodo.org/api/records/7217447/media-files-archive",
+    "latest": "https://zenodo.org/api/records/7217447/versions/latest",
+    "latest_html": "https://zenodo.org/records/7217447/latest",
+    "versions": "https://zenodo.org/api/records/7217447/versions",
+    "draft": "https://zenodo.org/api/records/7217447/draft",
+    "access_links": "https://zenodo.org/api/records/7217447/access/links",
+    "access_grants": "https://zenodo.org/api/records/7217447/access/grants",
+    "access_users": "https://zenodo.org/api/records/7217447/access/users",
+    "access_request": "https://zenodo.org/api/records/7217447/access/request",
+    "access": "https://zenodo.org/api/records/7217447/access",
+    "communities": "https://zenodo.org/api/records/7217447/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/7217447/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/7217447/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/7217447/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/7217447/quota-increase",
+    "requests": "https://zenodo.org/api/records/7217447/requests"
+  },
+  "revision_id": 3,
+  "parent": {
+    "id": "1306215",
+    "access": {
+      "grants": [
+        {
+          "permission": "manage",
+          "subject": {
+            "id": "62809",
+            "type": "user"
+          },
+          "origin": "api:21424"
+        }
+      ],
+      "owned_by": {
+        "user": "21424"
+      },
+      "links": [],
+      "settings": {
+        "allow_user_requests": false,
+        "allow_guest_requests": false,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {
+      "ids": [
+        "9bab905a-0643-4880-947b-3712b1c585fa"
+      ],
+      "default": "9bab905a-0643-4880-947b-3712b1c585fa",
+      "entries": [
+        {
+          "id": "9bab905a-0643-4880-947b-3712b1c585fa",
+          "created": "2025-12-11T19:44:22.477594+00:00",
+          "updated": "2025-12-11T19:48:28.786278+00:00",
+          "links": {},
+          "revision_id": 3,
+          "slug": "poldracklab",
+          "metadata": {
+            "title": "Poldrack Lab"
+          },
+          "access": {
+            "visibility": "public",
+            "members_visibility": "public",
+            "member_policy": "closed",
+            "record_submission_policy": "open",
+            "review_policy": "closed"
+          },
+          "deletion_status": {
+            "is_deleted": false,
+            "status": "P"
+          },
+          "children": {
+            "allow": false
+          }
+        }
+      ]
+    },
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.1306215",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "is_latest_draft": true,
+    "index": 18
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.7217447",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:7217447",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "software",
+      "title": {
+        "de": "Software",
+        "en": "Software"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Markiewicz, Christopher J.",
+          "given_name": "Christopher J.",
+          "family_name": "Markiewicz",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6533-164X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "De La Vega, Alejandro",
+          "given_name": "Alejandro",
+          "family_name": "De La Vega",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-9062-3778",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University of Texas at Austin"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Wagner, Adina",
+          "given_name": "Adina",
+          "family_name": "Wagner",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-2917-3450",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Psychoinformatics Lab, Institute of Psychology, Otto-von-Guericke University Magdeburg"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Halchenko, Yaroslav O.",
+          "given_name": "Yaroslav O.",
+          "family_name": "Halchenko",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3456-2493",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Dartmouth College"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Finc, Karolina",
+          "given_name": "Karolina",
+          "family_name": "Finc",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-0157-030X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Centre for Modern Interdisciplinary Technologies, Nicolaus Copernicus University in Toruń"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Ciric, Rastko",
+          "given_name": "Rastko",
+          "family_name": "Ciric",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6347-7939",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Stanford University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Goncalves, Mathias",
+          "given_name": "Mathias",
+          "family_name": "Goncalves",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-7252-7771",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "MIT"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Nielson, Dylan M.",
+          "given_name": "Dylan M.",
+          "family_name": "Nielson",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-4613-6643",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "National Institute of Mental Health"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Kent, James D.",
+          "given_name": "James D.",
+          "family_name": "Kent",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-4892-2659",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "University of Texas at Austin"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Lee, John A.",
+          "given_name": "John A.",
+          "family_name": "Lee",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-5884-4247",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "National Institute of Mental Health"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Bansal, Shashank",
+          "given_name": "Shashank",
+          "family_name": "Bansal",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-1252-8772",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Stanford University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Poldrack, Russell A.",
+          "given_name": "Russell A.",
+          "family_name": "Poldrack",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6755-0259",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gorgolewski, Krzysztof J.",
+          "given_name": "Krzysztof J.",
+          "family_name": "Gorgolewski",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3321-7583",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Department of Psychology, Stanford University"
+          }
+        ]
+      }
+    ],
+    "title": "poldracklab/fitlins: 0.11.0",
+    "publisher": "Zenodo",
+    "publication_date": "2022-10-17",
+    "subjects": [
+      {
+        "subject": "neuroimaging"
+      },
+      {
+        "subject": "workflow"
+      },
+      {
+        "subject": "pipeline"
+      },
+      {
+        "subject": "statistics"
+      },
+      {
+        "subject": "fMRI"
+      },
+      {
+        "subject": "BIDS"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/poldracklab/fitlins/tree/0.11.0",
+        "scheme": "url",
+        "relation_type": {
+          "id": "issupplementto",
+          "title": {
+            "de": "Ergänzt",
+            "en": "Is supplement to"
+          }
+        }
+      }
+    ],
+    "version": "0.11.0",
+    "rights": [
+      {
+        "id": "apache-2.0",
+        "title": {
+          "en": "Apache License 2.0"
+        },
+        "description": {
+          "en": "A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code."
+        },
+        "props": {
+          "url": "http://www.apache.org/licenses/LICENSE-2.0",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "Release Notes\n<p>New feature release in the 0.11.x series.</p>\n<p>This version bump reflects changes that appear mostly in PyBIDS, including improved handling of intercept columns and variables from tabular metadata files like <code>participants.tsv</code>.</p>\nChanges\n<ul>\n<li>MNT: Use latest coverage by @effigies in <a href=\"https://github.com/poldracklab/fitlins/pull/354\">https://github.com/poldracklab/fitlins/pull/354</a></li>\n<li>MNT: Remove unused packages from docker image by @effigies in <a href=\"https://github.com/poldracklab/fitlins/pull/353\">https://github.com/poldracklab/fitlins/pull/353</a></li>\n<li>Allow models with no name by @adelavega in <a href=\"https://github.com/poldracklab/fitlins/pull/357\">https://github.com/poldracklab/fitlins/pull/357</a></li>\n<li>PIN pybids 0.15.1 by @adelavega in <a href=\"https://github.com/poldracklab/fitlins/pull/363\">https://github.com/poldracklab/fitlins/pull/363</a></li>\n<li>RF: Fitlins output reorganization by @shashankbansal6 in <a href=\"https://github.com/poldracklab/fitlins/pull/355\">https://github.com/poldracklab/fitlins/pull/355</a></li>\n<li>Build(deps): Bump docker/build-push-action from 2 to 3 by @dependabot in <a href=\"https://github.com/poldracklab/fitlins/pull/369\">https://github.com/poldracklab/fitlins/pull/369</a></li>\n<li>Build(deps): Bump docker/login-action from 1 to 2 by @dependabot in <a href=\"https://github.com/poldracklab/fitlins/pull/370\">https://github.com/poldracklab/fitlins/pull/370</a></li>\n<li>Build(deps): Bump docker/setup-buildx-action from 1 to 2 by @dependabot in <a href=\"https://github.com/poldracklab/fitlins/pull/368\">https://github.com/poldracklab/fitlins/pull/368</a></li>\n<li>Build(deps): Bump actions/setup-python from 3 to 4 by @dependabot in <a href=\"https://github.com/poldracklab/fitlins/pull/372\">https://github.com/poldracklab/fitlins/pull/372</a></li>\n<li>add github source links by @Shotgunosine in <a href=\"https://github.com/poldracklab/fitlins/pull/376\">https://github.com/poldracklab/fitlins/pull/376</a></li>\n<li>Adding a section on estimators by @Shotgunosine in <a href=\"https://github.com/poldracklab/fitlins/pull/375\">https://github.com/poldracklab/fitlins/pull/375</a></li>\n<li>DOC: Link out to BIDS Stats Models docs instead of maintaining our own by @Shotgunosine in <a href=\"https://github.com/poldracklab/fitlins/pull/378\">https://github.com/poldracklab/fitlins/pull/378</a></li>\n<li>CI: Add a build to test with unreleased pybids by @effigies in <a href=\"https://github.com/poldracklab/fitlins/pull/386\">https://github.com/poldracklab/fitlins/pull/386</a></li>\n<li>FIX: Handle correct contrasts and intercepts being passed from PyBIDS by @effigies in <a href=\"https://github.com/poldracklab/fitlins/pull/387\">https://github.com/poldracklab/fitlins/pull/387</a></li>\n</ul>\n<p><strong>Full Changelog</strong>: <a href=\"https://github.com/poldracklab/fitlins/compare/0.10.1...0.11.0\">https://github.com/poldracklab/fitlins/compare/0.10.1...0.11.0</a></p>"
+  },
+  "custom_fields": {},
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 1,
+    "total_bytes": 7536080,
+    "entries": {
+      "poldracklab/fitlins-0.11.0.zip": {
+        "id": "a7335f3e-e40a-440d-8136-fd76984f039e",
+        "checksum": "md5:1699bbff3d932e2d8378041ea3d1ffc4",
+        "ext": "zip",
+        "size": 7536080,
+        "mimetype": "application/zip",
+        "key": "poldracklab/fitlins-0.11.0.zip",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": false,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 686,
+      "unique_views": 667,
+      "downloads": 80,
+      "unique_downloads": 80,
+      "data_volume": 602886400.0
+    },
+    "all_versions": {
+      "views": 2682,
+      "unique_views": 2571,
+      "downloads": 520,
+      "unique_downloads": 483,
+      "data_volume": 2447014341.0
+    }
+  },
+  "swh": null,
+  "ui": {
+    "publication_date_l10n_medium": "Oct 17, 2022",
+    "publication_date_l10n_long": "October 17, 2022",
+    "created_date_l10n_long": "October 17, 2022",
+    "updated_date_l10n_long": "October 18, 2022",
+    "resource_type": {
+      "id": "software",
+      "title_l10n": "Software"
+    },
+    "custom_fields": {},
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Markiewicz, Christopher J.",
+            "given_name": "Christopher J.",
+            "family_name": "Markiewicz",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6533-164X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Department of Psychology, Stanford University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "De La Vega, Alejandro",
+            "given_name": "Alejandro",
+            "family_name": "De La Vega",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-9062-3778",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              2,
+              "University of Texas at Austin"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Wagner, Adina",
+            "given_name": "Adina",
+            "family_name": "Wagner",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-2917-3450",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              3,
+              "Psychoinformatics Lab, Institute of Psychology, Otto-von-Guericke University Magdeburg"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Halchenko, Yaroslav O.",
+            "given_name": "Yaroslav O.",
+            "family_name": "Halchenko",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3456-2493",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              4,
+              "Dartmouth College"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Finc, Karolina",
+            "given_name": "Karolina",
+            "family_name": "Finc",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-0157-030X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              5,
+              "Centre for Modern Interdisciplinary Technologies, Nicolaus Copernicus University in Toruń"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Ciric, Rastko",
+            "given_name": "Rastko",
+            "family_name": "Ciric",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-6347-7939",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              6,
+              "Stanford University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Goncalves, Mathias",
+            "given_name": "Mathias",
+            "family_name": "Goncalves",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-7252-7771",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              7,
+              "MIT"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Nielson, Dylan M.",
+            "given_name": "Dylan M.",
+            "family_name": "Nielson",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-4613-6643",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              8,
+              "National Institute of Mental Health"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Kent, James D.",
+            "given_name": "James D.",
+            "family_name": "Kent",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-4892-2659",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              2,
+              "University of Texas at Austin"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Lee, John A.",
+            "given_name": "John A.",
+            "family_name": "Lee",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-5884-4247",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              8,
+              "National Institute of Mental Health"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Bansal, Shashank",
+            "given_name": "Shashank",
+            "family_name": "Bansal",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-1252-8772",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              6,
+              "Stanford University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Poldrack, Russell A.",
+            "given_name": "Russell A.",
+            "family_name": "Poldrack",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-6755-0259",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Department of Psychology, Stanford University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gorgolewski, Krzysztof J.",
+            "given_name": "Krzysztof J.",
+            "family_name": "Gorgolewski",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3321-7583",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Department of Psychology, Stanford University"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "Department of Psychology, Stanford University",
+          null
+        ],
+        [
+          2,
+          "University of Texas at Austin",
+          null
+        ],
+        [
+          3,
+          "Psychoinformatics Lab, Institute of Psychology, Otto-von-Guericke University Magdeburg",
+          null
+        ],
+        [
+          4,
+          "Dartmouth College",
+          null
+        ],
+        [
+          5,
+          "Centre for Modern Interdisciplinary Technologies, Nicolaus Copernicus University in Toruń",
+          null
+        ],
+        [
+          6,
+          "Stanford University",
+          null
+        ],
+        [
+          7,
+          "MIT",
+          null
+        ],
+        [
+          8,
+          "National Institute of Mental Health",
+          null
+        ]
+      ]
+    },
+    "description_stripped": "Release Notes\nNew feature release in the 0.11.x series.\n\nThis version bump reflects changes that appear mostly in PyBIDS, including improved handling of intercept columns and variables from tabular metadata files like participants.tsv.\nChanges\n\n\n\nMNT: Use latest coverage by @effigies in https://github.com/poldracklab/fitlins/pull/354\n\nMNT: Remove unused packages from docker image by @effigies in https://github.com/poldracklab/fitlins/pull/353\n\nAllow models with no name by @adelavega in https://github.com/poldracklab/fitlins/pull/357\n\nPIN pybids 0.15.1 by @adelavega in https://github.com/poldracklab/fitlins/pull/363\n\nRF: Fitlins output reorganization by @shashankbansal6 in https://github.com/poldracklab/fitlins/pull/355\n\nBuild(deps): Bump docker/build-push-action from 2 to 3 by @dependabot in https://github.com/poldracklab/fitlins/pull/369\n\nBuild(deps): Bump docker/login-action from 1 to 2 by @dependabot in https://github.com/poldracklab/fitlins/pull/370\n\nBuild(deps): Bump docker/setup-buildx-action from 1 to 2 by @dependabot in https://github.com/poldracklab/fitlins/pull/368\n\nBuild(deps): Bump actions/setup-python from 3 to 4 by @dependabot in https://github.com/poldracklab/fitlins/pull/372\n\nadd github source links by @Shotgunosine in https://github.com/poldracklab/fitlins/pull/376\n\nAdding a section on estimators by @Shotgunosine in https://github.com/poldracklab/fitlins/pull/375\n\nDOC: Link out to BIDS Stats Models docs instead of maintaining our own by @Shotgunosine in https://github.com/poldracklab/fitlins/pull/378\n\nCI: Add a build to test with unreleased pybids by @effigies in https://github.com/poldracklab/fitlins/pull/386\n\nFIX: Handle correct contrasts and intercepts being passed from PyBIDS by @effigies in https://github.com/poldracklab/fitlins/pull/387\n\n\nFull Changelog: https://github.com/poldracklab/fitlins/compare/0.10.1...0.11.0",
+    "version": "0.11.0",
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/poldracklab/fitlins/tree/0.11.0",
+        "relation_type": {
+          "id": "issupplementto",
+          "title_l10n": "Is supplement to"
+        },
+        "scheme": "url"
+      }
+    ],
+    "rights": [
+      {
+        "id": "apache-2.0",
+        "title_l10n": "Apache License 2.0",
+        "description_l10n": "A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.",
+        "props": {
+          "url": "http://www.apache.org/licenses/LICENSE-2.0",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}

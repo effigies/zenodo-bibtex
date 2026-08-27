@@ -1,0 +1,675 @@
+{
+  "id": "17728252",
+  "created": "2025-11-26T21:36:27.177613+00:00",
+  "updated": "2025-11-26T21:36:27.388168+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/17728252",
+    "self_html": "https://zenodo.org/records/17728252",
+    "preview_html": "https://zenodo.org/records/17728252?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.17728252",
+    "self_doi": "https://doi.org/10.5281/zenodo.17728252",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17728252",
+    "reserve_doi": "https://zenodo.org/api/records/17728252/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/3376260",
+    "parent_html": "https://zenodo.org/records/3376260",
+    "parent_doi": "https://doi.org/10.5281/zenodo.3376260",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.3376260",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:17728252/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:17728252/sequence/default",
+    "files": "https://zenodo.org/api/records/17728252/files",
+    "media_files": "https://zenodo.org/api/records/17728252/media-files",
+    "archive": "https://zenodo.org/api/records/17728252/files-archive",
+    "archive_media": "https://zenodo.org/api/records/17728252/media-files-archive",
+    "latest": "https://zenodo.org/api/records/17728252/versions/latest",
+    "latest_html": "https://zenodo.org/records/17728252/latest",
+    "versions": "https://zenodo.org/api/records/17728252/versions",
+    "draft": "https://zenodo.org/api/records/17728252/draft",
+    "access_links": "https://zenodo.org/api/records/17728252/access/links",
+    "access_grants": "https://zenodo.org/api/records/17728252/access/grants",
+    "access_users": "https://zenodo.org/api/records/17728252/access/users",
+    "access_request": "https://zenodo.org/api/records/17728252/access/request",
+    "access": "https://zenodo.org/api/records/17728252/access",
+    "communities": "https://zenodo.org/api/records/17728252/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/17728252/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/17728252/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/17728252/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/17728252/quota-increase",
+    "requests": "https://zenodo.org/api/records/17728252/requests"
+  },
+  "revision_id": 4,
+  "parent": {
+    "id": "3376260",
+    "access": {
+      "owned_by": {
+        "user": "3931"
+      },
+      "settings": {
+        "allow_user_requests": false,
+        "allow_guest_requests": false,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.3376260",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 14
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.17728252",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:17728252",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "software",
+      "title": {
+        "de": "Software",
+        "en": "Software"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Halchenko, Yaroslav O.",
+          "given_name": "Yaroslav O.",
+          "family_name": "Halchenko",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3456-2493",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Dartmouth College: Hanover, NH, United States"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Visconti di Oleggio Castello, Matteo",
+          "given_name": "Matteo",
+          "family_name": "Visconti di Oleggio Castello",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-7931-5272",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "UC Berkeley"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Hanke, Michael",
+          "given_name": "Michael",
+          "family_name": "Hanke",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6398-6370",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Otto-von-Guericke-University Magdeburg, Germany"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gors, Jason",
+          "given_name": "Jason",
+          "family_name": "Gors"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Szczepanik, Michał",
+          "given_name": "Michał",
+          "family_name": "Szczepanik"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Barnes, Chris",
+          "given_name": "Chris",
+          "family_name": "Barnes"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Irvine, Emily",
+          "given_name": "Emily",
+          "family_name": "Irvine"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Raamana, Pradeep Reddy",
+          "given_name": "Pradeep Reddy",
+          "family_name": "Raamana",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-4662-0558",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Rotman Research Institute, Baycrest Health Sciences, Toronto, ON, Canada"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Markiewicz, Christopher J.",
+          "given_name": "Christopher J.",
+          "family_name": "Markiewicz",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6533-164X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Stanford University"
+          }
+        ]
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Wilk, Jakub",
+          "given_name": "Jakub",
+          "family_name": "Wilk"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Volgyes, David",
+          "given_name": "David",
+          "family_name": "Volgyes"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Leinweber, Katrin",
+          "given_name": "Katrin",
+          "family_name": "Leinweber"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Estève, Loïc",
+          "given_name": "Loïc",
+          "family_name": "Estève"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Beckstein, Oliver",
+          "given_name": "Oliver",
+          "family_name": "Beckstein"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Gulban, Omer Faruk",
+          "given_name": "Omer Faruk",
+          "family_name": "Gulban"
+        }
+      },
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Macdonald, Austin",
+          "given_name": "Austin",
+          "family_name": "Macdonald",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-8124-807X",
+              "scheme": "orcid"
+            }
+          ]
+        },
+        "affiliations": [
+          {
+            "name": "Dartmouth College: Hanover, NH, United States"
+          }
+        ]
+      }
+    ],
+    "title": "duecredit/duecredit: 0.11.2",
+    "publisher": "Zenodo",
+    "publication_date": "2025-11-26",
+    "subjects": [
+      {
+        "subject": "citation tracking"
+      },
+      {
+        "subject": "software citation"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/duecredit/duecredit/tree/0.11.2",
+        "scheme": "url",
+        "relation_type": {
+          "id": "issupplementto",
+          "title": {
+            "de": "Ergänzt",
+            "en": "Is supplement to"
+          }
+        },
+        "resource_type": {
+          "id": "software",
+          "title": {
+            "de": "Software",
+            "en": "Software"
+          }
+        }
+      }
+    ],
+    "version": "0.11.2",
+    "rights": [
+      {
+        "id": "bsd-2-clause",
+        "title": {
+          "en": "BSD 2-Clause \"Simplified\" License"
+        },
+        "description": {
+          "en": ""
+        },
+        "props": {
+          "url": "https://opensource.org/licenses/BSD-2-Clause",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "description": "<h4>🐛 Bug Fix</h4>\n<ul>\n<li>Update SciPy injection to 2020 Nature Methods paper <a href=\"https://github.com/duecredit/duecredit/pull/258\">#258</a> (<a href=\"https://github.com/Copilot\">@Copilot</a>)</li>\n<li>Choose formatter <a href=\"https://github.com/duecredit/duecredit/pull/260\">#260</a> (<a href=\"https://github.com/asmacdo\">@asmacdo</a>)</li>\n</ul>\n<h4>Authors: 2</h4>\n<ul>\n<li><a href=\"https://github.com/Copilot\">@Copilot</a></li>\n<li>Austin Macdonald (<a href=\"https://github.com/asmacdo\">@asmacdo</a>)</li>\n</ul>"
+  },
+  "custom_fields": {
+    "code:codeRepository": "https://github.com/duecredit/duecredit"
+  },
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 1,
+    "total_bytes": 455529,
+    "entries": {
+      "duecredit/duecredit-0.11.2.zip": {
+        "id": "b8beacfd-8119-45d0-9555-88db627802ad",
+        "checksum": "md5:d358e113a6513b8d6d769ca71c6cf75b",
+        "ext": "zip",
+        "size": 455529,
+        "mimetype": "application/zip",
+        "key": "duecredit/duecredit-0.11.2.zip",
+        "metadata": {},
+        "access": {
+          "hidden": false
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": false,
+    "order": [],
+    "count": 0,
+    "total_bytes": 0,
+    "entries": {}
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 195,
+      "unique_views": 194,
+      "downloads": 27,
+      "unique_downloads": 27,
+      "data_volume": 12299283.0
+    },
+    "all_versions": {
+      "views": 1315,
+      "unique_views": 1288,
+      "downloads": 280,
+      "unique_downloads": 276,
+      "data_volume": 126848508.0
+    }
+  },
+  "swh": {
+    "swhid": "swh:1:dir:6757383b14753873a1ff6bd7655b4d9fd341fb3b;origin=https://doi.org/10.5281/zenodo.3376260;visit=swh:1:snp:18e49fd97db25da6dd5c0d35b1398ce1244ad220;anchor=swh:1:rel:16b704e51a55040bc3e56e77780dc12dedf2458b;path=duecredit-duecredit-6ee66f8"
+  },
+  "ui": {
+    "publication_date_l10n_medium": "Nov 26, 2025",
+    "publication_date_l10n_long": "November 26, 2025",
+    "created_date_l10n_long": "November 26, 2025",
+    "updated_date_l10n_long": "November 26, 2025",
+    "resource_type": {
+      "id": "software",
+      "title_l10n": "Software"
+    },
+    "custom_fields": {
+      "code:codeRepository": "https://github.com/duecredit/duecredit"
+    },
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Halchenko, Yaroslav O.",
+            "given_name": "Yaroslav O.",
+            "family_name": "Halchenko",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-3456-2493",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Dartmouth College: Hanover, NH, United States"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Visconti di Oleggio Castello, Matteo",
+            "given_name": "Matteo",
+            "family_name": "Visconti di Oleggio Castello",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-7931-5272",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              2,
+              "UC Berkeley"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Hanke, Michael",
+            "given_name": "Michael",
+            "family_name": "Hanke",
+            "identifiers": [
+              {
+                "identifier": "0000-0001-6398-6370",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              3,
+              "Otto-von-Guericke-University Magdeburg, Germany"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gors, Jason",
+            "given_name": "Jason",
+            "family_name": "Gors"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Szczepanik, Michał",
+            "given_name": "Michał",
+            "family_name": "Szczepanik"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Barnes, Chris",
+            "given_name": "Chris",
+            "family_name": "Barnes"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Irvine, Emily",
+            "given_name": "Emily",
+            "family_name": "Irvine"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Raamana, Pradeep Reddy",
+            "given_name": "Pradeep Reddy",
+            "family_name": "Raamana",
+            "identifiers": [
+              {
+                "identifier": "0000-0003-4662-0558",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              4,
+              "Rotman Research Institute, Baycrest Health Sciences, Toronto, ON, Canada"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Markiewicz, Christopher J.",
+            "given_name": "Christopher J.",
+            "family_name": "Markiewicz",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-6533-164X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              5,
+              "Stanford University"
+            ]
+          ]
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Wilk, Jakub",
+            "given_name": "Jakub",
+            "family_name": "Wilk"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Volgyes, David",
+            "given_name": "David",
+            "family_name": "Volgyes"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Leinweber, Katrin",
+            "given_name": "Katrin",
+            "family_name": "Leinweber"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Estève, Loïc",
+            "given_name": "Loïc",
+            "family_name": "Estève"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Beckstein, Oliver",
+            "given_name": "Oliver",
+            "family_name": "Beckstein"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Gulban, Omer Faruk",
+            "given_name": "Omer Faruk",
+            "family_name": "Gulban"
+          }
+        },
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Macdonald, Austin",
+            "given_name": "Austin",
+            "family_name": "Macdonald",
+            "identifiers": [
+              {
+                "identifier": "0000-0002-8124-807X",
+                "scheme": "orcid"
+              }
+            ]
+          },
+          "affiliations": [
+            [
+              1,
+              "Dartmouth College: Hanover, NH, United States"
+            ]
+          ]
+        }
+      ],
+      "affiliations": [
+        [
+          1,
+          "Dartmouth College: Hanover, NH, United States",
+          null
+        ],
+        [
+          2,
+          "UC Berkeley",
+          null
+        ],
+        [
+          3,
+          "Otto-von-Guericke-University Magdeburg, Germany",
+          null
+        ],
+        [
+          4,
+          "Rotman Research Institute, Baycrest Health Sciences, Toronto, ON, Canada",
+          null
+        ],
+        [
+          5,
+          "Stanford University",
+          null
+        ]
+      ]
+    },
+    "description_stripped": "🐛 Bug Fix\n\n\n\nUpdate SciPy injection to 2020 Nature Methods paper #258 (@Copilot)\n\nChoose formatter #260 (@asmacdo)\n\n\nAuthors: 2\n\n\n\n@Copilot\n\nAustin Macdonald (@asmacdo)",
+    "version": "0.11.2",
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/duecredit/duecredit/tree/0.11.2",
+        "relation_type": {
+          "id": "issupplementto",
+          "title_l10n": "Is supplement to"
+        },
+        "scheme": "url",
+        "resource_type": {
+          "id": "software",
+          "title_l10n": "Software"
+        }
+      }
+    ],
+    "rights": [
+      {
+        "id": "bsd-2-clause",
+        "title_l10n": "BSD 2-Clause \"Simplified\" License",
+        "description_l10n": "",
+        "props": {
+          "url": "https://opensource.org/licenses/BSD-2-Clause",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}
