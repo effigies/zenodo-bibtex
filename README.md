@@ -34,7 +34,7 @@ locally to produce BibTeX output.
 
 [Zenodo]: https://zenodo.org/
 [InvenioRDM]: https://inveniosoftware.org/products/rdm/
-[BibTeX serializer]: https://github.com/inveniosoftware/invenio-rdm-records/blob/main/invenio_rdm_records/serializers/bibtex.py
+[BibTeX serializer]: https://github.com/inveniosoftware/invenio-rdm-records/blob/7556e77/invenio_rdm_records/resources/serializers/bibtex/__init__.py
 
 ## Installation
 
